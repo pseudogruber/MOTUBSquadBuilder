@@ -1,4 +1,4 @@
- {
+{
 	"config": {
 		"trackHighestDivision": true
 	},
@@ -165,6 +165,7 @@
 					"tierProperty": "heroicTier",
 					"tierData": "heroicTiers",
 					"statsTableDirection": "horizontal",
+					"countEntriesAs": "Fate Cards",
 					"badges": [
 						{
 							"propertyName": "initiative",
@@ -208,6 +209,7 @@
 					"tierProperty": "heroicTier",
 					"tierData": "heroicTiers",
 					"statsTableDirection": "horizontal",
+					"countEntriesAs": "Glory Cards",
 					"badges": [
 						{
 							"propertyName": "initiative",
@@ -679,7 +681,7 @@
 				"initiative": 3,
 				"ap": 2,
 				"mana": 2,
-				"description": "+1 Action",
+				"description": "Until the end of the round, this character may reroll 1 extra Die for each Mana spent.",
 				"factions": [
 					{
 						"name": "Masters of the Universe"
@@ -720,7 +722,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack...",
+				"name": "During this activation or interruption, if this character's attack (focus)",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 0,
@@ -735,7 +737,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack...",
+				"name": "During this activation or interruption, if this character's attack (fate)",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 1,
@@ -840,21 +842,6 @@
 				]
 			},
 			{
-				"name": "+1 Action",
-				"initiative": 5,
-				"ap": 2,
-				"mp": 1,
-				"description": "+1 Action",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					}
-				]
-			},
-			{
 				"name": "Discard a fate card to draw a fate card.",
 				"initiative": 6,
 				"ap": 3,
@@ -885,7 +872,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack...",
+				"name": "During this activation or interruption, if this character's attack (wound)",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
@@ -900,7 +887,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack...",
+				"name": "During this activation or interruption, if this character's attack (mana)",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
@@ -1080,7 +1067,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attacks...",
+				"name": "During this activation or interruption, if this character's attacks (action)",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
