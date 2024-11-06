@@ -2077,7 +2077,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "trinket",
-				"definition": "if the character's skill test results in 2 or more  Successes, gain 1 Mana."
+				"definition": "If the character's skill test results in 2 or more Successes, gain 1 Mana."
 			},
 			{
 				"name": "Cloak of Doom",
