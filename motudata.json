@@ -1615,7 +1615,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "+1",
-				"definition": "During interruptions, attacks with this weapon cost 1 AP less (to a minimum of 0).\n          1 success: 1 wound\n          2 successes: 1 wounds and a knockdown\n          4 successes: 2 wounds and a knockdown",
+				"definition": "During interruptions, attacks with this weapon cost 1 AP less (to a minimum of 0).\n          1 success: 1 wound\n          2 successes: 1 wounds and a knockdown\n          4 successes: 2 wounds and a knockdown"
 			},
 			{
 				"name": "Trident",
