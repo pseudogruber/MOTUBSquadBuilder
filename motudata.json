@@ -2062,21 +2062,21 @@
 				"name": "Force Field Rod",
 				"points": 2,
 				"unique": true,
-				"type": "trinket",
+				"type": "Trinket",
 				"definition": "Disposable.\n          Spend 1 AP and place 3 force fields within 8\"."
 			},
 			{
 				"name": "Coridite",
 				"points": 1,
 				"unique": true,
-				"type": "trinket",
-				"definition": "if the character's interruption attack results in 2 or more  Successes, draw a fate card."
+				"type": "Trinket",
+				"definition": "if the character's interruption attack results in 2 or more Successes, draw a fate card."
 			},
 			{
 				"name": "Tiara",
 				"points": 1,
 				"unique": true,
-				"type": "trinket",
+				"type": "Trinket",
 				"definition": "If the character's skill test results in 2 or more Successes, gain 1 Mana."
 			},
 			{
