@@ -3548,37 +3548,6 @@
 				"strength": 2,
 				"standardspeed": 5,
 				"focusedspeed": 8
-			},
-			{
-				"name": "Angella",
-				"factions": [
-					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
-					}
-				],
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731016427/Angella_Test_01_tsfhe6.png",
-				"upgradeTypes": [
-					"Melee",
-					"Spell",
-					"Armour",
-					"Shield",
-					"Trinket",
-					"Trinket"
-				],
-				"skills": [
-					"Neverending Life",
-					"Selfless Leader"
-				],
-				"points": 18,
-				"health": 4,
-				"toughness": 2,
-				"mind": 4,
-				"power": 4,
-				"perception": 3,
-				"strength": 4,
-				"standardspeed": 6,
-				"focusedspeed": 9
 			}
 		],
 		"keywords": [],
