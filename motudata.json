@@ -2571,13 +2571,49 @@
 			{
 				"name": "Combow",
 				"points": 2,
-				"range": 12,
+				"range": 16,
 				"unique": true,
 				"type": "Ranged",
 					"definition": "Gain +1 Die for every Buff token on Bow.\n          1 success: 1 Wound\n          4 successes: 2 Wounds",
 				"availableIn": [
 					"Bow"
 				]
+			},
+			{
+				"name": "Angellic Sword",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "If Angella was activated with initiative 7 or lower, gain +1 Die. Additionally, if Angella was activated with initiative 3 or lower, gain +1 Die.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          4 successes: 2 Wounds and 1 Wound if Angella was activated with Initiative 1",
+				"availableIn": [
+					"Angella"
+				]
+			},
+			{
+				"name": "Staff of Light",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+					"definition": "If this character has a Buff token, upon activation, gain 1 Mana token.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds",
+				"availableIn": [
+					"Angella"
+				]
+			},
+			{
+				"name": "Axe Comb",
+				"points": 3,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Melee",
+					"definition": "Gain 1 Die for each ally with a Buff token (to a maximum of 3).\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
+			},
+			{
+				"name": "Bubble Projector",
+				"points": 4,
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "If an attack with this weapon results in 2 of more Successes, an ally within 8\" gains a Protection buff.\n          1 success: 1 Wound\n          4 successes: 2 Wounds"
 			}
 		],
 		"factions": [
