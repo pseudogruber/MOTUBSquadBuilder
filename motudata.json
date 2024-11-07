@@ -3927,6 +3927,8 @@
 			},
 			{
 				"name": "Neverending Life",
+				"ap": 0,
+				"mana": 0,
 				"definition": "If Angella was activated with initiative 2 or lower, at the end of her activation, she gains a Regeneration token."
 			},
 			{
