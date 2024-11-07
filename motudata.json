@@ -3609,6 +3609,37 @@
 				"strength": 2,
 				"standardspeed": 5,
 				"focusedspeed": 8
+			},
+			{
+				"name": "Frosta",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731019570/Frosta_Test_01_u9p7cc.png",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Spell",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Freezing Rain",
+					"Sub-Zero"
+				],
+				"points": 16,
+				"health": 4,
+				"toughness": 2,
+				"mind": 3,
+				"power": 4,
+				"perception": 2,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
 			}			
 		],
 		"keywords": [],
@@ -3856,8 +3887,8 @@
 			},
 			{
 				"name": "Heroic Intervention",
-				"definition": "Remove a Buff token from Bow to gain 1 Action and 1 Mana token.",
-				"mana": 1
+				"mana": 1,
+				"definition": "Remove a Buff token from Bow to gain 1 Action and 1 Mana token."
 			},
 			{
 				"name": "Guiding Light",
@@ -3869,9 +3900,9 @@
 			},
 			{
 				"name": "Invisibility",
-				"definition": "Choose an ally within 12\". This ally gains a Glimmer token, which allows them to only be targeted from adjacent hexes. Upon activation or interruption, they lose a Glimmer token.",
 				"ap": 0,
-				"mana": 2
+				"mana": 2,
+				"definition": "Choose an ally within 12\". This ally gains a Glimmer token, which allows them to only be targeted from adjacent hexes. Upon activation or interruption, they lose a Glimmer token."
 			},
 			{
 				"name": "Neverending Life",
@@ -3879,9 +3910,9 @@
 			},
 			{
 				"name": "Selfless Leader",
-				"definition": "If Angella was activated with initiative 5 or lower, choose an ally with 8\" and test Power-1.\n             1 Success: Regeneration token.",
 				"ap": 0,
-				"mana": 1
+				"mana": 1,
+				"definition": "If Angella was activated with initiative 5 or lower, choose an ally with 8\" and test Power-1.\n             1 Success: Regeneration token."
 			},
 			{
 				"name": "Magic for All",
@@ -3890,8 +3921,12 @@
 				"definition": "Test Power. For every Success give 1 Mana token to any activated ally."
 			},
 			{
-				"name": "Arcane Arts",
-				"definition": "If Castaspella has a Buff token, her Magic and skills cost 1 Mana token less (to a minimum of 0)."
+				"name": "Freezing Rain",
+				"definition": "After revealing her activation cards, Frosta can spend 1 Mana token to reduce or increase the initiative of one of those cards by 2 (to a minimum of 1)."
+			},
+			{
+				"name": "Sub-Zero",
+				"definition": "If any enemy witin 12\" is activated with initiative 7 or higher, Frosta can spend 1 Mana token to interrupt this enemey's activations."
 			}
 		]
 	}
