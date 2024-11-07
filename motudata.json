@@ -3518,6 +3518,36 @@
 				"strength": 3,
 				"standardspeed": 5,
 				"focusedspeed": 8
+			},
+			{
+				"name": "Glimmer",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731015735/Glimmer_Test_01_miragu.png",
+				"upgradeTypes": [
+					"Ranged",
+					"Spell",
+					"Spell",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Guiding Light",
+					"Invisibility"
+				],
+				"points": 14,
+				"health": 4,
+				"toughness": 1,
+				"mind": 3,
+				"power": 4,
+				"perception": 3,
+				"strength": 2,
+				"standardspeed": 5,
+				"focusedspeed": 8
 			}
 		],
 		"keywords": [],
@@ -3767,6 +3797,15 @@
 				"name": "Heroic Intervention",
 				"definition": "Remove a Buff token from Bow to gain 1 Action and 1 Mana token.",
 				"mana": 1
+			},
+			{
+				"name": "Guiding Light",
+				"definition": "If Glimmer is ready, after revealing activation cards, the controlling player can use their card to activate Glimmer and overwrite the card's initiative with 10.",
+			},
+			{
+				"name": "Invisibility",
+				"definition": "Choose an ally within 12\". This ally gains a Glimmer token, which allows them to only be targeted from adjacent hexes. Upon activation or interruption, they lose a Glimmer token.",
+				"mana": 2
 			}
 		]
 	}
