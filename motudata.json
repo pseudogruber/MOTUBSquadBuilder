@@ -3462,7 +3462,7 @@
 				"name": "She-Ra",
 				"factions": [
 					{
-						"name": "Great Rebellion",
+						"name": "The Great Rebellion",
 						"heroicTier": "Independent Hero"
 					}
 				],
@@ -3470,7 +3470,6 @@
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
-					"Spell",
 					"Armour",
 					"Shield",
 					"Trinket",
@@ -3487,6 +3486,36 @@
 				"power": 3,
 				"perception": 3,
 				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Bow",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731014740/Bow_Test_01_oqqlgo.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Golden Heart",
+					"Heroic Intervention"
+				],
+				"points": 17,
+				"health": 5,
+				"toughness": 3,
+				"mind": 2,
+				"power": 2,
+				"perception": 4,
+				"strength": 3,
 				"standardspeed": 5,
 				"focusedspeed": 8
 			}
@@ -3729,6 +3758,15 @@
 			{
 				"name": "One for All",
 				"definition": "Before making an attack test, She-Ra can remove Buff token from any allies.\n             Gain 1 extra die for every Buff token removed."
+			},
+			{
+				"name": "Golden Heart",
+				"definition": "Bow can have up to 3 different Buff Tokens."
+			},
+			{
+				"name": "Heroic Intervention",
+				"definition": "Remove a Buff token from Bow to gain 1 Action and 1 Mana token.",
+				"mana": 1
 			}
 		]
 	}
