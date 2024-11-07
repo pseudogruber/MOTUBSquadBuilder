@@ -2571,6 +2571,24 @@
 				"alignment": "Warbands",
 				"armyBonus": "",
 				"additionalRules": ""
+			},
+			{
+				"name": "Evil Horde",
+				"alignment": "Warbands",
+				"armyBonus": "",
+				"additionalRules": ""
+			},
+			{
+				"name": "The Great Rebellion",
+				"alignment": "Warbands",
+				"armyBonus": "",
+				"additionalRules": ""
+			},
+			{
+				"name": "Fighting Foe Men",
+				"alignment": "Warbands",
+				"armyBonus": "",
+				"additionalRules": ""
 			}
 		],
 		"characters": [
@@ -3448,7 +3466,7 @@
 						"heroicTier": "Independent Hero"
 					}
 				],
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720902161/Beast-Man_Test_01_tw9zrb.png",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731013770/She-Ra_Test_01_liz0j6.png",
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
