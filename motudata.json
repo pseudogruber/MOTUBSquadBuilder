@@ -3787,15 +3787,15 @@
 			},
 			{
 				"name": "Face of the Robot",
-				"definition": "Gain (Robot Face) and a Focus.  (Robot Face) provides Man-E-Faces with +2 (Perception) and -1 (Toughness).",
 				"ap": 1,
-				"mana": 1
+				"mana": 1,
+				"definition": "Gain (Robot Face) and a Focus.  (Robot Face) provides Man-E-Faces with +2 (Perception) and -1 (Toughness)."
 			},
 			{
 				"name": "Face of the Monster",
-				"definition": "Gain (Monster Face).  (Monster Face) provides Man-E-Faces with +2 (Strength) and -1 (Mind). Test (Strength) -1 against the (Toughness) of an enemy engaged with Man-E-Faces.\n            1 (Success): 1 Wound",
 				"ap": 1,
-				"mana": 1
+				"mana": 1,
+				"definition": "Gain (Monster Face).  (Monster Face) provides Man-E-Faces with +2 (Strength) and -1 (Mind). Test (Strength) -1 against the (Toughness) of an enemy engaged with Man-E-Faces.\n            1 (Success): 1 Wound"
 			},
 			{
 				"name": "Lone Warrior",
@@ -3815,19 +3815,19 @@
 			},
 			{
 				"name": "Lead by Example",
-				"definition": "Any ally within 12\" can use this skill as their own. He-Man interrupts this ally's activation or interruption. During this interruption He-Man can move in any direction.",
-				"mana": 2
+				"mana": 2,
+				"definition": "Any ally within 12\" can use this skill as their own. He-Man interrupts this ally's activation or interruption. During this interruption He-Man can move in any direction."
 			},
 			{
 				"name": "Tiger's Claw",
-				"definition": "Test (Strength) -1 against the (Mind) of an enemy engaged with He-Man.\n            1 (Success): 1 Wound.\n            2 (Successes): 1 Wound and a (Knockdown debuff).",
 				"ap": 1,
-				"mana": 1
+				"mana": 1,
+				"definition": "Test (Strength) -1 against the (Mind) of an enemy engaged with He-Man.\n            1 (Success): 1 Wound.\n            2 (Successes): 1 Wound and a (Knockdown debuff)."
 			},
 			{
 				"name": "Nightmare",
-				"definition": "Test (Power) +1 against the (Mind) of an ally within 16\".\n            1 (Success): (Curse Debuff), Scareglow performs a free move action.",
-				"mana": 1
+				"mana": 1,
+				"definition": "Test (Power) +1 against the (Mind) of an ally within 16\".\n            1 (Success): (Curse Debuff), Scareglow performs a free move action."
 			},
 			{
 				"name": "Fearsome Presence",
@@ -3847,8 +3847,8 @@
 			},
 			{
 				"name": "Tail Trashing",
-				"definition": "Choose a character on an adjacent hex and test (Strength). Target is pushed up to 1 hex per (Success).",
-				"mana": 2
+				"mana": 2,
+				"definition": "Choose a character on an adjacent hex and test (Strength). Target is pushed up to 1 hex per (Success)."
 			},
 			{
 				"name": "Evil Master of Odors",
@@ -3864,8 +3864,8 @@
 			},
 			{
 				"name": "Hide and Seek",
-				"definition": "Gain a Webstor Token. When Webstor has a Webstor token, he can only be attacked or interrupted by characters within 6\", and his flank attacks gain +2 Dice.",
-				"mana": 2
+				"mana": 2,
+				"definition": "Gain a Webstor Token. When Webstor has a Webstor token, he can only be attacked or interrupted by characters within 6\", and his flank attacks gain +2 Dice."
 			},
 			{
 				"name": "Hovering Goon",
