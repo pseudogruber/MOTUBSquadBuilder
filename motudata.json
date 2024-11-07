@@ -3932,8 +3932,6 @@
 			},
 			{
 				"name": "Arcane Arts",
-				"ap": 0,
-				"mana": 2,
 				"definition": "If Castaspella has a Buff token, her Magic and skills cost 1 Mana less (to a minimum of 0)."
 			},
 			{
