@@ -3439,7 +3439,39 @@
 				"strength": 4,
 				"standardspeed": 6,
 				"focusedspeed": 9
-			}
+			},
+			{
+				"name": "She-Ra",
+				"factions": [
+					{
+						"name": "Great Rebellion",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720902161/Beast-Man_Test_01_tw9zrb.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Spell",
+					"Armour",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Superhuman Senses",
+					"One for All"
+				],
+				"points": 19,
+				"health": 5,
+				"toughness": 3,
+				"mind": 3,
+				"power": 3,
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
 		],
 		"keywords": [],
 		"skills": [
@@ -3671,6 +3703,14 @@
 			{
 				"name": "Panthor's Fangs",
 				"definition": "Test (Strength) against (Toughness) of an Enemy engaged with Skeletor.\n            1 (Success): 1 Wound.\n            2 (Successes): 1 Wound and push target 1 hex."
+			},
+			{
+				"name": "Superhuman Senses",
+				"definition": "She-Ra cannot receive (mana token) from fate and glory cards.\n             When her ally gains a Buff token, she gains 1 Mana token."
+			},
+			{
+				"name": "One for All",
+				"definition": "Before making an attack test, She-Ra can remove Buff token from any allies.\n             Gain 1 extra die for every Buff token removed."
 			}
 		]
 	}
