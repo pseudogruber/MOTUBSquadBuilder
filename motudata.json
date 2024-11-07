@@ -3840,11 +3840,11 @@
 			},
 			{
 				"name": "Neverending Life",
-				"definition": "If Angella was activated with initiative 2 or lower, at the end of her activation, she gains a Regneration token."
+				"definition": "If Angella was activated with initiative 2 or lower, at the end of her activation, she gains a Regeneration token."
 			},
 			{
 				"name": "Selfless Leader",
-				"definition": "If Angella was activated with initiative 5 or lower, choose an ally with 8\" and test (Power)-1.\n             1 (Success): Regeneration token.",
+				"definition": "If Angella was activated with initiative 5 or lower, choose an ally with 8\" and test Power-1.\n             1 Success: Regeneration token.",
 				"mana": 1
 			}
 		]
