@@ -2567,6 +2567,17 @@
 				"availableIn": [
 					"Angella"
 				]
+			},
+			{
+				"name": "Combow",
+				"points": 2,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Gain +1 Die for every Buff token on Bow.\n          1 success: 1 Wound\n          4 successes: 2 Wounds",
+				"availableIn": [
+					"Bow"
+				]
 			}
 		],
 		"factions": [
