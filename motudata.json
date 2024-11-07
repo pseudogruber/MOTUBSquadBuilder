@@ -2557,6 +2557,16 @@
 				"availableIn": [
 					"Webstor"
 				]
+			},
+			{
+				"name": "Sword of Protection",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 1 Wounds\n          5 successes: 3 Wounds",
+				"availableIn": [
+					"Angella"
+				]
 			}
 		],
 		"factions": [
