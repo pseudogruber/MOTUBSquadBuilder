@@ -3931,6 +3931,12 @@
 				"definition": "Test Power. For every Success give 1 Mana token to any activated ally."
 			},
 			{
+				"name": "Arcane Arts",
+				"ap": 0,
+				"mana": 2,
+				"definition": "If Castaspella has a Buff token, her Magic and skills cost 1 Mana less (to a minimum of 0)."
+			},
+			{
 				"name": "Freezing Rain",
 				"definition": "After revealing her activation cards, Frosta can spend 1 Mana token to reduce or increase the initiative of one of those cards by 2 (to a minimum of 1)."
 			},
