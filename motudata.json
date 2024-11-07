@@ -3797,24 +3797,6 @@
 				"name": "Heroic Intervention",
 				"definition": "Remove a Buff token from Bow to gain 1 Action and 1 Mana token.",
 				"mana": 1
-			},
-			{
-				"name": "Guiding Light",
-				"definition": "If Glimmer is ready, after revealing activation cards, the controlling player can use their card to activate Glimmer and overwrite the card's initiative with 10.",
-			},
-			{
-				"name": "Invisibility",
-				"definition": "Choose an ally within 12\". This ally gains a Glimmer token, which allows them to only be targeted from adjacent hexes. Upon activation or interruption, they lose a Glimmer token.",
-				"mana": 2
-			},
-			{
-				"name": "Neverending Life",
-				"definition": "If Angella was activated with initiative 2 or lower, at the end of her activation, she gains a Regeneration token."
-			},
-			{
-				"name": "Selfless Leader",
-				"definition": "If Angella was activated with initiative 5 or lower, choose an ally with 8\" and test Power-1.\n             1 Success: Regeneration token.",
-				"mana": 1
 			}
 		]
 	}
