@@ -4026,7 +4026,212 @@
 				"strength": 3,
 				"standardspeed": 5,
 				"focusedspeed": 8
-			}			
+			},
+			{
+				"name": "Hordak",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101203/Hordak_Test_01_wodl9a.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Spell",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"I Command You",
+					"Ruthless Leader"
+				],
+				"points": 20,
+				"health": 5,
+				"toughness": 3,
+				"mind": 3,
+				"power": 3,
+				"perception": 4,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Grizzlor",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731099749/Grizzlor_Test_01_lxmcsy.png",
+				"upgradeTypes": [
+					"Melee",
+					"Melee",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Covered with Fur",
+					"The Ferocious Warrior"
+				],
+				"points": 15,
+				"health": 6,
+				"toughness": 3,
+				"mind": 1,
+				"power": 2,
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 4,
+				"focusedspeed": 6
+			},
+			{
+				"name": "Catra",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101667/Catra_Test_01_zbbtda.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Nimble Evasion",
+					"It Belongs to Me"
+				],
+				"points": 15,
+				"health": 4,
+				"toughness": 2,
+				"mind": 3,
+				"power": 3,
+				"perception": 4,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Shadow Weaver",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104487/Shadow_Weaver_Test_01_rg1s9y.png",
+				"upgradeTypes": [
+					"Spell",
+					"Spell",
+					"Trinket",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Mind Control",
+					"Shadow Magic"
+				],
+				"points": 16,
+				"health": 4,
+				"toughness": 1,
+				"mind": 4,
+				"power": 5,
+				"perception": 2,
+				"strength": 2,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Horde Trooper",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104102/Horde_Trooper_Test_01_vlzmxj.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Trinket"
+				],
+				"skills": [
+					"Hordak's Enforcer",
+					"Endless Horde"
+				],
+				"points": 7,
+				"health": 3,
+				"toughness": 3,
+				"mind": 1,
+				"power": 1,
+				"perception": 3,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Horde Wraith",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731103786/Shadow_Weaver_Test_01_hcpoeh.png",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Trinket"
+				],
+				"skills": [
+					"For the Evil Horde!",
+					"Endless Horde"
+				],
+				"points": 8,
+				"health": 3,
+				"toughness": 1,
+				"mind": 3,
+				"power": 4,
+				"perception": 2,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Scorpia",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731103786/Shadow_Weaver_Test_01_hcpoeh.png",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Trinket"
+				],
+				"skills": [
+					"Hunter Instinct",
+					"Living Shield"
+				],
+				"points": 14,
+				"health": 4,
+				"toughness": 3,
+				"mind": 2,
+				"power": 2,
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			}
 		],
 		"keywords": [],
 		"skills": [
@@ -4319,6 +4524,80 @@
 			{
 				"name": "Sub-Zero",
 				"definition": "If any enemy witin 12\" is activated with initiative 7 or higher, Frosta can spend 1 Mana token to interrupt this enemey's activations."
+			},
+			{
+				"name": "I Command You",
+				"ap": 1,
+				"mana": 1,
+				"definition": "Choose an ally with an \"Endless Horde\" skill within 12\" and an enemy within 16\". The ally interrupts Hordak but acts as if they are interrupting the targeted enemy."
+			},
+			{
+				"name": "Ruthless Leader",
+				"definition": "+1 Power and +1 Strength for every knocked out ally (to a maximum of 3)."
+			},
+			{
+				"name": "Covered with Fur",
+				"definition": "After you discard a fate card during an activation phase, Grizzlor gains 1 Mana."
+			},
+			{
+				"name": "The Ferocious Warrior",
+				"definition": "When the enemy attack knocks out an ally, Grizzlor interrupts the current activation or interruption."
+			},
+			{
+				"name": "Nimble Evasion",
+				"definition": "Once per round, when Catra receives at least 1 Wound, she may discard a fate card to reduce the number of Wounds by 1."
+			},
+			{
+				"name": "It Belongs to Me",
+				"definition": "During her activation or interruption, Catra may discard a glory card to gain 2 Actions or a fate card to perform a free 2-hex move action. The movement cannot be interrupted."
+			},
+			{
+				"name": "Mind Control",
+				"ap": 0,
+				"mana": 2,
+				"definition": "Test Power against Mind of an unengaged enemy within 16\".\n            1 Success: The target interrupts Shadow Weaver and must perform a move action, using as many movement points as possible."
+			},
+			{
+				"name": "Shadow Magic",
+				"definition": "Whenever an ally is knocked out, transfer all Mana from that ally to the Shadow Weaver."
+			},
+			{
+				"name": "Hordak's Enforcer",
+				"definition": "When a Horde trooper is knocked out, shuffle 2 random fate cards from your discard pile back to your deck."
+			},
+			{
+				"name": "Endless Horde",
+				"definition": "There can be up to 2 Horde Troopers in a single force."
+			},
+			{
+				"name": "For the Evil Horde!",
+				"definition": "When a Horde Wraith is about to be knocked out, it can spend 2 Mana to switch positions with an ally."
+			},
+			{
+				"name": "Endless Horde",
+				"definition": "There can be up to 2 Wraiths in a single force."
+			},
+			{
+				"name": "Power Drain",
+				"definition": "When an enemy within 12\" loses or uses Mana, Leech gains 1 Mana."
+			},
+			{
+				"name": "Stuck to the Wall",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Move over a portion of an adjacent obstacle."
+			},
+			{
+				"name": "Hunter Instinct",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Choose an ally with and \"Endless Horde\" skill within 12\". Make a free move action towards this ally. This movement cannot be interrupted."
+			},
+			{
+				"name": "Living Shield",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Whenever Scorpia is about to be attacked, if that attack can target an ally with an \"Endless Horde\" skill on an adjacent hex, you may redirect it to them."
 			}
 		]
 	}
