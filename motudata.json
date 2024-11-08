@@ -4205,6 +4205,36 @@
 				"focusedspeed": 8
 			},
 			{
+				"name": "Leech",
+				"factions": [
+					{
+						"name": "Evil Horde",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731106609/Leech_Test_01_ugpzdd.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Shield",
+					"Trinket"
+				],
+				"skills": [
+					"Power Drain",
+					"Stuck to the Wall"
+				],
+				"points": 16,
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 2,
+				"perception": 4,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
 				"name": "Scorpia",
 				"factions": [
 					{
