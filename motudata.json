@@ -887,7 +887,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack (mana)",
+				"name": "During activation or interruption, +1 Mana for 2+ Successes",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
@@ -902,7 +902,7 @@
 				]
 			},
 			{
-				"name": "At the end of this activation or interruption, gain an overwatch.",
+				"name": "After activation or interruption, gain Overwatch.",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
@@ -917,7 +917,7 @@
 				]
 			},
 			{
-				"name": "At the end of this activation or interruption, gain a Focus.",
+				"name": "After activation or interruption, gain a Focus.",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
@@ -932,7 +932,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, all attacks against enemies...",
+				"name": "During activation or interruption, +1 Die for attacks on Debuffed",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 2,
@@ -947,7 +947,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, Melee attacks cost...",
+				"name": "During activation or interruption Melee attacks cost -1 Action",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
@@ -962,7 +962,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption Ranged attacks cost...",
+				"name": "During activation or interruption Ranged attacks cost -1 Action",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
@@ -992,7 +992,7 @@
 				]
 			},
 			{
-				"name": "If this character is engaged, draw a random fate card...",
+				"name": "If Engaged, draw fate card from discard",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 1,
@@ -1007,7 +1007,7 @@
 				]
 			},
 			{
-				"name": "If this character had a Focus at the beginning of this activation or interruption...",
+				"name": "If Focused, +1 Action +1 Mana.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -1022,7 +1022,7 @@
 				]
 			},
 			{
-				"name": "Remove a Debuff from this character.",
+				"name": "Remove a Debuff.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 2,
@@ -1037,7 +1037,7 @@
 				]
 			},
 			{
-				"name": "Until the end of the round, this character gains +1 Die...",
+				"name": "Until EOR, +1 Die for attacks and skill tests +1 during interruptions.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -1052,7 +1052,7 @@
 				]
 			},
 			{
-				"name": "If this character has at least 4 Mana, gain 1 Action and 1 Mana.",
+				"name": "Have 4+ Mana, gain 1 Action and 1 Mana.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 0,
@@ -1067,7 +1067,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attacks (action)",
+				"name": "Gain +1 Action for 4 Successes on attacks.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -1082,7 +1082,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, this character cannot be interrupted.",
+				"name": "Immunity to interruption.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 0,
@@ -1097,7 +1097,7 @@
 				]
 			},
 			{
-				"name": "At the end of this activation or interruption, gain 2 Mana.",
+				"name": "After activation or interruption, +2 Mana.",
 				"initiative": 9,
 				"ap": 2,
 				"mp": 1,
@@ -1112,7 +1112,7 @@
 				]
 			},
 			{
-				"name": "If this card is played during an interruption, gain 1 Action and 1 Mana.",
+				"name": "During interruption, +1 Action and +1 Mana.",
 				"initiative": 9,
 				"ap": 2,
 				"mp": 1,
@@ -1142,7 +1142,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, add +1 to the scope of Spell attacks.",
+				"name": "During activation or interruption, Spell attacks +1 Scope.",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 1,
@@ -1157,7 +1157,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, add +1 to the scope of Melee attacks.",
+				"name": "During activation or interruption, Melee attacks +1 Scope.",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 1,
@@ -1172,7 +1172,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, add +1 to the scope of Ranged attacks.",
+				"name": "During activation or interruption, Ranged attacks +1 Scope.",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 1,
@@ -1187,7 +1187,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, each attack gain +1 Die.",
+				"name": "During activation or interruption, attacks gain +1 Die.",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 1,
@@ -1202,7 +1202,7 @@
 				]
 			},
 			{
-				"name": "If this card is played during an interruption, this characte...",
+				"name": "During interruption, free Move action.",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 2,
@@ -1217,7 +1217,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's skill test...",
+				"name": "During activation or interruption, for 3+ Successes, gain a Focus",
 				"initiative": 3,
 				"ap": 2,
 				"mp": 2,
@@ -1247,7 +1247,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, add +1 to the scope of skill tests.",
+				"name": "During activation or interruption, +1 to the scope of skill tests.",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 2,
@@ -1277,7 +1277,7 @@
 				]
 			},
 			{
-				"name": "If this character has at least 3 Wounds, they perform a free move action.",
+				"name": "If 3+ Wounds, gain free move action.",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 1,
@@ -1292,7 +1292,7 @@
 				]
 			},
 			{
-				"name": "Until the end of the round, if this character has a Debuff, all of their tests gain 1 Die.",
+				"name": "If Debuffed, +1 Die for all tests.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -1307,7 +1307,7 @@
 				]
 			},
 			{
-				"name": "If this character has a Buff, gain 1 AP and 1 Mana.",
+				"name": "If Buffed, +1 AP and +1 Mana.",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
@@ -1322,7 +1322,7 @@
 				]
 			},
 			{
-				"name": "At the end of this activation, remove all Mana from this character...",
+				"name": "After activation, trade Mana for Overwatch and Focus.",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 1,
@@ -1337,7 +1337,7 @@
 				]
 			},
 			{
-				"name": "If this card is played during an interruption when performing a move...",
+				"name": "During interruption move in any direction",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 2,
@@ -1352,7 +1352,7 @@
 				]
 			},
 			{
-				"name": "Until the end of the round, this character cannot be pushed of pulled.",
+				"name": "Immunity to pushed of pulled.",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 0,
@@ -1367,7 +1367,7 @@
 				]
 			},
 			{
-				"name": "Gain 1 Wound, perform a free Melee attack with -1 Die.",
+				"name": "Gain 1 Wound, free Melee attack.",
 				"initiative": 3,
 				"ap": 2,
 				"mp": 1,
@@ -1382,7 +1382,7 @@
 				]
 			},
 			{
-				"name": "If this character has a Debuff, gain 1 AP and 1 Mana.",
+				"name": "If Debuffed, gain 1 AP and 1 Mana.",
 				"initiative": 1,
 				"ap": 2,
 				"mp": 2,
@@ -1397,7 +1397,7 @@
 				]
 			},
 			{
-				"name": "During this interruption, add +1 to the scope of all attacks.",
+				"name": "During interruption, +1 to the scope of attacks.",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 2,
@@ -1412,7 +1412,7 @@
 				]
 			},
 			{
-				"name": "During this activation, active skills can be used twice.",
+				"name": "Use ative skills twice.",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -1427,7 +1427,7 @@
 				]
 			},
 			{
-				"name": "If there are no other characters within 6\", gain 1 AP and 1 Mana.",
+				"name": "No other characters within 6\", gain 1 AP and 1 Mana.",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 1,
@@ -1442,7 +1442,7 @@
 				]
 			},
 			{
-				"name": "+3 Mana. At the end of this activation or interruption, this character loses all Mana.",
+				"name": "+3 Mana. After activation or interruption, loose all Mana.",
 				"initiative": 2,
 				"ap": 1,
 				"mp": 4,
@@ -1457,7 +1457,7 @@
 				]
 			},
 			{
-				"name": "During this activation or interruption, draw a fate card after every flank attack.",
+				"name": "Draw a fate card after every flank attack.",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 0,
@@ -1472,7 +1472,7 @@
 				]
 			},
 			{
-				"name": "If this character has at least 3 Wounds, gain 1 AP...",
+				"name": "Have at least 3 Wounds, gain 1 AP, Enhancement, Knockdown",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 2,
@@ -1483,6 +1483,126 @@
 					},
 					{
 						"name": "Evil Warriors"
+					}
+				]
+			},
+			{
+				"name": "She-Ra's ultimate skill",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 2,
+				"description": "She-Ra's ultimate skill: She-Ra gains a She-ra token. When She-Ra has a She-ra token, she and all her allies within 8\" receive +1 die for all defence tests.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Bow's ultimate skill",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 2,
+				"description": "Bow's ultimate skill: remove up to 3 buffs from allies. Draw a random card from your discard file for every buff removed.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Glimmer's ultimate skill",
+				"initiative": 10,
+				"ap": 1,
+				"mp": 1,
+				"description": "Glimmer's ultimate skill: choose any ally within 12\", Glimmer is teleported to a hex adjacent to that ally.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Castaspella's ultimate skill",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 3,
+				"description": "Castaspella's ultimate skill: all allies withat least 3 Mana gain a Focus.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Frosta's ultimate skill",
+				"initiative": 4,
+				"ap": 3,
+				"mp": 1,
+				"description": "Frosta's ultimate skill: if this card is played during an interruption, gain 2 Action points.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Angela's ultimate skill",
+				"initiative": 1,
+				"ap": 3,
+				"mp": 0,
+				"description": "Angella's ultimate skill: choose an activated ally within 16\" with a buff token. Remove the buff token from that ally, then become ready.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Remove Buff, receive a Focus and 2 mana.",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 1,
+				"description": "If this character has a buff token, remove it to receive a Focus and 2 Mana.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Keep Buffs or Debuffs.",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 1,
+				"description": "At the end of this round, this character does not lose their buffs or debuffs.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Gain 1 Mana for each ally with a Buff",
+				"initiative": 1,
+				"ap": 2,
+				"mp": 0,
+				"description": "Gain 1 mana for each ally with a Buff (to a maximum of 3).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "-1 Die for defence tests until Round end",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 0,
+				"description": "Until then end of the round, this character loses 1 Die for all defence tests.",
+				"factions": [
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			}
