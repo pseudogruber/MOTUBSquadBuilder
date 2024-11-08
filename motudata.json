@@ -2614,6 +2614,106 @@
 				"unique": true,
 				"type": "Ranged",
 					"definition": "If an attack with this weapon results in 2 of more Successes, an ally within 8\" gains a Protection buff.\n          1 success: 1 Wound\n          4 successes: 2 Wounds"
+			},
+			{
+				"name": "Overwhelming Power",
+				"points": 1,
+				"range": 16,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Target allies or enemies. If this spell knocks out the target, the targets allies gain 2 Mana tokens. If the target is an ally with an \"Endless Horde\" skill +2 Die.\n          1 Success: 1 Wound and target gains 2 Mana\n          4 Successes: 2 Wounds and target gains 3 Mana",
+				"availableIn": [
+					"Shadow Weaver"
+				]
+			},
+			{
+				"name": "Calamity",
+				"points": 3,
+				"mana": 3,
+				"range": 8,
+				"unique": true,
+				"type": "Spell",
+					"definition": "The target must choose to either only roll a number or Dice equal to their Mana tokens for their defence test, or roll dice normally, but only succeed on results of 6.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds"
+			},
+			{
+				"name": "Mana Burn",
+				"points": 3,
+				"range": 12,
+				"diceModifier": "-2",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Gain +1 Die for every Mana token on the target.\n          1 Success: 1 Wound and target loses 1 Mana\n          2 Successes: 1 Wound and target loses 2 Mana\n          3 successes: 2 Wounds and target loses 3 Mana"
+			},
+			{
+				"name": "Energy Cannon",
+				"points": 2,
+				"diceModifier": "-2",
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Before attacking test power to gain 1 Die per success received (to a maximum of 5).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 successes: 3 Wounds",
+				"availableIn": [
+					"Hordak"
+				]
+			},
+			{
+				"name": "Two-Sided Gun",
+				"points": 3,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Ignore the target's shield.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and remove buff from the target\n          4 successes: 2 Wounds and remove buff from the target"
+			},
+			{
+				"name": "Cosmic Blaster",
+				"points": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "After attacking, end the character's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+			},
+			{
+				"name": "Catra's Whip",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Once per activation, after Catra makes a melee attack she can spend 2 Mana to immediately perform a free melee attack with this weapon\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and draw a fate card\n          4 Successes: 2 Wounds and draw a fate card",
+				"availableIn": [
+					"Catra"
+				]
+			},
+			{
+				"name": "Horde Axe",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Before attacking, Grizzlor can spend either 2 Mana to gain one of the bonuses below or 4 Mana to gain both bonuses.\n           +2 (die) or focus\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
+				"availableIn": [
+					"Grizzlor"
+				]
+			},
+			{
+				"name": "Horde Staff",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Upon activation, gain 1 Mana token for every knocked out ally (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds"
+			},
+			{
+				"name": "Dragon Staff",
+				"points": 1,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Melee",
+					"definition": "After attacking, end this characters activation of interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+			},
+			{
+				"name": "Propeller Arm",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Before attacking, discard up to 3 fate cards to gain 1 Die per discarded card.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
 			}
 		],
 		"factions": [
