@@ -4242,7 +4242,7 @@
 						"heroicTier": "Independent Hero"
 					}
 				],
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731103786/Shadow_Weaver_Test_01_hcpoeh.png",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731107733/Scorpia_Test_01_tcy1hg.png",
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -4258,6 +4258,34 @@
 				"mind": 2,
 				"power": 2,
 				"perception": 3,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Dawg-O-Tor in Battle Ram",
+				"factions": [
+					{
+						"name": "Fighting Foe Men",
+						"heroicTier": "Independent Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Heavy Weapons",
+					"Modules",
+					"Modules"
+				],
+				"skills": [
+					"Vehicle",
+					"Indirect Fire"
+				],
+				"points": 28,
+				"health": 6,
+				"toughness": 2,
+				"mind": 2,
+				"power": 1,
+				"perception": 5,
 				"strength": 4,
 				"standardspeed": 5,
 				"focusedspeed": 8
@@ -4628,6 +4656,14 @@
 				"ap": 0,
 				"mana": 1,
 				"definition": "Whenever Scorpia is about to be attacked, if that attack can target an ally with an \"Endless Horde\" skill on an adjacent hex, you may redirect it to them."
+			},
+			{
+				"name": "Vehicle",
+				"definition": "Battle Ram ignores 1 Wound from every Melee and Ranged attack (to a minimum of 0)."
+			},
+			{
+				"name": "Indirect Fire",
+				"definition": "Place a Battle Ram token within 16\". When an enemy ends their movement within 2 hexes from the Battle Ram token, they must make a defence Toughness test. Unless they score at least 2 Successes, they receive 1 Wound."
 			}
 		]
 	}
