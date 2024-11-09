@@ -708,7 +708,7 @@
 				]
 			},
 			{
-				"name": "+1 Die / -1 Wound to all attacks",
+				"name": "+1 Die and -1 Wound to all attacks",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 2,
