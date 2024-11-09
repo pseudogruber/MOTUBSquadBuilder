@@ -4382,9 +4382,9 @@
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
 				"upgradeTypes": [
-					"Heavy Weapons",
-					"Modules",
-					"Modules"
+					"Heavy Weapon",
+					"Module",
+					"Module"
 				],
 				"skills": [
 					"Vehicle",
