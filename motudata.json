@@ -3116,6 +3116,7 @@
 					"I Have the Power!",
 					"Superhuman Reflex"
 				],
+				"basicWeapon": "Sword of Power",
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
