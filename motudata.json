@@ -3951,7 +3951,7 @@
 			},
 			{
 				"name": "Skull",
-				"points": 1,
+				"points": -1,
 				"unique": true,
 				"type": "Trinket",
 					"definition": "Decrease the maximum Mana by 3."
