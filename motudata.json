@@ -508,6 +508,32 @@
 						"name": "Evil Warriors"
 					}
 				]
+			},
+			{
+				"name": "Vehicle knocks out an enemy.",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Your vehicle knocks out an enemy",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
 			}
 		],
 		"fatecards": [
@@ -1603,6 +1629,42 @@
 				"factions": [
 					{
 						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "+1 Heavy Weapon scope during activation",
+				"initiative": 9,
+				"ap": 1,
+				"mp": 1,
+				"description": "During this activation or interruption, add +1 to the scope of Heavy Weapon Attacks.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "Vehicle gets free 4-hex move action",
+				"initiative": 2,
+				"ap": 2,
+				"mp": 1,
+				"description": "If this character is a vehicle, make a free 4-hex move action.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "Heavy Weapon Attacks -1 Action during activation",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 0,
+				"description": "During this activation or interruption, Heavy Weapon Attacks cost 1 Action less (to a minimum of 1).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
 					}
 				]
 			}
@@ -2943,6 +3005,54 @@
 				"unique": true,
 				"type": "Shield",
 					"definition": "If this character is the target of a frontal attack, gain 1 Mana."
+			},
+			{
+				"name": "Engine Booster",
+				"points": 1,
+				"unique": true,
+				"type": "Module",
+					"definition": "Add +2 to Focused Speed."
+			},
+			{
+				"name": "Targeting Computer",
+				"points": 2,
+				"unique": true,
+				"type": "Module",
+					"definition": "If this vehicle has no Wounds, +1 Die to all attacks."
+			},
+			{
+				"name": "Mystic Plating",
+				"points": 3,
+				"unique": true,
+				"type": "Module",
+					"definition": "Disposable. Use it before a defence test to attempt it with 5 Dice."
+			},
+			{
+				"name": "Reactive Armour",
+				"points": 1,
+				"unique": true,
+				"type": "Module",
+					"definition": "Disposable. Gain Protection buff."
+			},
+			{
+				"name": "Demolisher Missile",
+				"points": 4,
+				"range": 12,
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "This wepon targets an empty hex and affects all allies and enemies within 2 hexes. After the attack, remove one piece of terrain located within 2 hexes\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds.",
+				"availableIn": [
+					"Dawg-O-Tor in Battle Ram"
+				]
+			},
+			{
+				"name": "Heavy Laser",
+				"points": 4,
+				"range": 12,
+				"diceModifier": "-2",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "Before attacking, spend up to 5 Mana to gain +1 Die per Mana spent.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds."
 			}
 		],
 		"factions": [
