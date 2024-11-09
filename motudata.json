@@ -116,6 +116,21 @@
 							]
 						},
 						{
+							"propertyName": "Basic Weapon",
+							"label": "Basic Weapon",
+							"type": "static",
+							"dataSource": "keywords",
+							"defineInPreview": true,
+							"children": [
+								{
+									"label": "Basic Weapon",
+									"propertyName": "basicWeapon",
+									"type": "static",
+									"dataSource": "keywords"
+								}
+							]
+						}
+						{
 							"propertyName": "specialRules",
 							"label": "Special Rules",
 							"type": "static",
