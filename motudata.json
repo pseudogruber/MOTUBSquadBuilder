@@ -116,13 +116,6 @@
 							]
 						},
 						{
-							"propertyName": "Basic Weapon",
-							"label": "basicWeapon",
-							"type": "static",
-							"dataSource": "upgrades",
-							"defineInPreview": true
-						},
-						{
 							"propertyName": "specialRules",
 							"label": "Special Rules",
 							"type": "static",
