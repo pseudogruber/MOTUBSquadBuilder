@@ -264,10 +264,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -281,10 +290,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -298,10 +316,71 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "End activation with a Buff.",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 2,
+				"description": "At the end of this activation of interruption, all your characters have a buff token.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Use two ultimate skills until EOR.",
+				"initiative": 9,
+				"ap": 2,
+				"mp": 2,
+				"description": "Use 2 different ultimate skills during this round.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -315,10 +394,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -332,10 +420,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -349,10 +446,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -366,10 +472,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -383,10 +498,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -400,10 +524,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -417,10 +550,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -434,10 +576,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -451,10 +602,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -468,10 +628,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -485,10 +654,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -502,10 +680,19 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
 						"name": "Masters of the Universe"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -514,7 +701,7 @@
 				"initiative": 10,
 				"ap": 2,
 				"mp": 1,
-				"description": "Your vehicle knocks out an enemy",
+				"description": "Your vehicle knocks out an enemy.",
 				"vp": 20,
 				"alternativeBonus": "+1 AP",
 				"factions": [
@@ -542,6 +729,58 @@
 				"mp": 1,
 				"description": "Your character with any type of \"Endless\" skill knocks out an enemy.",
 				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Enemy attack knocks out this character",
+				"initiative": 11,
+				"ap": 1,
+				"mp": 2,
+				"description": "This mission will be completed if an enemy's attack knocks out this character during the current round.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Claim objective during clean-up phase",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 2,
+				"description": "This mission will be completed if this character claims and objective during the next clean-up phase.",
+				"vp": 10,
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
