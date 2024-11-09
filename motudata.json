@@ -2292,7 +2292,7 @@
 				]
 			},
 			{
-				"name": "Keep Buffs or Debuffs.",
+				"name": "Keep Buffs or Debuffs at EOR.",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 1,
@@ -3919,7 +3919,7 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Ranged",
-					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes:  1 Cripple debuff and target looses 2 Mana."
+					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes: 1 Cripple debuff and target looses 2 Mana."
 			},
 			{
 				"name": "Trick",
