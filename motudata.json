@@ -129,7 +129,7 @@
 									"dataSource": "keywords"
 								}
 							]
-						}
+						},
 						{
 							"propertyName": "specialRules",
 							"label": "Special Rules",
