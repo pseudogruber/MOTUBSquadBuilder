@@ -534,156 +534,272 @@
 						"name": "The Great Rebellion"
 					}
 				]
+			},
+			{
+				"name": "\"Endless Horde\" knocks out an enemy.",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Your character with any type of \"Endless\" skill knocks out an enemy.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
 			}
 		],
 		"fatecards": [
 			{
-				"name": "Gain 1 Mana for each Wound...",
+				"name": "+1 Mana for each Wound",
 				"initiative": 1,
 				"ap": 2,
 				"mana": 0,
 				"description": "Gain 1 Mana for each Wound on this character (to maximum of 4).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, all active skills...",
+				"name": "Active skills cost -1 Action.",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
 				"description": "During this activation or interruption, all active skill cost 1 Action less (to minimum of 0).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Gain 1 Mana for each character with a Debuff...",
+				"name": "+1 Mana for each character with Debuff",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
 				"description": "Gain 1 Mana for each character with a Debuff (to maximum of 3).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character inflicts...",
+				"name": "Deal 2+ Wounds, gain 1 Action and 1 Mana.",
 				"initiative": 1,
 				"ap": 2,
 				"mana": 2,
 				"description": "During this activation or interruption, if this character inflicts 2 or more Wounds, gain 1 Action and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Gain 1 Action for each character with a Debuff....",
+				"name": "+1 Action for each character with Debuff",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
 				"description": "Gain 1 Action for each character with a Debuff (to a maximum of 2).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Make a free 2 hex move action.",
+				"name": "Free 2 hex move.",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
 				"description": "Make a free 2 hex move action.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, all attacks...",
+				"name": "+1 Die / -1 Wound to all attacks",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 2,
 				"description": "During this activation or interruption, all attacks gain +1 Die, but deal 1 less Wound (to minimum of 1).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, spell attacks...",
+				"name": "Spell attacks +1 Die for every 2 Mana in possession.",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 0,
-				"description": "During this activation or interruption, spell attacks gain +1 Die for every 2 Mana in the character's possession.\n          Mana is counted after it is spend for an attack and any additional bonuses.",
+				"description": "During this activation or interruption, spell attacks gain +1 Die for every 2 Mana in the character's possession.\n          Mana is counted after it is spent for an attack and any additional bonuses.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
 					{
 						"name": "Masters of the Universe"
 					},
 					{
-						"name": "Evil Warriors"
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "If this character has a Focus, gain 2 Mana.",
+				"name": "If Focused, gain 2 Mana.",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 2,
 				"description": "If this character has a Focus, gain 2 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "At the end of this activation, if this character ...",
+				"name": "After activation, have 3+ Mana to draw Fate card from discard",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 1,
-				"description": "At the end of this activation, if this character has 3 or more Mana, draw a random fate cards from your discard pile.",
+				"description": "At the end of this activation, if this character has 3 or more Mana, draw a random fate card from your discard pile.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
 					{
 						"name": "Masters of the Universe"
 					},
 					{
-						"name": "Evil Warriors"
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -695,235 +811,379 @@
 				"description": "+1 Action",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Until the end of the round, this character may reroll...",
+				"name": "Spend Mana to Reroll Extra Die",
 				"initiative": 3,
 				"ap": 2,
 				"mana": 2,
 				"description": "Until the end of the round, this character may reroll 1 extra Die for each Mana spent.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Discard a fate card to gain 1 Action and 1 Mana...",
+				"name": "Discard a fate card, gain 1 Action and 1 Mana",
 				"initiative": 3,
 				"ap": 2,
 				"mana": 1,
 				"description": "Discard a fate card to gain 1 Action and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, gain +1 Die...",
+				"name": "+1 Die to skill tests",
 				"initiative": 4,
 				"ap": 2,
 				"mana": 3,
 				"description": "During this activation or interruption, gain +1 Die for skill tests.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack (focus)",
+				"name": "3+ Successes on attack, gain Focus.",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 0,
 				"description": "During this activation or interruption, if this character's attack results in 3 or more Successes, gain a Focus.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack (fate)",
+				"name": "3+ Successes on attack, draw Fate card.",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 1,
 				"description": "During this activation or interruption, if this character's attack results in 3 or more Successes, draw a fate card.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "if this character has 3 or more Mana, draw a fate card.",
+				"name": "Have 3+ Mana, draw a Fate card.",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 0,
 				"description": "if this character has 3 or more Mana, draw a fate card.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Until the end of the round, this character gains...",
+				"name": "+1 Die to defence tests Until EOR",
 				"initiative": 4,
 				"ap": 2,
 				"mana": 1,
 				"description": "Until the end of the round, this character gains +1 Die for defence tests.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, Spell weapons...",
+				"name": "Spell weapons cost 1 Action less",
 				"initiative": 4,
 				"ap": 2,
 				"mana": 2,
 				"description": "During this activation or interruption, Spell weapon cost 1 Action less (to minimum of 1).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Remove all Mana from this character to gain 1 Action...",
+				"name": "Remove all Mana, gain 1 Action per 2 Mana",
 				"initiative": 5,
 				"ap": 2,
 				"mana": 0,
 				"description": "Remove all Mana from this character to gain 1 Action for every 2 Mana removed.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation, this character cannot...",
+				"name": "Cannot perform Focus",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 2,
 				"description": "During this activation, this character cannot perform a focus action.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation, -1 Die for all attack tests.",
+				"name": "-1 Die for all attack tests.",
 				"initiative": 5,
 				"ap": 4,
 				"mp": 0,
 				"description": "During this activation, -1 Die for all attack tests.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "Discard a fate card to draw a fate card.",
+				"name": "Discard Fate card to draw Fate card.",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
 				"description": "Discard a fate card to draw a fate card.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, a focus action costs...",
+				"name": "Focus costs 1 Action less",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
 				"description": "During this activation or interruption, a focus action costs 1 less Action (to minimum of 0).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During this activation or interruption, if this character's attack (wound)",
+				"name": "Deal +1 Wound for 5+ Successes on attacks",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
 				"description": "During this activation or interruption, if this character's attack results in 5 or more Successes, deal 1 extra Wound.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During activation or interruption, +1 Mana for 2+ Successes",
+				"name": "Gain 1 Mana for 2+ Successes on attacks",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
 				"description": "During this activation or interruption, if this character's attack results in 2 or more Successes, gain 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -935,10 +1195,19 @@
 				"description": "At the end of this activation or interruption, gain an overwatch.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -950,55 +1219,91 @@
 				"description": "At the end of this activation or interruption, gain a Focus.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During activation or interruption, +1 Die for attacks on Debuffed",
+				"name": "+1 Die for attacks on Debuffed",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 2,
 				"description": "During this activation or interruption, all attacks against enemies with a Debuff gain +1 Die.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During activation or interruption Melee attacks cost -1 Action",
+				"name": "Melee attacks cost -1 Action",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
 				"description": "During this activation or interruption, Melee attacks cost 1 Action less (to minimum of 1).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
 			{
-				"name": "During activation or interruption Ranged attacks cost -1 Action",
+				"name": "Ranged attacks cost -1 Action",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
 				"description": "During this activation or interruption Ranged attacks cost 1 Action less (to minimum of 1).",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1010,10 +1315,19 @@
 				"description": "+2 Mana",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1025,10 +1339,19 @@
 				"description": "If this character is engaged, draw a random fate card from your discard pile.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1040,10 +1363,19 @@
 				"description": "If this character had a Focus at the beginning of this activation or interruption, gain 1 Action and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1055,10 +1387,19 @@
 				"description": "Remove a Debuff from this character.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1070,10 +1411,19 @@
 				"description": "Until the end of the round, this character gains +1 Die to all attacks and skill tests made during interruptions.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1085,10 +1435,19 @@
 				"description": "If this character has at least 4 Mana, gain 1 Action and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1100,10 +1459,19 @@
 				"description": "During this activation or interruption, if this character's attacks results in 4 or more Successes, gain 1 Action.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1115,10 +1483,19 @@
 				"description": "During this activation or interruption, this character cannot be interrupted.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1130,10 +1507,19 @@
 				"description": "At the end of this activation or interruption, gain 2 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1145,10 +1531,19 @@
 				"description": "If this card is played during an interruption, gain 1 Action and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1160,10 +1555,19 @@
 				"description": "Gain a Focus.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1175,10 +1579,19 @@
 				"description": "During this activation or interruption, add +1 to the scope of Spell attacks.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1190,10 +1603,19 @@
 				"description": "During this activation or interruption, add +1 to the scope of Melee attacks.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1205,10 +1627,19 @@
 				"description": "During this activation or interruption, add +1 to the scope of Ranged attacks.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1220,10 +1651,19 @@
 				"description": "During this activation or interruption, each attack gain +1 Die.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1235,10 +1675,19 @@
 				"description": "If this card is played during an interruption, this character can perform a free move action.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1250,10 +1699,19 @@
 				"description": "During this activation or interruption, if this character's skill test results in 3 or more Successes, gain a Focus.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1265,10 +1723,19 @@
 				"description": "Set this character's Mana to 3.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1280,10 +1747,19 @@
 				"description": "During this activation or interruption, add +1 to the scope of skill tests.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1295,10 +1771,19 @@
 				"description": "Gain 1 Wound, 1 AP, and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1310,10 +1795,19 @@
 				"description": "If this character has at least 3 Wounds, they perform a free move action.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1325,10 +1819,19 @@
 				"description": "Until the end of the round, if this character has a Debuff, all of their tests gain 1 Die.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1340,10 +1843,19 @@
 				"description": "If this character has a Buff, gain 1 AP and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1355,10 +1867,19 @@
 				"description": "At the end of this activation, remove all Mana from this character, and gain an Overwatch and a Focus.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1370,10 +1891,19 @@
 				"description": "If this card is played during an interruption when performing a move action, this character can move in any direction.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1385,10 +1915,19 @@
 				"description": "Until the end of the round, this character cannot be pushed of pulled.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1400,10 +1939,19 @@
 				"description": "Gain 1 Wound, perform a free Melee attack with -1 Die.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1415,10 +1963,19 @@
 				"description": "If this character has a Debuff, gain 1 AP and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1430,10 +1987,19 @@
 				"description": "During this interruption, add +1 to the scope of all attacks.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1445,10 +2011,19 @@
 				"description": "During this activation, active skills can be used twice.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1460,10 +2035,19 @@
 				"description": "If there are no other characters within 6\", gain 1 AP and 1 Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1475,10 +2059,19 @@
 				"description": "+3 Mana. At the end of this activation or interruption, this character loses all Mana.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1490,10 +2083,19 @@
 				"description": "During this activation or interruption, draw a fate card after every flank attack.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1505,10 +2107,19 @@
 				"description": "If this character has at least 3 Wounds, gain 1 AP, an Enhancement Buff, and a Knockdown Debuff.",
 				"factions": [
 					{
-						"name": "Masters of the Universe"
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
 					},
 					{
 						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1519,6 +2130,18 @@
 				"mp": 2,
 				"description": "She-Ra's ultimate skill: She-Ra gains a She-ra token. When She-Ra has a She-ra token, she and all her allies within 8\" receive +1 die for all defence tests.\n          OR +1 Mana.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
 					{
 						"name": "The Great Rebellion"
 					}
@@ -1532,6 +2155,18 @@
 				"description": "Bow's ultimate skill: remove up to 3 buffs from allies. Draw a random card from your discard file for every buff removed.\n          OR +1 Mana.",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
 						"name": "The Great Rebellion"
 					}
 				]
@@ -1543,6 +2178,18 @@
 				"mp": 1,
 				"description": "Glimmer's ultimate skill: choose any ally within 12\", Glimmer is teleported to a hex adjacent to that ally.\n          OR +1 Mana.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
 					{
 						"name": "The Great Rebellion"
 					}
@@ -1556,6 +2203,18 @@
 				"description": "Castaspella's ultimate skill: all allies withat least 3 Mana gain a Focus.\n          OR +1 Mana.",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
 						"name": "The Great Rebellion"
 					}
 				]
@@ -1567,6 +2226,18 @@
 				"mp": 1,
 				"description": "Frosta's ultimate skill: if this card is played during an interruption, gain 2 Action points.\n          OR +1 Mana.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
 					{
 						"name": "The Great Rebellion"
 					}
@@ -1580,6 +2251,18 @@
 				"description": "Angella's ultimate skill: choose an activated ally within 16\" with a buff token. Remove the buff token from that ally, then become ready.\n          OR +1 Mana.",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
 						"name": "The Great Rebellion"
 					}
 				]
@@ -1591,6 +2274,18 @@
 				"mp": 1,
 				"description": "If this character has a buff token, remove it to receive a Focus and 2 Mana.\n          OR +1 Mana.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
 					{
 						"name": "The Great Rebellion"
 					}
@@ -1604,6 +2299,18 @@
 				"description": "At the end of this round, this character does not lose their buffs or debuffs.\n          OR +1 Mana.",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
 						"name": "The Great Rebellion"
 					}
 				]
@@ -1616,6 +2323,18 @@
 				"description": "Gain 1 mana for each ally with a Buff (to a maximum of 3).\n          OR +1 Mana.",
 				"factions": [
 					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
 						"name": "The Great Rebellion"
 					}
 				]
@@ -1627,6 +2346,18 @@
 				"mp": 0,
 				"description": "Until then end of the round, this character loses 1 Die for all defence tests.",
 				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
 					{
 						"name": "The Great Rebellion"
 					}
@@ -1641,6 +2372,18 @@
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1653,6 +2396,18 @@
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -1665,6 +2420,90 @@
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "Discard fate card for a Buff",
+				"initiative": 3,
+				"ap": 1,
+				"mp": 2,
+				"description": "Discard a fate card to gain Protection, Quickness, or Enhancement.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "After discard, remove a Debuff from any character",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 1,
+				"description": "After this card is discarded during an activation phase, remove a Debuff from any character.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					}
+				]
+			},
+			{
+				"name": "\"Endless\" get 1 Action and 1 Mana",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 2,
+				"description": "If this character has any type of \"Endless\" skill, gain 1 Action and 1 Mana.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
 					}
 				]
 			}
@@ -2374,7 +3213,7 @@
 				"definition": "Defence tests against skills gain 1 Die."
 			},
 			{
-				"name": "Magical Lamp",
+				"name": "Magic Lamp",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
