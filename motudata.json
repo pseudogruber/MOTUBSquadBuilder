@@ -117,18 +117,10 @@
 						},
 						{
 							"propertyName": "Basic Weapon",
-							"label": "Basic Weapon",
+							"label": "basicWeapon",
 							"type": "static",
-							"dataSource": "keywords",
-							"defineInPreview": true,
-							"children": [
-								{
-									"label": "Basic Weapon",
-									"propertyName": "basicWeapon",
-									"type": "static",
-									"dataSource": "keywords"
-								}
-							]
+							"dataSource": "upgrades",
+							"defineInPreview": true
 						},
 						{
 							"propertyName": "specialRules",
