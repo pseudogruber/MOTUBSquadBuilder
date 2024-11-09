@@ -536,7 +536,7 @@
 				]
 			},
 			{
-				"name": "\"Endless Horde\" knocks out an enemy.",
+				"name": "Endless knocks out an enemy.",
 				"initiative": 10,
 				"ap": 2,
 				"mp": 1,
