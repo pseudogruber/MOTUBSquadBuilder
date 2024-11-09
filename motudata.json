@@ -3910,7 +3910,7 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Ranged",
-					"definition": "If the target it engaged, instead of being decreased, the scope of the attack is increased by 1.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 hexes.",
+					"definition": "If the target it engaged, instead of being decreased, the scope of the attack is increased by 1.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 hexes."
 			},
 			{
 				"name": "Net",
@@ -3919,7 +3919,7 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Ranged",
-					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes:  1 Cripple debuff and target looses 2 Mana.",
+					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes:  1 Cripple debuff and target looses 2 Mana."
 			},
 			{
 				"name": "Trick",
@@ -3928,7 +3928,7 @@
 				"diceModifier": "+2",
 				"unique": true,
 				"type": "Spell",
-					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target.",
+					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target."
 			},
 			{
 				"name": "Magic Push",
@@ -3937,7 +3937,7 @@
 				"diceModifier": "-1",
 				"unique": true,
 				"type": "Spell",
-					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes.",
+					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes."
 			},
 			{
 				"name": "Slug Armour",
@@ -3954,28 +3954,28 @@
 				"points": -1,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "Decrease the maximum Mana by 3.",
+					"definition": "Decrease the maximum Mana by 3."
 			},
 			{
 				"name": "Amulet of Kulataks",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character.",
+					"definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character."
 			},
 			{
 				"name": "Buzz Saw",
 				"points": 3,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "Disposable. Use it before any test. Gain 4 Successes, but do not roll any Dice.",
+					"definition": "Disposable. Use it before any test. Gain 4 Successes, but do not roll any Dice."
 			},
 			{
 				"name": "Mud-Monster",
 				"points": 4,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "Disposable. Place a Mud-Monster within 12\".",
+					"definition": "Disposable. Place a Mud-Monster within 12\"."
 			}
 		],
 		"factions": [
