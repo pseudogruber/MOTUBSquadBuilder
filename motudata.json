@@ -3898,7 +3898,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "Melee",
-					"definition": "Immediately after an attack, Scorpia can spend 1 Mana to allow an ally with an \"Endless Horde\" skill to interrupt the attacked enemy.\n          1 Success: 1 Wound\n          2 Successes: 2 Successes: 1 Wound and a Curse debuff."
+					"definition": "Immediately after an attack, Scorpia can spend 1 Mana to allow an ally with an \"Endless Horde\" skill to interrupt the attacked enemy.\n          1 Success: 1 Wound\n          2 Successes: 2 Successes: 1 Wound and a Curse debuff.",
 				"availableIn": [
 					"Scorpia"
 				]
