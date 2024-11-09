@@ -3892,6 +3892,90 @@
 				"unique": true,
 				"type": "Heavy Weapon",
 					"definition": "Before attacking, spend up to 5 Mana to gain +1 Die per Mana spent.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds."
+			},
+			{
+				"name": "Scorpia's Tail",
+				"points": 1,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Immediately after an attack, Scorpia can spend 1 Mana to allow an ally with an \"Endless Horde\" skill to interrupt the attacked enemy.\n          1 Success: 1 Wound\n          2 Successes: 2 Successes: 1 Wound and a Curse debuff."
+				"availableIn": [
+					"Scorpia"
+				]
+			},
+			{
+				"name": "Dragonfly Crossbow",
+				"points": 2,
+				"range": 12,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "If the target it engaged, instead of being decreased, the scope of the attack is increased by 1.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 hexes.",
+			},
+			{
+				"name": "Net",
+				"points": 1,
+				"range": 8,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes:  1 Cripple debuff and target looses 2 Mana.",
+			},
+			{
+				"name": "Trick",
+				"points": 1,
+				"range": 16,
+				"diceModifier": "+2",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target.",
+			},
+			{
+				"name": "Magic Push",
+				"points": 3,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes.",
+			},
+			{
+				"name": "Slug Armour",
+				"points": 3,
+				"unique": true,
+				"type": "Armour",
+					"definition": "Gain +1 Toughness and +1 Mind for every 2 Mana in Leech's possession. Leech loses 1 Mana after every defence test.",
+				"availableIn": [
+					"Leech"
+				]
+			},
+			{
+				"name": "Skull",
+				"points": -1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Decrease the maximum Mana by 3.",
+			},
+			{
+				"name": "Amulet of Kulataks",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character.",
+			},
+			{
+				"name": "Buzz Saw",
+				"points": 3,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Use it before any test. Gain 4 Successes, but do not roll any Dice.",
+			},
+			{
+				"name": "Mud-Monster",
+				"points": 4,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Place a Mud-Monster within 12\".",
 			}
 		],
 		"factions": [
