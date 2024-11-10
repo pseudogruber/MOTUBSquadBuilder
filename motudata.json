@@ -4287,6 +4287,9 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
+				"specialRules": [
+					"He-Man Basic Equipment"
+				],
 				"points": 19,
 				"health": 5,
 				"toughness": 3,
@@ -4548,6 +4551,9 @@
 					"Dagger",
 					"Laser Pistol",
 					"Rebel Pistol"
+				],
+				"specialRules": [
+					"He-Man Basic Equipment"
 				],
 				"points": 30,
 				"health": 8,
@@ -5608,7 +5614,12 @@
 				"focusedspeed": 8
 			}
 		],
-		"keywords": [],
+		"keywords": [
+			{
+				"name": "He-Man Basic Equipment",
+				"definition": "Sword of Power"
+			}
+		],
 		"skills": [
 			{
 				"name": "I Have the Power!",
