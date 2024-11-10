@@ -3681,7 +3681,10 @@
 				"diceModifier": "0",
 				"unique": true,
 				"type": "Melee",
-				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies' overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes"
+				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies' overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes",
+				"availableIn": [
+					"Fisto"
+				]
 			},
 			{
 				"name": "Halberd",
@@ -5553,7 +5556,9 @@
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731107733/Scorpia_Test_01_tcy1hg.png",
 				"upgradeTypes": [
 					"Melee",
-					"Spell",
+					"Ranged",
+					"Trinket",
+					"Trinket",
 					"Trinket"
 				],
 				"skills": [
