@@ -5272,6 +5272,9 @@
 					"Superhuman Senses",
 					"One for All"
 				],
+				"BasicEquipment": [
+					"Sword of Protection"
+				],
 				"points": 19,
 				"health": 5,
 				"toughness": 3,
@@ -5306,6 +5309,9 @@
 					"Hero to the Rescue!",
 					"Flying Beauty"
 				],
+				"BasicEquipment": [
+					"Sword of Protection"
+				],
 				"points": 32,
 				"health": 7,
 				"toughness": 3,
@@ -5339,6 +5345,9 @@
 					"Golden Heart",
 					"Heroic Intervention"
 				],
+				"BasicEquipment": [
+					"Combow"
+				],
 				"points": 17,
 				"health": 5,
 				"toughness": 3,
@@ -5368,6 +5377,9 @@
 				"skills": [
 					"Guiding Light",
 					"Invisibility"
+				],
+				"BasicEquipment": [
+					"Beam of Light"
 				],
 				"points": 14,
 				"health": 4,
@@ -5400,6 +5412,9 @@
 					"Neverending Life",
 					"Selfless Leader"
 				],
+				"BasicEquipment": [
+					"Angellic Sword"
+				],
 				"points": 18,
 				"health": 4,
 				"toughness": 2,
@@ -5429,6 +5444,9 @@
 				"skills": [
 					"Magic for All",
 					"Arcane Arts"
+				],
+				"BasicEquipment": [
+					"Spinning Disc"
 				],
 				"points": 17,
 				"health": 4,
@@ -5461,6 +5479,9 @@
 					"Freezing Rain",
 					"Sub-Zero"
 				],
+				"BasicEquipment": [
+					"Ice Spell"
+				],
 				"points": 16,
 				"health": 4,
 				"toughness": 2,
@@ -5491,6 +5512,9 @@
 				"skills": [
 					"I Command You",
 					"Ruthless Leader"
+				],
+				"BasicEquipment": [
+					"Energy Cannon"
 				],
 				"points": 20,
 				"health": 5,
@@ -5525,6 +5549,9 @@
 					"Covered with Fur",
 					"The Ferocious Warrior"
 				],
+				"BasicEquipment": [
+					"Horde Axe"
+				],
 				"points": 15,
 				"health": 6,
 				"toughness": 3,
@@ -5555,6 +5582,9 @@
 					"Nimble Evasion",
 					"It Belongs to Me"
 				],
+				"BasicEquipment": [
+					"Catra's Whip"
+				],
 				"points": 15,
 				"health": 4,
 				"toughness": 2,
@@ -5584,6 +5614,9 @@
 				"skills": [
 					"Mind Control",
 					"Shadow Magic"
+				],
+				"BasicEquipment": [
+					"Overwhelming Power"
 				],
 				"points": 16,
 				"health": 4,
@@ -5673,6 +5706,9 @@
 					"Power Drain",
 					"Stuck to the Wall"
 				],
+				"BasicEquipment": [
+					"Slug Armour"
+				],
 				"points": 16,
 				"health": 5,
 				"toughness": 2,
@@ -5703,6 +5739,9 @@
 					"Hunter Instinct",
 					"Living Shield"
 				],
+				"BasicEquipment": [
+					"Scorpia's Tail"
+				],
 				"points": 14,
 				"health": 4,
 				"toughness": 3,
@@ -5731,6 +5770,9 @@
 				"skills": [
 					"Radio Communication",
 					"A Thousand Cuts"
+				],
+				"BasicEquipment": [
+					"Energy Cannon"
 				],
 				"points": 30,
 				"health": 7,
