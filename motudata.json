@@ -5492,6 +5492,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731103786/Shadow_Weaver_Test_01_hcpoeh.png",
+				"limit": 2,
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
