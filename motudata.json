@@ -57,7 +57,7 @@
 		{
 			"propertyName": "BasicEquipment",
 			"label": "Basic Equipment",
-			"dataSource": "upgrades"
+			"dataSource": "keywords"
 		}
 	],
 	"elements": [
@@ -4382,9 +4382,6 @@
 					"Cursed Minions",
 					"Motivational Speech"
 				],
-				"BasicEquipment": [
-					"Teela's Sword"
-				],
 				"points": 16,
 				"health": 5,
 				"toughness": 2,
@@ -4418,9 +4415,6 @@
 					"Cursed Minions",
 					"Motivational Speech"
 				],
-				"BasicEquipment": [
-					"Staff of Power"
-				],
 				"points": 16,
 				"health": 4,
 				"toughness": 1,
@@ -4451,9 +4445,6 @@
 					"Trinket",
 					"Trinket",
 					"Dagger"
-				],
-				"BasicEquipment": [
-					"Short Axe"
 				],
 				"points": 15,
 				"health": 4,
@@ -4488,9 +4479,6 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
-				"BasicEquipment": [
-					"Laser Gun"
-				],
 				"points": 17,
 				"health": 5,
 				"toughness": 3,
@@ -4523,9 +4511,6 @@
 					"Dagger",
 					"Laser Pistol",
 					"Rebel Pistol"
-				],
-				"BasicEquipment": [
-					"Metal Fist"
 				],
 				"points": 18,
 				"health": 6,
@@ -4623,9 +4608,6 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
-				"BasicEquipment": [
-					"Sword of Power"
-				],
 				"points": 30,
 				"health": 8,
 				"toughness": 3,
@@ -4664,9 +4646,6 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
-				"BasicEquipment": [
-					"Arm Cannon"
-				],
 				"points": 18,
 				"health": 5,
 				"toughness": 4,
@@ -4700,9 +4679,6 @@
 				"skills": [
 					"Summon",
 					"Lord of Destruction"
-				],
-				"BasicEquipment": [
-					"Havoc Staff"
 				],
 				"points": 21,
 				"health": 5,
@@ -4740,9 +4716,6 @@
 					"To the Sky!",
 					"Leader of Avion"
 				],
-				"BasicEquipment": [
-					"Flamethrower"
-				],
 				"points": 17,
 				"health": 4,
 				"toughness": 2,
@@ -4775,9 +4748,6 @@
 					"Magic Hat",
 					"Traveller from Trolla"
 				],
-				"BasicEquipment": [
-					"Cosmic Storm"
-				],
 				"points": 16,
 				"health": 3,
 				"toughness": 1,
@@ -4808,9 +4778,6 @@
 				"skills": [
 					"Ramming Speed",
 					"Human Battering Ram"
-				],
-				"BasicEquipment": [
-					"Axe"
 				],
 				"points": 18,
 				"health": 6,
@@ -4843,9 +4810,6 @@
 				"skills": [
 					"Shared Power",
 					"Dark Presence"
-				],
-				"BasicEquipment": [
-					"Shadow Strike"
 				],
 				"points": 16,
 				"health": 4,
@@ -4883,9 +4847,6 @@
 					"Instant Puddle",
 					"Freezing Ray"
 				],
-				"BasicEquipment": [
-					"Trident"
-				],
 				"points": 17,
 				"health": 5,
 				"toughness": 3,
@@ -4919,9 +4880,6 @@
 				"skills": [
 					"Weapon Swap",
 					"Grappling Hook"
-				],
-				"BasicEquipment": [
-					"Hook Attachment"
 				],
 				"points": 16,
 				"health": 4,
@@ -4968,9 +4926,6 @@
 					"Gammavision",
 					"Optic Blast!"
 				],
-				"BasicEquipment": [
-					"Longsword"
-				],
 				"points": 17,
 				"health": 5,
 				"toughness": 4,
@@ -5003,9 +4958,6 @@
 				"skills": [
 					"Nightmare",
 					"Fearsome Presence"
-				],
-				"BasicEquipment": [
-					"Scythe of Doom"
 				],
 				"points": 17,
 				"health": 5,
@@ -5040,9 +4992,6 @@
 					"Primal Rage",
 					"Supernatural Endurance"
 				],
-				"BasicEquipment": [
-					"Beast Man's Whip"
-				],
 				"points": 19,
 				"health": 6,
 				"toughness": 2,
@@ -5073,9 +5022,6 @@
 				"skills": [
 					"Cold-Blooded",
 					"Tail Trashing"
-				],
-				"BasicEquipment": [
-					"Electro Shocker Spear"
 				],
 				"points": 19,
 				"health": 6,
@@ -5111,9 +5057,6 @@
 					"Evil Master of Odors",
 					"Stinking Delight"
 				],
-				"BasicEquipment": [
-					"Stink Gun"
-				],
 				"points": 16,
 				"health": 5,
 				"toughness": 3,
@@ -5146,9 +5089,6 @@
 				"skills": [
 					"Master of Escape",
 					"Hide and Seek"
-				],
-				"BasicEquipment": [
-					"Power Blaster"
 				],
 				"points": 16,
 				"health": 5,
@@ -5238,9 +5178,6 @@
 					"Deception",
 					"Panthor's Fangs"
 				],
-				"BasicEquipment": [
-					"Havoc Staff"
-				],
 				"points": 32,
 				"health": 8,
 				"toughness": 3,
@@ -5271,9 +5208,6 @@
 				"skills": [
 					"Superhuman Senses",
 					"One for All"
-				],
-				"BasicEquipment": [
-					"Sword of Protection"
 				],
 				"points": 19,
 				"health": 5,
@@ -5309,9 +5243,6 @@
 					"Hero to the Rescue!",
 					"Flying Beauty"
 				],
-				"BasicEquipment": [
-					"Sword of Protection"
-				],
 				"points": 32,
 				"health": 7,
 				"toughness": 3,
@@ -5345,9 +5276,6 @@
 					"Golden Heart",
 					"Heroic Intervention"
 				],
-				"BasicEquipment": [
-					"Combow"
-				],
 				"points": 17,
 				"health": 5,
 				"toughness": 3,
@@ -5377,9 +5305,6 @@
 				"skills": [
 					"Guiding Light",
 					"Invisibility"
-				],
-				"BasicEquipment": [
-					"Beam of Light"
 				],
 				"points": 14,
 				"health": 4,
@@ -5412,9 +5337,6 @@
 					"Neverending Life",
 					"Selfless Leader"
 				],
-				"BasicEquipment": [
-					"Angellic Sword"
-				],
 				"points": 18,
 				"health": 4,
 				"toughness": 2,
@@ -5444,9 +5366,6 @@
 				"skills": [
 					"Magic for All",
 					"Arcane Arts"
-				],
-				"BasicEquipment": [
-					"Spinning Disc"
 				],
 				"points": 17,
 				"health": 4,
@@ -5479,9 +5398,6 @@
 					"Freezing Rain",
 					"Sub-Zero"
 				],
-				"BasicEquipment": [
-					"Ice Spell"
-				],
 				"points": 16,
 				"health": 4,
 				"toughness": 2,
@@ -5512,9 +5428,6 @@
 				"skills": [
 					"I Command You",
 					"Ruthless Leader"
-				],
-				"BasicEquipment": [
-					"Energy Cannon"
 				],
 				"points": 20,
 				"health": 5,
@@ -5549,9 +5462,6 @@
 					"Covered with Fur",
 					"The Ferocious Warrior"
 				],
-				"BasicEquipment": [
-					"Horde Axe"
-				],
 				"points": 15,
 				"health": 6,
 				"toughness": 3,
@@ -5582,9 +5492,6 @@
 					"Nimble Evasion",
 					"It Belongs to Me"
 				],
-				"BasicEquipment": [
-					"Catra's Whip"
-				],
 				"points": 15,
 				"health": 4,
 				"toughness": 2,
@@ -5614,9 +5521,6 @@
 				"skills": [
 					"Mind Control",
 					"Shadow Magic"
-				],
-				"BasicEquipment": [
-					"Overwhelming Power"
 				],
 				"points": 16,
 				"health": 4,
@@ -5706,9 +5610,6 @@
 					"Power Drain",
 					"Stuck to the Wall"
 				],
-				"BasicEquipment": [
-					"Slug Armour"
-				],
 				"points": 16,
 				"health": 5,
 				"toughness": 2,
@@ -5739,9 +5640,6 @@
 					"Hunter Instinct",
 					"Living Shield"
 				],
-				"BasicEquipment": [
-					"Scorpia's Tail"
-				],
 				"points": 14,
 				"health": 4,
 				"toughness": 3,
@@ -5770,9 +5668,6 @@
 				"skills": [
 					"Radio Communication",
 					"A Thousand Cuts"
-				],
-				"BasicEquipment": [
-					"Energy Cannon"
 				],
 				"points": 30,
 				"health": 7,
@@ -5805,9 +5700,6 @@
 					"Serpent's Rage",
 					"Tyrantisaurus Bite"
 				],
-				"BasicEquipment": [
-					"Ancient Magic"
-				],
 				"points": "??",
 				"health": 8,
 				"toughness": 3,
@@ -5837,9 +5729,6 @@
 				"skills": [
 					"Vehicle",
 					"Indirect Fire"
-				],
-				"BasicEquipment": [
-					"Demolisher Missile"
 				],
 				"points": 28,
 				"health": 6,
