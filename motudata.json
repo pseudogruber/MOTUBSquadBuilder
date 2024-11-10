@@ -55,8 +55,8 @@
 			"label": "Skills"
 		},
 		{
-			"propertyName": "specialRules",
-			"label": "Special Rules",
+			"propertyName": "BasicEquipment",
+			"label": "Basic Equipment",
 			"dataSource": "keywords"
 		}
 	],
@@ -129,15 +129,15 @@
 							]
 						},
 						{
-							"propertyName": "specialRules",
-							"label": "Special Rules",
+							"propertyName": "BasicEquipment",
+							"label": "Basic Equipment",
 							"type": "static",
 							"dataSource": "keywords",
 							"defineInPreview": true,
 							"children": [
 								{
-									"label": "Special Rules",
-									"propertyName": "specialRules",
+									"label": "Basic Equipment",
+									"propertyName": "BasicEquipment",
 									"type": "static",
 									"dataSource": "keywords"
 								}
@@ -4287,7 +4287,7 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
-				"specialRules": [
+				"BasicEquipment": [
 					"He-Man Basic Equipment"
 				],
 				"points": 19,
