@@ -4701,6 +4701,9 @@
 					"Summon",
 					"Lord of Destruction"
 				],
+				"BasicEquipment": [
+					"Havoc Staff"
+				],
 				"points": 21,
 				"health": 5,
 				"toughness": 3,
@@ -4737,6 +4740,9 @@
 					"To the Sky!",
 					"Leader of Avion"
 				],
+				"BasicEquipment": [
+					"Flamethrower"
+				],
 				"points": 17,
 				"health": 4,
 				"toughness": 2,
@@ -4769,6 +4775,9 @@
 					"Magic Hat",
 					"Traveller from Trolla"
 				],
+				"BasicEquipment": [
+					"Cosmic Storm"
+				],
 				"points": 16,
 				"health": 3,
 				"toughness": 1,
@@ -4799,6 +4808,9 @@
 				"skills": [
 					"Ramming Speed",
 					"Human Battering Ram"
+				],
+				"BasicEquipment": [
+					"Axe"
 				],
 				"points": 18,
 				"health": 6,
