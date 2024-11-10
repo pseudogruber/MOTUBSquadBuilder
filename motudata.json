@@ -81,7 +81,20 @@
 					"type": "main",
 					"tierProperty": "heroicTier",
 					"tierData": "heroicTiers",
-					"tiers": [],
+                    "tiers":  [
+                        {
+                            "name": "Hero",
+                            "rank": 1
+                        },
+						{
+							"name": "The Great Rebellion",
+							"rank": 2
+						},
+						{
+							"name": "Fighting Foe Men",
+							"rank": 3
+						}
+                    ],
 					"children": [
 						{
 							"propertyName": "keywords",
@@ -253,6 +266,20 @@
 		}
 	],
 	"data": {
+		"heroicTiers": [
+			{
+				"name": "Hero",
+				"rank": 1
+			},
+			{
+				"name": "The Great Rebellion",
+				"rank": 2
+			},
+			{
+				"name": "Fighting Foe Men",
+				"rank": 3
+			}
+		],
 		"glorycards": [
 			{
 				"name": "During this activation or interruption, at least 2 different characters..",
@@ -264,9 +291,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -274,9 +298,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -290,9 +311,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -300,9 +318,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -316,9 +331,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -326,9 +338,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -342,9 +351,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -352,9 +358,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -368,9 +371,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -378,9 +378,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -394,9 +391,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -404,9 +398,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -420,9 +411,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -430,9 +418,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -446,9 +431,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -456,9 +438,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -472,9 +451,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -482,9 +458,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -498,9 +471,6 @@
 				"alternativeBonus": "+1 AP",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
-					},
-					{
 						"name": "Masters of the Universe"
 					},
 					{
@@ -508,9 +478,6 @@
 					},
 					{
 						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
 					}
 				]
 			},
@@ -3681,13 +3648,6 @@
 				"definition": "Gain +1 Die for every activated enemy.\n          1 success: 1 Wound\n          2 successes: 2 Wounds\n          4 successes: 3 Wounds"
 			},
 			{
-				"name": "Electro Shocker Spear",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"definition": "Before attacking, Whiplash can spend a Focus to gain 3 Dice and use this as a ranged weapon with range of 12\".\n          1 success: 1 Wound\n          3 successes: 1 Wound and 1 Wound (if this attack had a Focus)\n          4 successes: 2 Wound and 1 Wound (if this attack had a Focus)"
-			},
-			{
 				"name": "Dragon Blaster",
 				"points": 4,
 				"diceModifier": "+1",
@@ -3832,7 +3792,7 @@
 				"type": "Melee",
 					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 1 Wounds\n          5 successes: 3 Wounds",
 				"availableIn": [
-					"She-Ra"
+					"Angella"
 				]
 			},
 			{
@@ -4242,18 +4202,6 @@
 				"alignment": "Warbands",
 				"armyBonus": "",
 				"additionalRules": ""
-			},
-			{
-				"name": "The Great Rebellion",
-				"alignment": "Warbands",
-				"armyBonus": "",
-				"additionalRules": ""
-			},
-			{
-				"name": "Fighting Foe Men",
-				"alignment": "Warbands",
-				"armyBonus": "",
-				"additionalRules": ""
 			}
 		],
 		"characters": [
@@ -4262,7 +4210,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904065/He-Man_Test_01_hce86t.png",
@@ -4300,7 +4248,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720902725/Teela_Test_01_p4p8le.png",
@@ -4333,7 +4281,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720903576/Sorceress_Test_01_lqcs3f.png",
@@ -4366,7 +4314,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721250781/Buzz-Off_Test_01_arirja.png",
@@ -4397,7 +4345,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721251671/Man-E-Faces_Test_01_ivp3az.png",
@@ -4430,7 +4378,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721291165/Fisto_Test_01_kojzcs.png",
@@ -4463,7 +4411,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721290462/Palace_Guard_A_Test_01_xflqmu.png",
@@ -4494,7 +4442,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721289520/Palace_Guard_Test_01_wxzr18.png",
@@ -4525,7 +4473,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721260948/He-Man_with_Battlecat_Test_01_bqlbo3.png",
@@ -4562,7 +4510,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720863653/Men-At-Arms_Test_01_olojko.png",
@@ -4598,7 +4546,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"upgradeTypes": [
@@ -4631,7 +4579,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904853/Stratos_Test_01_wrej7h.png",
@@ -4667,7 +4615,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720910474/Orko_01_hrynje.png",
@@ -4699,7 +4647,7 @@
 				"factions": [
 					{
 						"name": "Masters of the Universe",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720946549/Ram_Man_Test_01_tczzyv.png",
@@ -4730,7 +4678,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721261171/Evil-Lyn_02_oiwxya.png",
@@ -4762,7 +4710,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720946048/Mer-Man_Test_01_kthqc5.png",
@@ -4798,7 +4746,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720903180/Trap-Jaw_Test_01_ee3uhk.png",
@@ -4841,7 +4789,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720905152/Tri-Klops_Test_01_dlgetv.png",
@@ -4877,7 +4825,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720901726/Scareglow_Test_01_f5si25.png",
@@ -4910,7 +4858,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720902161/Beast-Man_Test_01_tw9zrb.png",
@@ -4943,7 +4891,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720957974/Whiplash_Test_01_tnau6l.png",
@@ -4974,7 +4922,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720956312/Stinkor_Test_01_bcz6q0.png",
@@ -5008,7 +4956,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721296590/Webstor_Test_01_oi52xa.png",
@@ -5041,7 +4989,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721295634/Hover_Robot_A_Test_01_lvk6oa.png",
@@ -5068,7 +5016,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721296151/Hover_Robot_B_Test_01_rettam.png",
@@ -5095,7 +5043,7 @@
 				"factions": [
 					{
 						"name": "Evil Warriors",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721259656/Skeletor_with_Panthor_Test_01_m3bbyg.png",
@@ -5128,8 +5076,12 @@
 				"name": "She-Ra",
 				"factions": [
 					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "The Great Rebellion"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "The Great Rebellion"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731013770/She-Ra_Test_01_liz0j6.png",
@@ -5159,8 +5111,12 @@
 				"name": "Bow",
 				"factions": [
 					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "The Great Rebellion"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "The Great Rebellion"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731014740/Bow_Test_01_oqqlgo.png",
@@ -5189,8 +5145,12 @@
 				"name": "Glimmer",
 				"factions": [
 					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "The Great Rebellion"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "The Great Rebellion"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731015735/Glimmer_Test_01_miragu.png",
@@ -5219,8 +5179,12 @@
 				"name": "Angella",
 				"factions": [
 					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "The Great Rebellion"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "The Great Rebellion"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731016427/Angella_Test_01_tsfhe6.png",
@@ -5250,8 +5214,12 @@
 				"name": "Castaspella",
 				"factions": [
 					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "The Great Rebellion"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "The Great Rebellion"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731018811/Castaspella_Test_01_olmkvd.png",
@@ -5280,8 +5248,12 @@
 				"name": "Frosta",
 				"factions": [
 					{
-						"name": "The Great Rebellion",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "The Great Rebellion"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "The Great Rebellion"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731019570/Frosta_Test_01_u9p7cc.png",
@@ -5312,7 +5284,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101203/Hordak_Test_01_wodl9a.png",
@@ -5343,7 +5315,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731099749/Grizzlor_Test_01_lxmcsy.png",
@@ -5373,7 +5345,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101667/Catra_Test_01_zbbtda.png",
@@ -5403,7 +5375,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104487/Shadow_Weaver_Test_01_rg1s9y.png",
@@ -5433,7 +5405,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104102/Horde_Trooper_Test_01_vlzmxj.png",
@@ -5461,7 +5433,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731103786/Shadow_Weaver_Test_01_hcpoeh.png",
@@ -5489,7 +5461,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731106609/Leech_Test_01_ugpzdd.png",
@@ -5519,7 +5491,7 @@
 				"factions": [
 					{
 						"name": "Evil Horde",
-						"heroicTier": "Independent Hero"
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731107733/Scorpia_Test_01_tcy1hg.png",
@@ -5546,8 +5518,12 @@
 				"name": "Dawg-O-Tor in Battle Ram",
 				"factions": [
 					{
-						"name": "Fighting Foe Men",
-						"heroicTier": "Independent Hero"
+						"name": "Evil Warriors",
+						"heroicTier": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "Fighting Foe Men"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
