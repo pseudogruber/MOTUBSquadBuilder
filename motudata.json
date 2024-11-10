@@ -5788,40 +5788,6 @@
 				]
 			},
 			{
-				"name": "King Hiss with Tyrantisaurus",
-				"factions": [
-					{
-						"name": "Snake Men"
-					}
-				],
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
-				"upgradeTypes": [
-					"Spell",
-					"Shield",
-					"Trinket",
-					"Trinket"
-				],
-				"skills": [
-					"Serpent's Rage",
-					"Tyrantisaurus Bite"
-				],
-				"BasicEquipment": [
-					"Ancient Magic"
-				],
-				"points": "??",
-				"health": 8,
-				"toughness": 3,
-				"mind": 3,
-				"power": 5,
-				"perception": 2,
-				"strength": 6,
-				"standardspeed": 5,
-				"focusedspeed": 8,
-				"unavailableWith": [
-					"King Hiss"
-				]
-			},
-			{
 				"name": "Dawg-O-Tor in Battle Ram",
 				"factions": [
 					{
