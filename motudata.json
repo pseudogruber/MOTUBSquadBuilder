@@ -4288,31 +4288,31 @@
 		"factions": [
 			{
 				"name": "Masters of the Universe",
-				"alignment": "Warbands",
+				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": ""
 			},
 			{
 				"name": "Evil Warriors",
-				"alignment": "Warbands",
+				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": ""
 			},
 			{
 				"name": "Evil Horde",
-				"alignment": "Warbands",
+				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": ""
 			},
 			{
 				"name": "The Great Rebellion",
-				"alignment": "Warbands",
+				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": ""
 			},
 			{
 				"name": "Fighting Foe Men",
-				"alignment": "Warbands",
+				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": ""
 			}
