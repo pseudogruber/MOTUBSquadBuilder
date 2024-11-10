@@ -2814,7 +2814,7 @@
 				"name": "Electro Shocker Spear",
 				"points": 3,
 				"unique": true,
-				"type": "Ranged",
+				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "Before attacking, Whiplash can spend a Focus to gain 3 Dice and use this as a ranged weapon with range of 12\".\n          1 success: 1 Wound\n3 successes: 1 Wound 1 Wound (if this attack had a Focus)\n4 successes: 2 Wound 1 Wound (if this attack had a Focus)",
 				"availableIn": [
