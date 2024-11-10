@@ -5791,7 +5791,8 @@
 				"name": "King Hiss with Tyrantisaurus",
 				"factions": [
 					{
-						"name": "Snake Men"
+						"name": "Snake Men",
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
@@ -5822,7 +5823,8 @@
 				"name": "Dawg-O-Tor in Battle Ram",
 				"factions": [
 					{
-						"name": "Fighting Foe Men"
+						"name": "Fighting Foe Men",
+						"heroicTier": "Hero"
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
