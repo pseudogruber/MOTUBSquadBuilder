@@ -3681,6 +3681,13 @@
 				"definition": "Gain +1 Die for every activated enemy.\n          1 success: 1 Wound\n          2 successes: 2 Wounds\n          4 successes: 3 Wounds"
 			},
 			{
+				"name": "Electro Shocker Spear",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"definition": "Before attacking, Whiplash can spend a Focus to gain 3 Dice and use this as a ranged weapon with range of 12\".\n          1 success: 1 Wound\n          3 successes: 1 Wound and 1 Wound (if this attack had a Focus)\n          4 successes: 2 Wound and 1 Wound (if this attack had a Focus)"
+			},
+			{
 				"name": "Dragon Blaster",
 				"points": 4,
 				"diceModifier": "+1",
