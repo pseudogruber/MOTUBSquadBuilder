@@ -5463,7 +5463,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104102/Horde_Trooper_Test_01_vlzmxj.png",
-				"limit": 2
+				"limit": 2,
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
