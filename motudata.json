@@ -57,7 +57,7 @@
 		{
 			"propertyName": "BasicEquipment",
 			"label": "Basic Equipment",
-			"dataSource": "keywords"
+			"dataSource": "upgrades"
 		}
 	],
 	"elements": [
