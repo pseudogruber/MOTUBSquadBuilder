@@ -359,7 +359,7 @@
 				]
 			},
 			{
-				"name": "Use two ultimate skills until EOR.",
+				"name": "Use two ultimate skills during the round.",
 				"initiative": 9,
 				"ap": 2,
 				"mp": 2,
@@ -2507,11 +2507,11 @@
 				]
 			},
 			{
-				"name": "Remove Buff, receive a Focus and 2 mana.",
+				"name": "Remove Buff, gain a Focus and 2 mana.",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
-				"description": "If this character has a buff token, remove it to receive a Focus and 2 Mana.\n          OR +1 Mana.",
+				"description": "If this character has a Buff token, remove it to gain a Focus and 2 Mana.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -2535,7 +2535,7 @@
 				"initiative": 5,
 				"ap": 3,
 				"mp": 1,
-				"description": "At the end of this round, this character does not lose their buffs or debuffs.\n          OR +1 Mana.",
+				"description": "At the end of this round, the character does not lose their Buffs or Debuffs.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -3861,10 +3861,57 @@
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
-					"definition": "If this character has a Buff token, upon activation, gain 1 Mana token.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds",
+					"definition": "If this character has a Buff token, upon activation, gain 1 Mana token.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds"
+			},
+			{
+				"name": "Beam of Light",
+				"points": 1,
+				"mana": 1,
+				"range": 16,
+				"unique": true,
+				"type": "Melee",
+					"definition": "This spell can target any character. If Glimmer was activated with initiative 8 or higher, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: A Blind token\n          2 successes: A Blind token and the target is teleported 3 hexes.",
 				"availableIn": [
-					"Angella"
+					"Glimmer"
 				]
+			},
+			{
+				"name": "Ice Spell",
+				"points": 3,
+				"mana": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Spell",
+					"definition": "During interruptions, attacks with this spell do not receive a penalty to the scope and gain +1 Die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Cripple token\n          4 successes: 2 Wounds and a Cripple token",
+				"availableIn": [
+					"Frosta"
+				]
+			},
+			{
+				"name": "Mighty Bonk",
+				"points": 1,
+				"mana": 1,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell can be used when engaged. Can only target enemies this character is engaged with. During the interruption, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and the target is pushed 2 hexes."
+			},
+			{
+				"name": "Three Moons Presence",
+				"points": 1,
+				"mana": 1,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell affects all your characters with a Buff token. Its scope cannot be modified. Do not make defence tests.\n          1 Success: Target loses a Buff token but gains 2 Mana tokens\n          2 Successes: Target loses a Buff token but gains 2 Mana tokens and a Focus."
+			},
+			{
+				"name": "Moonless Night",
+				"points": 2,
+				"mana": 1,
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell affects all characters with a Debuff token. Its scope cannot be modified\n          1 Success: Target loses 2 Mmana and a Debuff\n          2 Successes: 1 Wound and Target loses 2 Mmana and a Debuff."
 			},
 			{
 				"name": "Axe Comb",
@@ -4012,6 +4059,13 @@
 				"unique": true,
 				"type": "Armour",
 					"definition": "Defence tests against enemies activated with initiative 7 or hight, gain +1 Die."
+			},
+			{
+				"name": "Energy Shield",
+				"points": 3,
+				"unique": true,
+				"type": "Shield",
+					"definition": "When a character has a Buff, gain +1 to the scope of defence tests, against all frontal attacks."
 			},
 			{
 				"name": "Halo",
