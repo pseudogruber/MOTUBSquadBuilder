@@ -4382,6 +4382,9 @@
 					"Cursed Minions",
 					"Motivational Speech"
 				],
+				"BasicEquipment": [
+					"Sword of Power"
+				],
 				"points": 16,
 				"health": 5,
 				"toughness": 2,
