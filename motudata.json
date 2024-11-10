@@ -4678,43 +4678,6 @@
 				"focusedspeed": 8
 			},
 			{
-				"name": "Skeletor",
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904444/Skeletor_Test_01_dng5aq.png",
-				"factions": [
-					{
-						"name": "Evil Warriors",
-						"heroicTier": "Hero"
-					}
-				],
-				"upgradeTypes": [
-					"Melee",
-					"Spell",
-					"Armour",
-					"Shield",
-					"Trinket",
-					"Trinket",
-					"Dagger",
-					"Cursed Minions",
-					"Motivational Speech"
-				],
-				"skills": [
-					"Summon",
-					"Lord of Destruction"
-				],
-				"BasicEquipment": [
-					"Havoc Staff"
-				],
-				"points": 21,
-				"health": 5,
-				"toughness": 3,
-				"mind": 3,
-				"power": 5,
-				"perception": 2,
-				"strength": 4,
-				"standardspeed": 5,
-				"focusedspeed": 8
-			},
-			{
 				"name": "Stratos",
 				"factions": [
 					{
@@ -4823,6 +4786,43 @@
 				"focusedspeed": 6
 			},
 			{
+				"name": "Skeletor",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904444/Skeletor_Test_01_dng5aq.png",
+				"factions": [
+					{
+						"name": "Evil Warriors",
+						"heroicTier": "Hero"
+					}
+				],
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Armour",
+					"Shield",
+					"Trinket",
+					"Trinket",
+					"Dagger",
+					"Cursed Minions",
+					"Motivational Speech"
+				],
+				"skills": [
+					"Summon",
+					"Lord of Destruction"
+				],
+				"BasicEquipment": [
+					"Havoc Staff"
+				],
+				"points": 21,
+				"health": 5,
+				"toughness": 3,
+				"mind": 3,
+				"power": 5,
+				"perception": 2,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
 				"name": "Evil-Lyn",
 				"factions": [
 					{
@@ -4843,6 +4843,9 @@
 				"skills": [
 					"Shared Power",
 					"Dark Presence"
+				],
+				"BasicEquipment": [
+					"Shadow Strike"
 				],
 				"points": 16,
 				"health": 4,
@@ -4880,6 +4883,9 @@
 					"Instant Puddle",
 					"Freezing Ray"
 				],
+				"BasicEquipment": [
+					"Trident"
+				],
 				"points": 17,
 				"health": 5,
 				"toughness": 3,
@@ -4889,49 +4895,6 @@
 				"strength": 4,
 				"standardspeed": 5,
 				"focusedspeed": 8
-			},
-			{
-				"name": "Trap Jaw",
-				"factions": [
-					{
-						"name": "Evil Warriors",
-						"heroicTier": "Hero"
-					}
-				],
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720903180/Trap-Jaw_Test_01_ee3uhk.png",
-				"upgradeTypes": [
-					"Ranged",
-					"Armour",
-					"Trinket",
-					"Trinket",
-					"Trinket",
-					"Hook Attachment",
-					"Laser Attachment",
-					"Laser Pistol",
-					"Rebel Pistol"
-				],
-				"skills": [
-					"Weapon Swap",
-					"Grappling Hook"
-				],
-				"points": 16,
-				"health": 4,
-				"toughness": 2,
-				"mind": 3,
-				"power": 2,
-				"perception": 5,
-				"strength": 3,
-				"standardspeed": 5,
-				"focusedspeed": 5,
-				"requiredChildren": [
-					{
-						"name": "Hook Attachment",
-						"points": 2,
-						"elementPropertyName": "upgrades",
-						"quantity": 1,
-						"upgradeIndex": 5
-					}
-				]
 			},
 			{
 				"name": "Tri-Klops",
@@ -4959,6 +4922,9 @@
 					"Gammavision",
 					"Optic Blast!"
 				],
+				"BasicEquipment": [
+					"Longsword"
+				],
 				"points": 17,
 				"health": 5,
 				"toughness": 4,
@@ -4968,6 +4934,52 @@
 				"strength": 5,
 				"standardspeed": 4,
 				"focusedspeed": 6
+			},
+			{
+				"name": "Trap Jaw",
+				"factions": [
+					{
+						"name": "Evil Warriors",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720903180/Trap-Jaw_Test_01_ee3uhk.png",
+				"upgradeTypes": [
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket",
+					"Trinket",
+					"Hook Attachment",
+					"Laser Attachment",
+					"Laser Pistol",
+					"Rebel Pistol"
+				],
+				"skills": [
+					"Weapon Swap",
+					"Grappling Hook"
+				],
+				"BasicEquipment": [
+					"Hook Attachment"
+				],
+				"points": 16,
+				"health": 4,
+				"toughness": 2,
+				"mind": 3,
+				"power": 2,
+				"perception": 5,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 5,
+				"requiredChildren": [
+					{
+						"name": "Hook Attachment",
+						"points": 2,
+						"elementPropertyName": "upgrades",
+						"quantity": 1,
+						"upgradeIndex": 5
+					}
+				]
 			},
 			{
 				"name": "Scareglow",
@@ -4991,6 +5003,9 @@
 				"skills": [
 					"Nightmare",
 					"Fearsome Presence"
+				],
+				"BasicEquipment": [
+					"Scythe of Doom"
 				],
 				"points": 17,
 				"health": 5,
@@ -5025,6 +5040,9 @@
 					"Primal Rage",
 					"Supernatural Endurance"
 				],
+				"BasicEquipment": [
+					"Beast Man's Whip"
+				],
 				"points": 19,
 				"health": 6,
 				"toughness": 2,
@@ -5055,6 +5073,9 @@
 				"skills": [
 					"Cold-Blooded",
 					"Tail Trashing"
+				],
+				"BasicEquipment": [
+					"Electro Shocker Spear"
 				],
 				"points": 19,
 				"health": 6,
@@ -5090,6 +5111,9 @@
 					"Evil Master of Odors",
 					"Stinking Delight"
 				],
+				"BasicEquipment": [
+					"Stink Gun"
+				],
 				"points": 16,
 				"health": 5,
 				"toughness": 3,
@@ -5122,6 +5146,9 @@
 				"skills": [
 					"Master of Escape",
 					"Hide and Seek"
+				],
+				"BasicEquipment": [
+					"Power Blaster"
 				],
 				"points": 16,
 				"health": 5,
@@ -5210,6 +5237,9 @@
 				"skills": [
 					"Deception",
 					"Panthor's Fangs"
+				],
+				"BasicEquipment": [
+					"Havoc Staff"
 				],
 				"points": 32,
 				"health": 8,
