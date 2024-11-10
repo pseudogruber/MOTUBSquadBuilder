@@ -4418,6 +4418,9 @@
 					"Cursed Minions",
 					"Motivational Speech"
 				],
+				"BasicEquipment": [
+					"Staff of Power"
+				],
 				"points": 16,
 				"health": 4,
 				"toughness": 1,
@@ -4448,6 +4451,9 @@
 					"Trinket",
 					"Trinket",
 					"Dagger"
+				],
+				"BasicEquipment": [
+					"Short Axe"
 				],
 				"points": 15,
 				"health": 4,
@@ -4482,6 +4488,9 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
+				"BasicEquipment": [
+					"Laser Gun"
+				],
 				"points": 17,
 				"health": 5,
 				"toughness": 3,
@@ -4514,6 +4523,9 @@
 					"Dagger",
 					"Laser Pistol",
 					"Rebel Pistol"
+				],
+				"BasicEquipment": [
+					"Metal Fist"
 				],
 				"points": 18,
 				"health": 6,
@@ -4611,6 +4623,9 @@
 					"Laser Pistol",
 					"Rebel Pistol"
 				],
+				"BasicEquipment": [
+					"Sword of Power"
+				],
 				"points": 30,
 				"health": 8,
 				"toughness": 3,
@@ -4648,6 +4663,9 @@
 					"Arm Cannon",
 					"Laser Pistol",
 					"Rebel Pistol"
+				],
+				"BasicEquipment": [
+					"Arm Cannon"
 				],
 				"points": 18,
 				"health": 5,
