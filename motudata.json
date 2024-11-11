@@ -3877,10 +3877,7 @@
 				"range": 16,
 				"unique": true,
 				"type": "Spell",
-					"definition": "This spell can target any character. If Glimmer was activated with initiative 8 or higher, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: A Blind token\n          2 successes: A Blind token and the target is teleported 3 hexes.",
-				"availableIn": [
-					"Glimmer"
-				]
+					"definition": "This spell can target any character. If Glimmer was activated with initiative 8 or higher, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: A Blind token\n          2 successes: A Blind token and the target is teleported 3 hexes."
 			},
 			{
 				"name": "Ice Spell",
