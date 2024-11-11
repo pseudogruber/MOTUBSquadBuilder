@@ -143,7 +143,8 @@
 							"statsTableDirection": "horizontal",
 							 "icons": {
 								"Melee": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731330773/Icon_EQ_Melee_2_p1dkxb.png",
-								 "Ranged": " https://urltorangedimage.png"
+								"Ranged": "https://urltorangedimage.png"
+								 },
 							"stats": [
 								{
 									"name": "Mana Cost",
