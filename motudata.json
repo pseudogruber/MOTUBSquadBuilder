@@ -2766,6 +2766,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "If the attack uses a focus, add +1 dice.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
 				"availableIn": [
 					"Ram Man"
 				]
@@ -2793,6 +2794,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "Each time an ally receives at least 1 wound, Skeletor gains 1 mana.",
+				"highlight": true,
 				"availableIn": [
 					"Skeletor",
 					"Skeletor with Panthor"
@@ -2806,6 +2808,7 @@
 				"diceModifier": "0",
 				"range": 12,
 				"definition": "Gain +1 Die for every 2 Mana in Stinkor's Posession\n          1 success: 1 Wound\n2 successes: 1 Wound and a Blind debuff\n3 successes: 2 Wounds and a Blind debuff",
+				"highlight": true,
 				"availableIn": [
 					"Stinkor"
 				]
@@ -2817,6 +2820,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "Before attacking, Whiplash can spend a Focus to gain 3 Dice and use this as a ranged weapon with range of 12\".\n          1 success: 1 Wound\n3 successes: 1 Wound 1 Wound (if this attack had a Focus)\n4 successes: 2 Wound 1 Wound (if this attack had a Focus)",
+				"highlight": true,
 				"availableIn": [
 					"Whiplash"
 				]
@@ -2828,6 +2832,7 @@
 				"type": "Melee",
 				"diceModifier": "+1",
 				"definition": "If an attack with this weapon results in 2 or more Successes, Teela can perform a free 2 hex move action. This action can be made in any direction and cannot be interrupted..\n          1 success: 1 Wounds\n4 successes: 2 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Teela"
 				]
@@ -2839,6 +2844,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "Upon interruption, gain 1 Mana.\n          During interruptions, Spell attacks are treated as skill tests and attack tests.\n          1 success: 1 Wounds\n3 successes: 2 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Sorceress"
 				]
@@ -2867,6 +2873,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "Before attacking, spend up to 3 mana to gain 1 dice per mana spent.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"highlight": true,
 				"availableIn": [
 					"He-Man",
 					"He-Man with Battle Cat"
@@ -2895,6 +2902,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "If the target is in difficult terrain, gain +1 die.\n          1 success: 1 wound\n          2 successes: 2 wounds\n          4 successes: 3 wounds",
+				"highlight": true,
 				"availableIn": [
 					"Mer-Man"
 				]
@@ -2930,6 +2938,7 @@
 				"type": "Melee",
 				"diceModifier": "0",
 				"definition": "If the target has a debuff, gain +1 die.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 2 wounds and 1 wound (if the target has a debuff)",
+				"highlight": true,
 				"availableIn": [
 					"Tri-Klops"
 				]
@@ -2941,6 +2950,7 @@
 				"type": "Hook Attachment",
 				"diceModifier": "+1",
 				"definition": "Trap Jaw must equip this weapon.\n          This does not use a melee weapon slot.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
 				"availableIn": [
 					"Trap Jaw"
 				]
@@ -2952,6 +2962,7 @@
 				"type": "Laser Attachment",
 				"diceModifier": "-1",
 				"definition": "This does not use a ranged weapon slot.\n          Before attacking, Trap Jaw may spend either 1 extra AP to gain one of the bonuse below or 2 extra AP to gain both bonuses:\n          +2 dice or increase range by 4\"\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"highlight": true,
 				"availableIn": [
 					"Trap Jaw"
 				]
@@ -2980,6 +2991,7 @@
 				"diceModifier": "0",
 				"range": 12,
 				"definition": "This does not use a ranged weapon slot. Attacks with this weapon cost 1 AP less (to a minimum of 1) and do not receive a penalty to the scope during interruption.\n          1 success: 1 wound\n          4 successes: 2 wounds"
+				"highlight": true,
 			},
 			{
 				"name": "Fear Gas Cannon",
@@ -2998,6 +3010,7 @@
 				"range": 8,
 				"diceModifier": "-1",
 				"definition": "This weapon affects the target and all characters within 2 hexes from them. Targets' defence tests only succeed on results of 6.\n          2 successes: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
 				"availableIn": [
 					"Stratos"
 				]
@@ -3056,6 +3069,7 @@
 				"mana": "0",
 				"diceModifier": "0",
 				"definition": "Instead of resolving the most expensive effect, choose any effect based on the number of successes rolled.\n          1 success: Orko gains 2 mana\n          2 successes: 1 wound\n          3 successes: Teleport target 3 hexes",
+				"highlight": true,
 				"availableIn": [
 					"Orko"
 				]
@@ -3139,6 +3153,7 @@
 				"mana": 1,
 				"diceModifier": "-1",
 				"definition": "Before attacking, spend up to 3 mana to gain 1 die per mana spent.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"highlight": true,
 				"availableIn": [
 					"Evil-Lyn"
 				]
@@ -3381,6 +3396,7 @@
 				"unique": true,
 				"type": "Armour",
 				"definition": "Attacks of opportunity against a Tyrantisaurus have their scope decreased by 1 (instead of increased)",
+				"highlight": true,
 				"availableIn": [
 					"Tyrantisaurus"
 				]
@@ -3508,6 +3524,7 @@
 				"unique": true,
 				"type": "Melee",
 				"definition": "Once per activation, if Beast Man made a Melee Attack, he can spend 2 Mana to immediately perform a free Melee Attack with this weapon.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Beast Man"
 				]
@@ -3557,6 +3574,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"definition": "This weapon cannot use a Focus and its scope cannot be modified. Gain +1 Die for every 5\" between Tyrantisaurus and the target.\n          1 success: 1 Wound\n          3 successes: 1 Wound and a Blind debuff\n          4 successes: 2 Wounds and a Blind debuff",
+				"highlight": true,
 				"availableIn": [
 					"Tyrantisaurus"
 				]
@@ -3568,6 +3586,7 @@
 				"unique": true,
 				"type": "Melee",
 				"definition": "This weapon affects all characters engaged with a Tyrantisaurus.\n          -1 Die for every engaged character (to a maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds and push target 2 hexes",
+				"highlight": true,
 				"availableIn": [
 					"Tyrantisaurus"
 				]
@@ -3579,6 +3598,7 @@
 				"unique": true,
 				"type": "Melee",
 				"definition": "Attacks with this weapon cost 1 AP less (to a minimum of 1).\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (if this attack had a Focus).",
+				"highlight": true,
 				"availableIn": [
 					"Buzz-Off"
 				]
@@ -3603,6 +3623,7 @@
 					}
 				],
 				"definition": "",
+				"highlight": true,
 				"availableIn": [
 					"Man-E-Faces"
 				]
@@ -3615,6 +3636,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"definition": "If Man-E-Faces gains a Robot Face, replace this weapon with Laser Gun (Robot).\n          If Man-E-Faces gains a Monster Face, replace this weapon with Laser Gun (Monster).\n          1 success: 1 Wound\n2 successes: 2 Wounds and Man-E-Faces gains a Protection Buff.",
+				"highlight": true,
 				"availableIn": [
 					"Man-E-Faces"
 				],
@@ -3628,6 +3650,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"definition": "At the end of the round, replace this weapon with Laser Gun (Human).\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Man-E-Faces"
 				],
@@ -3641,6 +3664,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"definition": "At the end of the round, replace this weapon with Laser Gun (Human).\n          This weapon can be used as a melee weapon.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Man-E-Faces"
 				],
@@ -3726,6 +3750,7 @@
 				"unique": true,
 				"type": "Melee",
 				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies' overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes",
+				"highlight": true,
 				"availableIn": [
 					"Fisto"
 				]
@@ -3828,6 +3853,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"definition": "If an attack with this weapon results in 2 or more Successes, Webstor can perform a free 2-hex move action.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff (if flank attack)\n5 successes: 2 Wounds and a Curse debuff (if flank attack)",
+				"highlight": true,
 				"availableIn": [
 					"Webstor"
 				]
@@ -3838,6 +3864,7 @@
 				"unique": true,
 				"type": "Melee",
 					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 1 Wounds\n          5 successes: 3 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"She-Ra"
 				]
@@ -3849,6 +3876,7 @@
 				"unique": true,
 				"type": "Ranged",
 					"definition": "Gain +1 Die for every Buff token on Bow.\n          1 success: 1 Wound\n          4 successes: 2 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Bow"
 				]
@@ -3859,6 +3887,7 @@
 				"unique": true,
 				"type": "Melee",
 					"definition": "If Angella was activated with initiative 7 or lower, gain +1 Die. Additionally, if Angella was activated with initiative 3 or lower, gain +1 Die.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          4 successes: 2 Wounds and 1 Wound if Angella was activated with Initiative 1",
+				"highlight": true,
 				"availableIn": [
 					"Angella"
 				]
@@ -3878,6 +3907,7 @@
 				"unique": true,
 				"type": "Spell",
 					"definition": "This spell can target any character. If Glimmer was activated with initiative 8 or higher, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: A Blind token\n          2 successes: A Blind token and the target is teleported 3 hexes.",
+				"highlight": true,
 				"availableIn": [
 					"Glimmer"
 				]
@@ -3890,6 +3920,7 @@
 				"unique": true,
 				"type": "Spell",
 					"definition": "During interruptions, attacks with this spell do not receive a penalty to the scope and gain +1 Die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Cripple token\n          4 successes: 2 Wounds and a Cripple token",
+				"highlight": true,
 				"availableIn": [
 					"Frosta"
 				]
@@ -3944,6 +3975,7 @@
 				"unique": true,
 				"type": "Spell",
 					"definition": "Target allies or enemies. If this spell knocks out the target, the targets allies gain 2 Mana tokens. If the target is an ally with an \"Endless Horde\" skill +2 Die.\n          1 Success: 1 Wound and target gains 2 Mana\n          4 Successes: 2 Wounds and target gains 3 Mana",
+				"highlight": true,
 				"availableIn": [
 					"Shadow Weaver"
 				]
@@ -3974,6 +4006,7 @@
 				"unique": true,
 				"type": "Ranged",
 					"definition": "Before attacking test power to gain 1 Die per success received (to a maximum of 5).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 successes: 3 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Hordak"
 				]
@@ -4000,6 +4033,7 @@
 				"unique": true,
 				"type": "Melee",
 					"definition": "Once per activation, after Catra makes a melee attack she can spend 2 Mana to immediately perform a free melee attack with this weapon\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and draw a fate card\n          4 Successes: 2 Wounds and draw a fate card",
+				"highlight": true,
 				"availableIn": [
 					"Catra"
 				]
@@ -4010,6 +4044,7 @@
 				"unique": true,
 				"type": "Melee",
 					"definition": "Before attacking, Grizzlor can spend either 2 Mana to gain one of the bonuses below or 4 Mana to gain both bonuses.\n           +2 (die) or focus\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
+				"highlight": true,
 				"availableIn": [
 					"Grizzlor"
 				]
@@ -4042,6 +4077,7 @@
 				"unique": true,
 				"type": "Trinket",
 					"definition": "Spell attacks of this character gain 1 free reroll for each ally with a buff token (to a maximum of 3).",
+				"highlight": true,
 				"availableIn": [
 					"Castaspella"
 				]
@@ -4187,6 +4223,7 @@
 				"unique": true,
 				"type": "Heavy Weapon",
 					"definition": "This wepon targets an empty hex and affects all allies and enemies within 2 hexes. After the attack, remove one piece of terrain located within 2 hexes\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds.",
+				"highlight": true,
 				"availableIn": [
 					"Dawg-O-Tor in Battle Ram"
 				]
@@ -4206,6 +4243,7 @@
 				"unique": true,
 				"type": "Melee",
 					"definition": "Immediately after an attack, Scorpia can spend 1 Mana to allow an ally with an \"Endless Horde\" skill to interrupt the attacked enemy.\n          1 Success: 1 Wound\n          2 Successes: 2 Successes: 1 Wound and a Curse debuff.",
+				"highlight": true,
 				"availableIn": [
 					"Scorpia"
 				]
@@ -4252,6 +4290,7 @@
 				"unique": true,
 				"type": "Armour",
 					"definition": "Gain +1 Toughness and +1 Mind for every 2 Mana in Leech's possession. Leech loses 1 Mana after every defence test.",
+				"highlight": true,
 				"availableIn": [
 					"Leech"
 				]
