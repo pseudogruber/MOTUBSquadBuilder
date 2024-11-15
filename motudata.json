@@ -3284,7 +3284,7 @@
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "Upon activation, gain 2 Mana."
+				"definition": "Upon activation, gain 1 Mana."
 			},
 			{
 				"name": "Polarizer",
