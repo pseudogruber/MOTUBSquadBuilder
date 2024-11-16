@@ -4401,9 +4401,11 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"BasicEquipment": [
 					"Sword of Power"
@@ -4440,8 +4442,10 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"BasicEquipment": [
@@ -4476,8 +4480,10 @@
 					"Spell",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"BasicEquipment": [
@@ -4512,7 +4518,11 @@
 					"Trinket",
 					"Trinket",
 					"Trinket",
-					"Dagger"
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"BasicEquipment": [
 					"Short Axe"
@@ -4546,9 +4556,11 @@
 					"Armour",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"BasicEquipment": [
 					"Laser Gun"
@@ -4582,9 +4594,11 @@
 					"Armour",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"BasicEquipment": [
 					"Metal Fist"
@@ -4616,9 +4630,11 @@
 					"Melee",
 					"Ranged",
 					"Armour",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"points": 9,
 				"health": 3,
@@ -4647,9 +4663,11 @@
 					"Melee",
 					"Ranged",
 					"Armour",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"points": 9,
 				"health": 3,
@@ -4681,9 +4699,11 @@
 					"Trinket",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"BasicEquipment": [
 					"Sword of Power"
@@ -4721,10 +4741,12 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Arm Cannon",
+					"Cursed Minions",
+					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"BasicEquipment": [
 					"Arm Cannon"
@@ -4755,11 +4777,11 @@
 					"Armour",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
-					"Motivational Speech",
+					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"To the Sky!",
@@ -4794,6 +4816,9 @@
 					"Trinket",
 					"Trinket",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"skills": [
@@ -4828,7 +4853,11 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
-					"Dagger"
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Ramming Speed",
@@ -4863,8 +4892,10 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"skills": [
@@ -4900,6 +4931,9 @@
 					"Trinket",
 					"Trinket",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"skills": [
@@ -4935,11 +4969,11 @@
 					"Armour",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
-					"Motivational Speech",
+					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Instant Puddle",
@@ -4974,10 +5008,10 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
 					"Rebel Pistol",
-					"Cursed Minions",
 					"Motivational Speech"
 				],
 				"skills": [
@@ -5014,8 +5048,11 @@
 					"Trinket",
 					"Hook Attachment",
 					"Laser Attachment",
+					"Cursed Minions",
+					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Weapon Swap",
@@ -5058,8 +5095,10 @@
 					"Armour",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"skills": [
@@ -5094,9 +5133,11 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Primal Rage",
@@ -5130,7 +5171,11 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
-					"Dagger"
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Cold-Blooded",
@@ -5165,9 +5210,11 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Evil Master of Odors",
@@ -5201,9 +5248,11 @@
 					"Trinket",
 					"Trinket",
 					"Trinket",
+					"Cursed Minions",
 					"Dagger",
 					"Laser Pistol",
-					"Rebel Pistol"
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Master of Escape",
@@ -5233,7 +5282,12 @@
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721295634/Hover_Robot_A_Test_01_lvk6oa.png",
 				"upgradeTypes": [
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Hovering Goon",
@@ -5260,7 +5314,12 @@
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721296151/Hover_Robot_B_Test_01_rettam.png",
 				"upgradeTypes": [
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Hovering Goon",
@@ -5292,8 +5351,10 @@
 					"Shield",
 					"Trinket",
 					"Trinket",
-					"Dagger",
 					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
 					"Motivational Speech"
 				],
 				"skills": [
@@ -5328,7 +5389,12 @@
 					"Armour",
 					"Shield",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Superhuman Senses",
@@ -5365,7 +5431,12 @@
 					"Armour",
 					"Shield",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Hero to the Rescue!",
@@ -5401,7 +5472,12 @@
 					"Ranged",
 					"Armour",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Golden Heart",
@@ -5434,7 +5510,12 @@
 					"Spell",
 					"Spell",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Guiding Light",
@@ -5468,7 +5549,12 @@
 					"Armour",
 					"Shield",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Neverending Life",
@@ -5501,7 +5587,12 @@
 					"Spell",
 					"Trinket",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Magic for All",
@@ -5535,7 +5626,12 @@
 					"Spell",
 					"Armour",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Freezing Rain",
@@ -5569,7 +5665,12 @@
 					"Spell",
 					"Armour",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"I Command You",
@@ -5605,7 +5706,12 @@
 					"Melee",
 					"Shield",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Covered with Fur",
@@ -5638,7 +5744,12 @@
 					"Ranged",
 					"Shield",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Nimble Evasion",
@@ -5671,7 +5782,12 @@
 					"Spell",
 					"Trinket",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Mind Control",
@@ -5703,7 +5819,12 @@
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Hordak's Enforcer",
@@ -5732,7 +5853,12 @@
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"For the Evil Horde!",
@@ -5762,7 +5888,12 @@
 					"Ranged",
 					"Armour",
 					"Shield",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Power Drain",
@@ -5795,7 +5926,12 @@
 					"Ranged",
 					"Trinket",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Hunter Instinct",
@@ -5827,7 +5963,12 @@
 					"Melee",
 					"Ranged",
 					"Armour",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Radio Communication",
@@ -5862,7 +6003,12 @@
 					"Spell",
 					"Shield",
 					"Trinket",
-					"Trinket"
+					"Trinket",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Serpent's Rage",
@@ -5893,7 +6039,12 @@
 				"upgradeTypes": [
 					"Heavy Weapon",
 					"Module",
-					"Module"
+					"Module",
+					"Cursed Minions",
+					"Dagger",
+					"Laser Pistol",
+					"Rebel Pistol",
+					"Motivational Speech"
 				],
 				"skills": [
 					"Vehicle",
