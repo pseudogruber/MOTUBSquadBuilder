@@ -3871,7 +3871,7 @@
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
-					"definition": "If this character has a Curse debuff, attacks with this weapon cost 1 Action less (to a minimum of 1) and gain +1 Die.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds",
+					"definition": "If this character has a Curse debuff, attacks with this weapon cost 1 Action less (to a minimum of 1) and gain +1 Die.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
 			},
 			{
 				"name": "Sword of Protection",
