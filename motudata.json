@@ -3207,7 +3207,7 @@
 				"points": 0,
 				"unique": true,
 				"type": "Armour",
-				"definition": "The character can have an additional trinket weapon.",
+				"definition": "The character can have an additional trinket.",
 				"addsUpgradeType": "Trinket"
 			},
 			{
