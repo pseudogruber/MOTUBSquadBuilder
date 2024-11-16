@@ -3778,7 +3778,7 @@
 				"range": 12,
 				"unique": true,
 				"type": "Ranged",
-				"definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Dice per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost"
+				"definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Die per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost"
 			},
 			{
 				"name": "Black Blaster",
@@ -3867,11 +3867,18 @@
 				]
 			},
 			{
+				"name": "Cursed Axe",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "If this character has a Curse debuff, attacks with this weapon cost 1 Action less (to a minimum of 1) and gain +1 Die.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds",
+			},
+			{
 				"name": "Sword of Protection",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
-					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 1 Wounds\n          5 successes: 3 Wounds",
+					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds",
 				"highlight": true,
 				"availableIn": [
 					"She-Ra"
