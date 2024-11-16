@@ -3504,7 +3504,7 @@
 				"name": "Rotating Shield",
 				"points": 1,
 				"unique": true,
-				"type": "Trinket",
+				"type": "Shield",
 				"definition": "After being attacked by a frontal Ranged Attack or Spell Attack, this character is pulled 2 hexes towards the attacker."
 			},
 			{
@@ -3523,7 +3523,11 @@
 				"diceModifier": "0",
 				"unique": true,
 				"type": "Melee",
-				"definition": "Before attacking, if the target has a Debuff, remove a Debuff from the target and gain +2 Dice.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff\n5 successes: 2 Wounds and a Curse debuff"
+				"definition": "Before attacking, if the target has a Debuff, remove a Debuff from the target and gain +2 Dice.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff\n5 successes: 2 Wounds and a Curse debuff",
+				"highlight": true,
+				"availableIn": [
+					"Scareglow"
+				]
 			},
 			{
 				"name": "Beast Man's Whip",
