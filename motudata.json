@@ -3781,7 +3781,7 @@
 				"diceModifier": "0",
 				"range": 12,
 				"unique": true,
-				"type": "Ranged",
+				"type": "Magic Wand",
 				"definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Die per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost"
 			},
 			{
