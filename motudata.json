@@ -6154,63 +6154,63 @@
 			},
 			{
 				"name": "Always Vigilant",
-				"definition": "At the end of the activation, if there are no enemies within 8\", gain an (overwatch token).",
+				"definition": "At the end of the activation, if there are no enemies within 8\", gain an Overwatch.",
 				"ap": 0,
 				"mana": 0
 			},
 			{
 				"name": "Master Tactician",
-				"definition": "Test (power) +1.\n            1 (success): The next ally activated this round gains 2 (mana token).\n            This ability cannot be used during an interruption.",
+				"definition": "Test (power) +1.\n            1 (success): The next ally activated this round gains 2 Mana.\n            This ability cannot be used during an interruption.",
 				"ap": 1,
 				"mana": 1
 			},
 			{
 				"name": "To the Sky!",
-				"definition": "If Stratos isnt' engaged, spend up to 5 (mana token) to jump 1 hex for every (mana token) spent.",
+				"definition": "If Stratos isnt' engaged, spend up to 5 Mana to jump 1 hex for every Mana spent.",
 				"mana": "X"
 			},
 			{
 				"name": "Leader of Avion",
-				"definition": "Test (power). 1 (success): Choose any activated ally (line of sight not required).\n            This ally gains a (focus token) or an (overwatch token).\n            This ability cannot be used during an interruption.",
+				"definition": "Test Power. 1 Success: Choose any activated ally (line of sight not required).\n            This ally gains a Focus or an Overwatch.\n            This ability cannot be used during an interruption.",
 				"mana": 1,
 				"ap": 1
 			},
 			{
 				"name": "Magic Hat",
-				"definition": "Orko starts the game with 3 (mana token).\n            Before Orko or ally within 8\" makes a defence test, Orko may spend up to 3 (mana token) and add to this test 1 extra (die) per (mana token) spent."
+				"definition": "Orko starts the game with 3 Mana.\n            Before Orko or ally within 8\" makes a defence test, Orko may spend up to 3 Mana and add to this test 1 extra Die per Mana spent."
 			},
 			{
 				"name": "Traveller from Trolla",
-				"definition": "After spending (mana token) and (action) for (spell), but before making an attack test, Orko has to make a (mind) +1 test.\n            If he does not roll at least 2 (success), his spell has no effect."
+				"definition": "After spending Mana and Action for Spell attack, but before making an attack test, Orko has to make a Mind +1 test.\n            If he does not roll at least 2 Successes, his spell has no effect."
 			},
 			{
 				"name": "Ramming Speed",
 				"ap": 1,
 				"mana": 2,
-				"definition": "Ram Man makes a free move action with his (speed) value +2 (to a maximum of 6). Test (strenth) against (toughness) of each enemy within 2 hexes.\n            1 (success): (Knockdown debuff token)"
+				"definition": "Ram Man makes a free move action with his Speed value +2 (to a maximum of 6). Test Strenth against Toughness of each enemy within 2 hexes.\n            1 Success: Knockdown debuff"
 			},
 			{
 				"name": "Human Battering Ram",
-				"definition": "If Ram Man ends his activation engaged, he gains a (focus token)."
+				"definition": "If Ram Man ends his activation engaged, he gains a Focus."
 			},
 			{
 				"name": "Instant Puddle",
-				"definition": "Test (power).\n            1 (success): Place a (Mer-Man mark token) within 8\". The area within 2 hexes from a (Mer-Man mark token) is treated as difficult terrain.",
+				"definition": "Test Power.\n            1 Success: Place a Mer-Man mark token within 8\". The area within 2 hexes from a Mer-Man mark token is treated as difficult terrain.",
 				"mana": 2
 			},
 			{
 				"name": "Freezing Ray",
-				"definition": "Test (power) +1 against the (mind) of an enemy within 12\".\n            1 (success): (cripple debuff token).",
+				"definition": "Test Power +1 against the Mind of an enemy within 12\".\n            1 Success: Cripple debuff.",
 				"mana": 2
 			},
 			{
 				"name": "Gammavision",
-				"definition": "Test (power) +2 against the (mind) of an enemy within 12\".\n            1 (success): (Tri-Klops mark token), all attacks against a character with a (Tri-Klops mark token) gain a (focus token).",
+				"definition": "Test Power +2 against the Mind of an enemy within 12\".\n            1 Success: Tri-Klops mark token, all attacks against a character with a Tri-Klops mark token gain a Focus.",
 				"mana": 2
 			},
 			{
 				"name": "Optic Blast!",
-				"definition": "If an enemy within 8\" receives a (Debuff token), Tri-Klops can spend 1 to 3 (mana token) and test (power) (+1 Die per (mana token) spent) against the (mind) of this enemy.\n            1 (success): 1 (wound token)."
+				"definition": "If an enemy within 8\" receives a Debuff, Tri-Klops can spend 1 to 3 Mana and test Power (+1 Die per Mana spent) against the Mind of this enemy.\n            1 Success: 1 Wound."
 			},
 			{
 				"name": "Weapon Swap",
@@ -6219,7 +6219,7 @@
 			},
 			{
 				"name": "Grappling Hook",
-				"definition": "If Trap Jaw has the 'Hook Attachment' equipped, test (perception) -1.\n            Trap Jaw can jump in a straigth line up to 2 hexes per (success).",
+				"definition": "If Trap Jaw has the 'Hook Attachment' equipped, test Perception -1.\n            Trap Jaw can jump in a straigth line up to 2 hexes per Success.",
 				"mana": 2
 			},
 			{
@@ -6232,12 +6232,12 @@
 			},
 			{
 				"name": "Vision of the Future",
-				"definition": "Test (Power).\n            For every Success look at a top fate card, then place them back on the top of a fate deck in any order.",
+				"definition": "Test Power.\n            For every Success look at a top fate card, then place them back on the top of a fate deck in any order.",
 				"mana": 1
 			},
 			{
 				"name": "Telepathic Guide",
-				"definition": "This ability can only be used during an interruption. Choose an ally within 12\" and test (Power) -1.\n            2 Successes: The ally interrupts the same enemy."
+				"definition": "This ability can only be used during an interruption. Choose an ally within 12\" and test Power -1.\n            2 Successes: The ally interrupts the same enemy."
 			},
 			{
 				"name": "Eye of the Bee",
@@ -6251,13 +6251,13 @@
 				"name": "Face of the Robot",
 				"ap": 1,
 				"mana": 1,
-				"definition": "Gain (Robot Face) and a Focus.  (Robot Face) provides Man-E-Faces with +2 (Perception) and -1 (Toughness)."
+				"definition": "Gain Robot Face and a Focus. Robot Face provides Man-E-Faces with +2 Perception and -1 Toughness."
 			},
 			{
 				"name": "Face of the Monster",
 				"ap": 1,
 				"mana": 1,
-				"definition": "Gain (Monster Face).  (Monster Face) provides Man-E-Faces with +2 (Strength) and -1 (Mind). Test (Strength) -1 against the (Toughness) of an enemy engaged with Man-E-Faces.\n            1 (Success): 1 Wound"
+				"definition": "Gain Monster Face. Monster Face provides Man-E-Faces with +2 Strength and -1 Mind. Test Strength -1 against the Toughness of an enemy engaged with Man-E-Faces.\n            1 Success: 1 Wound"
 			},
 			{
 				"name": "Lone Warrior",
