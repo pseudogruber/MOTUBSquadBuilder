@@ -6054,7 +6054,7 @@
 			},
 			{
 				"name": "Evil Master of Odors",
-				"definition": "At the end of activation, remove all Mana tokens and test Strength against Mind of all other characters within 1 (+1 per Mana removed) hexes.\n           1 Success: Blind debuff or Knockdown debuff or Cripple debuff.\n            1 (success): (Blind debuff token) or (Knockdown debuff token) or (Cripple debuff token)."
+				"definition": "At the end of activation, remove all Mana tokens and test Strength against Mind of all other characters within 1 (+1 per Mana removed) hexes.\n           1 Success: Blind debuff or Knockdown debuff or Cripple debuff."
 			},
 			{
 				"name": "Stinking Delight",
