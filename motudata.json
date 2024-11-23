@@ -3203,7 +3203,7 @@
 			},
 			{
 				"name": "Magic Cloak",
-				"points": 1,
+				"points": 0,
 				"unique": true,
 				"type": "Armour",
 				"definition": "The character can have an additional spell weapon.",
@@ -5677,7 +5677,7 @@
 					"For the Evil Horde!",
 					"Endless Horde"
 				],
-				"points": 8,
+				"points": 9,
 				"health": 3,
 				"toughness": 1,
 				"mind": 3,
@@ -6054,11 +6054,11 @@
 			},
 			{
 				"name": "Evil Master of Odors",
-				"definition": "At the end of activation, remove all 'Mana tokens' and test 'Toughness' against 'Mind' of all other characters within (+1 per Mana removed) hexes.\n            1 (success): (Blind debuff token) or (Knockdown debuff token) or (Cripple debuff token)."
+				"definition": "At the end of activation, remove all Mana tokens and test Strength against Mind of all other characters within 1 (+1 per Mana removed) hexes.\n           1 Success: Blind debuff or Knockdown debuff or Cripple debuff.\n            1 (success): (Blind debuff token) or (Knockdown debuff token) or (Cripple debuff token)."
 			},
 			{
 				"name": "Stinking Delight",
-				"definition": "When any character gains a (Debuff), Stinkor gains 1 (Mana token)."
+				"definition": "When any character gains a Debuff, Stinkor gains 1 Mana."
 			},
 			{
 				"name": "Master of Escape",
