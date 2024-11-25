@@ -6024,16 +6024,16 @@
 				"name": "Tiger's Claw",
 				"ap": 1,
 				"mana": 1,
-				"definition": "Test (Strength) -1 against the (Mind) of an enemy engaged with He-Man.\n            1 (Success): 1 Wound.\n            2 (Successes): 1 Wound and a (Knockdown debuff)."
+				"definition": "Test Strength-1 against the Mind of an enemy engaged with He-Man.\n            1 Success: 1 Wound.\n            2 Successes: 1 Wound and a Knockdown debuff."
 			},
 			{
 				"name": "Nightmare",
 				"mana": 1,
-				"definition": "Test (Power) +1 against the (Mind) of an ally within 16\".\n            1 (Success): (Curse Debuff), Scareglow performs a free move action."
+				"definition": "Test Power +1 against the Mind of an ally within 16\".\n            1 Success: Curse Debuff, Scareglow performs a free move action."
 			},
 			{
 				"name": "Fearsome Presence",
-				"definition": "If any character ends their activation or interruption within 2 hexes from Scareglow, test (Power) against (Mind) of that character.\n            1 (Success): (Curse Debuff)."
+				"definition": "If any character ends their activation or interruption within 2 hexes from Scareglow, test Power against Mind of that character.\n            1 Success: Curse Debuff."
 			},
 			{
 				"name": "Primal Rage",
@@ -6083,7 +6083,7 @@
 			},
 			{
 				"name": "Panthor's Fangs",
-				"definition": "Test (Strength) against (Toughness) of an Enemy engaged with Skeletor.\n            1 (Success): 1 Wound.\n            2 (Successes): 1 Wound and push target 1 hex."
+				"definition": "Test Strength against Toughness of an Enemy engaged with Skeletor.\n            1 Success: 1 Wound.\n            2 Successes: 1 Wound and push target 1 hex."
 			},
 			{
 				"name": "Superhuman Senses",
@@ -6238,7 +6238,7 @@
 			},
 			{
 				"name": "Hero to the Rescue!",
-				"definition": "After revealing her activation cards, Frosta can spend 1 Mana to reduce or increase the initiative of one of those cards by 2 (to a minimum of 1)."
+				"definition": "Move up to 5 hexes and test Power.\n            2 Successes: An ally on an adjacent hex gains Regeneration buff."
 			},
 			{
 				"name": "Flying Beauty",
