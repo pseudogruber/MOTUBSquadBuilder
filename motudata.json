@@ -3892,7 +3892,8 @@
 					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds",
 				"highlight": true,
 				"availableIn": [
-					"She-Ra"
+					"She-Ra",
+					"She-Ra with Swift Wind"
 				]
 			},
 			{
