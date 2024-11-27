@@ -10,36 +10,44 @@
 	"stats": [
 		{
 			"name": "Health",
-			"abbreviation": "H"
+			"abbreviation": "H",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738148/MOTU_Battleground_Health_usjo5h.png"
 		},
 		{
 			"name": "Toughness",
-			"abbreviation": "T"
+			"abbreviation": "T",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738148/MOTU_Battleground_Health_usjo5h.png"
 		},
 		{
 			"name": "Mind",
-			"abbreviation": "M"
+			"abbreviation": "M",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738148/MOTU_IMG_Ability_Mind_j4basj.png"
 		},
 		{
 			"name": "Power",
-			"abbreviation": "P"
+			"abbreviation": "P",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738151/MOTU_IMG_Ability_Power_i3se29.png"
 		},
 		{
 			"name": "Perception",
-			"abbreviation": "Pe"
+			"abbreviation": "Pe",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738149/MOTU_IMG_Ability_Perception_dev5xp.png"
 		},
 		{
 			"name": "Strength",
-			"abbreviation": "St"
+			"abbreviation": "St",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738153/MOTU_IMG_Ability_Strength_oyhxkt.png"
 		},
 		{
 			"name": "StandardSpeed",
 			"abbreviation": "Sp",
-			"trail": "/"
+			"trail": "/",
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738152/MOTU_IMG_Ability_Speed_o4qecj.png"
 		},
 		{
 			"name": "FocusedSpeed",
 			"shareWith": "StandardSpeed"
+			"icon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738152/MOTU_IMG_Ability_Speed_o4qecj.png"
 		}
 	],
 	"dataTableKeys": [
