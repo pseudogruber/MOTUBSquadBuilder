@@ -120,11 +120,13 @@
 								},
 								{
 									"name": "AP",
-									"propertyName": "ap"
+									"propertyName": "ap",
+									"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738848/Token_AP_01_dk45tw.png"
 								},
 								{
 									"name": "Mana",
-									"propertyName": "mana"
+									"propertyName": "mana",
+									"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738849/Token_MP_01_iwipwf.png"
 								}
 							]
 						},
