@@ -4353,12 +4353,12 @@
 		],
 		"factions": [
 			{
-				"name": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904065/He-Man_Test_01_hce86t.png",
+				"name": "Masters of the Universe",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904065/He-Man_Test_01_hce86t.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": "",
-				"primaryOnly": true,
-				"portraiturl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904065/He-Man_Test_01_hce86t.png"
+				"primaryOnly": true
 			},
 			{
 				"name": "Evil Warriors",
