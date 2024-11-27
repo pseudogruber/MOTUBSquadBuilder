@@ -4362,6 +4362,7 @@
 			},
 			{
 				"name": "Evil Warriors",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_EV_jgstao.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": "",
@@ -4369,6 +4370,7 @@
 			},
 			{
 				"name": "Evil Horde",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732736555/Icon_Faction_EH_bo01w0.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": "",
@@ -4376,6 +4378,7 @@
 			},
 			{
 				"name": "The Great Rebellion",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_TGR_ubfm7o.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": "",
@@ -4383,6 +4386,7 @@
 			},
 			{
 				"name": "Fighting Foe Men",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": ""
