@@ -108,6 +108,7 @@
 							"type": "static",
 							"dataSource": "skills",
 							"statsTableDirection": "horizontal",
+							"defaultExpanded": true,
 							"stats": [
 								{
 									"name": "Skill",
