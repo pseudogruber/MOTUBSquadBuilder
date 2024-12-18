@@ -3013,7 +3013,7 @@
 				"name": "Arm Cannon",
 				"points": 2,
 				"unique": true,
-				"type": "noslot",
+				"type": "NoSlot",
 				"diceModifier": "0",
 				"range": 12,
 				"definition": "This does not use a ranged weapon slot. Attacks with this weapon cost 1 AP less (to a minimum of 1) and do not receive a penalty to the scope during interruption.\n          1 success: 1 wound\n          4 successes: 2 wounds",
