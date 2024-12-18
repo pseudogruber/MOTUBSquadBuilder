@@ -6079,7 +6079,8 @@
 			},
 			{
 				"name": "Master of Escape",
-				"definition": "Immediately after Webstor receives at least 1 Wound, he can jump up to 4 hexes. This movement cannot be interrupted."
+				"definition": "Immediately after Webstor receives at least 1 Wound, he can jump up to 4 hexes. This movement cannot be interrupted.",
+				"mana": 
 			},
 			{
 				"name": "Hide and Seek",
