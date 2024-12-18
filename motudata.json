@@ -5911,7 +5911,6 @@
 			{
 				"name": "Always Vigilant",
 				"definition": "At the end of the activation, if there are no enemies within 8\", gain an Overwatch.",
-				"ap": 0,
 				"mana": 0
 			},
 			{
