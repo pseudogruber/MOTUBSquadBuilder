@@ -5967,7 +5967,7 @@
 			{
 				"name": "Optic Blast!",
 				"definition": "If an enemy within 8\" receives a Debuff, Tri-Klops can spend 1 to 3 Mana and test Power (+1 Die per Mana spent) against the Mind of this enemy.\n            1 Success: 1 Wound.",
-				"mana": -
+				"mana": 0
 			},
 			{
 				"name": "Weapon Swap",
