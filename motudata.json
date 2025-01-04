@@ -51,8 +51,7 @@
 		}
 	],
 	"dataTableKeys": [
-		"characters",
-		"warriors"
+		"characters"
 	],
 	"limits": [],
 	"counts": [],
