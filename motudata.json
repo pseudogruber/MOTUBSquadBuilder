@@ -4861,7 +4861,7 @@
 				],
 				"points": 12,
 				"health": 3,
-				"toughness": "X",
+				"toughness":"X",
 				"mind": 1,
 				"power": 1,
 				"perception": 2,
