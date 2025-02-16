@@ -4399,6 +4399,13 @@
 				"unique": true,
 				"type": "Trinket",
 					"definition": "Disposable. Place a Mud-Monster within 12\"."
+			},
+			{
+				"name": "Tools",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Draw a fate card."
 			}
 		],
 		"factions": [
