@@ -4837,6 +4837,39 @@
 				"focusedspeed": 6
 			},
 			{
+				"name": "Roboto",
+				"factions": [
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1739728968/Roboto_Test_01_igfs8f.png",
+				"skills": [
+					"Metal Warrior",
+					"Metal Machine"
+				],
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"BasicEquipment": [
+					"Claw Attachment"
+				],
+				"points": 12,
+				"health": 3,
+				"toughness": X,
+				"mind": 1,
+				"power": 1,
+				"perception": 2,
+				"strength": 2,
+				"standardspeed": 4,
+				"focusedspeed": 6
+			},
+			{
 				"name": "Skeletor",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904444/Skeletor_Test_01_dng5aq.png",
 				"factions": [
@@ -6262,6 +6295,14 @@
 			{
 				"name": "Flying Beauty",
 				"definition": "Test Power +2. Jump up to 1 hex per Success (to a maximum of 6)."
+			},
+			{
+				"name": "Metal Warrior",
+				"definition": "Roboto Toughness is equal to the number of weapons and items equipped by him (to a maximum of 4)."
+			},
+			{
+				"name": "Metal Machine",
+				"definition": "When receiving at least one Wound, Roboto may flip one of his equipped iconic weapons facedown to reduce the the number of received Wounds by 1."
 			}
 		]
 	}
