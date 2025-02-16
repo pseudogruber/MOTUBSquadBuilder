@@ -3053,6 +3053,43 @@
 				"definition": "Once per every activation or interruption, if this character has made a ranged attack using a focus, this character can immediately perform a free ranged attack with the blaster.\n          2 successes: 1 wound\n          3 successes: 2 wounds"
 			},
 			{
+				"name": "Blaster Attachment",
+				"points": 3,
+				"unique": true,
+				"type": "Ranged",
+				"range": 12,
+				"diceModifier": "0",
+				"definition": "Roboto gains +1 Perception for every weapon and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Roboto"
+				]
+			},
+			{
+				"name": "Claw Attachment",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "If Roboto has equipped at least three weapons and items, he hains +1 to Speed and +2 to focused Speed.\n          1 successes: 1 wound\n          4 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Roboto"
+				]
+			},
+			{
+				"name": "Axe Attachment",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "Roboto gains +1 Strength for every weapons and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Roboto"
+				]
+			},
+			{
 				"name": "Horde Crossbow",
 				"points": 3,
 				"unique": true,
