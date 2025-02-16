@@ -3090,6 +3090,18 @@
 				]
 			},
 			{
+				"name": "Power Clamp",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "When Clamp Champ has a Focus token, gain +1 Die, and enemies engaged with him can't leave their hex.\n          1 successes: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Clamp Champ"
+				]
+			},
+			{
 				"name": "Horde Crossbow",
 				"points": 3,
 				"unique": true,
@@ -4916,6 +4928,39 @@
 				"focusedspeed": 6
 			},
 			{
+				"name": "Clamp Champ",
+				"factions": [
+					{
+						"name": "Masters of the Universe",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1739729038/Clamp_Champ_Test_01_fil2dq.png",
+				"skills": [
+					"Side by Side",
+					"We Fight as One!"
+				],
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"BasicEquipment": [
+					"Power Clamp"
+				],
+				"points": 12,
+				"health": 5,
+				"toughness": "3",
+				"mind": 2,
+				"power": 3,
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
 				"name": "Skeletor",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904444/Skeletor_Test_01_dng5aq.png",
 				"factions": [
@@ -6349,6 +6394,14 @@
 			{
 				"name": "Metal Machine",
 				"definition": "When receiving at least one Wound, Roboto may flip one of his equipped iconic weapons facedown to reduce the the number of received Wounds by 1."
+			},
+			{
+				"name": "Side by Side",
+				"definition": "Any ally within 6\" can use Clamp Champ's Focus as their own."
+			},
+			{
+				"name": "We Fight as One!",
+				"definition": "When Clamp Champ gains a Focus, he can spend 1 Mana to give an ally within 6\" a Focus."
 			}
 		]
 	}
