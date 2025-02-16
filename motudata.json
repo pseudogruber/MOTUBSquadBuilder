@@ -3082,7 +3082,7 @@
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
-				"diceModifier": "0",
+				"diceModifier": "-",
 				"definition": "Roboto gains +1 Strength for every weapons and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
 				"highlight": true,
 				"availableIn": [
