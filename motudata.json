@@ -4857,7 +4857,9 @@
 					"Trinket"
 				],
 				"BasicEquipment": [
-					"Claw Attachment"
+					"Claw Attachment",
+					"Axe Attachment",
+					"Blaster Attachment"
 				],
 				"points": 12,
 				"health": 3,
