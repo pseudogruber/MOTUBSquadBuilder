@@ -2844,6 +2844,18 @@
 				]
 			},
 			{
+				"name": "Orange Sword of Power",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "If an attack with this weapon results in 2 or less Successes, Faker gains a Cripple debuff.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Faker"
+				]
+			},
+			{
 				"name": "Electro Shocker Spear",
 				"points": 3,
 				"unique": true,
@@ -5495,6 +5507,37 @@
 				"focusedspeed": 9
 			},
 			{
+				"name": "Faker",
+				"factions": [
+					{
+						"name": "Evil Warriors",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740524705/Faker_Test_01_pm9yww.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"I Have the (Fake) Power",
+					"Robot Reflex"
+				],
+				"points": 19,
+				"health": 5,
+				"toughness": 3,
+				"mind": 3,
+				"power": 3,
+				"perception": 3,
+				"strength": 5,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
 				"name": "Skeletor with Panthor",
 				"factions": [
 					{
@@ -6660,8 +6703,16 @@
 				"definition": "There can be up to 2 Hover Robots in a single force."
 			},
 			{
-				"name": "Deception",
+				"name": "I Have the (Fake) Power",
 				"definition": "During Skeletor's activation or interruption, Skeletor gains 1 Mana for every played fate card."
+			},
+			{
+				"name": "Deception",
+				"definition": "Faker can't performa a Focus action. When he gains a Debuff, he also gains a Focus."
+			},
+			{
+				"name": "Robot Reflex",
+				"definition": "Faker cannot receive Mana from fate and glory cards. If he gains a Focus, he also gains 2 Mana."
 			},
 			{
 				"name": "Panthor's Fangs",
