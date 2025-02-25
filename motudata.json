@@ -4457,6 +4457,14 @@
 				"primaryOnly": true
 			},
 			{
+				"name": "Preternian Heroes",
+				"portraitUrl": "",
+				"alignment": "Factions",
+				"armyBonus": "",
+				"additionalRules": "",
+				"primaryOnly": true
+			},
+			{
 				"name": "Fighting Foe Men",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"alignment": "Factions",
