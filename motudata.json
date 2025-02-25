@@ -5959,7 +5959,7 @@
 					"Cosmic Pilot",
 					"Precision"
 				],
-				"points": "18",
+				"points": 18,
 				"health": 5,
 				"toughness": 2,
 				"mind": 3,
@@ -5993,7 +5993,7 @@
 					"The Throne",
 					"The Guardian"
 				],
-				"points": "32",
+				"points": 32,
 				"health": 8,
 				"toughness": 3,
 				"mind": 3,
@@ -6026,7 +6026,7 @@
 					"Well Armored",
 					"Once More"
 				],
-				"points": "20",
+				"points": 20,
 				"health": 6,
 				"toughness": 2,
 				"mind": 2,
@@ -6056,7 +6056,7 @@
 					"Tamer",
 					"Bravery"
 				],
-				"points": "18",
+				"points": 18,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
@@ -6086,11 +6086,11 @@
 					"Magic of Sharing",
 					"By Your Side"
 				],
-				"points": "17",
+				"points": 17,
 				"health": 4,
 				"toughness": 1,
 				"mind": 4,
-				"power": 5
+				"power": 5,
 				"perception": 2,
 				"strength": 2,
 				"standardspeed": 5,
@@ -6117,11 +6117,11 @@
 					"Immortal King",
 					"Last Stand"
 				],
-				"points": "21",
+				"points": 21,
 				"health": 5,
 				"toughness": 3,
 				"mind": 3,
-				"power": 2
+				"power": 2,
 				"perception": 3,
 				"strength": 5,
 				"standardspeed": 5,
@@ -6147,7 +6147,7 @@
 					"Eldrich Spell",
 					"Hey, Behind you!"
 				],
-				"points": "18",
+				"points": 18,
 				"health": 5,
 				"toughness": 1,
 				"mind": 3,
@@ -6177,7 +6177,7 @@
 					"Plant Control",
 					"Plant Movement"
 				],
-				"points": "19",
+				"points": 19,
 				"health": 5,
 				"toughness": 3,
 				"mind": 2,
@@ -6206,7 +6206,7 @@
 					"All Guns!",
 					"Dinosaur Ram"
 				],
-				"points": "29",
+				"points": 29,
 				"health": 8,
 				"toughness": 3,
 				"mind": 2,
@@ -6234,7 +6234,7 @@
 					"Jet Wings",
 					"Dinosaur Beak"
 				],
-				"points": "28",
+				"points": 28,
 				"health": 7,
 				"toughness": 2,
 				"mind": 2,
