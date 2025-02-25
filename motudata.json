@@ -1050,6 +1050,9 @@
 						"name": "Masters of the Universe"
 					},
 					{
+						"name": "Preternian Heroes"
+					},
+					{
 						"name": "The Great Rebellion"
 					}
 				]
@@ -5930,6 +5933,310 @@
 				]
 			},
 			{
+				"name": "Zodac",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Spell",
+					"Ranged",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Cosmic Pilot",
+					"Precision"
+				],
+				"points": "18",
+				"health": 5,
+				"toughness": 2,
+				"mind": 3,
+				"power": 4,
+				"perception": 4,
+				"strength": 2,
+				"standardspeed": 5,
+				"focusedspeed": 8,
+				"unavailableWith": [
+					"Zodac with Throne"
+				]
+			},
+			{
+				"name": "Zodac with Throne",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Spell",
+					"Ranged",
+					"Armour",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"The Throne",
+					"The Guardian"
+				],
+				"points": "32",
+				"health": 8,
+				"toughness": 3,
+				"mind": 3,
+				"power": 4,
+				"perception": 4,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8,
+				"unavailableWith": [
+					"Zodac"
+				]
+			},
+			{
+				"name": "He-Ro",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Well Armored",
+					"Once More"
+				],
+				"points": "20",
+				"health": 6,
+				"toughness": 2,
+				"mind": 2,
+				"power": 3,
+				"perception": 4,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "He-Ro II",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Tamer",
+					"Bravery"
+				],
+				"points": "18",
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 2,
+				"perception": 5,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Veena",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Spell",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Magic of Sharing",
+					"By Your Side"
+				],
+				"points": "17",
+				"health": 4,
+				"toughness": 1,
+				"mind": 4,
+				"power": 5
+				"perception": 2,
+				"strength": 2,
+				"standardspeed": 5,
+				"focusedspeed": 10
+			},
+			{
+				"name": "King Grayskull",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Melee",
+					"Melee",
+					"Armour",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Immortal King",
+					"Last Stand"
+				],
+				"points": "21",
+				"health": 5,
+				"toughness": 3,
+				"mind": 3,
+				"power": 2
+				"perception": 3,
+				"strength": 5,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Eldor",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Eldrich Spell",
+					"Hey, Behind you!"
+				],
+				"points": "18",
+				"health": 5,
+				"toughness": 1,
+				"mind": 3,
+				"power": 5
+				"perception": 2,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Moss Man",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Plant Control",
+					"Plant Movement"
+				],
+				"points": "19",
+				"health": 5,
+				"toughness": 3,
+				"mind": 2,
+				"power": 4
+				"perception": 2,
+				"strength": 5,
+				"standardspeed": 4,
+				"focusedspeed": 6
+			},
+			{
+				"name": "Bionatops",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Ranged",
+					"Heavy Weapon",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"All Guns!",
+					"Dinosaur Ram"
+				],
+				"points": "29",
+				"health": 8,
+				"toughness": 3,
+				"mind": 2,
+				"power": 1
+				"perception": 4,
+				"strength": 5,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Turbodactyl",
+				"factions": [
+					{
+						"name": "Preternian Heroes",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"upgradeTypes": [
+					"Trinket",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Jet Wings",
+					"Dinosaur Beak"
+				],
+				"points": "28",
+				"health": 7,
+				"toughness": 2,
+				"mind": 2,
+				"power": 3
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 6,
+				"focusedspeed": 10
+			},
+			{
 				"name": "King Hiss with Tyrantisaurus",
 				"factions": [
 					{
@@ -6402,6 +6709,100 @@
 			{
 				"name": "We Fight as One!",
 				"definition": "When Clamp Champ gains a Focus, he can spend 1 Mana to give an ally within 6\" a Focus."
+			},
+			{
+				"name": "Cosmic Pilot",
+				"ap": 0,
+				"mana": 2,
+				"definition": "Choose a ready ally or a ready enemy within 12\". This character gains a regular Buff and a regular Debuff. You choose both of them."
+			},
+			{
+				"name": "Precision",
+				"definition": "For each Wound on Zodac, increase the range of Ranged weapon by 2\", but no more than 16\"."
+			},
+			{
+				"name": "Well Armored",
+				"definition": "When He-Ro takes at least 1 Wound, he can pass a Wound to an ally within 8\" with a Dinosaur skill."
+			},
+			{
+				"name": "Once More",
+				"definition": "If a Buff within 12\" is about to be removed, He-Ro can gain 1 Wound instead."
+			},
+			{
+				"name": "Tamer",
+				"ap": 1,
+				"mana": 0,
+				"definition": "Choose an ally with a Dinosaur skill and within 8\". This ally interrupts He-Ro II activation."
+			},
+			{
+				"name": "Bravery",
+				"definition": "If He-Ro II takes 2 or more Wounds in a single attack, he gains a Protection buff."
+			},
+			{
+				"name": "Magic of Sharing",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Place a Veeena Token on an ally within 12\". When Veena is about to take at least 1 Wouund, she can pass any of those Wounds to the character with Veena Token."
+			},
+			{
+				"name": "By Your Side",
+				"ap": 1,
+				"mana": 0,
+				"definition": "Teleport Veena to a hex adjacent to the character with Veena Token, gain Overwatch, and end the current activation or interruption."
+			},
+			{
+				"name": "Immortal King",
+				"definition": "When King Grayskull is about to be knocked out, do not remove the model until the end of the round."
+			},
+			{
+				"name": "Last Stand",
+				"definition": "Upon activation, if King Grayskull has at least 4 Wounds, his movement is increased by 2 and his melee attack gains a Focus."
+			},
+			{
+				"name": "Eldrich Spell",
+				"ap": 1,
+				"mana": 1,
+				"definition": "Choose an ally. Depending on the number of Wounds in play this ally gains:\n            4 or less Wounds: Overwatch;\n            5 or more Wounds: Focus and Overwatch."
+			},
+			{
+				"name": "Hey, Behind you!",
+				"ap": 0,
+				"mana": 2,
+				"definition": "During this activation, move actions performed by Eldor use teleport rules."
+			},
+			{
+				"name": "Plant Control",
+				"definition": "Whenever an ally within 8\" is at X Moss Man can spend 1 Mana to test Power -1.\n            2 successes: reduce the number of Wounds received by 1 (to a minimum of 1)."
+			},
+			{
+				"name": "Plant Movement",
+				"definition": "Each time an ally gets a wound, Moss Man can immediately move up to 2 hexes. This movement cannot be interrupted."
+			},
+			{
+				"name": "All Guns!",
+				"definition": "Once per activation or interruption, an active ally adjacent to Bionatops can use its weapons as their own with -1 Die."
+			},
+			{
+				"name": "Dinosaur Ram",
+				"definition": "Choose an adjacent obstacle and remove it. All characters adjacent to that obstacle take 1 Wound."
+			},
+			{
+				"name": "Jet Wings",
+				"definition": "Move actions performed by Turbodactyl use jump rules. Turbodactyl can spend 2 Mana to move adjacent characters with it. The Chosen characters movement cannot be interrupted."
+			},
+			{
+				"name": "Dinosaur Beak",
+				"ap": 1,
+				"mana": 1,
+				"definition": "Test Strength against Toughness of an enemy within 2 hexes.\n            1 success: 1 wound.\n            2 successes: 1 wound and Push the target 2 hexes.\n            3 successes: 2 wounds and Push the target 2 hexes."
+			},
+			{
+				"name": "The Throne",
+				"definition": "Upon activation, if Zodac has at least:\n            1 Wound, gain 1 Mana,\n            3 wound, gain Focus,\n            6 wound, gain Action."
+			},
+			{
+				"name": "The Guardian",
+				"definition": "If any character within 12\" takes at least 1 Wound, Zodac takes 1 of those Wounds on himself."
 			}
 		]
 	}
