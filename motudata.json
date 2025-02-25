@@ -4458,7 +4458,7 @@
 			},
 			{
 				"name": "Preternian Heroes",
-				"portraitUrl": "",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_TGR_ubfm7o.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": "",
@@ -6151,7 +6151,7 @@
 				"health": 5,
 				"toughness": 1,
 				"mind": 3,
-				"power": 5
+				"power": 5,
 				"perception": 2,
 				"strength": 3,
 				"standardspeed": 5,
@@ -6181,7 +6181,7 @@
 				"health": 5,
 				"toughness": 3,
 				"mind": 2,
-				"power": 4
+				"power": 4,
 				"perception": 2,
 				"strength": 5,
 				"standardspeed": 4,
@@ -6210,7 +6210,7 @@
 				"health": 8,
 				"toughness": 3,
 				"mind": 2,
-				"power": 1
+				"power": 1,
 				"perception": 4,
 				"strength": 5,
 				"standardspeed": 5,
@@ -6238,7 +6238,7 @@
 				"health": 7,
 				"toughness": 2,
 				"mind": 2,
-				"power": 3
+				"power": 3,
 				"perception": 3,
 				"strength": 4,
 				"standardspeed": 6,
