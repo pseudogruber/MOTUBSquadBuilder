@@ -4918,10 +4918,10 @@
 				],
 				"upgradeTypes": [
 					"Melee",
+					"Melee",
 					"Ranged",
-					"Armour",
-					"Trinket",
-					"Trinket"
+					"Shield",
+					"Armour"
 				],
 				"BasicEquipment": [
 					"Claw Attachment",
