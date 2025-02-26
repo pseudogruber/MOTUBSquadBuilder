@@ -6440,7 +6440,7 @@
 					"Snake in the Grass",
 					"Dreadful and Disguised"
 				],
-				"points": "19",
+				"points": 19,
 				"health": 5,
 				"toughness": 3,
 				"mind": 3,
@@ -6473,7 +6473,7 @@
 					"Shedding Skin",
 					"Deadly Assassin"
 				],
-				"points": "15",
+				"points": 15,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
@@ -6503,7 +6503,7 @@
 					"Fight Back!",
 					"Ambush!"
 				],
-				"points": "17",
+				"points": 17,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
@@ -6532,7 +6532,7 @@
 					"Camoulflage",
 					"Hypnotic Mist"
 				],
-				"points": "17",
+				"points": 17,
 				"health": 4,
 				"toughness": 2,
 				"mind": 3,
@@ -6562,7 +6562,7 @@
 					"Dirty Tricks",
 					"Elongated Arms"
 				],
-				"points": "16",
+				"points": 16,
 				"health": 6,
 				"toughness": 2,
 				"mind": 2,
@@ -6592,7 +6592,7 @@
 					"Snake Magic",
 					"Battle Rattle"
 				],
-				"points": "16",
+				"points": 16,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
@@ -6621,7 +6621,7 @@
 					"Serpent's Rage",
 					"Tyrantisaurus Bite"
 				],
-				"points": "34",
+				"points": 34,
 				"health": 8,
 				"toughness": 3,
 				"mind": 3,
