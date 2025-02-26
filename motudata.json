@@ -4550,7 +4550,7 @@
 				"points": 3,
 				"range": 12,
 				"unique": true,
-				"type": "Ranged",
+				"type": "Heavy Weapon",
 				"diceModifier": "-1",
 				"definition": "If the target is within 8\", gain +1 Die. If the target is within 4\", you gain another +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
 				"highlight": true,
