@@ -4324,14 +4324,78 @@
 			},
 			{
 				"name": "Demolisher Missile",
-				"points": 4,
+				"points": 2,
 				"range": 12,
+				"diceModifier": "-1",
 				"unique": true,
 				"type": "Heavy Weapon",
 					"definition": "This wepon targets an empty hex and affects all allies and enemies within 2 hexes. After the attack, remove one piece of terrain located within 2 hexes\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds.",
 				"highlight": true,
 				"availableIn": [
 					"Dawg-O-Tor in Battle Ram"
+				]
+			},
+			{
+				"name": "Legendary Blasters",
+				"points": 2,
+				"range": 8,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "Attacks with this weapon made immediately after a move action gain +1 Die for every 4 hexes traversed by Talon Fighter in that move action.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          6 Successes: 3 Wounds.",
+				"highlight": true,
+				"availableIn": [
+					"Sherrilyn in Talon Fighter"
+				]
+			},
+			{
+				"name": "Dual Laser Cannons",
+				"points": 1,
+				"range": 8,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Once per activation or interruption, immediately after a Ranged attack with this weapon, Roton can perform a free Ranged attack against a different target.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          6 Successes: 3 Wounds.",
+				"highlight": true,
+				"availableIn": [
+					"Ditztroyer in Roton"
+				]
+			},
+			{
+				"name": "Rotating Blades",
+				"points": 3,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "NoSlot",
+					"definition": "This does not use a Melee weapon slot. After a move action, if Roton didn't end on any hexes it started on, it can perform a free Melee attack with this weapon.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Ditztroyer in Roton"
+				]
+			},
+			{
+				"name": "Shark Lasers",
+				"points": 4,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "Ignores the target's shield and armor.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 Hexes\n          3 Successes: 2 Wounds and push target 2 Hexes",
+				"highlight": true,
+				"availableIn": [
+					"Dawg-O-Tor in Land Shark"
+				]
+			},
+			{
+				"name": "Jaws",
+				"points": 2,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "NoSlot",
+					"definition": "This does not use a Melee weapon slot and can only be used during interruption. Attacks with this weapon do not receive a penalty to the scope during interruption.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Dawg-O-Tor in Land Shark"
 				]
 			},
 			{
@@ -6737,6 +6801,89 @@
 				"strength": 4,
 				"standardspeed": 5,
 				"focusedspeed": 8
+			},
+			{
+				"name": "Sherrilyn in Talon Fighter",
+				"factions": [
+					{
+						"name": "Fighting Foe Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740602576/Talon_Fighter_Test_01_zrifg6.png",
+				"upgradeTypes": [
+					"Heavy Weapon",
+					"Module",
+					"Module"
+				],
+				"skills": [
+					"Vehicle - Speed",
+					"Supersonic Speed"
+				],
+				"points": 26,
+				"health": 7,
+				"toughness": 2,
+				"mind": 1,
+				"power": 1,
+				"perception": 5,
+				"strength": 3,
+				"standardspeed": 4,
+				"focusedspeed": 12
+			},
+			{
+				"name": "Ditztroyer in Roton",
+				"factions": [
+					{
+						"name": "Fighting Foe Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740602575/Roton_Test_01_n6ules.png",
+				"upgradeTypes": [
+					"Ranged",
+					"Module",
+					"Module"
+				],
+				"skills": [
+					"Vehicle - Rotation",
+					"Rotor Motors"
+				],
+				"points": 26,
+				"health": 7,
+				"toughness": 3,
+				"mind": 1,
+				"power": 1,
+				"perception": 4,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 5
+			},
+			{
+				"name": "Dawg-O-Tor in Land Shark",
+				"factions": [
+					{
+						"name": "Fighting Foe Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740602575/Land_Shark_Test_01_gk8dqi.png",
+				"upgradeTypes": [
+					"Heavy Weapon",
+					"Module"
+				],
+				"skills": [
+					"Vehicle - Aggression",
+					"Shoot and Move"
+				],
+				"points": 27,
+				"health": 8,
+				"toughness": 4,
+				"mind": 1,
+				"power": 1,
+				"perception": 4,
+				"strength": 4,
+				"standardspeed": 4,
+				"focusedspeed": 4
 			}
 		],
 		"keywords": [
@@ -7127,6 +7274,32 @@
 			{
 				"name": "Indirect Fire",
 				"definition": "Place a Battle Ram token within 16\". When an enemy ends their movement within 2 hexes from the Battle Ram token, they must make a defence Toughness test. Unless they score at least 2 Successes, they receive 1 Wound."
+			},
+			{
+				"name": "Vehicle - Speed",
+				"definition": "If Talon Fighter moved over 8 hexes during this round, gain +2 Dice to all of its defence tests."
+			},
+			{
+				"name": "Supersonic Speed",
+				"definition": "The Focused move actions Performed by Talon Fight use jump rules, but it can only move in the direction it faces at the beginning of the action."
+			},
+			{
+				"name": "Vehicle - Rotation",
+				"definition": "Roton doesn't have a rear arc. Its front arc is 360 degrees wide."
+			},
+			{
+				"name": "Rotor Motors",
+				"ap": 0,
+				"mana": 2,
+				"definition": "Until the end of the round, Roton move actions cost 1 Action less (to a minimum of 1), use jump rules, and can't be interrupted by attacks of opportunity."
+			},
+			{
+				"name": "Vehicle - Aggression",
+				"definition": "When an enemy ends any movement adjacent to Land Shark, Land Shark interrupts that enemy."
+			},
+			{
+				"name": "Shoot and Move",
+				"definition": "After every attack, Land Shark can make a free move action."
 			},
 			{
 				"name": "Radio Communication",
