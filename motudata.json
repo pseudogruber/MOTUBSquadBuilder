@@ -4601,6 +4601,14 @@
 				"primaryOnly": true
 			},
 			{
+				"name": "Snake Men",
+				"portraitUrl": "",
+				"alignment": "Factions",
+				"armyBonus": "",
+				"additionalRules": "",
+				"primaryOnly": true
+			},
+			{
 				"name": "Fighting Foe Men",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"alignment": "Factions",
@@ -6412,7 +6420,190 @@
 				"focusedspeed": 10
 			},
 			{
-				"name": "King Hiss with Tyrantisaurus",
+				"name": "King Hsss",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Armour",
+					"Shield",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Snake in the Grass",
+					"Dreadful and Disguised"
+				],
+				"points": "19",
+				"health": 5,
+				"toughness": 3,
+				"mind": 3,
+				"power": 5,
+				"perception": 2,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8,
+				"unavailableWith": [
+					"King Hsss with Tyrantisaurus"
+				]
+			},
+			{
+				"name": "Lady Slither",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Trinket",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Shedding Skin",
+					"Deadly Assassin"
+				],
+				"points": "15",
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 4,
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 4,
+				"focusedspeed": 6
+			},
+			{
+				"name": "Fang-Or",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Trinket",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Fight Back!",
+					"Ambush!"
+				],
+				"points": "17",
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 2,
+				"perception": 4,
+				"strength": 5,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Kobra Khan",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Camoulflage",
+					"Hypnotic Mist"
+				],
+				"points": "17",
+				"health": 4,
+				"toughness": 2,
+				"mind": 3,
+				"power": 3,
+				"perception": 5,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Sssqueeze",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Melee",
+					"Shield",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Dirty Tricks",
+					"Elongated Arms"
+				],
+				"points": "16",
+				"health": 6,
+				"toughness": 2,
+				"mind": 2,
+				"power": 3,
+				"perception": 2,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Rattlor",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Snake Magic",
+					"Battle Rattle"
+				],
+				"points": "16",
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 4,
+				"perception": 3,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "King Hsss with Tyrantisaurus",
 				"factions": [
 					{
 						"name": "Snake Men",
@@ -6430,7 +6621,7 @@
 					"Serpent's Rage",
 					"Tyrantisaurus Bite"
 				],
-				"points": "??",
+				"points": "34",
 				"health": 8,
 				"toughness": 3,
 				"mind": 3,
@@ -6440,7 +6631,7 @@
 				"standardspeed": 5,
 				"focusedspeed": 8,
 				"unavailableWith": [
-					"King Hiss"
+					"King Hsss"
 				]
 			},
 			{
