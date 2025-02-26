@@ -4557,6 +4557,82 @@
 				"availableIn": [
 					"Bionatops"
 				]
+			},
+			{
+				"name": "Ancient Magic",
+				"points": 2,
+				"mana": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Spell",
+				"diceModifier": "-1",
+				"definition": "Gain 1 die for every enemy within 12\" (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 2 Wounds and King Hsss gains 1 Action",
+				"highlight": true,
+				"availableIn": [
+					"King Hsss",
+					"King Hsss WIth Tyrantisaurus"
+				]
+			},
+			{
+				"name": "Enormous Fangs",
+				"points": 1,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "This does not use a melee weapon slot. If the target is in their deployment zone, gain +1 die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Curse debuff",
+				"highlight": true,
+				"availableIn": [
+					"Fang-Or"
+				]
+			},
+			{
+				"name": "Kobra Pistol",
+				"points": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-1",
+				"definition": "Attacks with this weapon do not receive a penalty to the scope during interruptions. The Range is increased by 4\" when Kobra Khan is on Overwatch.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Kobra Khan"
+				]
+			},
+			{
+				"name": "Snake Dagger",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "Upon Activation, Lady Slither can perform a free Melee attack with this weapon.\n          2 Successes: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Kobra Khan"
+				]
+			},
+			{
+				"name": "Viper Staff",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "All Melee, Spell, and Ranged attacks of Rattlor, gain 1 free reroll for each Objective on the battleground (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Rattlor"
+				]
+			},
+			{
+				"name": "Snake-Head Staff",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "When Sssqueeze isn't engaged, gain +2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Sssqueeze"
+				]
 			}
 		],
 		"factions": [
@@ -7177,6 +7253,72 @@
 			{
 				"name": "The Guardian",
 				"definition": "If any character within 12\" takes at least 1 Wound, Zodac takes 1 of those Wounds on himself."
+			},
+			{
+				"name": "Snake in the Grass",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Place a Hsss within 12\". When any character within 2 hexes from a Hsss is about to end its activation, it must perform a free move action towards King Hsss."
+			},
+			{
+				"name": "Dreadful and Disguised",
+				"definition": "Immediately after an ally ends an interruption, King Hsss can spend 2 Mana and interrupt the same character."
+			},
+			{
+				"name": "Fight Back!",
+				"definition": "Upon Fang-Or's interruption from trigger fate card, he receives 1 extra Action."
+			},
+			{
+				"name": "Ambush!",
+				"definition": "Alternative Deployment. At the beginning of the second or consecutive round, you can deploy Fang-Or in any deployment zone, at least 7 hexes from an enemy."
+			},
+			{
+				"name": "Camoulflage",
+				"definition": "At the end of Kobra Khan's interruption from a trigger fate card, you can remove him from the table and redeploy him at the beginning of the next round."
+			},
+			{
+				"name": "Hypnotic Mist",
+				"definition": "Place a Khan token within 12\". Stength, Perception, and Power of characters within 2 hexes from Khan token are reduced by 1 (to a minimum of 3)."
+			},
+			{
+				"name": "Shedding Skin",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Place a Slither and a non-Slither within 8\" at least 3 hexes away from any character. When a Slither Token is about to be removed, Lady Slither is teleported to any hex adjacent to it."
+			},
+			{
+				"name": "Deadly Assassin",
+				"definition": "Alternative deployment. At the beginning of the first round, place Slither and non-slither anywhere on the battleground, at least 6 hexes from any character or objective token."
+			},
+			{
+				"name": "Snake Magic",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Choose a Mark within 16\" and test Power +2. Move the chosen Mark up to 1 hex per Success."
+			},
+			{
+				"name": "Battle Rattle",
+				"ap": 0,
+				"mana": 1,
+				"definition": "Place a Rattlor token within 12\". Toughness and Mind of characters within 2 hexes from Rattlor token are increased by 1 (to a maximum of 3)."
+			},
+			{
+				"name": "Dirty Tricks",
+				"definition": "Whenever your force resolves an interruption from a trigger fate card, Sssqueeze gains a Focus."
+			},
+			{
+				"name": "Elongated Arms",
+				"definition": "Sssqueeze's Melee attacks can target enemies within 2 hexes (assuming they are in line of sight), even if they are not engaged with him."
+			},
+			{
+				"name": "Serpent's Rage",
+				"definition": "After King Hsss is attacked, he can spend 2 Mana to interrupt the attacker."
+			},
+			{
+				"name": "Tyrantisaurus Bite",
+				"ap": 1,
+				"mana": 1,
+				"definition": "Test Strength against Toughness of an enemy engaged w/ or interruption, gain +2 Die. 2 Successes: 1 Wound; 3 Successes: 2 Wounds"
 			}
 		]
 	}
