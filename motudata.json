@@ -4577,7 +4577,7 @@
 				"name": "Enormous Fangs",
 				"points": 1,
 				"unique": true,
-				"type": "Melee",
+				"type": "NoSlot",
 				"diceModifier": "-",
 				"definition": "This does not use a melee weapon slot. If the target is in their deployment zone, gain +1 die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Curse debuff",
 				"highlight": true,
