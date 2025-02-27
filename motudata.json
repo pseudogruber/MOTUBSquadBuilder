@@ -3402,7 +3402,7 @@
 			},
 			{
 				"name": "Spellstone",
-				"points": 2,
+				"points": 1,
 				"unique": true,
 				"type": "Trinket",
 				"definition": "If the character's attack results in 2 or more Successes, gain 1 Mana."
