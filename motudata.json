@@ -7122,7 +7122,7 @@
 			},
 			{
 				"name": "Deception",
-				"definition": "Faker can't performa a Focus action. When he gains a Debuff, he also gains a Focus."
+				"definition": "During Skeletor's activation or interruption, Skeletor gains 1 Mana for every played Fate card."
 			},
 			{
 				"name": "Robot Reflex",
