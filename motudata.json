@@ -3002,6 +3002,7 @@
 				"points": 0,
 				"unique": true,
 				"type": "Laser Attachment",
+				"range": 12,
 				"diceModifier": "-1",
 				"definition": "This does not use a ranged weapon slot.\n          Before attacking, Trap Jaw may spend either 1 extra AP to gain one of the bonuse below or 2 extra AP to gain both bonuses:\n          +2 dice or increase range by 4\"\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
 				"highlight": true,
