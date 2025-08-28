@@ -6006,7 +6006,7 @@
 						"heroicTier": "Hero"
 					}
 				],
-				"portraitUrls": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731099749/Grizzlor_Test_01_lxmcsy.png, https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_b_umsawf.jpg",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731099749/Grizzlor_Test_01_lxmcsy.png",
 				"upgradeTypes": [
 					"Melee",
 					"Melee",
@@ -6021,7 +6021,7 @@
 				"BasicEquipment": [
 					"Horde Axe"
 				],
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_a_bbsu16.jpg",
+				"imageUrls": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_a_bbsu16.jpg, https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_b_umsawf.jpg",
 				"points": 15,
 				"health": 6,
 				"toughness": 3,
