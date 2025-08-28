@@ -5275,6 +5275,7 @@
 			{
 				"name": "Skeletor",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904444/Skeletor_Test_01_dng5aq.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412646/he1_a_hnygxs.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412648/he1_b_utxpln.jpg"],
 				"factions": [
 					{
 						"name": "Evil Warriors",
@@ -5315,6 +5316,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721261171/Evil-Lyn_02_oiwxya.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412650/he2_a_ahtvec.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412666/he2_b_fyylei.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Spell",
@@ -5348,6 +5350,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720946048/Mer-Man_Test_01_kthqc5.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412653/he3_a_ic4cpl.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412663/he3_b_tgrjlx.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5382,6 +5385,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720905152/Tri-Klops_Test_01_dlgetv.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412658/he4_a_cd1plq.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412655/he4_b_tdioyi.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5416,6 +5420,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720903180/Trap-Jaw_Test_01_ee3uhk.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412661/he5_a_x9fee5.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412669/he5_b_dww17k.jpg"],
 				"upgradeTypes": [
 					"Ranged",
 					"Armour",
@@ -5460,6 +5465,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720901726/Scareglow_Test_01_f5si25.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412674/he7_a_cxftat.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412679/he7_b_ywqq1a.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -5493,6 +5499,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720902161/Beast-Man_Test_01_tw9zrb.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412684/he8_a_qe9j0a.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412682/he8_b_y7agsf.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5526,6 +5533,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720957974/Whiplash_Test_01_tnau6l.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412692/he9_a_mpcsie.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412687/he9_b_u66we5.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Armour",
@@ -5559,6 +5567,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720956312/Stinkor_Test_01_bcz6q0.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412690/he10_a_jz93hz.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412710/he10_b_i6vhjv.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5593,6 +5602,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721296590/Webstor_Test_01_oi52xa.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412748/he12_a_s7m4sk.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412770/he12_b_m7k0ud.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5626,6 +5636,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721295634/Hover_Robot_A_Test_01_lvk6oa.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412715/he11a_a_jwf4iw.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412731/he11a_b_zkv7w5.jpg"],
 				"upgradeTypes": [
 					"Trinket",
 					"Trinket"
@@ -5653,6 +5664,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721296151/Hover_Robot_B_Test_01_rettam.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412724/he11b_a_mkh11x.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412728/he11b_b_ysnthr.jpg"],
 				"upgradeTypes": [
 					"Trinket",
 					"Trinket"
@@ -5680,6 +5692,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740524705/Faker_Test_01_pm9yww.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412755/he13_a_a3s3mp.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412767/he13_b_rkzv2e.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5711,6 +5724,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721259656/Skeletor_with_Panthor_Test_01_m3bbyg.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412676/he6_a_g3savf.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412671/he6_b_gnvott.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
