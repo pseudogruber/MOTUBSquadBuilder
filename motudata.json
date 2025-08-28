@@ -5759,6 +5759,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731013770/She-Ra_Test_01_liz0j6.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414948/hr1_a_sbghhc.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414950/hr1_b_mswoi5.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5796,6 +5797,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731013770/She-Ra_Test_01_liz0j6.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414970/hr7_a_if9okt.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414947/hr7_b_tyw00l.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5833,6 +5835,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731014740/Bow_Test_01_oqqlgo.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414952/hr2_a_jvmumn.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414956/hr2_b_dgiksm.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5866,6 +5869,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731015735/Glimmer_Test_01_miragu.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414953/hr3_a_udpext.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414957/hr3_b_mengxq.jpg"],
 				"upgradeTypes": [
 					"Ranged",
 					"Spell",
@@ -5899,6 +5903,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731016427/Angella_Test_01_tsfhe6.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414967/hr6_a_pxiaag.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414964/hr6_b_zkxbhr.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -5933,6 +5938,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731018811/Castaspella_Test_01_olmkvd.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414960/hr4_a_khaofm.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414968/hr4_b_is9uri.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Spell",
@@ -5966,6 +5972,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731019570/Frosta_Test_01_u9p7cc.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414961/hr5_a_tbkca4.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414963/hr5_b_sk7zjt.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6000,6 +6007,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101203/Hordak_Test_01_wodl9a.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414400/hh1_a_timcnt.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414400/hh1_a_timcnt.jpg"]
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6037,6 +6045,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731099749/Grizzlor_Test_01_lxmcsy.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_a_bbsu16.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_b_umsawf.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Melee",
@@ -6051,7 +6060,6 @@
 				"BasicEquipment": [
 					"Horde Axe"
 				],
-				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_a_bbsu16.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_b_umsawf.jpg"],
 				"points": 15,
 				"health": 6,
 				"toughness": 3,
@@ -6071,6 +6079,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101667/Catra_Test_01_zbbtda.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414655/hh4_a_n0dw2f.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414655/hh4_a_n0dw2f.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6104,6 +6113,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104487/Shadow_Weaver_Test_01_rg1s9y.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414672/hh6_a_wkazzp.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414670/hh6_b_rnfk5p.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Spell",
@@ -6137,6 +6147,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731104102/Horde_Trooper_Test_01_vlzmxj.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414403/hh2a_a_gmvgma.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414407/hh2a_b_z09klo.jpg"],
 				"limit": 2,
 				"upgradeTypes": [
 					"Melee",
@@ -6166,6 +6177,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731103786/Shadow_Weaver_Test_01_hcpoeh.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414409/hh3a_a_vadfgc.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414652/hh3a_b_efnhyi.jpg"],
 				"limit": 2,
 				"upgradeTypes": [
 					"Melee",
@@ -6195,6 +6207,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731106609/Leech_Test_01_ugpzdd.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414712/hh9_a_tzmfgb.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414702/hh9_b_oa121l.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6228,6 +6241,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731107733/Scorpia_Test_01_tcy1hg.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414698/hh8_a_eegjno.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414700/hh8_b_nshesa.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6261,6 +6275,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731101203/Hordak_Test_01_wodl9a.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414674/hh7_a_hppdya.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756414687/hh7_b_x9c2g2.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6296,6 +6311,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559986/Zodac_Test_01_ceg3lx.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415460/hp3_a_ojr90t.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415354/hp3_b_o4l6mo.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Ranged",
@@ -6328,6 +6344,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740560974/Zodac_With_Throne_Test_01_vwxdyg.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415480/hp8_a_jhgxdy.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415488/hp8_b_l2blcg.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Ranged",
@@ -6362,6 +6379,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559903/He-Ro_Test_01_xhroqi.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415507/hp4_a_xn5lya.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415462/hp4_b_frejzx.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6392,6 +6410,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559883/He-Ro_II_Test_01_x27xzz.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415456/hp5_a_awlowa.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415499/hp5_b_fybh7v.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6422,6 +6441,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559951/Queen_Grayskull_Test_01_kvmugs.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415353/hp2_a_v6seyf.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415458/hp2_b_ncvbvl.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6452,6 +6472,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559925/King_Greyskull_Test_01_pivaxm.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415464/hp1_a_gvvzyn.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415410/hp1_b_hlaxrs.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Melee",
@@ -6483,6 +6504,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559856/Eldor_Test_01_nd2qsb.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415473/hp6_a_abdilq.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415486/hp6_b_c4qyy0.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6513,6 +6535,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740560464/Moss_Man_Test_01_evfarc.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415511/hp9_a_ulsofc.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415497/hp9_b_okcmci.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6543,6 +6566,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740559818/Bionatops_Test_01_w6qxt9.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415482/hp7_a_gfkqvj.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415471/hp7_b_c047vz.jpg"],
 				"upgradeTypes": [
 					"Ranged",
 					"Heavy Weapon",
@@ -6572,6 +6596,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740560472/Turbodactyl_Test_01_tu9lih.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415490/hp10_a_z5cite.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415484/hp10_b_fejmkp.jpg"],
 				"upgradeTypes": [
 					"Trinket",
 					"Trinket",
@@ -6600,6 +6625,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600052/King_Hsss_Test_01_hbifqu.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415789/hs1_a_kqvkjl.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415812/hs1_b_zni0aj.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6634,6 +6660,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600052/Lady_Slither_Test_01_cwwjtm.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415798/hs2_a_zwjdhl.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415795/hs2_b_bfcsxl.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6664,6 +6691,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600052/Fang-Or_Test_01_molsiy.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415846/hs6_a_qpzw1d.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415844/hs6_b_iergnn.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6694,6 +6722,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600053/Kobra_Khan_Test_01_gl2tqo.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415822/hs4_a_klzar7.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415858/hs4_b_czrydp.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -6723,6 +6752,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600053/Sssqueeze_Test_01_r0r2jc.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415814/hs3_a_rhsi6u.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415810/hs3_b_myqw5w.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Shield",
@@ -6753,6 +6783,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600053/Rattlor_Test_01_hi8umk.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415830/hs5_a_mfy9z5.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415832/hs5_b_odyloq.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Spell",
@@ -6783,6 +6814,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740600052/King_Hsss_Test_01_hbifqu.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415850/hs7_a_rej89m.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415848/hs7_b_tk8wbj.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Shield",
@@ -6815,6 +6847,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731108058/Battle_Ram_Test_01_eq1hkl.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415984/hf1_a_tw5vae.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415991/hf1_b_vidtge.jpg"],
 				"upgradeTypes": [
 					"Heavy Weapon",
 					"Module",
@@ -6843,6 +6876,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740602576/Talon_Fighter_Test_01_zrifg6.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415991/hf1_b_vidtge.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756415998/hf2_b_iv13dj.jpg"],
 				"upgradeTypes": [
 					"Heavy Weapon",
 					"Module",
@@ -6871,6 +6905,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740602575/Roton_Test_01_n6ules.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756416000/hf3_a_rydprk.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756416009/hf3_b_f9aapj.jpg"],
 				"upgradeTypes": [
 					"Ranged",
 					"Module",
@@ -6899,6 +6934,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1740602575/Land_Shark_Test_01_gk8dqi.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756416011/hf4_a_l0jarh.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756416018/hf4_b_wkharr.jpg"],
 				"upgradeTypes": [
 					"Heavy Weapon",
 					"Module"
