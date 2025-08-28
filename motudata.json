@@ -5211,6 +5211,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1739728968/Roboto_Test_01_igfs8f.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412177/hm14_a_kvdkpe.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756412176/hm14_b_jcte7a.jpg"],
 				"skills": [
 					"Metal Warrior",
 					"Metal Machine"
