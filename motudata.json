@@ -4751,6 +4751,7 @@
 			},
 			{
 				"name": "Fighting Foe Men",
+				"imageurl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"alignment": "Factions",
 				"armyBonus": "",
