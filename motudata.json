@@ -4768,6 +4768,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904065/He-Man_Test_01_hce86t.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411227/hm1_a_gps3ey.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411229/hm1_b_cab6e0.jpg"],
 				"skills": [
 					"I Have the Power!",
 					"Superhuman Reflex"
@@ -4806,6 +4807,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720902725/Teela_Test_01_p4p8le.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411286/hm7_a_cuyytg.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411289/hm7_b_ioi3od.jpg"],
 				"skills": [
 					"Acrobatic",
 					"Warrior Goddess"
@@ -4839,6 +4841,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720903576/Sorceress_Test_01_lqcs3f.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411291/hm8_a_ysey1s.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411340/hm8_b_jjicjf.jpg"],
 				"skills": [
 					"Vision of the Future",
 					"Telepathic Guide"
@@ -4872,6 +4875,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721250781/Buzz-Off_Test_01_arirja.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411350/hm10_a_ijuxxn.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411353/hm10_b_rikflg.jpg"],
 				"skills": [
 					"Eye of the Bee",
 					"Hero in the Sky"
@@ -4905,6 +4909,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721251671/Man-E-Faces_Test_01_ivp3az.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411343/hm9_a_seyukk.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411347/hm9_b_l4sngj.jpg"],
 				"skills": [
 					"Face of the Robot",
 					"Face of the Monster"
@@ -4938,6 +4943,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721291165/Fisto_Test_01_kojzcs.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411368/hm12_a_uc3dtd.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411388/hm12_b_nemjlz.jpg"],
 				"skills": [
 					"Lone Warrior",
 					"Eager to Punch"
@@ -4971,6 +4977,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721290462/Palace_Guard_A_Test_01_xflqmu.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411356/hm11a_a_q80wm7.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411395/hm11a_b_gbe3w6.jpg"],
 				"skills": [
 					"Heroic Guard",
 					"Endless Heroes"
@@ -4999,6 +5006,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721289520/Palace_Guard_Test_01_wxzr18.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411358/hm11b_a_t2snbw.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411371/hm11b_b_mr7zpk.jpg"],
 				"skills": [
 					"Heroic Guard",
 					"Endless Heroes"
@@ -5027,6 +5035,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1721260948/He-Man_with_Battlecat_Test_01_bqlbo3.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411262/hm6_a_rzd8rh.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411265/hm6_b_kxqsmu.jpg"],
 				"skills": [
 					"Lead by Example",
 					"Tiger's Claw"
@@ -5064,6 +5073,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720863653/Men-At-Arms_Test_01_olojko.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411231/hm2_a_pkldrd.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411234/hm2_b_gmewci.jpg"],
 				"skills": [
 					"Always Vigilant",
 					"Master Tactician"
@@ -5098,6 +5108,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904853/Stratos_Test_01_wrej7h.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411236/hm3_a_bzi1qi.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411238/hm3_b_ab5zqu.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Ranged",
@@ -5132,6 +5143,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720910474/Orko_01_hrynje.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411253/hm4_a_ynllgn.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411255/hm4_b_w4s98d.jpg"],
 				"upgradeTypes": [
 					"Spell",
 					"Spell",
@@ -5165,6 +5177,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720946549/Ram_Man_Test_01_tczzyv.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411258/hm5_a_p3zvgk.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411260/hm5_b_axlwla.jpg"],
 				"upgradeTypes": [
 					"Melee",
 					"Armour",
@@ -5233,6 +5246,7 @@
 					}
 				],
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1739729038/Clamp_Champ_Test_01_fil2dq.png",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411398/hm13_a_zr3cfo.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411400/hm13_b_fcgqak.jpg"],
 				"skills": [
 					"Side by Side",
 					"We Fight as One!"
