@@ -4356,7 +4356,7 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Ranged",
-					"definition": "Once per activation or interruption, immediately after a Ranged attack with this weapon, Roton can perform a free Ranged attack against a different target.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          6 Successes: 3 Wounds.",
+					"definition": "Once per activation or interruption, immediately after a Ranged attack with this weapon, Roton can perform a free Ranged attack against a different target.\n          1 Success: 1 Wound",
 				"highlight": true,
 				"availableIn": [
 					"Ditztroyer in Roton"
