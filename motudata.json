@@ -6021,7 +6021,7 @@
 				"BasicEquipment": [
 					"Horde Axe"
 				],
-				"imageUrls": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_a_bbsu16.jpg, https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_b_umsawf.jpg",
+				"imageUrls": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_a_bbsu16.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405682/hh5_b_umsawf.jpg",
 				"points": 15,
 				"health": 6,
 				"toughness": 3,
