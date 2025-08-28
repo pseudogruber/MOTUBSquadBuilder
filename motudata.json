@@ -4365,7 +4365,7 @@
 			{
 				"name": "Rotating Blades",
 				"points": 3,
-				"diceModifier": "-1",
+				"diceModifier": "",
 				"unique": true,
 				"type": "NoSlot",
 					"definition": "This does not use a Melee weapon slot. After a move action, if Roton didn't end on any hexes it started on, it can perform a free Melee attack with this weapon.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
