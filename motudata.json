@@ -4060,6 +4060,7 @@
 			},
 			{
 				"name": "Axe Comb",
+				"imgUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417770/wm42_ggtldn.jpg",
 				"points": 3,
 				"diceModifier": "-1",
 				"unique": true,
