@@ -4169,10 +4169,11 @@
 			},
 			{
 				"name": "Horde Axe",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418466/wm27_awk5di.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
-					"definition": "Before attacking, Grizzlor can spend either 2 Mana to gain one of the bonuses below or 4 Mana to gain both bonuses.\n           +2 (die) or focus\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
+					"definition": "Before attacking, Grizzlor can spend either 2 Mana to gain one of the bonuses below or 4 Mana to gain both bonuses.\n           +2 Dice or focus\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
 				"highlight": true,
 				"availableIn": [
 					"Grizzlor"
@@ -4180,6 +4181,7 @@
 			},
 			{
 				"name": "Horde Staff",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
