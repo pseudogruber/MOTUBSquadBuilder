@@ -4550,6 +4550,8 @@
 			},
 			{
 				"name": "Slug Armour",
+				"ID": "I55",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650664/i55_glfjih.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Armour",
@@ -4561,6 +4563,8 @@
 			},
 			{
 				"name": "Skull",
+				"ID": "I56",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i56_btdry6.jpg",
 				"points": -1,
 				"unique": true,
 				"type": "Trinket",
@@ -4568,6 +4572,8 @@
 			},
 			{
 				"name": "Amulet of Kulataks",
+				"ID": "I57",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i57_ndp8pm.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
@@ -4575,6 +4581,8 @@
 			},
 			{
 				"name": "Buzz Saw",
+				"ID": "I58",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i58_osrvzh.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Trinket",
@@ -4582,6 +4590,8 @@
 			},
 			{
 				"name": "Mud-Monster",
+				"ID": "I59",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i59_tcrzxc.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Trinket",
@@ -4589,6 +4599,8 @@
 			},
 			{
 				"name": "Tools",
+				"ID": "I96",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i96_skn0dd.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
