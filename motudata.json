@@ -4294,6 +4294,55 @@
 					"definition": "If this character is the target of a frontal attack, gain 1 Mana."
 			},
 			{
+				"name": "Slug Armour",
+				"ID": "I55",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650664/i55_glfjih.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Armour",
+					"definition": "Gain +1 Toughness and +1 Mind for every 2 Mana in Leech's possession. Leech loses 1 Mana after every defence test.",
+				"highlight": true,
+				"availableIn": [
+					"Leech"
+				]
+			},
+			{
+				"name": "Skull",
+				"ID": "I56",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i56_btdry6.jpg",
+				"points": -1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Decrease the maximum Mana by 3."
+			},
+			{
+				"name": "Amulet of Kulataks",
+				"ID": "I57",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i57_ndp8pm.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character."
+			},
+			{
+				"name": "Buzz Saw",
+				"ID": "I58",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i58_osrvzh.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Use it before any test. Gain 4 Successes, but do not roll any Dice."
+			},
+			{
+				"name": "Mud-Monster",
+				"ID": "I59",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i59_tcrzxc.jpg",
+				"points": 4,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Place a Mud-Monster within 12\"."
+			},
+			{
 				"name": "Engine Booster",
 				"ID": "I60",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651430/i60_tkhtuw.jpg",
@@ -4404,6 +4453,15 @@
 				"unique": true,
 				"type": "Shield",
 					"definition": "When a character has a Buff, gain +1 to the scope of defence tests, against all frontal attacks."
+			},
+			{
+				"name": "Tools",
+				"ID": "I96",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i96_skn0dd.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Draw a fate card."
 			},
 			{
 				"name": "Demolisher Missile",
@@ -4547,64 +4605,6 @@
 				"unique": true,
 				"type": "Spell",
 					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target."
-			},
-			{
-				"name": "Slug Armour",
-				"ID": "I55",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650664/i55_glfjih.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Armour",
-					"definition": "Gain +1 Toughness and +1 Mind for every 2 Mana in Leech's possession. Leech loses 1 Mana after every defence test.",
-				"highlight": true,
-				"availableIn": [
-					"Leech"
-				]
-			},
-			{
-				"name": "Skull",
-				"ID": "I56",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i56_btdry6.jpg",
-				"points": -1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Decrease the maximum Mana by 3."
-			},
-			{
-				"name": "Amulet of Kulataks",
-				"ID": "I57",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i57_ndp8pm.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character."
-			},
-			{
-				"name": "Buzz Saw",
-				"ID": "I58",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i58_osrvzh.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Disposable. Use it before any test. Gain 4 Successes, but do not roll any Dice."
-			},
-			{
-				"name": "Mud-Monster",
-				"ID": "I59",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i59_tcrzxc.jpg",
-				"points": 4,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Disposable. Place a Mud-Monster within 12\"."
-			},
-			{
-				"name": "Tools",
-				"ID": "I96",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i96_skn0dd.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Disposable. Draw a fate card."
 			},
 			{
 				"name": "Zodac's Blaster",
