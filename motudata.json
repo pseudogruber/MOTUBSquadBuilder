@@ -4249,6 +4249,8 @@
 			},
 			{
 				"name": "Energy Shield",
+				"ID": "I71",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650773/i71_avgmdx.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Shield",
@@ -4256,6 +4258,8 @@
 			},
 			{
 				"name": "Halo",
+				"ID": "I68",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650311/i68_jd0a7n.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
