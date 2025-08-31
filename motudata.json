@@ -4125,6 +4125,7 @@
 			},
 			{
 				"name": "Energy Cannon",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644973/wr18_uzeiqg.jpg",
 				"points": 2,
 				"diceModifier": "-2",
 				"range": 12,
