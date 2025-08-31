@@ -4220,6 +4220,29 @@
 					"Scorpia"
 				]
 			},
+			
+			{
+				"name": "Magic Push",
+				"ID": "WS25",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648453/ws25_jgdpum.jpg",
+				"points": 3,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes."
+			},
+			{
+				"name": "Trick",
+				"ID": "WS26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648454/ws26_mgk2gk.jpg",
+				"points": 1,
+				"range": 16,
+				"diceModifier": "+2",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target."
+			},
 			{
 				"name": "Bat",
 				"ID": "I41",
@@ -4585,29 +4608,9 @@
 					"definition": "If the target it engaged, instead of being decreased, the scope of the attack is increased by 1.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 hexes."
 			},
 			{
-				"name": "Magic Push",
-				"ID": "WS25",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648453/ws25_jgdpum.jpg",
-				"points": 3,
-				"range": 12,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Spell",
-					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes."
-			},
-			{
-				"name": "Trick",
-				"ID": "WS26",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648454/ws26_mgk2gk.jpg",
-				"points": 1,
-				"range": 16,
-				"diceModifier": "+2",
-				"unique": true,
-				"type": "Spell",
-					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target."
-			},
-			{
 				"name": "Zodac's Blaster",
+				"ID": "WR33",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420974/wr33_c1m9jm.jpg",
 				"points": 2,
 				"range": 12,
 				"unique": true,
@@ -4622,7 +4625,8 @@
 			},
 			{
 				"name": "Slingshot",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645051/wr36_y1dbml.jpg",
+				"ID": "WR33",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645051/wr36_y1dbml.jpg",
 				"points": 1,
 				"range": 12,
 				"unique": true,
