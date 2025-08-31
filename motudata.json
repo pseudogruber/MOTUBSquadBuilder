@@ -4231,6 +4231,8 @@
 			},
 			{
 				"name": "Heart Emblem",
+				"ID": "I66",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i66_q0vtdl.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
@@ -4238,6 +4240,8 @@
 			},
 			{
 				"name": "Space Armour",
+				"ID": "I67",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650664/i67_pj6y94.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Armour",
