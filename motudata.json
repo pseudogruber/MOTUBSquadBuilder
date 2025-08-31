@@ -2791,6 +2791,7 @@
 		"upgrades": [
 			{
 				"name": "Axe",
+				"ID": "WM9",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417789/wm9_hcxya9.jpg",
 				"points": 1,
 				"unique": true,
@@ -2804,6 +2805,7 @@
 			},
 			{
 				"name": "Battle Axe",
+				"ID": "WM1",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405624/wm1_bapuxu.jpg",
 				"points": 5,
 				"unique": true,
@@ -2813,6 +2815,7 @@
 			},
 			{
 				"name": "Staff of Avion",
+				"ID": "WM10",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417805/wm10_dwzgqa.jpg",
 				"points": 3,
 				"unique": true,
@@ -2822,6 +2825,7 @@
 			},
 			{
 				"name": "Havoc Staff",
+				"ID": "WM11",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417958/wm11_s1e19i.jpg",
 				"points": 2,
 				"unique": true,
@@ -2836,6 +2840,7 @@
 			},
 			{
 				"name": "Stink Gun",
+				"ID": "WR16",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644957/wr16_vd6deb.jpg",
 				"points": 3,
 				"unique": true,
@@ -2850,6 +2855,7 @@
 			},
 			{
 				"name": "Orange Sword of Power",
+				"ID": "WM50",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418138/wm50_q7426l.jpg",
 				"points": 2,
 				"unique": true,
@@ -2863,6 +2869,7 @@
 			},
 			{
 				"name": "Electro Shocker Spear",
+				"ID": "WM24",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418051/wm24_klhg2x.jpg",
 				"points": 3,
 				"unique": true,
@@ -2876,6 +2883,7 @@
 			},
 			{
 				"name": "Teela's Sword",
+				"ID": "WM19",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
 				"points": 2,
 				"unique": true,
@@ -2889,6 +2897,7 @@
 			},
 			{
 				"name": "Staff of Power",
+				"ID": "WM20",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417810/wm20_dbvu6l.jpg",
 				"points": 2,
 				"unique": true,
@@ -2902,6 +2911,7 @@
 			},
 			{
 				"name": "Bionatops Blaster",
+				"ID": "WR11",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644901/wr11_ppm9jt.jpg",
 				"points": 2,
 				"range": 16,
@@ -2912,6 +2922,8 @@
 			},
 			{
 				"name": "Spear",
+				"ID": "WM21",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417812/wm21_buqu1y.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
