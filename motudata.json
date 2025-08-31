@@ -3704,6 +3704,7 @@
 			},
 			{
 				"name": "Short Axe",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417815/wm23_a5r7lg.jpg",
 				"points": 2,
 				"diceModifier": "0",
 				"unique": true,
