@@ -4181,6 +4181,7 @@
 			},
 			{
 				"name": "Horde Staff",
+				"ID": "WM28",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
 				"points": 3,
 				"unique": true,
