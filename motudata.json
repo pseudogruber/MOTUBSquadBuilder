@@ -5183,6 +5183,124 @@
 					"definition": "If this character is within 2 hexes from a Mark, gain +1 Die for all defence tests."
 			},
 			{
+				"name": "Wooden Wand",
+				"ID": "I73",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650311/i73_ews4om.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Marks do not affect this character."
+			},
+			{
+				"name": "Snake Shield",
+				"ID": "I74",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650774/i74_krffp6.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Shield",
+					"definition": "Gain +1 to the scope of defence tests against all frontal interruption attacks."
+			},
+			{
+				"name": "Bat Snake",
+				"ID": "I75",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650311/i75_ydcoa7.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Choose a fate card from your discard pile and place it on top of your deck."
+			},
+			{
+				"name": "Dart",
+				"ID": "I76",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650314/i76_vq8dum.jpg",
+				"points": 1,
+				"mana cost": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Skill - Motivation. Choose a character within 12\". The chosen character interrupts  current activation or interruption with 0 AP."
+			},
+			{
+				"name": "Trap",
+				"ID": "I77",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650313/i77_etphqq.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Remove Mark within 12\", enemies within 1 hex from that Mark test Toughness. 1 or less Success: 1 Wound."
+			},
+			{
+				"name": "Refreshment Vial",
+				"ID": "I78",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650317/i78_cndyjh.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Upon interruption, gain 1 Mana."
+			},
+			{
+				"name": "Pot of Poison",
+				"ID": "I79",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650311/i79_zee3zh.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "When this character is about to be knocked out, all character on adjacent hexes gain a Curse Debuff."
+			},
+			{
+				"name": "Mystical Helmet",
+				"ID": "I80",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650666/i80_ik2pc6.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Armour",
+					"definition": "Dice rolled in attack or skill tests against this character cannot explode."
+			},
+			{
+				"name": "Capacious Bag",
+				"ID": "I81",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650312/i81_yppnhf.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Choose a trinket of any ally and use it as your own during this activation or interruption."
+			},
+			{
+				"name": "King's Order",
+				"ID": "I82",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i82_ubvq0z.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Make a free 2 hex move action."
+			},
+			{
+				"name": "Photanium Bar",
+				"ID": "I83",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650313/i83_lvbulj.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Exploding dice of this character attack tests succeed on 3+ Instead of 5+."
+			},
+			{
+				"name": "Poisonous Liquid",
+				"ID": "I84",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650313/i84_qthtc0.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "When a Melee attack against this character ends in 1 or less Successes, the attacker receives a Curse Debuff."
+			},
+			{
+				"name": "Targan Chains",
+				"ID": "I85",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650316/i85_eug4z1.jpg",
+				"points": -1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "-1 Speed and -1 to Focused Speed."
+			},
+			{
 				"name": "He-Ro II Armour",
 				"ID": "I89",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650666/i89_inbcoo.jpg",
