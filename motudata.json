@@ -2816,7 +2816,7 @@
 			{
 				"name": "Staff of Avion",
 				"ID": "WM10",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417805/wm10_dwzgqa.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417805/wm10_dwzgqa.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2826,7 +2826,7 @@
 			{
 				"name": "Havoc Staff",
 				"ID": "WM11",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417958/wm11_s1e19i.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417958/wm11_s1e19i.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2841,7 +2841,7 @@
 			{
 				"name": "Stink Gun",
 				"ID": "WR16",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644957/wr16_vd6deb.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644957/wr16_vd6deb.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -2856,7 +2856,7 @@
 			{
 				"name": "Orange Sword of Power",
 				"ID": "WM50",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418138/wm50_q7426l.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418138/wm50_q7426l.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2870,7 +2870,7 @@
 			{
 				"name": "Electro Shocker Spear",
 				"ID": "WM24",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418051/wm24_klhg2x.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418051/wm24_klhg2x.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2884,7 +2884,7 @@
 			{
 				"name": "Teela's Sword",
 				"ID": "WM19",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2898,7 +2898,7 @@
 			{
 				"name": "Staff of Power",
 				"ID": "WM20",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417810/wm20_dbvu6l.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417810/wm20_dbvu6l.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2912,7 +2912,7 @@
 			{
 				"name": "Bionatops Blaster",
 				"ID": "WR11",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644901/wr11_ppm9jt.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644901/wr11_ppm9jt.jpg",
 				"points": 2,
 				"range": 16,
 				"unique": true,
@@ -2923,7 +2923,7 @@
 			{
 				"name": "Spear",
 				"ID": "WM21",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417812/wm21_buqu1y.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417812/wm21_buqu1y.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2933,7 +2933,7 @@
 			{
 				"name": "Sword of Power",
 				"ID": "WM12",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417793/wm12_fb3uyf.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417793/wm12_fb3uyf.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2948,7 +2948,7 @@
 			{
 				"name": "Dagger",
 				"ID": "WM2",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417784/wm2_crgqy9.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417784/wm2_crgqy9.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "NoSlot",
@@ -2958,7 +2958,7 @@
 			{
 				"name": "Terror Claws",
 				"ID": "WM14",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417798/wm14_y67uxj.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417798/wm14_y67uxj.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2968,7 +2968,7 @@
 			{
 				"name": "Trident",
 				"ID": "WM15",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417983/wm15_gbnyxd.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417983/wm15_gbnyxd.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Melee",
@@ -2982,7 +2982,7 @@
 			{
 				"name": "Sword of Rakash",
 				"ID": "WM13",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417807/wm13_s3xtcr.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417807/wm13_s3xtcr.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Melee",
@@ -2992,7 +2992,7 @@
 			{
 				"name": "Electronic Sword of Power",
 				"ID": "WM3",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417791/wm3_uvggtd.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417791/wm3_uvggtd.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Melee",
@@ -3002,7 +3002,7 @@
 			{
 				"name": "Flying Fists",
 				"ID": "WM4",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417782/wm4_fo3gbc.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417782/wm4_fo3gbc.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3012,7 +3012,7 @@
 			{
 				"name": "Longsword",
 				"ID": "WM5",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417919/wm5_sgydwt.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417919/wm5_sgydwt.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -3026,7 +3026,7 @@
 			{
 				"name": "Hook Attachment",
 				"ID": "WM6",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417925/wm6_grojlx.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417925/wm6_grojlx.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Hook Attachment",
@@ -3040,7 +3040,7 @@
 			{
 				"name": "Laser Attachment",
 				"ID": "WR8",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644868/wr8_t83u7f.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644868/wr8_t83u7f.jpg",
 				"points": 0,
 				"unique": true,
 				"type": "Laser Attachment",
@@ -3055,7 +3055,7 @@
 			{
 				"name": "Purple Sword of Power",
 				"ID": "WM8",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417786/wm8_edoewy.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417786/wm8_edoewy.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3065,7 +3065,7 @@
 			{
 				"name": "Mace",
 				"ID": "WM7",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417796/wm7_uhl5dy.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417796/wm7_uhl5dy.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3075,7 +3075,7 @@
 			{
 				"name": "Arm Cannon",
 				"ID": "WR1",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644776/wr1_uylemk.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644776/wr1_uylemk.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "NoSlot",
@@ -3090,7 +3090,7 @@
 			{
 				"name": "Fear Gas Cannon",
 				"ID": "WR3",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644806/wr3_vqjnew.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644806/wr3_vqjnew.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Ranged",
@@ -3101,7 +3101,7 @@
 			{
 				"name": "Flamethrower",
 				"ID": "WR4",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644815/wr4_c8lzg6.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644815/wr4_c8lzg6.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Ranged",
@@ -3116,7 +3116,7 @@
 			{
 				"name": "Blaster",
 				"ID": "WR2",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644800/wr2_yhaby8.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644800/wr2_yhaby8.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Ranged",
@@ -3127,7 +3127,7 @@
 			{
 				"name": "Blaster Attachment",
 				"ID": "WR35",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645040/wr35_azicbh.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645040/wr35_azicbh.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -3142,7 +3142,7 @@
 			{
 				"name": "Claw Attachment",
 				"ID": "WM59",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417780/wm59_pipk4o.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417780/wm59_pipk4o.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3156,7 +3156,7 @@
 			{
 				"name": "Axe Attachment",
 				"ID": "WM58",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417776/wm58_acygh5.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417776/wm58_acygh5.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3170,7 +3170,7 @@
 			{
 				"name": "Power Clamp",
 				"ID": "WM48",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417766/wm48_okbzla.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417766/wm48_okbzla.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -3184,7 +3184,7 @@
 			{
 				"name": "Horde Crossbow",
 				"ID": "WR5",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644823/wr5_zqqsps.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644823/wr5_zqqsps.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -3195,7 +3195,7 @@
 			{
 				"name": "Laser Pistol",
 				"ID": "WR6",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644841/wr6_nvmgpc.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644841/wr6_nvmgpc.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "NoSlot",
@@ -3206,7 +3206,7 @@
 			{
 				"name": "Laser Rifle",
 				"ID": "WR7",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644859/wr7_uc3jdq.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644859/wr7_uc3jdq.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -3217,7 +3217,7 @@
 			{
 				"name": "Photon Neutralizer",
 				"ID": "WR9",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644875/wr9_xh2jpr.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644875/wr9_xh2jpr.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Ranged",
@@ -3228,7 +3228,7 @@
 			{
 				"name": "Cosmic Storm",
 				"ID": "WS1",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648471/ws1_o9gcwf.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648471/ws1_o9gcwf.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Spell",
@@ -3244,7 +3244,7 @@
 			{
 				"name": "Cursed Minions",
 				"ID": "WS2",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648473/ws2_u31mtw.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648473/ws2_u31mtw.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "NoSlot",
@@ -3254,17 +3254,9 @@
 				"definition": "This does not use a spell slot. This spell can be used while engaged. Attacks with this spell cost 1 AP less (to a minimum of 1).\n          1 success: Push target 2 hexes\n          2 successes: 1 wound and push target 2 hexes"
 			},
 			{
-				"name": "Fireball",
-				"points": 3,
-				"unique": true,
-				"type": "Spell",
-				"range": 12,
-				"mana": 2,
-				"diceModifier": "0",
-				"definition": "This spell affects the target and all characters within 1 hex from them.\n          Before attacking, spend 2 additional Mana to increase this radius by 1 hex per Mana spent.\n          2 successes: 1 wound\n          3 successes: 2 wounds\n          6 successes: 3 wounds"
-			},
-			{
 				"name": "Eternal Binds",
+				"ID": "WS3",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648474/ws3_spqklh.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Spell",
@@ -3274,37 +3266,9 @@
 				"definition": "If target has a debuff, gain 1 die.\n          1 success: Target loses 2 mana\n          2 successes: Target loses 2 mana and gains a Knockdown"
 			},
 			{
-				"name": "Magic Blast",
-				"points": 3,
-				"unique": true,
-				"type": "Spell",
-				"range": 12,
-				"mana": 1,
-				"diceModifier": "-1",
-				"definition": "If the target has less mana than the attacker (after mana is spent for the spell), gain +2 dice.\n          2 successes: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds"
-			},
-			{
-				"name": "Spell of Protection",
-				"points": 1,
-				"unique": true,
-				"type": "Spell",
-				"range": 12,
-				"mana": 2,
-				"diceModifier": "0",
-				"definition": "This spell targets allies instead of enemies. The target does not make a defence test.\n          Attacks with this spell cost 1 AP less (to a minimum of 1).\n          1 success: Protection"
-			},
-			{
-				"name": "Thunder",
-				"points": 3,
-				"unique": true,
-				"type": "Spell",
-				"range": 12,
-				"mana": 1,
-				"diceModifier": "0",
-				"definition": "During interruptions, attacks with this spell cost 1 AP less (to a minimum of 1).\n          1 success: 1 wound\n          2 successes: 1 wound and a Blind\n          3 successes: 2 wounds and a Blind"
-			},
-			{
 				"name": "Flaming Missile",
+				"ID": "WS4",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648475/ws4_tjsima.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Spell",
@@ -3314,7 +3278,33 @@
 				"definition": "When this character has a focus, the mana cost is reduced to 0.\n          1 success: 1 wound\n          3 successes: 2 wounds"
 			},
 			{
+				"name": "Fireball",
+				"ID": "WS5",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648477/ws5_ldijzd.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Spell",
+				"range": 12,
+				"mana": 2,
+				"diceModifier": "0",
+				"definition": "This spell affects the target and all characters within 1 hex from them.\n          Before attacking, spend 2 additional Mana to increase this radius by 1 hex per Mana spent.\n          2 successes: 1 wound\n          3 successes: 2 wounds\n          6 successes: 3 wounds"
+			},
+			{
+				"name": "Magic Blast",
+				"ID": "WS6",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648477/ws6_rhpxmc.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Spell",
+				"range": 12,
+				"mana": 1,
+				"diceModifier": "-1",
+				"definition": "If the target has less mana than the attacker (after mana is spent for the spell), gain +2 dice.\n          2 successes: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds"
+			},
+			{
 				"name": "Shadow Strike",
+				"ID": "WS7",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648478/ws7_drpbvd.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Spell",
@@ -3328,7 +3318,34 @@
 				]
 			},
 			{
+				"name": "Spell of Protection",
+				"ID": "WS8",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648445/ws8_t3jrmk.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Spell",
+				"range": 12,
+				"mana": 2,
+				"diceModifier": "0",
+				"definition": "This spell targets allies instead of enemies. The target does not make a defence test.\n          Attacks with this spell cost 1 AP less (to a minimum of 1).\n          1 success: Protection"
+			},
+			{
+				"name": "Thunder",
+				"ID": "WS9",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648444/ws9_xvuemn.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Spell",
+				"range": 12,
+				"mana": 1,
+				"diceModifier": "0",
+				"definition": "During interruptions, attacks with this spell cost 1 AP less (to a minimum of 1).\n          1 success: 1 wound\n          2 successes: 1 wound and a Blind\n          3 successes: 2 wounds and a Blind"
+			},
+			{
 				"name": "Battle Armor I",
+				"ID": "I1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650669/i1_q8n1b4.jpg",
+				"ID": "WS9",
 				"points": 4,
 				"unique": true,
 				"type": "Armour",
@@ -3336,6 +3353,8 @@
 			},
 			{
 				"name": "Battle Harness",
+				"ID": "I2",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405623/i2_ltgd4d.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Armour",
@@ -3343,6 +3362,8 @@
 			},
 			{
 				"name": "Gar Tech Vest",
+				"ID": "I3",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650669/i3_j2n2tz.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Armour",
@@ -3350,6 +3371,8 @@
 			},
 			{
 				"name": "Helm",
+				"ID": "I4",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650670/i4_xdrewn.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Armour",
@@ -3357,6 +3380,8 @@
 			},
 			{
 				"name": "Magic Cloak",
+				"ID": "I5",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650671/i5_apdz9o.jpg",
 				"points": 0,
 				"unique": true,
 				"type": "Armour",
@@ -3365,6 +3390,8 @@
 			},
 			{
 				"name": "Weapon Holster",
+				"ID": "I6",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650671/i6_x7rsys.jpg",
 				"points": 0,
 				"unique": true,
 				"type": "Armour",
@@ -3373,6 +3400,8 @@
 			},
 			{
 				"name": "Flaming Shield",
+				"ID": "I7",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650772/i7_pjiwyg.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Shield",
@@ -3380,6 +3409,8 @@
 			},
 			{
 				"name": "Shield of Ka",
+				"ID": "I8",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650771/i8_oeqpwy.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Shield",
@@ -3387,6 +3418,8 @@
 			},
 			{
 				"name": "Amulet of Avarice",
+				"ID": "I9",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650326/i9_xukph3.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3394,6 +3427,8 @@
 			},
 			{
 				"name": "Gem of Magoo",
+				"ID": "I10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650323/i10_lsslep.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3403,6 +3438,8 @@
 			},
 			{
 				"name": "Jet Pack",
+				"ID": "I11",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650326/i11_cobukb.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Trinket",
@@ -3412,6 +3449,8 @@
 			},
 			{
 				"name": "Golden Disk of Knowledge",
+				"ID": "I12",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650326/i12_t9mgx5.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3419,6 +3458,8 @@
 			},
 			{
 				"name": "Magic Feather",
+				"ID": "I13",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650326/i13_ujhdqi.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
@@ -3427,6 +3468,8 @@
 			},
 			{
 				"name": "Horn of Evil",
+				"ID": "I14",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650326/i14_ly0jnw.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
@@ -3435,6 +3478,8 @@
 			},
 			{
 				"name": "Magic Potion",
+				"ID": "I15",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650329/i15_eebjpz.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3442,6 +3487,8 @@
 			},
 			{
 				"name": "Orb of Power",
+				"ID": "I16",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650329/i16_yavb0l.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3449,13 +3496,26 @@
 			},
 			{
 				"name": "Polarizer",
+				"ID": "I17",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650329/i17_yrepgn.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
 				"definition": "When the character has a Focus: +1 Perception.\n          Otherwise: -1 Perception"
 			},
 			{
+				"name": "Gem of Tamadge",
+				"ID": "I18",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650330/i18_mmov8l.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "All interruption attacks gain +1 die."
+			},
+			{
 				"name": "Wheel of Infinity",
+				"ID": "I19",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650332/i19_dbcuc8.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3463,6 +3523,8 @@
 			},
 			{
 				"name": "Ram Stone",
+				"ID": "I20",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650332/i20_sfi9eg.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3470,6 +3532,8 @@
 			},
 			{
 				"name": "Grayskull Ring",
+				"ID": "I21",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650332/i21_d3quqq.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3477,6 +3541,8 @@
 			},
 			{
 				"name": "Spellstone",
+				"ID": "I22",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650333/i22_hr9t1v.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
@@ -3484,6 +3550,8 @@
 			},
 			{
 				"name": "Sun Scarab",
+				"ID": "I23",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650333/i23_k7ikto.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -3491,76 +3559,215 @@
 			},
 			{
 				"name": "Ambrosia",
+				"ID": "I24",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650336/i24_qbkjii.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
 				"definition": "Disposable.\n          Gain 1 Action."
 			},
 			{
-				"name": "Gem of Tamadge",
-				"points": 2,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "All interruption attacks gain +1 die."
-			},
-			{
-				"name": "Steel Shield",
-				"points": 2,
-				"unique": true,
-				"type": "Shield",
-				"definition": "If the character is a target of a frontal Melee Attack, gain a Focus."
-			},
-			{
 				"name": "Force Field Rod",
+				"ID": "I25",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650336/i25_vhexcc.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
 				"definition": "Disposable.\n          Spend 1 AP and place 3 force fields within 8\"."
 			},
 			{
-				"name": "Coridite",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "if the character's interruption attack results in 2 or more Successes, draw a fate card."
-			},
-			{
-				"name": "Tiara",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "If the character's skill test results in 2 or more Successes, gain 1 Mana."
-			},
-			{
-				"name": "Cloak of Doom",
-				"points": 2,
-				"unique": true,
-				"type": "Armour",
-				"definition": "If within 6\" there is an ally or an enemy with a Debuff, gain +1 Die to all defence tests."
-			},
-			{
 				"name": "Belt",
+				"ID": "I26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650343/i26_ttekpf.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
 				"definition": "If the character has at least 2 Wounds, +1 Strength"
 			},
 			{
-				"name": "Teleporter",
-				"points": 2,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Disposable.\n          Place 2 teleporters within 8\"."
-			},
-			{
 				"name": "Shin-Guards",
+				"ID": "I27",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650336/i27_nwq8u1.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
 				"definition": "All attacks gain +1 Die, but cannot deal more than 1 Wound."
 			},
 			{
+				"name": "Cloak of Doom",
+				"ID": "I28",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650672/i28_kx2je5.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Armour",
+				"definition": "If within 6\" there is an ally or an enemy with a Debuff, gain +1 Die to all defence tests."
+			},
+			{
+				"name": "Teleporter",
+				"ID": "I29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650336/i29_djdrob.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Disposable.\n          Place 2 teleporters within 8\"."
+			},
+			{
+				"name": "Tiara",
+				"ID": "I30",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650340/i30_xtm6gr.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "If the character's skill test results in 2 or more Successes, gain 1 Mana."
+			},
+			{
+				"name": "Coridite",
+				"ID": "I31",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650339/i31_kjgzch.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "if the character's interruption attack results in 2 or more Successes, draw a fate card."
+			},
+			{
+				"name": "Steel Shield",
+				"ID": "I32",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650772/i32_fgq2yu.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Shield",
+				"definition": "If the character is a target of a frontal Melee Attack, gain a Focus."
+			},
+			{
+				"name": "Assassin's Belt",
+				"ID": "I33",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650339/i33_hvm9bf.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Flank attacks gain +1 Die."
+			},
+			{
+				"name": "Visor",
+				"ID": "I34",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650351/i34_a5cvfs.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Enemy attacks trigger this character's overwatches. Interruption starts after the attack."
+			},
+			{
+				"name": "King's Goblet",
+				"ID": "I35",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650340/i35_sewyew.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "At the end of the activation, if the character performed no attacks, they gain a Focus."
+			},
+			{
+				"name": "Bomb Pack",
+				"ID": "I36",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650343/i36_urhtgv.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Disposable. Spend 1 AP and place a crater within 8\"."
+			},
+			{
+				"name": "Leather Jerkin",
+				"ID": "I37",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650671/i37_vnqfu2.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Armour",
+				"definition": "When the character is attacked by the interrupting enemy, gain +1 Die to the defence test."
+			},
+			{
+				"name": "Book of Living Spells",
+				"ID": "I38",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650343/i38_rbgoqo.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Increase the maximum Mana by 2."
+			},
+			{
+				"name": "Grayskull Reliquary",
+				"ID": "I39",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650343/i39_ebpg3k.jpg",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Upon activation, gain 1 Wound and a Focus"
+			},
+			{
+				"name": "Gas Tank",
+				"ID": "I40",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650346/i40_dqmcfx.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Disposable. Place a gas tank within 12\""
+			},
+			{
+				"name": "Wrap",
+				"ID": "I49",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650351/i49_rbmjzx.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Disposable. When this character is about to lose their Buff or Debuff, you can use this card to keep it."
+			},
+			{
+				"name": "Magical Shell",
+				"ID": "I50",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i50_kxsm5p.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Defence tests against skills gain 1 Die."
+			},
+			{
+				"name": "Inquisitor Armor",
+				"ID": "I51",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i51_qlvowy.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Armour",
+				"definition": "This character can be attacked only once during every activation or interruption."
+			},
+			{
+				"name": "Rotating Shield",
+				"ID": "I52",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650773/i52_jdelhd.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Shield",
+				"definition": "After being attacked by a frontal Ranged Attack or Spell Attack, this character is pulled 2 hexes towards the attacker."
+			},
+			{
+				"name": "Acid Vial",
+				"ID": "I53",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i53_qkqt0i.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "If this character's flank attack results in 2 or more Successes, the target receives a Blind debuff."
+			},
+			{
+				"name": "Magic Lamp",
+				"ID": "I54",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i54_ynspyi.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Spell attacks gain +1 Die. After the Spell attack, this character receives a Curse debuff if at least one '1' was rolled in the attack test."
+			},
+			{
 				"name": "Reinforced Limbs",
+				"ID": "IM1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650667/im1_nyxl6j.jpg",
 				"points": 0,
 				"unique": true,
 				"type": "Armour",
@@ -3571,105 +3778,9 @@
 				]
 			},
 			{
-				"name": "King's Goblet",
-				"points": 2,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "At the end of the activation, if the character performed no attacks, they gain a Focus."
-			},
-			{
-				"name": "Visor",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Enemy attacks trigger this character's overwatches. Interruption starts after the attack."
-			},
-			{
-				"name": "Assassin's Belt",
-				"points": 2,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Flank attacks gain +1 Die."
-			},
-			{
-				"name": "Bomb Pack",
-				"points": 3,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Disposable. Spend 1 AP and place a crater within 8\"."
-			},
-			{
-				"name": "Gas Tank",
-				"points": 2,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Disposable. Place a gas tank within 12\""
-			},
-			{
-				"name": "Grayskull Reliquary",
-				"points": 0,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Upon activation, gain 1 Wound and a Focus"
-			},
-			{
-				"name": "Book of Living Spells",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Increase the maximum Mana by 2."
-			},
-			{
-				"name": "Leather Jerkin",
-				"points": 1,
-				"unique": true,
-				"type": "Armour",
-				"definition": "When the character is attacked by the interrupting enemy, gain +1 Die to the defence test."
-			},
-			{
-				"name": "Inquisitor Armor",
-				"points": 3,
-				"unique": true,
-				"type": "Armour",
-				"definition": "This character can be attacked only once during every activation or interruption."
-			},
-			{
-				"name": "Wrap",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Disposable. When this character is about to lose their Buff or Debuff, you can use this card to keep it."
-			},
-			{
-				"name": "Magical Shell",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Defence tests against skills gain 1 Die."
-			},
-			{
-				"name": "Magic Lamp",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Spell attacks gain +1 Die. After the Spell attack, this character receives a Curse debuff if at least one '1' was rolled in the attack test."
-			},
-			{
-				"name": "Acid Vial",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "If this character's flank attack results in 2 or more Successes, the target receives a Blind debuff."
-			},
-			{
-				"name": "Rotating Shield",
-				"points": 1,
-				"unique": true,
-				"type": "Shield",
-				"definition": "After being attacked by a frontal Ranged Attack or Spell Attack, this character is pulled 2 hexes towards the attacker."
-			},
-			{
 				"name": "Illusionary Attack",
+				"ID": "WS13",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648445/ws13_hmjsuk.jpg",
 				"points": 2,
 				"range": 12,
 				"mana": 1,
@@ -3680,6 +3791,8 @@
 			},
 			{
 				"name": "Scythe of Doom",
+				"ID": "WM16",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417989/wm16_av25iz.jpg",
 				"points": 2,
 				"diceModifier": "0",
 				"unique": true,
@@ -3692,6 +3805,8 @@
 			},
 			{
 				"name": "Beast Man's Whip",
+				"ID": "WM17",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417996/wm17_gksnsp.jpg",
 				"points": 2,
 				"diceModifier": "-1",
 				"unique": true,
@@ -3704,6 +3819,8 @@
 			},
 			{
 				"name": "Mega Blaster",
+				"ID": "WR10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644890/wr10_gxnnur.jpg",
 				"points": 3,
 				"range": 8,
 				"diceModifier": "-2",
@@ -3712,17 +3829,9 @@
 				"definition": "Before attacking, test (Strength) to gain 1 Die per Success received (to maximum of 5).\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
 			},
 			{
-				"name": "Ray of Destruction",
-				"points": 2,
-				"range": 0,
-				"mana": 1,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Spell",
-				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with.\n          Gain 1 Die per Wound on this character (to maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds"
-			},
-			{
 				"name": "Fatal Flaw",
+				"ID": "WS10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648443/ws10_ty2soz.jpg",
 				"points": 2,
 				"range": 16,
 				"mana": 0,
@@ -3732,7 +3841,21 @@
 				"definition": "This spell can only target enemies with a Debuff. After the attack, remove a Debuff from the target.\n          1 success: This character gains 1 Mana\n2 successes: 1 Wound and this character gains 2 Mana\n3 successes: 1 Wound and this character gains 3 Mana"
 			},
 			{
+				"name": "Ray of Destruction",
+				"ID": "WS11",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648443/ws11_smotfi.jpg",
+				"points": 2,
+				"range": 0,
+				"mana": 1,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with.\n          Gain 1 Die per Wound on this character (to maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds"
+			},
+			{
 				"name": "Skull Weapon",
+				"ID": "WM18",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417800/wm18_u5hzxe.jpg",
 				"points": 4,
 				"diceModifier": "+1",
 				"unique": true,
@@ -3740,7 +3863,22 @@
 				"definition": "If an attack with this weapon results in 2 or more Successes, pass this character's Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
 			},
 			{
+				"name": "Tyrantisaurus Tail",
+				"ID": "WMM1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756667067/wmm1_vq2hut.jpg",
+				"points": 0,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "This weapon affects all characters engaged with a Tyrantisaurus.\n          -1 Die for every engaged character (to a maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds and push target 2 hexes",
+				"highlight": true,
+				"availableIn": [
+					"Tyrantisaurus"
+				]
+			},
+			{
 				"name": "Tyrantisaurus Blaster",
+				"ID": "WRM1",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645069/wrm1_zph3wf.jpg",
 				"points": 0,
 				"diceModifier": "0",
@@ -3754,20 +3892,9 @@
 				]
 			},
 			{
-				"name": "Tyrantisaurus Tail",
-				"points": 0,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "This weapon affects all characters engaged with a Tyrantisaurus.\n          -1 Die for every engaged character (to a maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds and push target 2 hexes",
-				"highlight": true,
-				"availableIn": [
-					"Tyrantisaurus"
-				]
-			},
-			{
 				"name": "Short Axe",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417815/wm23_a5r7lg.jpg",
+				"ID": "WM23",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417815/wm23_a5r7lg.jpg",
 				"points": 2,
 				"diceModifier": "0",
 				"unique": true,
@@ -3780,6 +3907,8 @@
 			},
 			{
 				"name": "Laser Gun",
+				"ID": "WM23",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644917/wr12_ltvrw7.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644930/wr13_keztf1.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644937/wr14_olsshu.jpg"],
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -4972,7 +5101,7 @@
 			},
 			{
 				"name": "Fighting Foe Men",
-				"imageurl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_FFM_gwvjmi.png",
 				"alignment": "Factions",
 				"armyBonus": "",
