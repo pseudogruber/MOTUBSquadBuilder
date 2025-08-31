@@ -4148,6 +4148,7 @@
 			},
 			{
 				"name": "Cosmic Blaster",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644997/wr20_aqgoxg.jpg",
 				"points": 1,
 				"range": 12,
 				"unique": true,
@@ -4156,6 +4157,7 @@
 			},
 			{
 				"name": "Catra's Whip",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418318/wm26_o8as6c.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
