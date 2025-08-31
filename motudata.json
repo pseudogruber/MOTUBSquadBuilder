@@ -4105,6 +4105,7 @@
 			},
 			{
 				"name": "Calamity",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648450/ws20_ozxeop.jpg",
 				"points": 3,
 				"mana": 3,
 				"range": 8,
@@ -4114,6 +4115,7 @@
 			},
 			{
 				"name": "Mana Burn",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648449/ws19_sxdxcf.jpg",
 				"points": 3,
 				"range": 12,
 				"diceModifier": "-2",
