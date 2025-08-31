@@ -4536,7 +4536,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"diceModifier": "-",
-				"definition": "If the character has 4 or more Strength, increase the range of this weapon by 4\". If the character has 5 or more Strength, gain 1 Die.\n          1 success: 1 wound and target loses Overwatch"			]
+				"definition": "If the character has 4 or more Strength, increase the range of this weapon by 4\". If the character has 5 or more Strength, gain 1 Die.\n          1 success: 1 wound and target loses Overwatch"
 			},
 			{
 				"name": "He-Ro Staff - Purple",
