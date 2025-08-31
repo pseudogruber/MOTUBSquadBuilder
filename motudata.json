@@ -2823,7 +2823,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "0",
-				"definition": "Each time an ally receives at least 1 wound, Skeletor gains 1 mana.",
+				"definition": "Each time an ally receives at least 1 wound, Skeletor gains 1 mana.\n          1 success: 1 wound\n          3 successes: 2 wounds",
 				"highlight": true,
 				"availableIn": [
 					"Skeletor",
