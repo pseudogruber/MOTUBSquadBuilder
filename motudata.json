@@ -2790,20 +2790,6 @@
 		],
 		"upgrades": [
 			{
-				"name": "Axe",
-				"ID": "WM9",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417789/wm9_hcxya9.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "If the attack uses a focus, add +1 dice.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Ram Man"
-				]
-			},
-			{
 				"name": "Battle Axe",
 				"ID": "WM1",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405624/wm1_bapuxu.jpg",
@@ -2814,138 +2800,6 @@
 				"definition": "If the attack was made immediately after a move action, the target cannot roll more than 2 dice during their defence test.\n          1 success: 1 wound\n          2 successes: 2 wounds\n          4 successes: 3 wounds"
 			},
 			{
-				"name": "Staff of Avion",
-				"ID": "WM10",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417805/wm10_dwzgqa.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "If the attack uses a focus, add +3 dice.\n          Cannot roll more than 6 dice. \n          1 success: 1 wound\n          3 successes: 2 wounds"
-			},
-			{
-				"name": "Havoc Staff",
-				"ID": "WM11",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417958/wm11_s1e19i.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "Each time an ally receives at least 1 wound, Skeletor gains 1 mana.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Skeletor",
-					"Skeletor with Panthor"
-				]
-			},
-			{
-				"name": "Stink Gun",
-				"ID": "WR16",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644957/wr16_vd6deb.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Ranged",
-				"diceModifier": "0",
-				"range": 12,
-				"definition": "Gain +1 Die for every 2 Mana in Stinkor's Posession\n          1 success: 1 Wound\n2 successes: 1 Wound and a Blind debuff\n3 successes: 2 Wounds and a Blind debuff",
-				"highlight": true,
-				"availableIn": [
-					"Stinkor"
-				]
-			},
-			{
-				"name": "Orange Sword of Power",
-				"ID": "WM50",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418138/wm50_q7426l.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "If an attack with this weapon results in 2 or less Successes, Faker gains a Cripple debuff.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Faker"
-				]
-			},
-			{
-				"name": "Electro Shocker Spear",
-				"ID": "WM24",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418051/wm24_klhg2x.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "Before attacking, Whiplash can spend a Focus to gain 3 Dice and use this as a ranged weapon with range of 12\".\n          1 success: 1 Wound\n3 successes: 1 Wound 1 Wound (if this attack had a Focus)\n4 successes: 2 Wound 1 Wound (if this attack had a Focus)",
-				"highlight": true,
-				"availableIn": [
-					"Whiplash"
-				]
-			},
-			{
-				"name": "Teela's Sword",
-				"ID": "WM19",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "+1",
-				"definition": "If an attack with this weapon results in 2 or more Successes, Teela can perform a free 2 hex move action. This action can be made in any direction and cannot be interrupted..\n          1 success: 1 Wounds\n4 successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Teela"
-				]
-			},
-			{
-				"name": "Staff of Power",
-				"ID": "WM20",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417810/wm20_dbvu6l.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "Upon interruption, gain 1 Mana.\n          During interruptions, Spell attacks are treated as skill tests and attack tests.\n          1 success: 1 Wounds\n3 successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Sorceress"
-				]
-			},
-			{
-				"name": "Bionatops Blaster",
-				"ID": "WR11",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644901/wr11_ppm9jt.jpg",
-				"points": 2,
-				"range": 16,
-				"unique": true,
-				"type": "Ranged",
-				"diceModifier": "-1",
-				"definition": "Once per round, if this character did not move during this activation or interruption and the target is at a distance of 8\" or farther, add +3 Dice.\n          2 success: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
-			},
-			{
-				"name": "Spear",
-				"ID": "WM21",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417812/wm21_buqu1y.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "Can target enemies within 2 hexes (assuming they are in line of sight), even if they are not engaged with this character.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
-			},
-			{
-				"name": "Sword of Power",
-				"ID": "WM12",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417793/wm12_fb3uyf.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "Before attacking, spend up to 3 mana to gain 1 dice per mana spent.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"He-Man",
-					"He-Man with Battle Cat"
-				]
-			},
-			{
 				"name": "Dagger",
 				"ID": "WM2",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417784/wm2_crgqy9.jpg",
@@ -2954,40 +2808,6 @@
 				"type": "NoSlot",
 				"diceModifier": "0",
 				"definition": "This does not use a melee weapon slot. Attacks with this weapon cost 1 AP less (to a minimum of 1).\n          1 success: 1 wound\n          3 successes: 1 wound and 1 wound (if flank attack)"
-			},
-			{
-				"name": "Terror Claws",
-				"ID": "WM14",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417798/wm14_y67uxj.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "+1",
-				"definition": "During interruptions, attacks with this weapon cost 1 AP less (to a minimum of 0).\n          1 success: 1 wound\n          2 successes: 1 wounds and a knockdown\n          4 successes: 2 wounds and a knockdown"
-			},
-			{
-				"name": "Trident",
-				"ID": "WM15",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417983/wm15_gbnyxd.jpg",
-				"points": 4,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "If the target is in difficult terrain, gain +1 die.\n          1 success: 1 wound\n          2 successes: 2 wounds\n          4 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Mer-Man"
-				]
-			},
-			{
-				"name": "Sword of Rakash",
-				"ID": "WM13",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417807/wm13_s3xtcr.jpg",
-				"points": 4,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "All melee, spells, and ranged attacks of this character gain 1 free reroll for each character with a Debuff (to maximum of 3).\n          1 success: 1 wound\n          2 successes: 2 wounds\n          5 successes: 3 wounds"
 			},
 			{
 				"name": "Electronic Sword of Power",
@@ -3038,19 +2858,14 @@
 				]
 			},
 			{
-				"name": "Laser Attachment",
-				"ID": "WR8",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644868/wr8_t83u7f.jpg",
-				"points": 0,
+				"name": "Mace",
+				"ID": "WM7",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417796/wm7_uhl5dy.jpg",
+				"points": 3,
 				"unique": true,
-				"type": "Laser Attachment",
-				"range": 12,
-				"diceModifier": "-1",
-				"definition": "This does not use a ranged weapon slot.\n          Before attacking, Trap Jaw may spend either 1 extra AP to gain one of the bonuse below or 2 extra AP to gain both bonuses:\n          +2 dice or increase range by 4\"\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Trap Jaw"
-				]
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "When this character has a focus, add +1 die to all defence tests.\n          1 success: 1 wound\n          2 successes: 1 wound and push target 2 hexes\n          3 success: 2 wounds and push target 2 hexes"
 			},
 			{
 				"name": "Purple Sword of Power",
@@ -3063,14 +2878,674 @@
 				"definition": "When this character has a focus, add +1 die to spell and skill tests.\n          1 success: 1 wound\n          2 successes: 1 wound and this character gains 2 mana\n          3 successes: 2 wounds and this character gains 2 mana"
 			},
 			{
-				"name": "Mace",
-				"ID": "WM7",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417796/wm7_uhl5dy.jpg",
+				"name": "Axe",
+				"ID": "WM9",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417789/wm9_hcxya9.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "If the attack uses a focus, add +1 dice.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Ram Man"
+				]
+			},
+			{
+				"name": "Staff of Avion",
+				"ID": "WM10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417805/wm10_dwzgqa.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "0",
-				"definition": "When this character has a focus, add +1 die to all defence tests.\n          1 success: 1 wound\n          2 successes: 1 wound and push target 2 hexes\n          3 success: 2 wounds and push target 2 hexes"
+				"definition": "If the attack uses a focus, add +3 dice.\n          Cannot roll more than 6 dice. \n          1 success: 1 wound\n          3 successes: 2 wounds"
+			},
+			{
+				"name": "Havoc Staff",
+				"ID": "WM11",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417958/wm11_s1e19i.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "Each time an ally receives at least 1 wound, Skeletor gains 1 mana.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Skeletor",
+					"Skeletor with Panthor"
+				]
+			},
+			{
+				"name": "Sword of Power",
+				"ID": "WM12",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417793/wm12_fb3uyf.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "Before attacking, spend up to 3 mana to gain 1 dice per mana spent.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"He-Man",
+					"He-Man with Battle Cat"
+				]
+			},
+			{
+				"name": "Sword of Rakash",
+				"ID": "WM13",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417807/wm13_s3xtcr.jpg",
+				"points": 4,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "All melee, spells, and ranged attacks of this character gain 1 free reroll for each character with a Debuff (to maximum of 3).\n          1 success: 1 wound\n          2 successes: 2 wounds\n          5 successes: 3 wounds"
+			},
+			{
+				"name": "Terror Claws",
+				"ID": "WM14",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417798/wm14_y67uxj.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "+1",
+				"definition": "During interruptions, attacks with this weapon cost 1 AP less (to a minimum of 0).\n          1 success: 1 wound\n          2 successes: 1 wounds and a knockdown\n          4 successes: 2 wounds and a knockdown"
+			},
+			{
+				"name": "Trident",
+				"ID": "WM15",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417983/wm15_gbnyxd.jpg",
+				"points": 4,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "If the target is in difficult terrain, gain +1 die.\n          1 success: 1 wound\n          2 successes: 2 wounds\n          4 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Mer-Man"
+				]
+			},
+			{
+				"name": "Scythe of Doom",
+				"ID": "WM16",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417989/wm16_av25iz.jpg",
+				"points": 2,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "Before attacking, if the target has a Debuff, remove a Debuff from the target and gain +2 Dice.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff\n5 successes: 2 Wounds and a Curse debuff",
+				"highlight": true,
+				"availableIn": [
+					"Scareglow"
+				]
+			},
+			{
+				"name": "Beast Man's Whip",
+				"ID": "WM17",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417996/wm17_gksnsp.jpg",
+				"points": 2,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Melee",
+				"definition": "Once per activation, if Beast Man made a Melee Attack, he can spend 2 Mana to immediately perform a free Melee Attack with this weapon.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Beast Man"
+				]
+			},
+			{
+				"name": "Skull Weapon",
+				"ID": "WM18",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417800/wm18_u5hzxe.jpg",
+				"points": 4,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Melee",
+				"definition": "If an attack with this weapon results in 2 or more Successes, pass this character's Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+			},
+			{
+				"name": "Teela's Sword",
+				"ID": "WM19",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "+1",
+				"definition": "If an attack with this weapon results in 2 or more Successes, Teela can perform a free 2 hex move action. This action can be made in any direction and cannot be interrupted..\n          1 success: 1 Wounds\n4 successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Teela"
+				]
+			},
+			{
+				"name": "Staff of Power",
+				"ID": "WM20",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417810/wm20_dbvu6l.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "Upon interruption, gain 1 Mana.\n          During interruptions, Spell attacks are treated as skill tests and attack tests.\n          1 success: 1 Wounds\n3 successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Sorceress"
+				]
+			},
+			{
+				"name": "Spear",
+				"ID": "WM21",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417812/wm21_buqu1y.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "Can target enemies within 2 hexes (assuming they are in line of sight), even if they are not engaged with this character.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
+			},
+			{
+				"name": "Long Axe",
+				"ID": "WM22",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417818/wm22_qblyto.jpg",
+				"points": 4,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "At the end of the activation, if this character has a Focus, gain a Protection Buff.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+			},
+			{
+				"name": "Short Axe",
+				"ID": "WM23",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417815/wm23_a5r7lg.jpg",
+				"points": 2,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "Attacks with this weapon cost 1 AP less (to a minimum of 1).\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (if this attack had a Focus).",
+				"highlight": true,
+				"availableIn": [
+					"Buzz-Off"
+				]
+			},
+			{
+				"name": "Electro Shocker Spear",
+				"ID": "WM24",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418051/wm24_klhg2x.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "Before attacking, Whiplash can spend a Focus to gain 3 Dice and use this as a ranged weapon with range of 12\".\n          1 success: 1 Wound\n3 successes: 1 Wound 1 Wound (if this attack had a Focus)\n4 successes: 2 Wound 1 Wound (if this attack had a Focus)",
+				"highlight": true,
+				"availableIn": [
+					"Whiplash"
+				]
+			},
+			{
+				"name": "Club",
+				"ID": "WM25",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417820/wm25_ilzowk.jpg",
+				"points": 2,
+				"diceModifier": "-2",
+				"unique": true,
+				"type": "Melee",
+				"definition": "Gain +1 Die for every activated enemy.\n          1 success: 1 Wound\n          2 successes: 2 Wounds\n          4 successes: 3 Wounds"
+			},
+			{
+				"name": "Catra's Whip",
+				"ID": "WM26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418318/wm26_o8as6c.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Once per activation, after Catra makes a melee attack she can spend 2 Mana to immediately perform a free melee attack with this weapon\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and draw a fate card\n          4 Successes: 2 Wounds and draw a fate card",
+				"highlight": true,
+				"availableIn": [
+					"Catra"
+				]
+			},
+			{
+				"name": "Horde Axe",
+				"ID": "WM27",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418466/wm27_awk5di.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Before attacking, Grizzlor can spend either 2 Mana to gain one of the bonuses below or 4 Mana to gain both bonuses.\n           +2 Dice or focus\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Grizzlor"
+				]
+			},
+			{
+				"name": "Dragon Staff",
+				"ID": "WM28",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
+				"points": 1,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Melee",
+					"definition": "After attacking, end this characters activation of interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+			},
+			{
+				"name": "Horde Staff",
+				"ID": "WM29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417823/wm29_ts8tuo.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Upon activation, gain 1 Mana token for every knocked out ally (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds"
+			},
+			{
+				"name": "Propeller Arm",
+				"ID": "WM30",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417828/wm30_pcmkpm.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Before attacking, discard up to 3 fate cards to gain 1 Die per discarded card.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
+			},
+			{
+				"name": "Metal Fist",
+				"ID": "WM31",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417830/wm31_syes5p.jpg",
+				"points": 2,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies' overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes",
+				"highlight": true,
+				"availableIn": [
+					"Fisto"
+				]
+			},
+			{
+				"name": "Halberd",
+				"ID": "WM32",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417762/wm32_dgzcpn.jpg",
+				"points": 3,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "For every '6' rolled in the attack test, the target loses 1 defence Die. The number of defence Dice  cannot be reduced by 2.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+			},
+			{
+				"name": "Knife of Evil",
+				"ID": "WM33",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417573/wm33_dhcsdx.jpg",
+				"points": 3,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Melee",
+				"definition": "Attacks with this weapon are always treated as flank attacks, but do not receive a bonus to the scope unless they are really made from a flank.\n          1 success: 1 Wound\n          2 successes: 1 Wound and change the target's facing\n          3 successes: 2 Wounds and change the target's facing"
+			},
+			{
+				"name": "Cursed Sword",
+				"ID": "WM34",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417758/wm34_evctbf.jpg",
+				"points": 2,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Melee",
+				"definition": "If an attack with this weapon results in 2 or less Successes, this character gains a Curse Debuff.\n          1 success: 1 Wound\n2 successes: 2 Wounds\n5 successes: 3 Wounds"
+			},
+			{
+				"name": "Scorpia's Tail",
+				"ID": "WM37",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418437/wm37_bdiqb4.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Immediately after an attack, Scorpia can spend 1 Mana to allow an ally with an \"Endless Horde\" skill to interrupt the attacked enemy.\n          1 Success: 1 Wound\n          2 Successes: 2 Successes: 1 Wound and a Curse debuff.",
+				"highlight": true,
+				"availableIn": [
+					"Scorpia"
+				]
+			},
+			{
+				"name": "Cursed Axe",
+				"ID": "WM38",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417760/wm38_giyu6i.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "If this character has a Curse debuff, attacks with this weapon cost 1 Action less (to a minimum of 1) and gain +1 Die.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
+			},
+			{
+				"name": "Sword of Protection",
+				"ID": "WM39",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418712/wm39_xzvkbe.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"She-Ra",
+					"She-Ra With Swift Wind"
+				]
+			},
+			{
+				"name": "Angellic Sword",
+				"ID": "WM40",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418722/wm40_xnr5h4.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "If Angella was activated with initiative 7 or lower, gain +1 Die. Additionally, if Angella was activated with initiative 3 or lower, gain +1 Die.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          4 successes: 2 Wounds and 1 Wound if Angella was activated with Initiative 1",
+				"highlight": true,
+				"availableIn": [
+					"Angella"
+				]
+			},
+			{
+				"name": "Staff of Light",
+				"ID": "WM41",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417768/wm41_wgts4o.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+					"definition": "If this character has a Buff token, upon activation, gain 1 Mana token.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds"
+			},
+			{
+				"name": "Axe Comb",
+				"ID": "WM42",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417770/wm42_ggtldn.jpg",
+				"points": 3,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Melee",
+					"definition": "Gain 1 Die for each ally with a Buff token (to a maximum of 3).\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
+			},
+			{
+				"name": "Snake Dagger",
+				"ID": "WM43",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419040/wm43_srfili.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "Upon Activation, Lady Slither can perform a free Melee attack with this weapon.\n          2 Successes: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Lady Slither"
+				]
+			},
+			{
+				"name": "Snake-Head Staff",
+				"ID": "WM44",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419122/wm44_cqdbnq.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "When Sssqueeze isn't engaged, gain +2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Sssqueeze"
+				]
+			},
+			{
+				"name": "Enormous Fangs",
+				"ID": "WM45",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419019/wm45_nz5ymm.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "NoSlot",
+				"diceModifier": "-",
+				"definition": "This does not use a melee weapon slot. If the target is in their deployment zone, gain +1 die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Curse debuff",
+				"highlight": true,
+				"availableIn": [
+					"Fang-Or"
+				]
+			},
+			{
+				"name": "Viper Staff",
+				"ID": "WM46",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419071/wm46_dsyya7.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "All Melee, Spell, and Ranged attacks of Rattlor, gain 1 free reroll for each Objective on the battleground (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Rattlor"
+				]
+			},
+			{
+				"name": "Snake Mace",
+				"ID": "WM47",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417764/wm47_nycqcj.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "Dain +1 Die for every Mark that affects the target (to a maximum of 3)\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
+			},
+			{
+				"name": "Power Clamp",
+				"ID": "WM48",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417766/wm48_okbzla.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "When Clamp Champ has a Focus token, gain +1 Die, and enemies engaged with him can't leave their hex.\n          1 successes: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Clamp Champ"
+				]
+			},
+			{
+				"name": "Mini Clamp",
+				"ID": "WM49",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417772/wm49_urbrdw.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "+1",
+				"definition": "This cannot be used without a Focus.\n          1 successes: 1 wound\n          3 successes: 2 wounds"
+			},
+			{
+				"name": "Orange Sword of Power",
+				"ID": "WM50",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418138/wm50_q7426l.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "If an attack with this weapon results in 2 or less Successes, Faker gains a Cripple debuff.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Faker"
+				]
+			},
+			{
+				"name": "Orange Axe",
+				"ID": "WM51",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417774/wm51_autnyp.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "Before attacking, if a target has a Buff, gain +2 Dice and remove a Buff from the target.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
+			},
+			{
+				"name": "King's Axe",
+				"ID": "WM52",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419628/wm52_uq5zfo.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "When King Grayskull receives his 5th Wound, he interrupts the current activation or interruption (if possible).\n          1 success: 1 Wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"King Grayskull"
+				]
+			},
+			{
+				"name": "He-Ro Staff - Green",
+				"ID": "WM53",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419599/wm53_wxe7ma.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "He-Ro's Melee and Range attacks gain +1 Die if the target is within 6\" from an ally with a Dinosaur skill.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"He-Ro"
+				]
+			},
+			{
+				"name": "He-Ro Staff - Red",
+				"ID": "WM54",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419604/wm54_l6bift.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "When He-ro is attacked by the enemy within 6\" from an ally with a Dinosaur skill, He-Ro's defense tests gain +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"He-Ro"
+				]
+			},
+			{
+				"name": "He-Ro Staff - Purple",
+				"ID": "WM55",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419617/wm55_sm5o3p.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "He-Ro Melee and Ranged attacks ignore Protection, and the target can't roll more Die than their Toughness value.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"He-Ro"
+				]
+			},
+			{
+				"name": "Eldor Staff",
+				"ID": "WM56",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419608/wm56_ctnokc.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "+1",
+				"definition": "Upon Activation, Eldor gains 1 Mana for every 3 Wounds in play (to a maximum of 3).\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Eldor"
+				]
+			},
+			{
+				"name": "Queen Staff",
+				"ID": "WM57",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419622/wm57_lb95oh.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "+1",
+				"definition": "If Veena is adjacent to a character with Veena Token, she gains +1 Die to defence tests.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Veena"
+				]
+			},
+			{
+				"name": "Axe Attachment",
+				"ID": "WM58",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417776/wm58_acygh5.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-",
+				"definition": "Roboto gains +1 Strength for every weapons and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Roboto"
+				]
+			},
+			{
+				"name": "Claw Attachment",
+				"ID": "WM59",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417780/wm59_pipk4o.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "If Roboto has equipped at least three weapons and items, he hains +1 to Speed and +2 to focused Speed.\n          1 successes: 1 wound\n          4 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Roboto"
+				]
+			},
+			{
+				"name": "Nature Mace",
+				"ID": "WM60",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419613/wm60_gunqin.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "If at least one '1' is rolled during the attack test, flip this weapon face down after the attack or spend 2 Mana.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Moss Man"
+				]
+			},
+			{
+				"name": "Stone Knife",
+				"ID": "WM61",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417778/wm61_jjaqpd.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Noslot",
+				"diceModifier": "-",
+				"definition": "This does not use a melee weapon slot. Attacks with this weapon cost 1 Action less (to a minimum of 1).\n          0 successes: Flip this Weapon\n          1 successes: 1 wound\n          1 successes: 1 wound and 1 wound (if flank attack)"
+			},
+			{
+				"name": "Rotating Blades",
+				"ID": "WM62",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418877/wm62_rm0onp.jpg",
+				"points": 3,
+				"diceModifier": "-",
+				"unique": true,
+				"type": "NoSlot",
+					"definition": "This does not use a Melee weapon slot. After a move action, if Roton didn't end on any hexes it started on, it can perform a free Melee attack with this weapon.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Ditztroyer in Roton"
+				]
+			},
+			{
+				"name": "Jaws",
+				"ID": "WM63",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419576/wm63_ksagnq.jpg",
+				"points": 2,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "NoSlot",
+					"definition": "This does not use a Melee weapon slot and can only be used during interruption. Attacks with this weapon do not receive a penalty to the scope during interruption.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Dawg-O-Tor in Land Shark"
+				]
+			},
+			{
+				"name": "Tyrantisaurus Tail",
+				"ID": "WMM1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756667067/wmm1_vq2hut.jpg",
+				"points": 0,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Melee",
+				"definition": "This weapon affects all characters engaged with a Tyrantisaurus.\n          -1 Die for every engaged character (to a maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds and push target 2 hexes",
+				"highlight": true,
+				"availableIn": [
+					"Tyrantisaurus"
+				]
 			},
 			{
 				"name": "Arm Cannon",
@@ -3086,6 +3561,17 @@
 				"availableIn": [
 					"Man-At-Arms"
 				]
+			},
+			{
+				"name": "Blaster",
+				"ID": "WR2",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644800/wr2_yhaby8.jpg",
+				"points": 4,
+				"unique": true,
+				"type": "Ranged",
+				"range": 12,
+				"diceModifier": "0",
+				"definition": "Once per every activation or interruption, if this character has made a ranged attack using a focus, this character can immediately perform a free ranged attack with the blaster.\n          2 successes: 1 wound\n          3 successes: 2 wounds"
 			},
 			{
 				"name": "Fear Gas Cannon",
@@ -3111,74 +3597,6 @@
 				"highlight": true,
 				"availableIn": [
 					"Stratos"
-				]
-			},
-			{
-				"name": "Blaster",
-				"ID": "WR2",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644800/wr2_yhaby8.jpg",
-				"points": 4,
-				"unique": true,
-				"type": "Ranged",
-				"range": 12,
-				"diceModifier": "0",
-				"definition": "Once per every activation or interruption, if this character has made a ranged attack using a focus, this character can immediately perform a free ranged attack with the blaster.\n          2 successes: 1 wound\n          3 successes: 2 wounds"
-			},
-			{
-				"name": "Blaster Attachment",
-				"ID": "WR35",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645040/wr35_azicbh.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Ranged",
-				"range": 12,
-				"diceModifier": "0",
-				"definition": "Roboto gains +1 Perception for every weapon and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Roboto"
-				]
-			},
-			{
-				"name": "Claw Attachment",
-				"ID": "WM59",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417780/wm59_pipk4o.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "If Roboto has equipped at least three weapons and items, he hains +1 to Speed and +2 to focused Speed.\n          1 successes: 1 wound\n          4 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Roboto"
-				]
-			},
-			{
-				"name": "Axe Attachment",
-				"ID": "WM58",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417776/wm58_acygh5.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-",
-				"definition": "Roboto gains +1 Strength for every weapons and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Roboto"
-				]
-			},
-			{
-				"name": "Power Clamp",
-				"ID": "WM48",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417766/wm48_okbzla.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-",
-				"definition": "When Clamp Champ has a Focus token, gain +1 Die, and enemies engaged with him can't leave their hex.\n          1 successes: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Clamp Champ"
 				]
 			},
 			{
@@ -3215,6 +3633,21 @@
 				"definition": "If the attack uses a focus, add +3 dice. Cannot roll more than 6 dice.\n          1 success: 1 wound\n          4 successes: 2 wounds"
 			},
 			{
+				"name": "Laser Attachment",
+				"ID": "WR8",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644868/wr8_t83u7f.jpg",
+				"points": 0,
+				"unique": true,
+				"type": "Laser Attachment",
+				"range": 12,
+				"diceModifier": "-1",
+				"definition": "This does not use a ranged weapon slot.\n          Before attacking, Trap Jaw may spend either 1 extra AP to gain one of the bonuse below or 2 extra AP to gain both bonuses:\n          +2 dice or increase range by 4\"\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Trap Jaw"
+				]
+			},
+			{
 				"name": "Photon Neutralizer",
 				"ID": "WR9",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644875/wr9_xh2jpr.jpg",
@@ -3224,6 +3657,396 @@
 				"range": 16,
 				"diceModifier": "+1",
 				"definition": "If an interruption attack with this weapon results in 2 or more successes, gain an Overwatch.\n          1 success: 1 wound\n          2 successes: 1 wound and target loses 2 mana.\n          4 successes: 2 wounds and target loses 2 mana."
+			},
+			{
+				"name": "Mega Blaster",
+				"ID": "WR10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644890/wr10_gxnnur.jpg",
+				"points": 3,
+				"range": 8,
+				"diceModifier": "-2",
+				"unique": true,
+				"type": "Ranged",
+				"definition": "Before attacking, test (Strength) to gain 1 Die per Success received (to maximum of 5).\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+			},
+			{
+				"name": "Bionatops Blaster",
+				"ID": "WR11",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644901/wr11_ppm9jt.jpg",
+				"points": 2,
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-1",
+				"definition": "Once per round, if this character did not move during this activation or interruption and the target is at a distance of 8\" or farther, add +3 Dice.\n          2 success: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
+			},
+			{
+				"name": "Laser Gun",
+				"ID": "WR12 WR13 WR14",
+				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644917/wr12_ltvrw7.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644930/wr13_keztf1.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644937/wr14_olsshu.jpg"],
+				"points": 3,
+				"unique": true,
+				"type": "Ranged",
+				"includes": [
+					{
+						"dataSource": "upgrades",
+						"name": "Laser Gun (Human)"
+					},
+					{
+						"dataSource": "upgrades",
+						"name": "Laser Gun (Robot)"
+					},
+					{
+						"dataSource": "upgrades",
+						"name": "Laser Gun (Monster)"
+					}
+				],
+				"definition": "",
+				"highlight": true,
+				"availableIn": [
+					"Man-E-Faces"
+				]
+			},
+			{
+				"name": "Laser Gun (Human)",
+				"ID": "WR12",
+				"points": 0,
+				"diceModifier": "+1",
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "If Man-E-Faces gains a Robot Face, replace this weapon with Laser Gun (Robot).\n          If Man-E-Faces gains a Monster Face, replace this weapon with Laser Gun (Monster).\n          1 success: 1 Wound\n2 successes: 2 Wounds and Man-E-Faces gains a Protection Buff.",
+				"highlight": true,
+				"availableIn": [
+					"Man-E-Faces"
+				],
+				"unlockedBy": "Laser Gun (Human)"
+			},
+			{
+				"name": "Laser Gun (Robot)",
+				"ID": "WR13",
+				"points": 0,
+				"diceModifier": "0",
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "At the end of the round, replace this weapon with Laser Gun (Human).\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Man-E-Faces"
+				],
+				"unlockedBy": "Laser Gun (Human)"
+			},
+			{
+				"name": "Laser Gun (Monster)",
+				"ID": "WR14",
+				"points": 0,
+				"diceModifier": "0",
+				"range": 8,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "At the end of the round, replace this weapon with Laser Gun (Human).\n          This weapon can be used as a melee weapon.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Man-E-Faces"
+				],
+				"unlockedBy": "Laser Gun (Human)"
+			},
+			{
+				"name": "Rebel Pistol",
+				"ID": "WR15",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644947/wr15_lqtsfi.jpg",
+				"points": 2,
+				"diceModifier": "+1",
+				"range": 8,
+				"unique": true,
+				"type": "NoSlot",
+				"definition": "This does not use a ranged weapon slot.\n          During Interruptions, if this character isn't engaged, this weapon can target any enemy, not only the one interrupted.\n          1 success: 1 Wound\n3 successes: 1 Wound and this character gains a Focus."
+			},
+			{
+				"name": "Stink Gun",
+				"ID": "WR16",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644957/wr16_vd6deb.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "0",
+				"range": 12,
+				"definition": "Gain +1 Die for every 2 Mana in Stinkor's Posession\n          1 success: 1 Wound\n2 successes: 1 Wound and a Blind debuff\n3 successes: 2 Wounds and a Blind debuff",
+				"highlight": true,
+				"availableIn": [
+					"Stinkor"
+				]
+			},
+			{
+				"name": "Dragon Blaster",
+				"ID": "WR17",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644963/wr17_zsh09n.jpg",
+				"points": 4,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+				"definition": "This weapon affects the target and all characters that are both within 3 hexes from the target and within the target's rear arc.\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (only additional target)\n4 successes: 2 Wounds"
+			},
+			{
+				"name": "Energy Cannon",
+				"ID": "WR18",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644973/wr18_uzeiqg.jpg",
+				"points": 2,
+				"diceModifier": "-2",
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Before attacking test power to gain 1 Die per success received (to a maximum of 5).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 successes: 3 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Hordak"
+				]
+			},
+			{
+				"name": "Two-Sided Gun",
+				"ID": "WR19",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644985/wr19_pxz4m4.jpg",
+				"points": 3,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Ignore the target's shield.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and remove buff from the target\n          4 successes: 2 Wounds and remove buff from the target"
+			},
+			{
+				"name": "Cosmic Blaster",
+				"ID": "WR20",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644997/wr20_aqgoxg.jpg",
+				"points": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "After attacking, end the character's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+			},
+			{
+				"name": "Magic Wand",
+				"ID": "WR21",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420932/wr21_v0w1n4.jpg",
+				"points": 2,
+				"diceModifier": "0",
+				"range": 12,
+				"unique": true,
+				"type": "NoSlot",
+				"definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Die per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost"
+			},
+			{
+				"name": "Black Blaster",
+				"ID": "WR22",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420936/wr22_vqfb2y.jpg",
+				"points": 3,
+				"diceModifier": "0",
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "Attacks with this weapon are treated as skill tests and attack tests.\n          1 success: 1 Wound\n4 successes: 2 Wounds"
+			},
+			{
+				"name": "Power Blaster",
+				"ID": "WR23",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420940/wr23_fv0fzt.jpg",
+				"points": 3,
+				"diceModifier": "+1",
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "If an attack with this weapon results in 2 or more Successes, Webstor can perform a free 2-hex move action.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff (if flank attack)\n5 successes: 2 Wounds and a Curse debuff (if flank attack)",
+				"highlight": true,
+				"availableIn": [
+					"Webstor"
+				]
+			},
+			{
+				"name": "Multi-Cannon",
+				"ID": "WR24",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420944/wr24_nux6dh.jpg",
+				"points": 3,
+				"diceModifier": "+1",
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "Choose up to 3 different targets and attack them one by one. Suffer -1 Die for every chosen target.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
+			},
+			{
+				"name": "Net",
+				"ID": "WR25",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420947/wr25_ijpahr.jpg",
+				"points": 1,
+				"range": 8,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes: 1 Cripple debuff and target looses 2 Mana."
+			},
+			{
+				"name": "Dragonfly Crossbow",
+				"ID": "WR26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420951/wr26_uwgofb.jpg",
+				"points": 2,
+				"range": 12,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "If the target it engaged, instead of being decreased, the scope of the attack is increased by 1.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 hexes."
+			},
+			{
+				"name": "Combow",
+				"ID": "WR27",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420959/wr27_vsc89i.jpg",
+				"points": 2,
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Gain +1 Die for every Buff token on Bow.\n          1 success: 1 Wound\n          4 successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Bow"
+				]
+			},
+			{
+				"name": "Bubble Projector",
+				"ID": "WR28",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420955/wr28_mv2z3b.jpg",
+				"points": 4,
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+					"definition": "If an attack with this weapon results in 2 of more Successes, an ally within 8\" gains a Protection buff.\n          1 success: 1 Wound\n          4 successes: 2 Wounds"
+			},
+			{
+				"name": "Kobra Pistol",
+				"ID": "WR29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420963/wr29_hz85yr.jpg",
+				"points": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-1",
+				"definition": "Attacks with this weapon do not receive a penalty to the scope during interruptions. The Range is increased by 4\" when Kobra Khan is on Overwatch.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
+				"highlight": true,
+				"availableIn": [
+					"Kobra Khan"
+				]
+			},
+			{
+				"name": "Snake Blaster",
+				"ID": "WR30",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420967/wr30_fhlbc0.jpg",
+				"points": 3,
+				"range": 8,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-",
+				"definition": "The scope of attacks made with this weapon cannot be modified.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds"
+			},
+			{
+				"name": "Long Rifle",
+				"ID": "WR31",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420971/wr31_rllcvo.jpg",
+				"points": 4,
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-",
+				"definition": "If at least one '6' is rolled in this attack, perform a free attack with this weapon on the same enemy. This attack uses 2 Dice fewer than the previous one.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+			},
+			{
+				"name": "Teleportation Ray",
+				"ID": "WR32",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420978/wr32_i8hdkl.jpg",
+				"points": 2,
+				"range": 8,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-",
+				"definition": "This weapon can target enemies or allies.\n          1 Success: Knockdown debuff\n          2 Successes: Teleport target 2 hexes"
+			},
+			{
+				"name": "Zodac's Blaster",
+				"ID": "WR33",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420974/wr33_c1m9jm.jpg",
+				"points": 2,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-1",
+				"definition": "Gain 1 Die per Wound on Zodac.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Zodac",
+					"Zodac with Throne"
+				]
+			},
+			{
+				"name": "Dare's Blaster",
+				"ID": "WR34",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645035/wr34_azepet.jpg",
+				"points": 2,
+				"range": 8,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-",
+				"definition": "This weapon can be used while engaged, but only against enemies that the character is engaged with.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and Blind debuff"
+			},
+			{
+				"name": "Blaster Attachment",
+				"ID": "WR35",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645040/wr35_azicbh.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Ranged",
+				"range": 12,
+				"diceModifier": "0",
+				"definition": "Roboto gains +1 Perception for every weapon and item equipped by him (to a maximum of 3).\n          1 successes: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Roboto"
+				]
+			},
+			{
+				"name": "Slingshot",
+				"ID": "WR36",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645051/wr36_y1dbml.jpg",
+				"points": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-",
+				"definition": "If the character has 4 or more Strength, increase the range of this weapon by 4\". If the character has 5 or more Strength, gain 1 Die.\n          1 success: 1 wound and target loses Overwatch"
+			},
+			{
+				"name": "Dual Laser Cannons",
+				"ID": "WR37",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645056/wr37_o2ckzz.jpg",
+				"points": 1,
+				"range": 8,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Once per activation or interruption, immediately after a Ranged attack with this weapon, Roton can perform a free Ranged attack against a different target.\n          1 Success: 1 Wound",
+				"highlight": true,
+				"availableIn": [
+					"Ditztroyer in Roton"
+				]
+			},
+			{
+				"name": "Tyrantisaurus Blaster",
+				"ID": "WRM1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645069/wrm1_zph3wf.jpg",
+				"points": 0,
+				"diceModifier": "0",
+				"range": 16,
+				"unique": true,
+				"type": "Ranged",
+				"definition": "This weapon cannot use a Focus and its scope cannot be modified. Gain +1 Die for every 5\" between Tyrantisaurus and the target.\n          1 success: 1 Wound\n          3 successes: 1 Wound and a Blind debuff\n          4 successes: 2 Wounds and a Blind debuff",
+				"highlight": true,
+				"availableIn": [
+					"Tyrantisaurus"
+				]
 			},
 			{
 				"name": "Cosmic Storm",
@@ -3340,6 +4163,358 @@
 				"mana": 1,
 				"diceModifier": "0",
 				"definition": "During interruptions, attacks with this spell cost 1 AP less (to a minimum of 1).\n          1 success: 1 wound\n          2 successes: 1 wound and a Blind\n          3 successes: 2 wounds and a Blind"
+			},
+			{
+				"name": "Fatal Flaw",
+				"ID": "WS10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648443/ws10_ty2soz.jpg",
+				"points": 2,
+				"range": 16,
+				"mana": 0,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell can only target enemies with a Debuff. After the attack, remove a Debuff from the target.\n          1 success: This character gains 1 Mana\n2 successes: 1 Wound and this character gains 2 Mana\n3 successes: 1 Wound and this character gains 3 Mana"
+			},
+			{
+				"name": "Ray of Destruction",
+				"ID": "WS11",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648443/ws11_smotfi.jpg",
+				"points": 2,
+				"range": 0,
+				"mana": 1,
+				"diceModifier": "0",
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with.\n          Gain 1 Die per Wound on this character (to maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds"
+			},
+			{
+				"name": "Magic Arrow",
+				"ID": "WS12",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648446/ws12_zxzix1.jpg",
+				"points": 3,
+				"range": 12,
+				"mana": 1,
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "During interruptions, attacks with this spell do not receive a penalty to the scope. If an interruption attack with this spell results in 2 or more Successes, an ally within 8\" gains a Focus.\n          1 success: 1 Wound\n          4 successes: 2 Wounds"
+			},
+			{
+				"name": "Illusionary Attack",
+				"ID": "WS13",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648445/ws13_hmjsuk.jpg",
+				"points": 2,
+				"range": 12,
+				"mana": 1,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Spell",
+				"definition": "Before attacking, test (Power) to gain 1 Die per Success received (to maximum of 5).\n          1 success: 1 Wound\n3 successes: 1 Wound and draw a fate card\n5 successes: 1 Wound and draw 2 fate cards"
+			},
+			{
+				"name": "Power of Friendship",
+				"ID": "WS14",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648446/ws14_jo7pib.jpg",
+				"points": 3,
+				"diceModifier": "+1",
+				"range": 12,
+				"mana": 2,
+				"unique": true,
+				"type": "Spell",
+				"definition": "Targets allies instead of enemies. The target does not make a defense test.\n          Attacks with this spell cost 1 AP less (to minimum of 1).\n          2 successes: This character and the target gain an Enhancement Buff."
+			},
+			{
+				"name": "Swiftness",
+				"ID": "WS15",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648447/ws15_im8wxz.jpg",
+				"points": 2,
+				"diceModifier": "0",
+				"range": 12,
+				"mana": 2,
+				"unique": true,
+				"type": "Spell",
+				"definition": "Targets allies instead of enemies. The target does not make a defense test.\n          Attacks with this spell cost 1 AP less (to minimum of 1).\n          2 successes: Quickness Buff.\n4 successes: Quickness Buff and a Focus"
+			},
+			{
+				"name": "Tornado",
+				"ID": "WS16",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648448/ws16_cjk4g6.jpg",
+				"points": 3,
+				"diceModifier": "+1",
+				"range": 12,
+				"mana": 1,
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell can target any character, if doesn't affect them, but it does affect other characters within 4 hexes. Pulls caused by this spell are made between main and additional targets.\n          1 success: Pull target 1 hex\n2 successes: 1 Wound and pull target 2 hexes\n3 successes: 1 Wound and pull target 3 hexes"
+			},
+			{
+				"name": "Strong will Fall",
+				"ID": "WS17",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648447/ws17_ekqwkg.jpg",
+				"points": 3,
+				"diceModifier": "0",
+				"range": 16,
+				"mana": 1,
+				"unique": true,
+				"type": "Spell",
+				"definition": "Before attacking, if the target has a Buff, gain +2 Dice and remove a Buff from the target.\n          1 success: 1 Wound\n4 successes: 2 Wounds"
+			},
+			{
+				"name": "Overwhelming Power",
+				"ID": "WS18",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648449/ws18_xfvq6q.jpg",
+				"points": 1,
+				"range": 16,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Target allies or enemies. If this spell knocks out the target, the targets allies gain 2 Mana tokens. If the target is an ally with an \"Endless Horde\" skill +2 Die.\n          1 Success: 1 Wound and target gains 2 Mana\n          4 Successes: 2 Wounds and target gains 3 Mana",
+				"highlight": true,
+				"availableIn": [
+					"Shadow Weaver"
+				]
+			},
+			{
+				"name": "Mana Burn",
+				"ID": "WS19",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648449/ws19_sxdxcf.jpg",
+				"points": 3,
+				"range": 12,
+				"diceModifier": "-2",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Gain +1 Die for every Mana token on the target.\n          1 Success: 1 Wound and target loses 1 Mana\n          2 Successes: 1 Wound and target loses 2 Mana\n          3 successes: 2 Wounds and target loses 3 Mana"
+			},
+			{
+				"name": "Calamity",
+				"ID": "WS20",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648450/ws20_ozxeop.jpg",
+				"points": 3,
+				"mana": 3,
+				"range": 8,
+				"unique": true,
+				"type": "Spell",
+					"definition": "The target must choose to either only roll a number or Dice equal to their Mana tokens for their defence test, or roll dice normally, but only succeed on results of 6.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds"
+			},
+			{
+				"name": "Chain Lightning",
+				"ID": "WS21",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648450/ws21_ofkgf0.jpg",
+				"points": 4,
+				"diceModifier": "+1",
+				"range": 12,
+				"mana": 2,
+				"unique": true,
+				"type": "Spell",
+				"definition": "If at least one '6' is rolled in this attack, perform a free attack with this spell on another enemy within 6\" from the target. This attack uses 2 Dice fewer than the previous one.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
+			},
+			{
+				"name": "Motivational Speech",
+				"ID": "WS22",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648451/ws22_my0jvu.jpg",
+				"points": 1,
+				"diceModifier": "-2",
+				"mana": 1,
+				"unique": true,
+				"type": "NoSlot",
+				"definition": "This spell does not use a spell slot, does not require a target, and tests Strength instead of Power. Do not make a defence test.\n          1 success: The next ally activated this round gains 1 AP"
+			},
+			{
+				"name": "Hand of Fate",
+				"ID": "WS23",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648452/ws23_zlm9mg.jpg",
+				"points": 2,
+				"diceModifier": "0",
+				"range": 12,
+				"mana": 1,
+				"unique": true,
+				"type": "Spell",
+				"definition": "Before attacking, add up to 3 Dice. All successes are cancelled if at least one '1' is rolled in the attack test.\n          2 successes: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
+			},
+			{
+				"name": "Insults",
+				"ID": "WS24",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648453/ws24_nnhaqw.jpg",
+				"points": 1,
+				"diceModifier": "0",
+				"range": 8,
+				"mana": 1,
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell can target any character.\n          Attacks with this spell cost 1 AP less (to a minimum of 0).\n          1 success: A Curse Debuff and an Enhancement Debuff.\n          3 successes: Enhancement Debuff"
+			},
+			{
+				"name": "Magic Push",
+				"ID": "WS25",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648453/ws25_jgdpum.jpg",
+				"points": 3,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes."
+			},
+			{
+				"name": "Trick",
+				"ID": "WS26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648454/ws26_mgk2gk.jpg",
+				"points": 1,
+				"range": 16,
+				"diceModifier": "+2",
+				"unique": true,
+				"type": "Spell",
+					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target."
+			},
+			{
+				"name": "Beam of Light",
+				"ID": "WS27",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648455/ws27_kut6ac.jpg",
+				"points": 1,
+				"mana": 1,
+				"range": 16,
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell can target any character. If Glimmer was activated with initiative 8 or higher, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: A Blind token\n          2 successes: A Blind token and the target is teleported 3 hexes.",
+				"highlight": true,
+				"availableIn": [
+					"Glimmer"
+				]
+			},
+			{
+				"name": "Ice Spell",
+				"ID": "WS28",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648455/ws28_vrukdm.jpg",
+				"points": 3,
+				"mana": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Spell",
+					"definition": "During interruptions, attacks with this spell do not receive a penalty to the scope and gain +1 Die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Cripple token\n          4 successes: 2 Wounds and a Cripple token",
+				"highlight": true,
+				"availableIn": [
+					"Frosta"
+				]
+			},
+			{
+				"name": "Mighty Bonk",
+				"ID": "WS29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648456/ws29_cg909j.jpg",
+				"points": 1,
+				"mana": 1,
+				"diceModifier": "+1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell can be used when engaged. Can only target enemies this character is engaged with. During the interruption, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and the target is pushed 2 hexes."
+			},
+			{
+				"name": "Three Moons Presence",
+				"ID": "WS30",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648458/ws30_avf17r.jpg",
+				"points": 1,
+				"mana": 1,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell affects all your characters with a Buff token. Its scope cannot be modified. Do not make defence tests.\n          1 Success: Target loses a Buff token but gains 2 Mana tokens\n          2 Successes: Target loses a Buff token but gains 2 Mana tokens and a Focus."
+			},
+			{
+				"name": "Moonless Night",
+				"ID": "WS31",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648458/ws31_iwcxta.jpg",
+				"points": 2,
+				"mana": 1,
+				"unique": true,
+				"type": "Spell",
+					"definition": "This spell affects all characters with a Debuff token. Its scope cannot be modified\n          1 Success: Target loses 2 Mmana and a Debuff\n          2 Successes: 1 Wound and Target loses 2 Mmana and a Debuff."
+			},
+			{
+				"name": "Ancient Magic",
+				"ID": "WS32",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648460/ws32_zhw6wx.jpg",
+				"points": 2,
+				"mana": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Spell",
+				"diceModifier": "-1",
+				"definition": "Gain 1 die for every enemy within 12\" (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 2 Wounds and King Hsss gains 1 Action",
+				"highlight": true,
+				"availableIn": [
+					"King Hsss",
+					"King Hsss WIth Tyrantisaurus"
+				]
+			},
+			{
+				"name": "Demolisher Missile",
+				"ID": "WH1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648310/wh1_dwjam8.jpg",
+				"points": 2,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "This wepon targets an empty hex and affects all allies and enemies within 2 hexes. After the attack, remove one piece of terrain located within 2 hexes\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds.",
+				"highlight": true,
+				"availableIn": [
+					"Dawg-O-Tor in Battle Ram"
+				]
+			},
+			{
+				"name": "Heavy Laser",
+				"ID": "WH2",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648310/wh2_od48e5.jpg",
+				"points": 4,
+				"range": 12,
+				"diceModifier": "-2",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "Before attacking, spend up to 5 Mana to gain +1 Die per Mana spent.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds."
+			},
+			{
+				"name": "Preternian Laser",
+				"ID": "WH3",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh3_rqlb5h.jpg",
+				"points": 3,
+				"range": 12,
+				"unique": true,
+				"type": "Heavy Weapon",
+				"diceModifier": "-1",
+				"definition": "If the target is within 8\", gain +1 Die. If the target is within 4\", you gain another +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
+				"highlight": true,
+				"availableIn": [
+					"Bionatops"
+				]
+			},
+			{
+				"name": "Legendary Blasters",
+				"ID": "WH4",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh4_rfs2pu.jpg",
+				"points": 2,
+				"range": 8,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "Attacks with this weapon made immediately after a move action gain +1 Die for every 4 hexes traversed by Talon Fighter in that move action.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          6 Successes: 3 Wounds.",
+				"highlight": true,
+				"availableIn": [
+					"Sherrilyn in Talon Fighter"
+				]
+			},
+			{
+				"name": "Shark Lasers",
+				"ID": "WH5",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh5_dckuha.jpg",
+				"points": 4,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Heavy Weapon",
+					"definition": "Ignores the target's shield and armor.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 Hexes\n          3 Successes: 2 Wounds and push target 2 Hexes",
+				"highlight": true,
+				"availableIn": [
+					"Dawg-O-Tor in Land Shark"
+				]
 			},
 			{
 				"name": "Battle Armor I",
@@ -3711,1018 +4886,6 @@
 				"definition": "Disposable. Place a gas tank within 12\""
 			},
 			{
-				"name": "Wrap",
-				"ID": "I49",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650351/i49_rbmjzx.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Disposable. When this character is about to lose their Buff or Debuff, you can use this card to keep it."
-			},
-			{
-				"name": "Magical Shell",
-				"ID": "I50",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i50_kxsm5p.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Defence tests against skills gain 1 Die."
-			},
-			{
-				"name": "Inquisitor Armor",
-				"ID": "I51",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i51_qlvowy.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Armour",
-				"definition": "This character can be attacked only once during every activation or interruption."
-			},
-			{
-				"name": "Rotating Shield",
-				"ID": "I52",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650773/i52_jdelhd.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Shield",
-				"definition": "After being attacked by a frontal Ranged Attack or Spell Attack, this character is pulled 2 hexes towards the attacker."
-			},
-			{
-				"name": "Acid Vial",
-				"ID": "I53",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i53_qkqt0i.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "If this character's flank attack results in 2 or more Successes, the target receives a Blind debuff."
-			},
-			{
-				"name": "Magic Lamp",
-				"ID": "I54",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i54_ynspyi.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-				"definition": "Spell attacks gain +1 Die. After the Spell attack, this character receives a Curse debuff if at least one '1' was rolled in the attack test."
-			},
-			{
-				"name": "Reinforced Limbs",
-				"ID": "IM1",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650667/im1_nyxl6j.jpg",
-				"points": 0,
-				"unique": true,
-				"type": "Armour",
-				"definition": "Attacks of opportunity against a Tyrantisaurus have their scope decreased by 1 (instead of increased)",
-				"highlight": true,
-				"availableIn": [
-					"Tyrantisaurus"
-				]
-			},
-			{
-				"name": "Illusionary Attack",
-				"ID": "WS13",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648445/ws13_hmjsuk.jpg",
-				"points": 2,
-				"range": 12,
-				"mana": 1,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Spell",
-				"definition": "Before attacking, test (Power) to gain 1 Die per Success received (to maximum of 5).\n          1 success: 1 Wound\n3 successes: 1 Wound and draw a fate card\n5 successes: 1 Wound and draw 2 fate cards"
-			},
-			{
-				"name": "Scythe of Doom",
-				"ID": "WM16",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417989/wm16_av25iz.jpg",
-				"points": 2,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "Before attacking, if the target has a Debuff, remove a Debuff from the target and gain +2 Dice.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff\n5 successes: 2 Wounds and a Curse debuff",
-				"highlight": true,
-				"availableIn": [
-					"Scareglow"
-				]
-			},
-			{
-				"name": "Beast Man's Whip",
-				"ID": "WM17",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417996/wm17_gksnsp.jpg",
-				"points": 2,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Melee",
-				"definition": "Once per activation, if Beast Man made a Melee Attack, he can spend 2 Mana to immediately perform a free Melee Attack with this weapon.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Beast Man"
-				]
-			},
-			{
-				"name": "Mega Blaster",
-				"ID": "WR10",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644890/wr10_gxnnur.jpg",
-				"points": 3,
-				"range": 8,
-				"diceModifier": "-2",
-				"unique": true,
-				"type": "Ranged",
-				"definition": "Before attacking, test (Strength) to gain 1 Die per Success received (to maximum of 5).\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
-			},
-			{
-				"name": "Fatal Flaw",
-				"ID": "WS10",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648443/ws10_ty2soz.jpg",
-				"points": 2,
-				"range": 16,
-				"mana": 0,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Spell",
-				"definition": "This spell can only target enemies with a Debuff. After the attack, remove a Debuff from the target.\n          1 success: This character gains 1 Mana\n2 successes: 1 Wound and this character gains 2 Mana\n3 successes: 1 Wound and this character gains 3 Mana"
-			},
-			{
-				"name": "Ray of Destruction",
-				"ID": "WS11",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648443/ws11_smotfi.jpg",
-				"points": 2,
-				"range": 0,
-				"mana": 1,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Spell",
-				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with.\n          Gain 1 Die per Wound on this character (to maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds"
-			},
-			{
-				"name": "Skull Weapon",
-				"ID": "WM18",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417800/wm18_u5hzxe.jpg",
-				"points": 4,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Melee",
-				"definition": "If an attack with this weapon results in 2 or more Successes, pass this character's Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
-			},
-			{
-				"name": "Tyrantisaurus Tail",
-				"ID": "WMM1",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756667067/wmm1_vq2hut.jpg",
-				"points": 0,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "This weapon affects all characters engaged with a Tyrantisaurus.\n          -1 Die for every engaged character (to a maximum of 3).\n          1 success: 1 Wound\n3 successes: 2 Wounds and push target 2 hexes",
-				"highlight": true,
-				"availableIn": [
-					"Tyrantisaurus"
-				]
-			},
-			{
-				"name": "Tyrantisaurus Blaster",
-				"ID": "WRM1",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645069/wrm1_zph3wf.jpg",
-				"points": 0,
-				"diceModifier": "0",
-				"range": 16,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "This weapon cannot use a Focus and its scope cannot be modified. Gain +1 Die for every 5\" between Tyrantisaurus and the target.\n          1 success: 1 Wound\n          3 successes: 1 Wound and a Blind debuff\n          4 successes: 2 Wounds and a Blind debuff",
-				"highlight": true,
-				"availableIn": [
-					"Tyrantisaurus"
-				]
-			},
-			{
-				"name": "Short Axe",
-				"ID": "WM23",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417815/wm23_a5r7lg.jpg",
-				"points": 2,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "Attacks with this weapon cost 1 AP less (to a minimum of 1).\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (if this attack had a Focus).",
-				"highlight": true,
-				"availableIn": [
-					"Buzz-Off"
-				]
-			},
-			{
-				"name": "Laser Gun",
-				"ID": "WM23",
-				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644917/wr12_ltvrw7.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644930/wr13_keztf1.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644937/wr14_olsshu.jpg"],
-				"points": 3,
-				"unique": true,
-				"type": "Ranged",
-				"includes": [
-					{
-						"dataSource": "upgrades",
-						"name": "Laser Gun (Human)"
-					},
-					{
-						"dataSource": "upgrades",
-						"name": "Laser Gun (Robot)"
-					},
-					{
-						"dataSource": "upgrades",
-						"name": "Laser Gun (Monster)"
-					}
-				],
-				"definition": "",
-				"highlight": true,
-				"availableIn": [
-					"Man-E-Faces"
-				]
-			},
-			{
-				"name": "Laser Gun (Human)",
-				"points": 0,
-				"diceModifier": "+1",
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "If Man-E-Faces gains a Robot Face, replace this weapon with Laser Gun (Robot).\n          If Man-E-Faces gains a Monster Face, replace this weapon with Laser Gun (Monster).\n          1 success: 1 Wound\n2 successes: 2 Wounds and Man-E-Faces gains a Protection Buff.",
-				"highlight": true,
-				"availableIn": [
-					"Man-E-Faces"
-				],
-				"unlockedBy": "Laser Gun (Human)"
-			},
-			{
-				"name": "Laser Gun (Robot)",
-				"points": 0,
-				"diceModifier": "0",
-				"range": 16,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "At the end of the round, replace this weapon with Laser Gun (Human).\n          1 success: 1 Wound\n3 successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Man-E-Faces"
-				],
-				"unlockedBy": "Laser Gun (Human)"
-			},
-			{
-				"name": "Laser Gun (Monster)",
-				"points": 0,
-				"diceModifier": "0",
-				"range": 8,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "At the end of the round, replace this weapon with Laser Gun (Human).\n          This weapon can be used as a melee weapon.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Man-E-Faces"
-				],
-				"unlockedBy": "Laser Gun (Human)"
-			},
-			{
-				"name": "Long Axe",
-				"points": 4,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "At the end of the activation, if this character has a Focus, gain a Protection Buff.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
-			},
-			{
-				"name": "Rebel Pistol",
-				"points": 2,
-				"diceModifier": "+1",
-				"range": 8,
-				"unique": true,
-				"type": "NoSlot",
-				"definition": "This does not use a ranged weapon slot.\n          During Interruptions, if this character isn't engaged, this weapon can target any enemy, not only the one interrupted.\n          1 success: 1 Wound\n3 successes: 1 Wound and this character gains a Focus."
-			},
-			{
-				"name": "Power of Friendship",
-				"points": 3,
-				"diceModifier": "+1",
-				"range": 12,
-				"mana": 2,
-				"unique": true,
-				"type": "Spell",
-				"definition": "Targets allies instead of enemies. The target does not make a defense test.\n          Attacks with this spell cost 1 AP less (to minimum of 1).\n          2 successes: This character and the target gain an Enhancement Buff."
-			},
-			{
-				"name": "Swiftness",
-				"points": 2,
-				"diceModifier": "0",
-				"range": 12,
-				"mana": 2,
-				"unique": true,
-				"type": "Spell",
-				"definition": "Targets allies instead of enemies. The target does not make a defense test.\n          Attacks with this spell cost 1 AP less (to minimum of 1).\n          2 successes: Quickness Buff.\n4 successes: Quickness Buff and a Focus"
-			},
-			{
-				"name": "Club",
-				"points": 2,
-				"diceModifier": "-2",
-				"unique": true,
-				"type": "Melee",
-				"definition": "Gain +1 Die for every activated enemy.\n          1 success: 1 Wound\n          2 successes: 2 Wounds\n          4 successes: 3 Wounds"
-			},
-			{
-				"name": "Dragon Blaster",
-				"points": 4,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Ranged",
-				"definition": "This weapon affects the target and all characters that are both within 3 hexes from the target and within the target's rear arc.\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (only additional target)\n4 successes: 2 Wounds"
-			},
-			{
-				"name": "Strong will Fall",
-				"points": 3,
-				"diceModifier": "0",
-				"range": 16,
-				"mana": 1,
-				"unique": true,
-				"type": "Spell",
-				"definition": "Before attacking, if the target has a Buff, gain +2 Dice and remove a Buff from the target.\n          1 success: 1 Wound\n4 successes: 2 Wounds"
-			},
-			{
-				"name": "Tornado",
-				"points": 3,
-				"diceModifier": "+1",
-				"range": 12,
-				"mana": 1,
-				"unique": true,
-				"type": "Spell",
-				"definition": "This spell can target any character, if doesn't affect them, but it does affect other characters within 4 hexes. Pulls caused by this spell are made between main and additional targets.\n          1 success: Pull target 1 hex\n2 successes: 1 Wound and pull target 2 hexes\n3 successes: 1 Wound and pull target 3 hexes"
-			},
-			{
-				"name": "Metal Fist",
-				"points": 2,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies' overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes",
-				"highlight": true,
-				"availableIn": [
-					"Fisto"
-				]
-			},
-			{
-				"name": "Halberd",
-				"points": 3,
-				"diceModifier": "0",
-				"unique": true,
-				"type": "Melee",
-				"definition": "For every '6' rolled in the attack test, the target loses 1 defence Die. The number of defence Dice  cannot be reduced by 2.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
-			},
-			{
-				"name": "Magic Wand",
-				"points": 2,
-				"diceModifier": "0",
-				"range": 12,
-				"unique": true,
-				"type": "NoSlot",
-				"definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Die per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost"
-			},
-			{
-				"name": "Black Blaster",
-				"points": 3,
-				"diceModifier": "0",
-				"range": 16,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "Attacks with this weapon are treated as skill tests and attack tests.\n          1 success: 1 Wound\n4 successes: 2 Wounds"
-			},
-			{
-				"name": "Motivational Speech",
-				"points": 1,
-				"diceModifier": "-2",
-				"mana": 1,
-				"unique": true,
-				"type": "NoSlot",
-				"definition": "This spell does not use a spell slot, does not require a target, and tests Strength instead of Power. Do not make a defence test.\n          1 success: The next ally activated this round gains 1 AP"
-			},
-			{
-				"name": "Chain Lightning",
-				"points": 4,
-				"diceModifier": "+1",
-				"range": 12,
-				"mana": 2,
-				"unique": true,
-				"type": "Spell",
-				"definition": "If at least one '6' is rolled in this attack, perform a free attack with this spell on another enemy within 6\" from the target. This attack uses 2 Dice fewer than the previous one.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
-			},
-			{
-				"name": "Insults",
-				"points": 1,
-				"diceModifier": "0",
-				"range": 8,
-				"mana": 1,
-				"unique": true,
-				"type": "Spell",
-				"definition": "This spell can target any character.\n          Attacks with this spell cost 1 AP less (to a minimum of 0).\n          1 success: A Curse Debuff and an Enhancement Debuff.\n          3 successes: Enhancement Debuff"
-			},
-			{
-				"name": "Hand of Fate",
-				"points": 2,
-				"diceModifier": "0",
-				"range": 12,
-				"mana": 1,
-				"unique": true,
-				"type": "Spell",
-				"definition": "Before attacking, add up to 3 Dice. All successes are cancelled if at least one '1' is rolled in the attack test.\n          2 successes: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
-			},
-			{
-				"name": "Multi-Cannon",
-				"points": 3,
-				"diceModifier": "+1",
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "Choose up to 3 different targets and attack them one by one. Suffer -1 Die for every chosen target.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
-			},
-			{
-				"name": "Knife of Evil",
-				"points": 3,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Melee",
-				"definition": "Attacks with this weapon are always treated as flank attacks, but do not receive a bonus to the scope unless they are really made from a flank.\n          1 success: 1 Wound\n          2 successes: 1 Wound and change the target's facing\n          3 successes: 2 Wounds and change the target's facing"
-			},
-			{
-				"name": "Cursed Sword",
-				"points": 2,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Melee",
-				"definition": "If an attack with this weapon results in 2 or less Successes, this character gains a Curse Debuff.\n          1 success: 1 Wound\n2 successes: 2 Wounds\n5 successes: 3 Wounds"
-			},
-			{
-				"name": "Power Blaster",
-				"points": 3,
-				"diceModifier": "+1",
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-				"definition": "If an attack with this weapon results in 2 or more Successes, Webstor can perform a free 2-hex move action.\n          1 success: 1 Wound\n3 successes: 1 Wound and a Curse debuff (if flank attack)\n5 successes: 2 Wounds and a Curse debuff (if flank attack)",
-				"highlight": true,
-				"availableIn": [
-					"Webstor"
-				]
-			},
-			{
-				"name": "Cursed Axe",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "If this character has a Curse debuff, attacks with this weapon cost 1 Action less (to a minimum of 1) and gain +1 Die.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
-			},
-			{
-				"name": "Sword of Protection",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Before a defence test, spend up to 2 Mana tokens to gain 1 Die per Mana token spent.\n          1 success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"She-Ra",
-					"She-Ra With Swift Wind"
-				]
-			},
-			{
-				"name": "Combow",
-				"points": 2,
-				"range": 16,
-				"unique": true,
-				"type": "Ranged",
-					"definition": "Gain +1 Die for every Buff token on Bow.\n          1 success: 1 Wound\n          4 successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Bow"
-				]
-			},
-			{
-				"name": "Angellic Sword",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "If Angella was activated with initiative 7 or lower, gain +1 Die. Additionally, if Angella was activated with initiative 3 or lower, gain +1 Die.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          4 successes: 2 Wounds and 1 Wound if Angella was activated with Initiative 1",
-				"highlight": true,
-				"availableIn": [
-					"Angella"
-				]
-			},
-			{
-				"name": "Staff of Light",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-					"definition": "If this character has a Buff token, upon activation, gain 1 Mana token.\n          1 Success: 1 Wound\n          3 successes: 2 Wounds"
-			},
-			{
-				"name": "Beam of Light",
-				"points": 1,
-				"mana": 1,
-				"range": 16,
-				"unique": true,
-				"type": "Spell",
-					"definition": "This spell can target any character. If Glimmer was activated with initiative 8 or higher, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: A Blind token\n          2 successes: A Blind token and the target is teleported 3 hexes.",
-				"highlight": true,
-				"availableIn": [
-					"Glimmer"
-				]
-			},
-			{
-				"name": "Ice Spell",
-				"points": 3,
-				"mana": 1,
-				"range": 12,
-				"unique": true,
-				"type": "Spell",
-					"definition": "During interruptions, attacks with this spell do not receive a penalty to the scope and gain +1 Die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Cripple token\n          4 successes: 2 Wounds and a Cripple token",
-				"highlight": true,
-				"availableIn": [
-					"Frosta"
-				]
-			},
-			{
-				"name": "Mighty Bonk",
-				"points": 1,
-				"mana": 1,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Spell",
-					"definition": "This spell can be used when engaged. Can only target enemies this character is engaged with. During the interruption, attacks with this spell cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and the target is pushed 2 hexes."
-			},
-			{
-				"name": "Three Moons Presence",
-				"points": 1,
-				"mana": 1,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Spell",
-					"definition": "This spell affects all your characters with a Buff token. Its scope cannot be modified. Do not make defence tests.\n          1 Success: Target loses a Buff token but gains 2 Mana tokens\n          2 Successes: Target loses a Buff token but gains 2 Mana tokens and a Focus."
-			},
-			{
-				"name": "Moonless Night",
-				"points": 2,
-				"mana": 1,
-				"unique": true,
-				"type": "Spell",
-					"definition": "This spell affects all characters with a Debuff token. Its scope cannot be modified\n          1 Success: Target loses 2 Mmana and a Debuff\n          2 Successes: 1 Wound and Target loses 2 Mmana and a Debuff."
-			},
-			{
-				"name": "Axe Comb",
-				"ID": "WM42",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417770/wm42_ggtldn.jpg",
-				"points": 3,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Melee",
-					"definition": "Gain 1 Die for each ally with a Buff token (to a maximum of 3).\n          1 Success: 1 Wound\n          3 successes: 2 Wounds\n          5 successes: 3 Wounds"
-			},
-			{
-				"name": "Overwhelming Power",
-				"ID": "WS18",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648449/ws18_xfvq6q.jpg",
-				"points": 1,
-				"range": 16,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Spell",
-					"definition": "Target allies or enemies. If this spell knocks out the target, the targets allies gain 2 Mana tokens. If the target is an ally with an \"Endless Horde\" skill +2 Die.\n          1 Success: 1 Wound and target gains 2 Mana\n          4 Successes: 2 Wounds and target gains 3 Mana",
-				"highlight": true,
-				"availableIn": [
-					"Shadow Weaver"
-				]
-			},
-			{
-				"name": "Calamity",
-				"ID": "WS20",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648450/ws20_ozxeop.jpg",
-				"points": 3,
-				"mana": 3,
-				"range": 8,
-				"unique": true,
-				"type": "Spell",
-					"definition": "The target must choose to either only roll a number or Dice equal to their Mana tokens for their defence test, or roll dice normally, but only succeed on results of 6.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds"
-			},
-			{
-				"name": "Mana Burn",
-				"ID": "WS19",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648449/ws19_sxdxcf.jpg",
-				"points": 3,
-				"range": 12,
-				"diceModifier": "-2",
-				"unique": true,
-				"type": "Spell",
-					"definition": "Gain +1 Die for every Mana token on the target.\n          1 Success: 1 Wound and target loses 1 Mana\n          2 Successes: 1 Wound and target loses 2 Mana\n          3 successes: 2 Wounds and target loses 3 Mana"
-			},
-			{
-				"name": "Energy Cannon",
-				"ID": "WR18",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644973/wr18_uzeiqg.jpg",
-				"points": 2,
-				"diceModifier": "-2",
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-					"definition": "Before attacking test power to gain 1 Die per success received (to a maximum of 5).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 successes: 3 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Hordak"
-				]
-			},
-			{
-				"name": "Two-Sided Gun",
-				"ID": "WR19",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644985/wr19_pxz4m4.jpg",
-				"points": 3,
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-					"definition": "Ignore the target's shield.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and remove buff from the target\n          4 successes: 2 Wounds and remove buff from the target"
-			},
-			{
-				"name": "Cosmic Blaster",
-				"ID": "WR20",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644997/wr20_aqgoxg.jpg",
-				"points": 1,
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-					"definition": "After attacking, end the character's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
-			},
-			{
-				"name": "Net",
-				"ID": "WR25",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420947/wr25_ijpahr.jpg",
-				"points": 1,
-				"range": 8,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Ranged",
-					"definition": "During interruptions, attacks with this weapon do not receive a penalty to the scope and cost 1 Action less (to a minimum of 0).\n          1 Success: 1 Cripple debuff\n          2 Successes: 1 Cripple debuff and target looses 2 Mana."
-			},
-			{
-				"name": "Dragonfly Crossbow",
-				"ID": "WR26",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420951/wr26_uwgofb.jpg",
-				"points": 2,
-				"range": 12,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Ranged",
-					"definition": "If the target it engaged, instead of being decreased, the scope of the attack is increased by 1.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 hexes."
-			},
-			{
-				"name": "Bubble Projector",
-				"ID": "WR28",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420955/wr28_mv2z3b.jpg",
-				"points": 4,
-				"range": 16,
-				"unique": true,
-				"type": "Ranged",
-					"definition": "If an attack with this weapon results in 2 of more Successes, an ally within 8\" gains a Protection buff.\n          1 success: 1 Wound\n          4 successes: 2 Wounds"
-			},
-			{
-				"name": "Kobra Pistol",
-				"ID": "WR29",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420963/wr29_hz85yr.jpg",
-				"points": 1,
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-				"diceModifier": "-1",
-				"definition": "Attacks with this weapon do not receive a penalty to the scope during interruptions. The Range is increased by 4\" when Kobra Khan is on Overwatch.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Kobra Khan"
-				]
-			},
-			{
-				"name": "Zodac's Blaster",
-				"ID": "WR33",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420974/wr33_c1m9jm.jpg",
-				"points": 2,
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-				"diceModifier": "-1",
-				"definition": "Gain 1 Die per Wound on Zodac.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Zodac",
-					"Zodac with Throne"
-				]
-			},
-			{
-				"name": "Slingshot",
-				"ID": "WR36",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645051/wr36_y1dbml.jpg",
-				"points": 1,
-				"range": 12,
-				"unique": true,
-				"type": "Ranged",
-				"diceModifier": "-",
-				"definition": "If the character has 4 or more Strength, increase the range of this weapon by 4\". If the character has 5 or more Strength, gain 1 Die.\n          1 success: 1 wound and target loses Overwatch"
-			},
-			{
-				"name": "Dual Laser Cannons",
-				"ID": "WR37",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645056/wr37_o2ckzz.jpg",
-				"points": 1,
-				"range": 8,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Ranged",
-					"definition": "Once per activation or interruption, immediately after a Ranged attack with this weapon, Roton can perform a free Ranged attack against a different target.\n          1 Success: 1 Wound",
-				"highlight": true,
-				"availableIn": [
-					"Ditztroyer in Roton"
-				]
-			},
-			{
-				"name": "Catra's Whip",
-				"ID": "WM26",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418318/wm26_o8as6c.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Once per activation, after Catra makes a melee attack she can spend 2 Mana to immediately perform a free melee attack with this weapon\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and draw a fate card\n          4 Successes: 2 Wounds and draw a fate card",
-				"highlight": true,
-				"availableIn": [
-					"Catra"
-				]
-			},
-			{
-				"name": "Horde Axe",
-				"ID": "WM27",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418466/wm27_awk5di.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Before attacking, Grizzlor can spend either 2 Mana to gain one of the bonuses below or 4 Mana to gain both bonuses.\n           +2 Dice or focus\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Grizzlor"
-				]
-			},
-			{
-				"name": "Dragon Staff",
-				"ID": "WM28",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
-				"points": 1,
-				"diceModifier": "+1",
-				"unique": true,
-				"type": "Melee",
-					"definition": "After attacking, end this characters activation of interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
-			},
-			{
-				"name": "Horde Staff",
-				"ID": "WM29",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417823/wm29_ts8tuo.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Upon activation, gain 1 Mana token for every knocked out ally (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds"
-			},
-			{
-				"name": "Propeller Arm",
-				"ID": "WM30",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417828/wm30_pcmkpm.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Before attacking, discard up to 3 fate cards to gain 1 Die per discarded card.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
-			},
-			{
-				"name": "Scorpia's Tail",
-				"ID": "WM37",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418437/wm37_bdiqb4.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Immediately after an attack, Scorpia can spend 1 Mana to allow an ally with an \"Endless Horde\" skill to interrupt the attacked enemy.\n          1 Success: 1 Wound\n          2 Successes: 2 Successes: 1 Wound and a Curse debuff.",
-				"highlight": true,
-				"availableIn": [
-					"Scorpia"
-				]
-			},
-			{
-				"name": "Snake Dagger",
-				"ID": "WM43",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419040/wm43_srfili.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-",
-				"definition": "Upon Activation, Lady Slither can perform a free Melee attack with this weapon.\n          2 Successes: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Lady Slither"
-				]
-			},
-			{
-				"name": "Snake-Head Staff",
-				"ID": "WM44",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419122/wm44_cqdbnq.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-1",
-				"definition": "When Sssqueeze isn't engaged, gain +2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Sssqueeze"
-				]
-			},
-			{
-				"name": "Enormous Fangs",
-				"ID": "WM45",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419019/wm45_nz5ymm.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "NoSlot",
-				"diceModifier": "-",
-				"definition": "This does not use a melee weapon slot. If the target is in their deployment zone, gain +1 die.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and a Curse debuff",
-				"highlight": true,
-				"availableIn": [
-					"Fang-Or"
-				]
-			},
-			{
-				"name": "Viper Staff",
-				"ID": "WM46",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419071/wm46_dsyya7.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-1",
-				"definition": "All Melee, Spell, and Ranged attacks of Rattlor, gain 1 free reroll for each Objective on the battleground (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Rattlor"
-				]
-			},
-			{
-				"name": "King's Axe",
-				"ID": "WM52",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419628/wm52_uq5zfo.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-",
-				"definition": "When King Grayskull receives his 5th Wound, he interrupts the current activation or interruption (if possible).\n          1 success: 1 Wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"King Grayskull"
-				]
-			},
-			{
-				"name": "He-Ro Staff - Green",
-				"ID": "WM53",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419599/wm53_wxe7ma.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-1",
-				"definition": "He-Ro's Melee and Range attacks gain +1 Die if the target is within 6\" from an ally with a Dinosaur skill.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"He-Ro"
-				]
-			},
-			{
-				"name": "He-Ro Staff - Red",
-				"ID": "WM54",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419604/wm54_l6bift.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-1",
-				"definition": "When He-ro is attacked by the enemy within 6\" from an ally with a Dinosaur skill, He-Ro's defense tests gain +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"He-Ro"
-				]
-			},
-			{
-				"name": "He-Ro Staff - Purple",
-				"ID": "WM55",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419617/wm55_sm5o3p.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "He-Ro Melee and Ranged attacks ignore Protection, and the target can't roll more Die than their Toughness value.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"He-Ro"
-				]
-			},
-			{
-				"name": "Eldor Staff",
-				"ID": "WM56",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419608/wm56_ctnokc.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "+1",
-				"definition": "Upon Activation, Eldor gains 1 Mana for every 3 Wounds in play (to a maximum of 3).\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Eldor"
-				]
-			},
-			{
-				"name": "Queen Staff",
-				"ID": "WM57",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419622/wm57_lb95oh.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "+1",
-				"definition": "If Veena is adjacent to a character with Veena Token, she gains +1 Die to defence tests.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Veena"
-				]
-			},
-			{
-				"name": "Nature Mace",
-				"ID": "WM60",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419613/wm60_gunqin.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-1",
-				"definition": "If at least one '1' is rolled during the attack test, flip this weapon face down after the attack or spend 2 Mana.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Moss Man"
-				]
-			},
-			{
-				"name": "Rotating Blades",
-				"ID": "WM62",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418877/wm62_rm0onp.jpg",
-				"points": 3,
-				"diceModifier": "-",
-				"unique": true,
-				"type": "NoSlot",
-					"definition": "This does not use a Melee weapon slot. After a move action, if Roton didn't end on any hexes it started on, it can perform a free Melee attack with this weapon.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Ditztroyer in Roton"
-				]
-			},
-			{
-				"name": "Jaws",
-				"ID": "WM63",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419576/wm63_ksagnq.jpg",
-				"points": 2,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "NoSlot",
-					"definition": "This does not use a Melee weapon slot and can only be used during interruption. Attacks with this weapon do not receive a penalty to the scope during interruption.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
-				"highlight": true,
-				"availableIn": [
-					"Dawg-O-Tor in Land Shark"
-				]
-			},
-			{
-				"name": "Magic Push",
-				"ID": "WS25",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648453/ws25_jgdpum.jpg",
-				"points": 3,
-				"range": 12,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Spell",
-					"definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes."
-			},
-			{
-				"name": "Trick",
-				"ID": "WS26",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648454/ws26_mgk2gk.jpg",
-				"points": 1,
-				"range": 16,
-				"diceModifier": "+2",
-				"unique": true,
-				"type": "Spell",
-					"definition": "Targets allies instead of enemies. Before attacking, discard a fate card. If you do not, this spell has no effect. After the attack, draw a fate card.\n          1 Success:  The target interrupts the current activation or interruption with 0 AP. Apply a bonus from the discarded card to the target."
-			},
-			{
-				"name": "Ancient Magic",
-				"ID": "WS32",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648460/ws32_zhw6wx.jpg",
-				"points": 2,
-				"mana": 1,
-				"range": 12,
-				"unique": true,
-				"type": "Spell",
-				"diceModifier": "-1",
-				"definition": "Gain 1 die for every enemy within 12\" (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 2 Wounds and King Hsss gains 1 Action",
-				"highlight": true,
-				"availableIn": [
-					"King Hsss",
-					"King Hsss WIth Tyrantisaurus"
-				]
-			},
-			{
 				"name": "Bat",
 				"ID": "I41",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650347/i41_qdoop9.jpg",
@@ -4794,6 +4957,60 @@
 				"unique": true,
 				"type": "Shield",
 					"definition": "If this character is the target of a frontal attack, gain 1 Mana."
+			},
+			{
+				"name": "Wrap",
+				"ID": "I49",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650351/i49_rbmjzx.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Disposable. When this character is about to lose their Buff or Debuff, you can use this card to keep it."
+			},
+			{
+				"name": "Magical Shell",
+				"ID": "I50",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i50_kxsm5p.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Defence tests against skills gain 1 Die."
+			},
+			{
+				"name": "Inquisitor Armor",
+				"ID": "I51",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i51_qlvowy.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Armour",
+				"definition": "This character can be attacked only once during every activation or interruption."
+			},
+			{
+				"name": "Rotating Shield",
+				"ID": "I52",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650773/i52_jdelhd.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Shield",
+				"definition": "After being attacked by a frontal Ranged Attack or Spell Attack, this character is pulled 2 hexes towards the attacker."
+			},
+			{
+				"name": "Acid Vial",
+				"ID": "I53",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i53_qkqt0i.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "If this character's flank attack results in 2 or more Successes, the target receives a Blind debuff."
+			},
+			{
+				"name": "Magic Lamp",
+				"ID": "I54",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650308/i54_ynspyi.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+				"definition": "Spell attacks gain +1 Die. After the Spell attack, this character receives a Curse debuff if at least one '1' was rolled in the attack test."
 			},
 			{
 				"name": "Slug Armour",
@@ -4957,6 +5174,15 @@
 					"definition": "When a character has a Buff, gain +1 to the scope of defence tests, against all frontal attacks."
 			},
 			{
+				"name": "Snake Armour",
+				"ID": "I72",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650664/i72_xydtn7.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Armour",
+					"definition": "If this character is within 2 hexes from a Mark, gain +1 Die for all defence tests."
+			},
+			{
 				"name": "He-Ro II Armour",
 				"ID": "I89",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650666/i89_inbcoo.jpg",
@@ -4979,74 +5205,16 @@
 					"definition": "Disposable. Draw a fate card."
 			},
 			{
-				"name": "Demolisher Missile",
-				"ID": "WH1",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648310/wh1_dwjam8.jpg",
-				"points": 2,
-				"range": 12,
-				"diceModifier": "-1",
+				"name": "Reinforced Limbs",
+				"ID": "IM1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650667/im1_nyxl6j.jpg",
+				"points": 0,
 				"unique": true,
-				"type": "Heavy Weapon",
-					"definition": "This wepon targets an empty hex and affects all allies and enemies within 2 hexes. After the attack, remove one piece of terrain located within 2 hexes\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds.",
+				"type": "Armour",
+				"definition": "Attacks of opportunity against a Tyrantisaurus have their scope decreased by 1 (instead of increased)",
 				"highlight": true,
 				"availableIn": [
-					"Dawg-O-Tor in Battle Ram"
-				]
-			},
-			{
-				"name": "Heavy Laser",
-				"ID": "WH2",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648310/wh2_od48e5.jpg",
-				"points": 4,
-				"range": 12,
-				"diceModifier": "-2",
-				"unique": true,
-				"type": "Heavy Weapon",
-					"definition": "Before attacking, spend up to 5 Mana to gain +1 Die per Mana spent.\n          1 Success: 1 Wound\n          2 Successes: 2 Wounds\n          4 Successes: 3 Wounds."
-			},
-			{
-				"name": "Preternian Laser",
-				"ID": "WH3",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh3_rqlb5h.jpg",
-				"points": 3,
-				"range": 12,
-				"unique": true,
-				"type": "Heavy Weapon",
-				"diceModifier": "-1",
-				"definition": "If the target is within 8\", gain +1 Die. If the target is within 4\", you gain another +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
-				"highlight": true,
-				"availableIn": [
-					"Bionatops"
-				]
-			},
-			{
-				"name": "Legendary Blasters",
-				"ID": "WH4",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh4_rfs2pu.jpg",
-				"points": 2,
-				"range": 8,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Heavy Weapon",
-					"definition": "Attacks with this weapon made immediately after a move action gain +1 Die for every 4 hexes traversed by Talon Fighter in that move action.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          6 Successes: 3 Wounds.",
-				"highlight": true,
-				"availableIn": [
-					"Sherrilyn in Talon Fighter"
-				]
-			},
-			{
-				"name": "Shark Lasers",
-				"ID": "WH5",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh5_dckuha.jpg",
-				"points": 4,
-				"range": 12,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Heavy Weapon",
-					"definition": "Ignores the target's shield and armor.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 Hexes\n          3 Successes: 2 Wounds and push target 2 Hexes",
-				"highlight": true,
-				"availableIn": [
-					"Dawg-O-Tor in Land Shark"
+					"Tyrantisaurus"
 				]
 			}
 		],
