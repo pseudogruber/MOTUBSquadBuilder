@@ -2932,6 +2932,8 @@
 			},
 			{
 				"name": "Sword of Power",
+				"ID": "WM12",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417793/wm12_fb3uyf.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2945,6 +2947,8 @@
 			},
 			{
 				"name": "Dagger",
+				"ID": "WM2",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417784/wm2_crgqy9.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "NoSlot",
@@ -2953,6 +2957,8 @@
 			},
 			{
 				"name": "Terror Claws",
+				"ID": "WM14",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417798/wm14_y67uxj.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2961,6 +2967,8 @@
 			},
 			{
 				"name": "Trident",
+				"ID": "WM15",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417983/wm15_gbnyxd.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Melee",
@@ -2973,6 +2981,8 @@
 			},
 			{
 				"name": "Sword of Rakash",
+				"ID": "WM13",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417807/wm13_s3xtcr.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Melee",
@@ -2981,6 +2991,8 @@
 			},
 			{
 				"name": "Electronic Sword of Power",
+				"ID": "WM3",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417791/wm3_uvggtd.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Melee",
@@ -2989,6 +3001,8 @@
 			},
 			{
 				"name": "Flying Fists",
+				"ID": "WM4",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417782/wm4_fo3gbc.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2997,6 +3011,8 @@
 			},
 			{
 				"name": "Longsword",
+				"ID": "WM5",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417919/wm5_sgydwt.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -3009,6 +3025,8 @@
 			},
 			{
 				"name": "Hook Attachment",
+				"ID": "WM6",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417925/wm6_grojlx.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Hook Attachment",
@@ -3021,6 +3039,8 @@
 			},
 			{
 				"name": "Laser Attachment",
+				"ID": "WR8",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644868/wr8_t83u7f.jpg",
 				"points": 0,
 				"unique": true,
 				"type": "Laser Attachment",
@@ -3034,6 +3054,8 @@
 			},
 			{
 				"name": "Purple Sword of Power",
+				"ID": "WM8",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417786/wm8_edoewy.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3042,6 +3064,8 @@
 			},
 			{
 				"name": "Mace",
+				"ID": "WM7",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417796/wm7_uhl5dy.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3050,6 +3074,8 @@
 			},
 			{
 				"name": "Arm Cannon",
+				"ID": "WR1",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644776/wr1_uylemk.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "NoSlot",
@@ -3063,6 +3089,8 @@
 			},
 			{
 				"name": "Fear Gas Cannon",
+				"ID": "WR3",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644806/wr3_vqjnew.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Ranged",
@@ -3072,6 +3100,8 @@
 			},
 			{
 				"name": "Flamethrower",
+				"ID": "WR4",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644815/wr4_c8lzg6.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Ranged",
@@ -3085,6 +3115,8 @@
 			},
 			{
 				"name": "Blaster",
+				"ID": "WR2",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644800/wr2_yhaby8.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Ranged",
@@ -3094,6 +3126,7 @@
 			},
 			{
 				"name": "Blaster Attachment",
+				"ID": "WR35",
 				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645040/wr35_azicbh.jpg",
 				"points": 3,
 				"unique": true,
@@ -3108,6 +3141,8 @@
 			},
 			{
 				"name": "Claw Attachment",
+				"ID": "WM59",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417780/wm59_pipk4o.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3120,6 +3155,8 @@
 			},
 			{
 				"name": "Axe Attachment",
+				"ID": "WM58",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417776/wm58_acygh5.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -3132,6 +3169,8 @@
 			},
 			{
 				"name": "Power Clamp",
+				"ID": "WM48",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417766/wm48_okbzla.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -3144,6 +3183,8 @@
 			},
 			{
 				"name": "Horde Crossbow",
+				"ID": "WR5",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644823/wr5_zqqsps.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -3153,6 +3194,8 @@
 			},
 			{
 				"name": "Laser Pistol",
+				"ID": "WR6",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644841/wr6_nvmgpc.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "NoSlot",
@@ -3162,6 +3205,8 @@
 			},
 			{
 				"name": "Laser Rifle",
+				"ID": "WR7",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644859/wr7_uc3jdq.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -3171,6 +3216,8 @@
 			},
 			{
 				"name": "Photon Neutralizer",
+				"ID": "WR9",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644875/wr9_xh2jpr.jpg",
 				"points": 4,
 				"unique": true,
 				"type": "Ranged",
@@ -3180,6 +3227,8 @@
 			},
 			{
 				"name": "Cosmic Storm",
+				"ID": "WS1",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648471/ws1_o9gcwf.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Spell",
@@ -3194,6 +3243,8 @@
 			},
 			{
 				"name": "Cursed Minions",
+				"ID": "WS2",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648473/ws2_u31mtw.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "NoSlot",
