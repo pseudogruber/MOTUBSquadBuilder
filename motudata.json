@@ -4424,7 +4424,8 @@
 			},
 			{
 				"name": "Dual Laser Cannons",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645056/wr37_o2ckzz.jpg",
+				"ID": "WR37",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645056/wr37_o2ckzz.jpg",
 				"points": 1,
 				"range": 8,
 				"diceModifier": "+1",
@@ -4438,6 +4439,8 @@
 			},
 			{
 				"name": "Rotating Blades",
+				"ID": "WM62",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418877/wm62_rm0onp.jpg",
 				"points": 3,
 				"diceModifier": "-",
 				"unique": true,
@@ -4450,6 +4453,8 @@
 			},
 			{
 				"name": "Shark Lasers",
+				"ID": "WH5",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh5_dckuha.jpg",
 				"points": 4,
 				"range": 12,
 				"diceModifier": "-1",
@@ -4463,6 +4468,8 @@
 			},
 			{
 				"name": "Jaws",
+				"ID": "WM63",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419576/wm63_ksagnq.jpg",
 				"points": 2,
 				"diceModifier": "-1",
 				"unique": true,
@@ -4475,6 +4482,8 @@
 			},
 			{
 				"name": "Heavy Laser",
+				"ID": "WH2",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648310/wh2_od48e5.jpg",
 				"points": 4,
 				"range": 12,
 				"diceModifier": "-2",
