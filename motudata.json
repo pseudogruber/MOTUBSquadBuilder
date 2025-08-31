@@ -4289,6 +4289,33 @@
 				"type": "Module",
 					"definition": "Add +2 to Focused Speed."
 			},
+						{
+				"name": "Targeting Computer",
+				"ID": "I61",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651432/i61_xawcik.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Module",
+					"definition": "If this vehicle has no Wounds, +1 Die to all attacks."
+			},
+			{
+				"name": "Reactive Armour",
+				"ID": "I62",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651430/i62_n3xjbp.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Module",
+					"definition": "Disposable. Gain Protection buff."
+			},
+			{
+				"name": "Mystic Plating",
+				"ID": "I63",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651432/i63_xxrlxm.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Module",
+					"definition": "Disposable. Use it before a defence test to attempt it with 5 Dice."
+			},
 			{
 				"name": "Spinning disc",
 				"ID": "I64",
@@ -4366,34 +4393,9 @@
 					"definition": "When a character has a Buff, gain +1 to the scope of defence tests, against all frontal attacks."
 			},
 			{
-				"name": "Targeting Computer",
-				"ID": "I61",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651432/i61_xawcik.jpg",
-				"points": 2,
-				"unique": true,
-				"type": "Module",
-					"definition": "If this vehicle has no Wounds, +1 Die to all attacks."
-			},
-			{
-				"name": "Reactive Armour",
-				"ID": "I62",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651430/i62_n3xjbp.jpg",
-				"points": 1,
-				"unique": true,
-				"type": "Module",
-					"definition": "Disposable. Gain Protection buff."
-			},
-			{
-				"name": "Mystic Plating",
-				"ID": "I63",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651432/i63_xxrlxm.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Module",
-					"definition": "Disposable. Use it before a defence test to attempt it with 5 Dice."
-			},
-			{
 				"name": "Demolisher Missile",
+				"ID": "WH1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648310/wh1_dwjam8.jpg",
 				"points": 2,
 				"range": 12,
 				"diceModifier": "-1",
