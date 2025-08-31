@@ -4409,7 +4409,8 @@
 			},
 			{
 				"name": "Legendary Blasters",
-				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh4_rfs2pu.jpg",
+				"ID": "WH4",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh4_rfs2pu.jpg",
 				"points": 2,
 				"range": 8,
 				"diceModifier": "-1",
