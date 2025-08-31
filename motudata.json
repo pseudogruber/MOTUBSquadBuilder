@@ -5301,6 +5301,33 @@
 					"definition": "-1 Speed and -1 to Focused Speed."
 			},
 			{
+				"name": "Doomseeker",
+				"ID": "I86",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650313/i86_joopqu.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Allies attacking an enemy within 8\" from this character can make 1 free re-roll."
+			},
+			{
+				"name": "Steel Bracers",
+				"ID": "I87",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650320/i87_weyiit.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "When performing a move action, always assume that this character isn't engaged."
+			},
+			{
+				"name": "Enforcer's Armor",
+				"ID": "I88",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i88_skh1bd.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Enemies attacking this character do not gain any bonuses for a flank attack."
+			},
+			{
 				"name": "He-Ro II Armour",
 				"ID": "I89",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650666/i89_inbcoo.jpg",
@@ -5312,6 +5339,63 @@
 				"availableIn": [
 					"He-Ro II"
 				]
+			},
+			{
+				"name": "King's Shield",
+				"ID": "I90",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650771/i90_pqk2t2.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Shield",
+					"definition": "This character can be attacked from a front arc only once during every activation or interruption."
+			},
+			{
+				"name": "Herbals",
+				"ID": "I91",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650315/i91_lrxihi.jpg",
+				"points": 1,
+				"mana cost": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Skill - Tea Time. Gain 1 Wound and 2 Mana."
+			},
+			{
+				"name": "Magic Leaf",
+				"ID": "I92",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650320/i92_xws6ri.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Upon activation, remove debuff from this character."
+			},
+			{
+				"name": "Magic Scroll",
+				"ID": "I93",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650315/i93_kjeqcl.jpg",
+				"points": 1,
+				"mana cost": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Skill - Shock. Choose a character within 12\". This character loses Focus."
+			},
+			{
+				"name": "Preternian Coin",
+				"ID": "I94",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650315/i94_n9b9pl.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Until the end of the current activation, this character cannot be interrupted."
+			},
+			{
+				"name": "Rider's Gloves",
+				"ID": "I95",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i95_zi5zpq.jpg",
+				"points": 1,
+				"AP cost": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Skill - That Way. This character and adjacent massive model move 3 hexes. They must end adjacent to each other."
 			},
 			{
 				"name": "Tools",
