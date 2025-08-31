@@ -4528,6 +4528,8 @@
 			},
 			{
 				"name": "Trick",
+				"ID": "WS26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648454/ws26_mgk2gk.jpg",
 				"points": 1,
 				"range": 16,
 				"diceModifier": "+2",
