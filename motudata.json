@@ -4208,6 +4208,88 @@
 					"definition": "Before attacking, discard up to 3 fate cards to gain 1 Die per discarded card.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
 			},
 			{
+				"name": "Bat",
+				"ID": "I41",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650347/i41_qdoop9.jpg",
+				"points": 2,
+				"mana": 3,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Scouting. Test Mind +1 per every enemy within 12\" and draw a fate card per success (to a maximum of 3)."
+			},
+			{
+				"name": "Harp",
+				"ID": "I42",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650346/i42_grcvle.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "During any test, this character may discard a fate card to gain 2 free rerolls."
+			},
+			{
+				"name": "Horde Armband",
+				"ID": "I43",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650346/i43_gxurnf.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Whenever an ally is knocked out, gain a focus."
+			},
+			{
+				"name": "Cat Mask",
+				"ID": "I44",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650347/i44_rkvwmf.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "At the end of activation or interruption, change the characters facing."
+			},
+			{
+				"name": "Magic Boots",
+				"ID": "I45",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650352/i45_jgfr9z.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "During interruptions +1 to movement, and +2 to focused movement."
+			},
+			{
+				"name": "Eldritch Book of Spells",
+				"ID": "I46",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650351/i46_gg3vop.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "After this characters attack knocks out another character. immediately perform a free melee, ranged or magic attack."
+			},
+			{
+				"name": "Plate Armour",
+				"ID": "I47",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i47_lo0tmp.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Armour",
+					"definition": "This character cannot be pushed or pulled."
+			},
+			{
+				"name": "Cat Shield",
+				"ID": "I48",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650774/i48_m9bfie.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Shield",
+					"definition": "If this character is the target of a frontal attack, gain 1 Mana."
+			},
+			{
+				"name": "Engine Booster",
+				"ID": "I60",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651430/i60_tkhtuw.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Module",
+					"definition": "Add +2 to Focused Speed."
+			},
+			{
 				"name": "Spinning disc",
 				"ID": "I64",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650310/i64_l1pnlg.jpg",
@@ -4245,16 +4327,7 @@
 				"points": 2,
 				"unique": true,
 				"type": "Armour",
-					"definition": "Defence tests against enemies activated with initiative 7 or hight, gain +1 Die."
-			},
-			{
-				"name": "Energy Shield",
-				"ID": "I71",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650773/i71_avgmdx.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Shield",
-					"definition": "When a character has a Buff, gain +1 to the scope of defence tests, against all frontal attacks."
+					"definition": "Defence tests against enemies activated with initiative 7 or higher, gain +1 Die."
 			},
 			{
 				"name": "Halo",
@@ -4267,6 +4340,8 @@
 			},
 			{
 				"name": "Galactic Gauntlet",
+				"ID": "I69",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i69_azfwlh.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
@@ -4274,95 +4349,48 @@
 			},
 			{
 				"name": "Galactic Shoes",
+				"ID": "I70",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i70_b8latx.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
 					"definition": "Rush. Remove a Buff from this character to perform a free 2-hex move action."
 			},
 			{
-				"name": "Bat",
-				"points": 2,
-				"mana": 3,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Scouting. Test Mind +1 per every enemy within 12\" and draw a fate card per success (to a maximum of 3)."
-			},
-			{
-				"name": "Harp",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "During any test, this character may discard a fate card to gain 2 free rerolls."
-			},
-			{
-				"name": "Horde Armband",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "Whenever an ally is knocked out, gain a focus."
-			},
-			{
-				"name": "Cat Mask",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "At the end of activation or interruption, change the characters facing."
-			},
-			{
-				"name": "Magic Boots",
-				"points": 1,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "During interruptions +1 to movement, and +2 to focused movement."
-			},
-			{
-				"name": "Eldritch Book of Spells",
-				"points": 2,
-				"unique": true,
-				"type": "Trinket",
-					"definition": "After this characters attack knocks out another character. immediately perform a free melee, ranged or magic attack."
-			},
-			{
-				"name": "Plate Armour",
-				"points": 1,
-				"unique": true,
-				"type": "Armour",
-					"definition": "This character cannot be pushed or pulled."
-			},
-			{
-				"name": "Cat Shield",
-				"points": 2,
+				"name": "Energy Shield",
+				"ID": "I71",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650773/i71_avgmdx.jpg",
+				"points": 3,
 				"unique": true,
 				"type": "Shield",
-					"definition": "If this character is the target of a frontal attack, gain 1 Mana."
-			},
-			{
-				"name": "Engine Booster",
-				"points": 1,
-				"unique": true,
-				"type": "Module",
-					"definition": "Add +2 to Focused Speed."
+					"definition": "When a character has a Buff, gain +1 to the scope of defence tests, against all frontal attacks."
 			},
 			{
 				"name": "Targeting Computer",
+				"ID": "I61",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651432/i61_xawcik.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Module",
 					"definition": "If this vehicle has no Wounds, +1 Die to all attacks."
 			},
 			{
-				"name": "Mystic Plating",
-				"points": 3,
-				"unique": true,
-				"type": "Module",
-					"definition": "Disposable. Use it before a defence test to attempt it with 5 Dice."
-			},
-			{
 				"name": "Reactive Armour",
+				"ID": "I62",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651430/i62_n3xjbp.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Module",
 					"definition": "Disposable. Gain Protection buff."
+			},
+			{
+				"name": "Mystic Plating",
+				"ID": "I63",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651432/i63_xxrlxm.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Module",
+					"definition": "Disposable. Use it before a defence test to attempt it with 5 Dice."
 			},
 			{
 				"name": "Demolisher Missile",
