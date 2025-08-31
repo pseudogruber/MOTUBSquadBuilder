@@ -4711,10 +4711,10 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "-",
-				"definition": "When King Grayskull receives his 5th Wound, he interrupts the current activation or interruption (if possible).\n          1 success: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+				"definition": "When King Grayskull receives his 5th Wound, he interrupts the current activation or interruption (if possible).\n          1 success: 1 Wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
 				"highlight": true,
 				"availableIn": [
-					"King Greyskull"
+					"King Grayskull"
 				]
 			},
 			{
