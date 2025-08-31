@@ -4635,31 +4635,9 @@
 				"definition": "If the character has 4 or more Strength, increase the range of this weapon by 4\". If the character has 5 or more Strength, gain 1 Die.\n          1 success: 1 wound and target loses Overwatch"
 			},
 			{
-				"name": "He-Ro Staff - Purple",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "0",
-				"definition": "He-Ro Melee and Ranged attacks ignore Protection, and the target can't roll more Die than their Toughness value.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"He-Ro"
-				]
-			},
-			{
-				"name": "He-Ro Staff - Red",
-				"points": 2,
-				"unique": true,
-				"type": "Melee",
-				"diceModifier": "-1",
-				"definition": "When He-ro is attacked by the enemy within 6\" from an ally with a Dinosaur skill, He-Ro's defense tests gain +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds",
-				"highlight": true,
-				"availableIn": [
-					"He-Ro"
-				]
-			},
-			{
 				"name": "He-Ro Staff - Green",
+				"ID": "WM53",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419599/wm53_wxe7ma.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -4671,7 +4649,37 @@
 				]
 			},
 			{
+				"name": "He-Ro Staff - Red",
+				"ID": "WM54",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419604/wm54_l6bift.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "-1",
+				"definition": "When He-ro is attacked by the enemy within 6\" from an ally with a Dinosaur skill, He-Ro's defense tests gain +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"He-Ro"
+				]
+			},
+			{
+				"name": "He-Ro Staff - Purple",
+				"ID": "WM55",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419617/wm55_sm5o3p.jpg",
+				"points": 2,
+				"unique": true,
+				"type": "Melee",
+				"diceModifier": "0",
+				"definition": "He-Ro Melee and Ranged attacks ignore Protection, and the target can't roll more Die than their Toughness value.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"highlight": true,
+				"availableIn": [
+					"He-Ro"
+				]
+			},
+			{
 				"name": "He-Ro II Armour",
+				"ID": "I89",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650666/i89_inbcoo.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Armour",
@@ -4683,6 +4691,8 @@
 			},
 			{
 				"name": "Queen Staff",
+				"ID": "WM57",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419622/wm57_lb95oh.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -4695,6 +4705,8 @@
 			},
 			{
 				"name": "King's Axe",
+				"ID": "WM52",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419628/wm52_uq5zfo.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -4707,6 +4719,8 @@
 			},
 			{
 				"name": "Eldor Staff",
+				"ID": "WM56",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419608/wm56_ctnokc.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -4719,6 +4733,8 @@
 			},
 			{
 				"name": "Nature Mace",
+				"ID": "WM60",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419613/wm60_gunqin.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Melee",
@@ -4731,6 +4747,8 @@
 			},
 			{
 				"name": "Preternian Laser",
+				"ID": "WH3",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648311/wh3_rqlb5h.jpg",
 				"points": 3,
 				"range": 12,
 				"unique": true,
@@ -4744,6 +4762,8 @@
 			},
 			{
 				"name": "Ancient Magic",
+				"ID": "WS32",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648460/ws32_zhw6wx.jpg",
 				"points": 2,
 				"mana": 1,
 				"range": 12,
@@ -4759,6 +4779,8 @@
 			},
 			{
 				"name": "Enormous Fangs",
+				"ID": "WM45",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419019/wm45_nz5ymm.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "NoSlot",
@@ -4771,6 +4793,8 @@
 			},
 			{
 				"name": "Kobra Pistol",
+				"ID": "WR29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420963/wr29_hz85yr.jpg",
 				"points": 1,
 				"range": 12,
 				"unique": true,
@@ -4784,6 +4808,8 @@
 			},
 			{
 				"name": "Snake Dagger",
+				"ID": "WM43",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419040/wm43_srfili.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "NoSlot",
@@ -4796,6 +4822,8 @@
 			},
 			{
 				"name": "Viper Staff",
+				"ID": "WM46",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419071/wm46_dsyya7.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -4808,6 +4836,8 @@
 			},
 			{
 				"name": "Snake-Head Staff",
+				"ID": "WM44",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419122/wm44_cqdbnq.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
