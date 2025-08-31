@@ -4181,8 +4181,8 @@
 			},
 			{
 				"name": "Horde Staff",
-				"ID": "WM28",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
+				"ID": "WM2",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417823/wm29_ts8tuo.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -4190,6 +4190,8 @@
 			},
 			{
 				"name": "Dragon Staff",
+				"ID": "WM29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
 				"points": 1,
 				"diceModifier": "+1",
 				"unique": true,
@@ -4198,6 +4200,8 @@
 			},
 			{
 				"name": "Propeller Arm",
+				"ID": "WM30",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417828/wm30_pcmkpm.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -4205,6 +4209,8 @@
 			},
 			{
 				"name": "Spinning disc",
+				"ID": "I64",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650310/i64_l1pnlg.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
@@ -4216,6 +4222,8 @@
 			},
 			{
 				"name": "Pink Tiara",
+				"ID": "I65",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650309/i65_dilqqw.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
