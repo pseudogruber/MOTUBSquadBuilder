@@ -4812,7 +4812,7 @@
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419040/wm43_srfili.jpg",
 				"points": 2,
 				"unique": true,
-				"type": "NoSlot",
+				"type": "Melee",
 				"diceModifier": "-",
 				"definition": "Upon Activation, Lady Slither can perform a free Melee attack with this weapon.\n          2 Successes: 1 Wound\n          3 Successes: 2 Wounds\n          4 Successes: 3 Wounds",
 				"highlight": true,
