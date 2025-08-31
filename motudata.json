@@ -2791,6 +2791,7 @@
 		"upgrades": [
 			{
 				"name": "Axe",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417789/wm9_hcxya9.jpg",
 				"points": 1,
 				"unique": true,
 				"type": "Melee",
@@ -2803,6 +2804,7 @@
 			},
 			{
 				"name": "Battle Axe",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405624/wm1_bapuxu.jpg",
 				"points": 5,
 				"unique": true,
 				"type": "Melee",
@@ -2811,6 +2813,7 @@
 			},
 			{
 				"name": "Staff of Avion",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417805/wm10_dwzgqa.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2819,6 +2822,7 @@
 			},
 			{
 				"name": "Havoc Staff",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417958/wm11_s1e19i.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2832,6 +2836,7 @@
 			},
 			{
 				"name": "Stink Gun",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644957/wr16_vd6deb.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Ranged",
@@ -2845,6 +2850,7 @@
 			},
 			{
 				"name": "Orange Sword of Power",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418138/wm50_q7426l.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2857,6 +2863,7 @@
 			},
 			{
 				"name": "Electro Shocker Spear",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418051/wm24_klhg2x.jpg",
 				"points": 3,
 				"unique": true,
 				"type": "Melee",
@@ -2869,6 +2876,7 @@
 			},
 			{
 				"name": "Teela's Sword",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2881,6 +2889,7 @@
 			},
 			{
 				"name": "Staff of Power",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417810/wm20_dbvu6l.jpg",
 				"points": 2,
 				"unique": true,
 				"type": "Melee",
@@ -2893,6 +2902,7 @@
 			},
 			{
 				"name": "Bionatops Blaster",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756644901/wr11_ppm9jt.jpg",
 				"points": 2,
 				"range": 16,
 				"unique": true,
@@ -3667,6 +3677,7 @@
 			},
 			{
 				"name": "Tyrantisaurus Blaster",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645069/wrm1_zph3wf.jpg",
 				"points": 0,
 				"diceModifier": "0",
 				"range": 16,
@@ -4352,6 +4363,7 @@
 			},
 			{
 				"name": "Dual Laser Cannons",
+				"ImageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645056/wr37_o2ckzz.jpg",
 				"points": 1,
 				"range": 8,
 				"diceModifier": "+1",
@@ -4515,6 +4527,15 @@
 					"Zodac",
 					"Zodac with Throne"
 				]
+			},
+			{
+				"name": "Slingshot",
+				"points": 1,
+				"range": 12,
+				"unique": true,
+				"type": "Ranged",
+				"diceModifier": "-",
+				"definition": "If the character has 4 or more Strength, increase the range of this weapon by 4\". If the character has 5 or more Strength, gain 1 Die.\n          1 success: 1 wound and target loses Overwatch"			]
 			},
 			{
 				"name": "He-Ro Staff - Purple",
