@@ -688,7 +688,7 @@
 				]
 			},
 			{
-				"name": "G12: During this activation or interruption, at least 2 different characters..",
+				"name": "G12: 2 different characters receive Wounds",
 				"ID": "G12",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972099/g12_xvjfum.jpg",
 				"initiative": 8,
@@ -829,7 +829,7 @@
 				]
 			},
 			{
-				"name": "G16: All your characters alive in 3rd or 4th round...",
+				"name": "G16: All your characters alive in 3rd or 4th round",
 				"ID": "G16",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972114/g16_b6dnc8.jpg",
 				"initiative": 9,
