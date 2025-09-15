@@ -293,266 +293,13 @@
 		],
 		"glorycards": [
 			{
-				"name": "During this activation or interruption, at least 2 different characters..",
-				"initiative": 8,
-				"ap": 2,
-				"mp": 3,
-				"description": "During this activation or interruption, at least 2 different characters receive at least 1 Wound.",
-				"vp": 10,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}				]
-			},
-			{
-				"name": "This is the third or fourth round, and all your characters are still...",
-				"initiative": 9,
-				"ap": 2,
-				"mp": 2,
-				"description": "This is the third or fourth round, and all your characters are still on the battleground.",
-				"vp": 30,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Use a flank attack to knock out an enemy.",
-				"initiative": 10,
-				"ap": 2,
-				"mp": 1,
-				"description": "Use a flank attack to knock out an enemy.",
-				"vp": 10,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "End activation with a Buff.",
-				"initiative": 5,
-				"ap": 3,
-				"mp": 2,
-				"description": "At the end of this activation of interruption, all your characters have a buff token.",
-				"vp": 10,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Use two ultimate skills during the round.",
-				"initiative": 9,
-				"ap": 2,
-				"mp": 2,
-				"description": "Use 2 different ultimate skills during this round.",
-				"vp": 20,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Knock out an enemy during the first round.",
-				"initiative": 1,
-				"ap": 3,
-				"mp": 2,
-				"description": "Knock out an enemy during the first round.",
-				"vp": 30,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "During an interruption, knock out an enemy.",
-				"initiative": 9,
-				"ap": 2,
-				"mp": 2,
-				"description": "During an interruption, knock out an enemy.",
-				"vp": 30,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "At the end of this activation or interruption, at least 3...",
-				"initiative": 7,
-				"ap": 3,
-				"mp": 1,
-				"description": "At the end of this activation or interruption, at least 3 characters have a Debuff.",
-				"vp": 10,
-				"alternativeBonus": "+1 AP",
-				"factions": [
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Knock out an enemy before anenemy knock out one of your characters.",
+				"name": "G01: Be first to Knock out an enemy",
+				"ID": "G1",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972253/g1_wfn2zk.jpg",
 				"initiative": 11,
 				"ap": 1,
 				"mp": 2,
-				"description": "Knock out an enemy before anenemy knock out one of your characters.",
+				"description": "Knock out an enemy before an enemy knock out one of your characters.",
 				"vp": 20,
 				"alternativeBonus": "+1 AP",
 				"factions": [
@@ -580,7 +327,9 @@
 				]
 			},
 			{
-				"name": "One of your characters ends move action in the enemy's deployment zone.",
+				"name": "G02: One of your characters ends move action in the enemy's deployment zone.",
+				"ID": "G2",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757971954/g2_mcwbqn.jpg",
 				"initiative": 2,
 				"ap": 3,
 				"mp": 0,
@@ -612,7 +361,9 @@
 				]
 			},
 			{
-				"name": "One of your characters knocks out a second enemy.",
+				"name": "G03: One of your characters knocks out a second enemy.",
+				"ID": "G3",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757971956/g3_qvrs7h.jpg",
 				"initiative": 4,
 				"ap": 3,
 				"mp": 1,
@@ -647,7 +398,9 @@
 				]
 			},
 			{
-				"name": "During a single activation or interruption, deal at least 3 Wounds.",
+				"name": "G04: Deal 3+ Wounds",
+				"ID": "G4",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757971960/g4_dxlihs.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 2,
@@ -682,7 +435,9 @@
 				]
 			},
 			{
-				"name": "During a single activation or interruption, use at least 5 Mana.",
+				"name": "G05: Use 5+ Mana",
+				"ID": "G5",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757971963/g5_yv2wym.jpg",
 				"initiative": 3,
 				"ap": 3,
 				"mp": 1,
@@ -717,7 +472,9 @@
 				]
 			},
 			{
-				"name": "Use a Melee weapon to knock out an enemy.",
+				"name": "G06: Use a Melee weapon to knock out an enemy.",
+				"ID": "G6",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972080/g6_ih8epc.jpg",
 				"initiative": 10,
 				"ap": 2,
 				"mp": 1,
@@ -752,7 +509,9 @@
 				]
 			},
 			{
-				"name": "Use a Ranged weapon to knock out an enemy.",
+				"name": "G07: Use a Ranged weapon to knock out an enemy.",
+				"ID": "G7",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972086/g7_evgroa.jpg",
 				"initiative": 10,
 				"ap": 2,
 				"mp": 1,
@@ -787,7 +546,9 @@
 				]
 			},
 			{
-				"name": "Use a Spell weapon to knock out an enemy.",
+				"name": "G08: Use a Spell weapon to knock out an enemy.",
+				"ID": "G8",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972083/g8_toji22.jpg",
 				"initiative": 10,
 				"ap": 2,
 				"mp": 1,
@@ -822,7 +583,9 @@
 				]
 			},
 			{
-				"name": "Make at least 3 attacks during a single activation or interruption.",
+				"name": "G09: Make at least 3 attacks during a single activation or interruption.",
+				"ID": "G9",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972089/g9_ffmaf8.jpg",
 				"initiative": 7,
 				"ap": 3,
 				"mp": 0,
@@ -857,17 +620,16 @@
 				]
 			},
 			{
-				"name": "Vehicle knocks out an enemy.",
-				"initiative": 10,
-				"ap": 2,
+				"name": "G10: At least 3 characters with a Debuff",
+				"ID": "G10",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972093/g10_tfsave.jpg",
+				"initiative": 7,
+				"ap": 3,
 				"mp": 1,
-				"description": "Your vehicle knocks out an enemy.",
-				"vp": 20,
+				"description": "At the end of this activation or interruption, at least 3 characters have a Debuff.",
+				"vp": 10,
 				"alternativeBonus": "+1 AP",
 				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
 					{
 						"name": "Masters of the Universe"
 					},
@@ -892,17 +654,16 @@
 				]
 			},
 			{
-				"name": "Endless knocks out an enemy.",
-				"initiative": 10,
+				"name": "G11: During an interruption, knock out an enemy.",
+				"ID": "G11",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972096/g11_pshzxd.jpg",
+				"initiative": 9,
 				"ap": 2,
-				"mp": 1,
-				"description": "Your character with any type of \"Endless\" skill knocks out an enemy.",
-				"vp": 20,
+				"mp": 2,
+				"description": "During an interruption, knock out an enemy.",
+				"vp": 30,
 				"alternativeBonus": "+1 AP",
 				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
 					{
 						"name": "Masters of the Universe"
 					},
@@ -927,7 +688,76 @@
 				]
 			},
 			{
-				"name": "Enemy attack knocks out this character",
+				"name": "G12: During this activation or interruption, at least 2 different characters..",
+				"ID": "G12",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972099/g12_xvjfum.jpg",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 3,
+				"description": "During this activation or interruption, at least 2 different characters receive at least 1 Wound.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}				]
+			},
+			{
+				"name": "G13: Knock out an enemy during the first round.",
+				"ID": "G13",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972103/g13_h4whst.jpg",
+				"initiative": 1,
+				"ap": 3,
+				"mp": 2,
+				"description": "Knock out an enemy during the first round.",
+				"vp": 30,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G14: Enemy attack knocks out this character",
+				"ID": "G14",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972105/g14_rdvaok.jpg",
 				"initiative": 11,
 				"ap": 1,
 				"mp": 2,
@@ -962,7 +792,9 @@
 				]
 			},
 			{
-				"name": "Claim objective during clean-up phase",
+				"name": "G15: Claim objective during clean-up phase",
+				"ID": "G15",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972108/g15_qrdgcn.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 2,
@@ -973,6 +805,488 @@
 					{
 						"name": "Fighting Foe Men"
 					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G16: All your characters alive in 3rd or 4th round...",
+				"ID": "G16",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972114/g16_b6dnc8.jpg",
+				"initiative": 9,
+				"ap": 2,
+				"mp": 2,
+				"description": "This is the third or fourth round, and all your characters are still on the battleground.",
+				"vp": 30,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G17: Use a flank attack to knock out an enemy.",
+				"ID": "G17",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972117/g17_sgqw4r.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Use a flank attack to knock out an enemy.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G18: Endless knocks out an enemy.",
+				"ID": "G18",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972145/g18_xs7rgl.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Your character with any type of \"Endless\" skill knocks out an enemy.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G19: Vehicle knocks out an enemy.",
+				"ID": "G19",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972148/g19_qffo3u.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Your vehicle knocks out an enemy.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G20: End activation with all characters with a Buff.",
+				"ID": "G20",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972151/g20_fz25th.jpg",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 2,
+				"description": "At the end of this activation of interruption, all your characters have a buff token.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G21: Use two ultimate skills during the round.",
+				"ID": "G21",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972154/g21_xuzctw.jpg",
+				"initiative": 9,
+				"ap": 2,
+				"mp": 2,
+				"description": "Use 2 different ultimate skills during this round.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G22: Knock out an enemy in their Deployment zone",
+				"ID": "G22",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972157/g22_zpndvs.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Knock out an enemy in their deployment zone.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G23: Knock out an enemy in Round 4",
+				"ID": "G23",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972159/g23_tyvl42.jpg",
+				"initiative": 4,
+				"ap": 3,
+				"mp": 2,
+				"description": "Knock out an enemy during the fourth Round.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G24: Use a Skill to Knock out an enemy",
+				"ID": "G24",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972200/g24_c2yhlv.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "Use a skill to Knock out an enemy.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G25: Knock out an enemy at min 8\"",
+				"ID": "G25",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972204/g25_ct9cnr.jpg",
+				"initiative": 7,
+				"ap": 3,
+				"mp": 0,
+				"description": "Knock out an enemy that is at least 8\" from any of your characters.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G26: Knock out an enemy at 1 HP",
+				"ID": "G26",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972206/g26_mnvn0w.jpg",
+				"initiative": 11,
+				"ap": 1,
+				"mp": 2,
+				"description": "Knock out an enemy while your character is 1 Wound away from being knocked out.",
+				"vp": 30,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G27: 12 Wounds in play",
+				"ID": "G27",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972250/g27_qnev2i.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 1,
+				"description": "At the end of this activation phase, there are at least 12 Wounds in play.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G28: 3 allies engaged in Melee",
+				"ID": "G28",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972244/g28_cwpgaq.jpg",
+				"initiative": 3,
+				"ap": 3,
+				"mp": 2,
+				"description": "At the end of this round, you have at least 3 characters engaged in Melee.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G29: 2 allies in enemy Deployment zone",
+				"ID": "G29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757972247/g29_zy895r.jpg",
+				"initiative": 1,
+				"ap": 3,
+				"mp": 1,
+				"description": "At the end of this round, you have at least 2 characters in enemy Deployment zone.",
+				"vp": 20,
+				"alternativeBonus": "+1 AP",
+				"factions": [
 					{
 						"name": "Masters of the Universe"
 					},
