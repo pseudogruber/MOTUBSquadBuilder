@@ -1006,6 +1006,32 @@
 				"ap": 2,
 				"mana": 0,
 				"description": "Gain 1 Mana for each Wound on this character (to maximum of 4)."
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
 			},
 			{
 				"name": "F02: Active skills cost -1 Action",
