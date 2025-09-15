@@ -3042,73 +3042,8 @@
 				]
 			},
 			{
-				"name": "During interruption, +1 to the scope of attacks.",
-				"initiative": 7,
-				"ap": 2,
-				"mp": 2,
-				"description": "During this interruption, add +1 to the scope of all attacks.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Use ative skills twice.",
-				"initiative": 8,
-				"ap": 2,
-				"mp": 1,
-				"description": "During this activation, active skills can be used twice.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "No other characters within 6\", gain 1 AP and 1 Mana.",
+				"name": "F69: No characters within 6\", gain 1 AP and 1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963772/f69_qgjffk.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 1,
@@ -3141,11 +3076,12 @@
 				]
 			},
 			{
-				"name": "+3 Mana. After activation or interruption, loose all Mana.",
-				"initiative": 2,
-				"ap": 1,
-				"mp": 4,
-				"description": "+3 Mana. At the end of this activation or interruption, this character loses all Mana.",
+				"name": "F70: Active skills can be used twice.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963777/f70_qclnxk.jpg",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 1,
+				"description": "During this activation, active skills can be used twice.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -3174,7 +3110,42 @@
 				]
 			},
 			{
-				"name": "Draw a fate card after every flank attack.",
+				"name": "F71: During interruption, +1 to the scope of attacks.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965201/f71_hlv3i0.jpg",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 2,
+				"description": "During this interruption, add +1 to the scope of all attacks.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F72: Draw a fate card after every flank attack.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965217/f72_wkjwhc.jpg",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 0,
@@ -3207,11 +3178,46 @@
 				]
 			},
 			{
-				"name": "Have at least 3 Wounds, gain 1 AP, Enhancement, Knockdown",
+				"name": "F73: 3+ Wounds, gain 1 AP, Enhancement, Knockdown",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965209/f73_j9vkdv.jpg",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 2,
 				"description": "If this character has at least 3 Wounds, gain 1 AP, an Enhancement Buff, and a Knockdown Debuff.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F74: +3 Mana. After activation or interruption, loose all Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965203/f74_lbbipv.jpg",
+				"initiative": 2,
+				"ap": 1,
+				"mp": 4,
+				"description": "+3 Mana. At the end of this activation or interruption, this character loses all Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
