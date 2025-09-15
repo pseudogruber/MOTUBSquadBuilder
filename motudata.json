@@ -2634,106 +2634,8 @@
 				]
 			},
 			{
-				"name": "During activation or interruption, for 3+ Successes, gain a Focus",
-				"initiative": 3,
-				"ap": 2,
-				"mp": 2,
-				"description": "During this activation or interruption, if this character's skill test results in 3 or more Successes, gain a Focus.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Set this character's Mana to 3.",
-				"initiative": 7,
-				"ap": 2,
-				"mp": 0,
-				"description": "Set this character's Mana to 3.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "During activation or interruption, +1 to the scope of skill tests.",
-				"initiative": 9,
-				"ap": 1,
-				"mp": 2,
-				"description": "During this activation or interruption, add +1 to the scope of skill tests.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Gain 1 Wound, 1 AP, and 1 Mana.",
+				"name": "F49: Gain 1 Wound, 1 AP, and 1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963742/f49_o8qvim.jpg",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 0,
@@ -2766,7 +2668,8 @@
 				]
 			},
 			{
-				"name": "If 3+ Wounds, gain free move action.",
+				"name": "F50: If 3+ Wounds, gain free move action.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963733/f50_glz5ni.jpg",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 1,
@@ -2799,7 +2702,8 @@
 				]
 			},
 			{
-				"name": "If Debuffed, +1 Die for all tests.",
+				"name": "F51: Until EOR, If Debuffed, +1 Die for all tests.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963734/f51_p0pagl.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -2832,110 +2736,12 @@
 				]
 			},
 			{
-				"name": "If Buffed, +1 AP and +1 Mana.",
-				"initiative": 6,
-				"ap": 2,
-				"mp": 1,
-				"description": "If this character has a Buff, gain 1 AP and 1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "After activation, trade Mana for Overwatch and Focus.",
-				"initiative": 10,
-				"ap": 1,
-				"mp": 1,
-				"description": "At the end of this activation, remove all Mana from this character, and gain an Overwatch and a Focus.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "During interruption move in any direction",
+				"name": "F52: Set this character's Mana to 3.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963737/f52_mdaepm.jpg",
 				"initiative": 7,
 				"ap": 2,
-				"mp": 2,
-				"description": "If this card is played during an interruption when performing a move action, this character can move in any direction.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Immunity to pushed of pulled.",
-				"initiative": 5,
-				"ap": 3,
 				"mp": 0,
-				"description": "Until the end of the round, this character cannot be pushed of pulled.",
+				"description": "Set this character's Mana to 3.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -2964,7 +2770,110 @@
 				]
 			},
 			{
-				"name": "Gain 1 Wound, free Melee attack.",
+				"name": "F53: +1 to the scope of skill tests.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963740/f53_jicx8l.jpg",
+				"initiative": 9,
+				"ap": 1,
+				"mp": 2,
+				"description": "During this activation or interruption, add +1 to the scope of skill tests.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F54: For 3+ Successes, gain a Focus",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963744/f54_mjecin.jpg",
+				"initiative": 3,
+				"ap": 2,
+				"mp": 2,
+				"description": "During this activation or interruption, if this character's skill test results in 3 or more Successes, gain a Focus.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F55: If Debuffed, gain 1 AP and 1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963747/f55_tcknlq.jpg",
+				"initiative": 1,
+				"ap": 2,
+				"mp": 2,
+				"description": "If this character has a Debuff, gain 1 AP and 1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F56: Gain 1 Wound, free Melee attack with -1 Die.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963779/f56_rzen2i.jpg",
 				"initiative": 3,
 				"ap": 2,
 				"mp": 1,
@@ -2997,11 +2906,114 @@
 				]
 			},
 			{
-				"name": "If Debuffed, gain 1 AP and 1 Mana.",
-				"initiative": 1,
+				"name": "F57: Until EOR, Cannot be pushed of pulled.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963749/f57_dwkyny.jpg",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 0,
+				"description": "Until the end of the round, this character cannot be pushed of pulled.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F58: If Buffed, +1 AP and +1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963753/f58_y9wxtl.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 1,
+				"description": "If this character has a Buff, gain 1 AP and 1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F59: After activation, remove Mana, gain Overwatch and Focus.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963757/f59_ky66il.jpg",
+				"initiative": 10,
+				"ap": 1,
+				"mp": 1,
+				"description": "At the end of this activation, remove all Mana from this character, and gain an Overwatch and a Focus.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F60: During interruption move in any direction",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963759/f60_yukmdc.jpg",
+				"initiative": 7,
 				"ap": 2,
 				"mp": 2,
-				"description": "If this character has a Debuff, gain 1 AP and 1 Mana.",
+				"description": "If this card is played during an interruption when performing a move action, this character can move in any direction.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
