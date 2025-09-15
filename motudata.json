@@ -1005,7 +1005,7 @@
 				"initiative": 1,
 				"ap": 2,
 				"mana": 0,
-				"description": "Gain 1 Mana for each Wound on this character (to maximum of 4)."
+				"description": "Gain 1 Mana for each Wound on this character (to maximum of 4).",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
