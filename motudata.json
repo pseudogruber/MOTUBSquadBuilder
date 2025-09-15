@@ -3798,7 +3798,987 @@
 						"name": "Fighting Foe Men"
 					}
 				]
-			}
+			},
+			{
+				"name": "F91: Gain 1 Mana for each Mark",
+				"ID": "F91",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966202/f91_exiie4.jpg",
+				"initiative": 3,
+				"ap": 2,
+				"mp": 2,
+				"description": "Gain 1 Mana for each Mark (to a maximum of 3).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F92: Draw 1 Fate card for each Mark",
+				"ID": "F92",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966194/f92_tnwr1j.jpg",
+				"initiative": 9,
+				"ap": 1,
+				"mp": 2,
+				"description": "Draw 1 Fate card for each Mark (to a maximum of 2).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F93: Move every Mark up to 4",
+				"ID": "F93",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966147/f93_vbivvu.jpg",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 1,
+				"description": "Move every Mark up to 4 Hexes.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F94: Remove a Mark within 12",
+				"ID": "F94",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966132/f94_vhld8u.jpg",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 1,
+				"description": "Remove a Mark within 12\".\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F95: Trigger: After enemy uses Active skill, Interrupt",
+				"ID": "F95",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966145/f95_ppywby.jpg",
+				"initiative": 4,
+				"ap": 2,
+				"mp": 2,
+				"description": "Trigger: You may discard this card after an enemy uses an active skill. Your character within 12\" interrupts the current activation or interruption.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F96: Trigger: After enemy engages, Interrupt",
+				"ID": "F96",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966150/f96_rt6f6j.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 2,
+				"description": "Trigger: You may discard this card after an enemy ends a move action on a hex adjacent to one of your characters. This character interrupts current activation or interruption.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F97: Trigger: Knockout a character, Interrupt with other character",
+				"ID": "F97",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966142/f97_xhtn93.jpg",
+				"initiative": 2,
+				"ap": 3,
+				"mp": 1,
+				"description": "Trigger: You may discard this card after your character's attack knockout any character. Your other character interrupts current activation or interruption.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F98: Trigger: Target of ranged attack, Interrupts",
+				"ID": "F98",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966135/f98_guqskl.jpg",
+				"initiative": 10,
+				"ap": 1,
+				"mp": 2,
+				"description": "Trigger: You may discard this card after the enemy attacks one of your characters from 6\" or farther. The attacked character interrupts the current activation or interruption.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F99: Enemy looses 2 Mana",
+				"ID": "F99",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966173/f99_xgar6n.jpg",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 2,
+				"description": "After this card is discarded, choose any enemy. The enemy looses 2 Mana.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F100: Enemy looses a Buff",
+				"ID": "F100",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966183/f100_a1btuk.jpg",
+				"initiative": 4,
+				"ap": 3,
+				"mp": 1,
+				"description": "After this card is discarded, choose any enemy. The enemy looses a Buff.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F101: Gain 1 Mana for each ally with a Focus",
+				"ID": "F101",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966181/f101_o6xoqu.jpg",
+				"initiative": 9,
+				"ap": 2,
+				"mp": 0,
+				"description": "Gain 1 Mana for each ally with a Focus (to a maximum of 3).",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F102: if debuffed, free 3-hex Move",
+				"ID": "F102",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966186/f102_ygbuc1.jpg",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 0,
+				"description": "If this character has a Debuff, perform a free 3-hex move action.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F103: if debuffed, enemy gains Debuff",
+				"ID": "F103",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966200/f103_hcw2hh.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 3,
+				"description": "If this character has a regular Debuff, an enemy within 12\" gains the same Debuff.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F104: loose Focus, ally gains Focus",
+				"ID": "F104",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966227/f104_xjvzwl.jpg",
+				"initiative": 2,
+				"ap": 3,
+				"mp": 0,
+				"description": "If this character has a Focus, it looses a Focus and an ally within 12\" gains Focus.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F105: no Wounds from Fate cards or Trinkets",
+				"ID": "F105",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966197/f105_vaswsg.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 2,
+				"description": "During this activation or interruption, this character does not receive Wounds from Fate Cards or Trinkets.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F106: Attack gains +1 per 4 Wounds in play",
+				"ID": "F106",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966210/f106_uskjar.jpg",
+				"initiative": 4,
+				"ap": 2,
+				"mp": 2,
+				"description": "Next attack during this activation or interruption gains +1 Die for every 4 Wounds in play (to a maximum of 3).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F107: Do not perform action, ignore 1 Wound until EOR",
+				"ID": "F107",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966223/f107_yyl8qc.jpg",
+				"initiative": 10,
+				"ap": 0,
+				"mp": 2,
+				"description": "Until the end of the round, if this character did not perform any action during this round, they can ignore 1 Wound from all sources.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F108: Transfer 1 Wound from ally within 12",
+				"ID": "F108",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966243/f108_fwndbi.jpg",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 0,
+				"description": "Choose an ally within 12\". Remove 1 Wound from target, and put 1 Wound on this character.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F109: attack ignores 1 Toughness",
+				"ID": "F109",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966245/f109_rl1ock.jpg",
+				"initiative": 3,
+				"ap": 2,
+				"mp": 2,
+				"description": "Next attack during this activation or interruption ignores 1 Toughness.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F110: attack ignores 1 Mind",
+				"ID": "F110",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966280/f110_i7wgk9.jpg",
+				"initiative": 3,
+				"ap": 2,
+				"mp": 2,
+				"description": "Next attack during this activation or interruption ignores 1 Mind.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F111: Trigger: when attacked, transfer 1 Wound to ally",
+				"ID": "F111",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966271/f111_ok4wan.jpg",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 1,
+				"description": "Trigger: You may discard this card after your character is attacked. You can transfer 1 Wound from this attack to an ally within 12\".\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F112: Trigger: when attacked, defense Scope +1",
+				"ID": "F112",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966247/f112_o3ojgk.jpg",
+				"initiative": 5,
+				"ap": 2,
+				"mp": 1,
+				"description": "Trigger: You may discard this card after your character is about to be attacked. This character Scope of defense test is increased by 1.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F113: Loose initiative, gain1 AP and 1 MP",
+				"ID": "F113",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966268/f113_kjedez.jpg",
+				"initiative": 5,
+				"ap": 2,
+				"mp": 2,
+				"description": "If you start this turn with this card, and you loose initiative, gain 1 Action and 1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F114: Win initiative, gain1 AP and 1 MP",
+				"ID": "F114",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966265/f114_or77hy.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 2,
+				"description": "If you start this turn with this card, and you win initiative, gain 1 Action and 1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F115: +1 MP for every Item",
+				"ID": "F115",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966273/f115_jbfqfx.jpg",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 0,
+				"description": "Gain 1 Mana for every Item on this character (to a maximum of 3).",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F116: Trigger: when attacked, +2 on defence",
+				"ID": "F116",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966276/f116_jwd262.jpg",
+				"initiative": 1,
+				"ap": 2,
+				"mp": 1,
+				"description": "Trigger: You may discard this card when an enemy is about to attack one of your characters. Your character gains +2 Dice to the defence test.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F117: Trigger: cannot be pushed or pulled",
+				"ID": "F117",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966284/f117_oyy1rp.jpg",
+				"initiative": 3,
+				"ap": 3,
+				"mp": 0,
+				"description": "Trigger: You may discard this card when your character is about to be pushed or pulled. Your character can't be pushed or pulled.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F118: Trigger: do not receive a Debuff",
+				"ID": "F118",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966287/f118_cczxhp.jpg",
+				"initiative": 9,
+				"ap": 2,
+				"mp": 0,
+				"description": "Trigger: You may discard this card when your character is about to receive a Debuff. Your character doesn't receive that Debuff.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
 		],
 		"upgrades": [
 			{
