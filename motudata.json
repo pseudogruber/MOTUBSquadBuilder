@@ -999,41 +999,17 @@
 		],
 		"fatecards": [
 			{
-				"name": "F1: +1 Mana for each Wound",
+				"name": "F01: +1 Mana for each Wound",
+				"ID": "F1",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f1_y9kvcj.jpg",
 				"initiative": 1,
 				"ap": 2,
 				"mana": 0,
-				"description": "Gain 1 Mana for each Wound on this character (to maximum of 4).",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
+				"description": "Gain 1 Mana for each Wound on this character (to maximum of 4)."
 			},
 			{
-				"name": "F2: Active skills cost -1 Action",
+				"name": "F02: Active skills cost -1 Action",
+				"ID": "F2",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f2_zdcmdf.jpg",
 				"initiative": 1,
 				"ap": 1,
@@ -1067,7 +1043,8 @@
 				]
 			},
 			{
-				"name": "F3: +1 Mana for each character with Debuff",
+				"name": "F03: +1 Mana for each character with Debuff",
+				"ID": "F3",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405623/f3_ej0pin.jpg",
 				"initiative": 1,
 				"ap": 1,
@@ -1101,7 +1078,8 @@
 				]
 			},
 			{
-				"name": "F4: Deal 2+ Wounds, gain 1 Action and 1 Mana",
+				"name": "F04: Deal 2+ Wounds, gain 1 Action and 1 Mana",
+				"ID": "F4",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f4_qpflks.jpg",
 				"initiative": 1,
 				"ap": 2,
@@ -1135,7 +1113,8 @@
 				]
 			},
 			{
-				"name": "F5: +1 Action for each character with Debuff",
+				"name": "F05: +1 Action for each character with Debuff",
+				"ID": "F5",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f5_qnsjtp.jpg",
 				"initiative": 1,
 				"ap": 1,
@@ -1169,7 +1148,8 @@
 				]
 			},
 			{
-				"name": "F6: Free 2 hex move",
+				"name": "F06: Free 2 hex move",
+				"ID": "F6",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f6_ohvsui.jpg",
 				"initiative": 1,
 				"ap": 1,
@@ -1203,7 +1183,8 @@
 				]
 			},
 			{
-				"name": "F7: +1 Die and -1 Wound to all attacks",
+				"name": "F07: +1 Die and -1 Wound to all attacks",
+				"ID": "F7",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f7_pxl74w.jpg",
 				"initiative": 2,
 				"ap": 2,
@@ -1237,7 +1218,8 @@
 				]
 			},
 			{
-				"name": "F8: Spell attacks +1 Die for every 2 Mana in possession.",
+				"name": "F08: Spell attacks +1 Die for every 2 Mana in possession.",
+				"ID": "F8",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f8_tic9v2.jpg",
 				"initiative": 2,
 				"ap": 2,
@@ -1271,7 +1253,8 @@
 				]
 			},
 			{
-				"name": "F9: If Focused, gain 2 Mana.",
+				"name": "F09: If Focused, gain 2 Mana.",
+				"ID": "F9",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f9_t44wck.jpg",
 				"initiative": 2,
 				"ap": 2,
@@ -1309,6 +1292,7 @@
 			},
 			{
 				"name": "F10: After activation, have 3+ Mana to draw Fate card from discard",
+				"ID": "F10",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f10_n2btoi.jpg",
 				"initiative": 2,
 				"ap": 2,
