@@ -999,7 +999,8 @@
 		],
 		"fatecards": [
 			{
-				"name": "+1 Mana for each Wound",
+				"name": "F1: +1 Mana for each Wound",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f1_y9kvcj.jpg",
 				"initiative": 1,
 				"ap": 2,
 				"mana": 0,
