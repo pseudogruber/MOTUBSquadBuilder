@@ -1033,7 +1033,8 @@
 				]
 			},
 			{
-				"name": "Active skills cost -1 Action.",
+				"name": "F2: Active skills cost -1 Action.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f2_zdcmdf.jpg",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
@@ -1066,7 +1067,8 @@
 				]
 			},
 			{
-				"name": "+1 Mana for each character with Debuff",
+				"name": "F3: +1 Mana for each character with Debuff",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756405623/f3_ej0pin.jpg",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
@@ -1099,7 +1101,8 @@
 				]
 			},
 			{
-				"name": "Deal 2+ Wounds, gain 1 Action and 1 Mana.",
+				"name": "F4: Deal 2+ Wounds, gain 1 Action and 1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f4_qpflks.jpg",
 				"initiative": 1,
 				"ap": 2,
 				"mana": 2,
@@ -1132,7 +1135,8 @@
 				]
 			},
 			{
-				"name": "+1 Action for each character with Debuff",
+				"name": "F5: +1 Action for each character with Debuff",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f5_qnsjtp.jpg",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
@@ -1165,7 +1169,8 @@
 				]
 			},
 			{
-				"name": "Free 2 hex move.",
+				"name": "F6: Free 2 hex move.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f6_ohvsui.jpg",
 				"initiative": 1,
 				"ap": 1,
 				"mana": 2,
@@ -1198,7 +1203,8 @@
 				]
 			},
 			{
-				"name": "+1 Die and -1 Wound to all attacks",
+				"name": "F7: +1 Die and -1 Wound to all attacks",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f7_pxl74w.jpg",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 2,
@@ -1231,7 +1237,8 @@
 				]
 			},
 			{
-				"name": "Spell attacks +1 Die for every 2 Mana in possession.",
+				"name": "F8: Spell attacks +1 Die for every 2 Mana in possession.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f8_tic9v2.jpg",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 0,
@@ -1264,7 +1271,8 @@
 				]
 			},
 			{
-				"name": "If Focused, gain 2 Mana.",
+				"name": "F9: If Focused, gain 2 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f9_t44wck.jpg",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 2,
@@ -1300,7 +1308,8 @@
 				]
 			},
 			{
-				"name": "After activation, have 3+ Mana to draw Fate card from discard",
+				"name": "F10: After activation, have 3+ Mana to draw Fate card from discard",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f10_n2btoi.jpg",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 1,
@@ -1333,7 +1342,8 @@
 				]
 			},
 			{
-				"name": "+1 Action",
+				"name": "F11: +1 Action",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958981/f11_rn5qwr.jpg",
 				"initiative": 2,
 				"ap": 2,
 				"mana": 0,
@@ -1366,7 +1376,8 @@
 				]
 			},
 			{
-				"name": "Spend Mana to Reroll Extra Die",
+				"name": "F12: Spend Mana to Reroll Extra Die",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f12_yk1pn4.jpg",
 				"initiative": 3,
 				"ap": 2,
 				"mana": 2,
@@ -1399,7 +1410,8 @@
 				]
 			},
 			{
-				"name": "Discard a fate card, gain 1 Action and 1 Mana",
+				"name": "F13: Discard a fate card, gain 1 Action and 1 Mana",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959638/f13_yb5tn7.jpg",
 				"initiative": 3,
 				"ap": 2,
 				"mana": 1,
@@ -1432,7 +1444,8 @@
 				]
 			},
 			{
-				"name": "+1 Die to skill tests",
+				"name": "F14: +1 Die to skill tests",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f14_wduckg.jpg",
 				"initiative": 4,
 				"ap": 2,
 				"mana": 3,
@@ -1465,7 +1478,8 @@
 				]
 			},
 			{
-				"name": "3+ Successes on attack, gain Focus.",
+				"name": "F15: 3+ Successes on attack, gain Focus.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958970/f15_gja1sm.jpg",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 0,
@@ -1498,7 +1512,8 @@
 				]
 			},
 			{
-				"name": "3+ Successes on attack, draw Fate card.",
+				"name": "F16: 3+ Successes on attack, draw Fate card.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f16_qa7xyh.jpg",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 1,
@@ -1531,7 +1546,8 @@
 				]
 			},
 			{
-				"name": "Have 3+ Mana, draw a Fate card.",
+				"name": "F17: Have 3+ Mana, draw a Fate card.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959018/f17_sl0att.jpg",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 0,
@@ -1564,7 +1580,8 @@
 				]
 			},
 			{
-				"name": "+1 Die to defence tests Until EOR",
+				"name": "F18: +1 Die to defence tests Until EOR",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f18_hnkg7c.jpg",
 				"initiative": 4,
 				"ap": 2,
 				"mana": 1,
@@ -1597,7 +1614,8 @@
 				]
 			},
 			{
-				"name": "Spell weapons cost 1 Action less",
+				"name": "F19: Spell weapons cost 1 Action less",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f19_pfrhv3.jpg",
 				"initiative": 4,
 				"ap": 2,
 				"mana": 2,
@@ -1630,7 +1648,8 @@
 				]
 			},
 			{
-				"name": "Remove all Mana, gain 1 Action per 2 Mana",
+				"name": "F20: Remove all Mana, gain 1 Action per 2 Mana",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f20_fbyptz.jpg",
 				"initiative": 5,
 				"ap": 2,
 				"mana": 0,
@@ -1663,7 +1682,8 @@
 				]
 			},
 			{
-				"name": "Cannot perform Focus",
+				"name": "F21: Cannot perform Focus",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f21_vgah2x.jpg",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 2,
@@ -1696,7 +1716,8 @@
 				]
 			},
 			{
-				"name": "-1 Die for all attack tests.",
+				"name": "F22: -1 Die for all attack tests.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f22_tbcarj.jpg",
 				"initiative": 5,
 				"ap": 4,
 				"mp": 0,
@@ -1729,7 +1750,41 @@
 				]
 			},
 			{
-				"name": "Discard Fate card to draw Fate card.",
+				"name": "F23: +1 AP or +1 MP",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f22_tbcarj.jpg",
+				"initiative": 5,
+				"ap": 2,
+				"mp": 1,
+				"description": "+1 Action or +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			{
+				"name": "F24: Discard Fate card to draw Fate card.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f24_gwlmze.jpg",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
@@ -1762,7 +1817,8 @@
 				]
 			},
 			{
-				"name": "Focus costs 1 Action less",
+				"name": "F25: Focus costs 1 Action less",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959643/f25_q9yjzg.jpg",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
@@ -1795,7 +1851,8 @@
 				]
 			},
 			{
-				"name": "Deal +1 Wound for 5+ Successes on attacks",
+				"name": "F26: Deal +1 Wound for 5+ Successes on attacks",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959640/f26_t5mxpl.jpg",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
@@ -1828,7 +1885,8 @@
 				]
 			},
 			{
-				"name": "Gain 1 Mana for 2+ Successes on attacks",
+				"name": "F27: Gain 1 Mana for 2+ Successes on attacks",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959646/f27_qdqbeh.jpg",
 				"initiative": 6,
 				"ap": 3,
 				"mp": 0,
@@ -1861,7 +1919,8 @@
 				]
 			},
 			{
-				"name": "After activation or interruption, gain Overwatch.",
+				"name": "F28: After activation or interruption, gain Overwatch.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959643/f28_eza0yz.jpg",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
@@ -1894,7 +1953,8 @@
 				]
 			},
 			{
-				"name": "After activation or interruption, gain a Focus.",
+				"name": "F29: After activation or interruption, gain a Focus.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959644/f29_uvos7c.jpg",
 				"initiative": 6,
 				"ap": 2,
 				"mp": 1,
@@ -1927,7 +1987,8 @@
 				]
 			},
 			{
-				"name": "+1 Die for attacks on Debuffed",
+				"name": "F30: +1 Die for attacks on Debuffed",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959643/f30_oxmmou.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 2,
@@ -1960,7 +2021,8 @@
 				]
 			},
 			{
-				"name": "Melee attacks cost -1 Action",
+				"name": "F31: Melee attacks cost -1 Action",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959644/f31_cl9x3l.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
@@ -1993,7 +2055,8 @@
 				]
 			},
 			{
-				"name": "Ranged attacks cost -1 Action",
+				"name": "F32: Ranged attacks cost -1 Action",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959647/f32_h7rmcf.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
@@ -2026,7 +2089,8 @@
 				]
 			},
 			{
-				"name": "+2 Mana",
+				"name": "F33: +2 Mana",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959647/f33_jpcwsw.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 0,
@@ -2059,7 +2123,8 @@
 				]
 			},
 			{
-				"name": "If Engaged, draw fate card from discard",
+				"name": "F32: If Engaged, draw fate card from discard",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959648/f34_de7x3i.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mp": 1,
@@ -2092,7 +2157,8 @@
 				]
 			},
 			{
-				"name": "If Focused, +1 Action +1 Mana.",
+				"name": "F35: If Focused, +1 Action +1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959651/f35_onvoor.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -2126,6 +2192,7 @@
 			},
 			{
 				"name": "Remove a Debuff.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959648/f36_fpk6em.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 2,
@@ -2158,7 +2225,8 @@
 				]
 			},
 			{
-				"name": "Until EOR, +1 Die for attacks and skill tests +1 during interruptions.",
+				"name": "F37: Until EOR, +1 Die for attacks and skill tests +1 during interruptions.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959652/f37_faexe4.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -2191,7 +2259,8 @@
 				]
 			},
 			{
-				"name": "Have 4+ Mana, gain 1 Action and 1 Mana.",
+				"name": "F38: Have 4+ Mana, gain 1 Action and 1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959651/f38_moz7uy.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 0,
@@ -2224,7 +2293,8 @@
 				]
 			},
 			{
-				"name": "Gain +1 Action for 4 Successes on attacks.",
+				"name": "F39: Gain +1 Action for 4 Successes on attacks.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959655/f39_njgkze.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 1,
@@ -2257,7 +2327,8 @@
 				]
 			},
 			{
-				"name": "Immunity to interruption.",
+				"name": "F40: Cannot be interrupted.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959655/f40_yht5sx.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 0,
@@ -2290,7 +2361,8 @@
 				]
 			},
 			{
-				"name": "After activation or interruption, +2 Mana.",
+				"name": "F41: After activation or interruption, +2 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959651/f41_bu3quw.jpg",
 				"initiative": 9,
 				"ap": 2,
 				"mp": 1,
@@ -2323,7 +2395,8 @@
 				]
 			},
 			{
-				"name": "During interruption, +1 Action and +1 Mana.",
+				"name": "F42: During interruption, +1 Action and +1 Mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959654/f42_lngi05.jpg",
 				"initiative": 9,
 				"ap": 2,
 				"mp": 1,
@@ -2356,7 +2429,8 @@
 				]
 			},
 			{
-				"name": "Gain a Focus.",
+				"name": "F43: Gain a Focus.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959652/f43_dxcgfw.jpg",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 2,
@@ -2389,7 +2463,8 @@
 				]
 			},
 			{
-				"name": "During activation or interruption, Spell attacks +1 Scope.",
+				"name": "F44: Spell attacks +1 Scope.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959660/f44_zdvb49.jpg",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 1,
@@ -2422,7 +2497,8 @@
 				]
 			},
 			{
-				"name": "During activation or interruption, Melee attacks +1 Scope.",
+				"name": "F45: Melee attacks +1 Scope.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959656/f45_mkmkdm.jpg",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 1,
@@ -2455,7 +2531,8 @@
 				]
 			},
 			{
-				"name": "During activation or interruption, Ranged attacks +1 Scope.",
+				"name": "F46: Ranged attacks +1 Scope.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959656/f46_p0wxbb.jpg",
 				"initiative": 9,
 				"ap": 1,
 				"mp": 1,
@@ -2488,7 +2565,8 @@
 				]
 			},
 			{
-				"name": "During activation or interruption, attacks gain +1 Die.",
+				"name": "F47: Attacks gain +1 Die.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959657/f47_frcmns.jpg",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 1,
@@ -2521,7 +2599,8 @@
 				]
 			},
 			{
-				"name": "During interruption, free Move action.",
+				"name": "F48: During interruption, free Move action.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959661/f48_njjmiw.jpg",
 				"initiative": 10,
 				"ap": 1,
 				"mp": 2,
