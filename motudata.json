@@ -3246,436 +3246,8 @@
 				]
 			},
 			{
-				"name": "She-Ra's ultimate skill",
-				"initiative": 8,
-				"ap": 2,
-				"mp": 2,
-				"description": "She-Ra's ultimate skill: She-Ra gains a She-ra token. When She-Ra has a She-ra token, she and all her allies within 8\" receive +1 die for all defence tests.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Bow's ultimate skill",
-				"initiative": 7,
-				"ap": 2,
-				"mp": 2,
-				"description": "Bow's ultimate skill: remove up to 3 buffs from allies. Draw a random card from your discard file for every buff removed.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Glimmer's ultimate skill",
-				"initiative": 10,
-				"ap": 1,
-				"mp": 1,
-				"description": "Glimmer's ultimate skill: choose any ally within 12\", Glimmer is teleported to a hex adjacent to that ally.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Castaspella's ultimate skill",
-				"initiative": 6,
-				"ap": 2,
-				"mp": 3,
-				"description": "Castaspella's ultimate skill: all allies withat least 3 Mana gain a Focus.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Frosta's ultimate skill",
-				"initiative": 4,
-				"ap": 3,
-				"mp": 1,
-				"description": "Frosta's ultimate skill: if this card is played during an interruption, gain 2 Action points.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Angela's ultimate skill",
-				"initiative": 1,
-				"ap": 3,
-				"mp": 0,
-				"description": "Angella's ultimate skill: choose an activated ally within 16\" with a buff token. Remove the buff token from that ally, then become ready.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Remove Buff, gain a Focus and 2 mana.",
-				"initiative": 6,
-				"ap": 2,
-				"mp": 1,
-				"description": "If this character has a Buff token, remove it to gain a Focus and 2 Mana.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Keep Buffs or Debuffs at EOR.",
-				"initiative": 5,
-				"ap": 3,
-				"mp": 1,
-				"description": "At the end of this round, the character does not lose their Buffs or Debuffs.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Gain 1 Mana for each ally with a Buff",
-				"initiative": 1,
-				"ap": 2,
-				"mp": 0,
-				"description": "Gain 1 mana for each ally with a Buff (to a maximum of 3).\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "-1 Die for defence tests until Round end",
-				"initiative": 10,
-				"ap": 2,
-				"mp": 0,
-				"description": "Until then end of the round, this character loses 1 Die for all defence tests.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "+1 Heavy Weapon scope during activation",
-				"initiative": 9,
-				"ap": 1,
-				"mp": 1,
-				"description": "During this activation or interruption, add +1 to the scope of Heavy Weapon Attacks.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Vehicle gets free 4-hex move action",
-				"initiative": 2,
-				"ap": 2,
-				"mp": 1,
-				"description": "If this character is a vehicle, make a free 4-hex move action.\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Heavy Weapon Attacks -1 Action during activation",
-				"initiative": 7,
-				"ap": 2,
-				"mp": 0,
-				"description": "During this activation or interruption, Heavy Weapon Attacks cost 1 Action less (to a minimum of 1).\n          OR +1 Mana.",
-				"factions": [
-					{
-						"name": "Fighting Foe Men"
-					},
-					{
-						"name": "Evil Horde"
-					},
-					{
-						"name": "Evil Warriors"
-					},
-					{
-						"name": "Masters of the Universe"
-					},
-					{
-						"name": "The Great Rebellion"
-					},
-					{
-						"name": "Snake Men"
-					},
-					{
-						"name": "Preternian Heroes"
-					},
-					{
-						"name": "Fighting Foe Men"
-					}
-				]
-			},
-			{
-				"name": "Discard fate card for a Buff",
+				"name": "F75: Discard fate card for a Buff",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965212/f75_w2f2kq.jpg",
 				"initiative": 3,
 				"ap": 1,
 				"mp": 2,
@@ -3708,7 +3280,8 @@
 				]
 			},
 			{
-				"name": "After discard, remove a Debuff from any character",
+				"name": "F76: After discard, remove a Debuff from any character",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965215/f76_p0avd8.jpg",
 				"initiative": 5,
 				"ap": 3,
 				"mp": 1,
@@ -3741,11 +3314,454 @@
 				]
 			},
 			{
-				"name": "\"Endless\" get 1 Action and 1 Mana",
+				"name": "F77: \"Endless\" get 1 Action and 1 Mana",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965197/f77_e36grw.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mp": 2,
 				"description": "If this character has any type of \"Endless\" skill, gain 1 Action and 1 Mana.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F78: +1 Heavy Weapon Scope",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965196/f78_cyz9cy.jpg",
+				"initiative": 9,
+				"ap": 1,
+				"mp": 1,
+				"description": "During this activation or interruption, add +1 to the scope of Heavy Weapon Attacks.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F79: Vehicle gets free 4-hex move action",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965208/f79_amvkzk.jpg",
+				"initiative": 2,
+				"ap": 2,
+				"mp": 1,
+				"description": "If this character is a vehicle, make a free 4-hex move action.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F80: Heavy Weapon Attacks cost -1 Action",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757965205/f80_as6nj3.jpg",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 0,
+				"description": "During this activation or interruption, Heavy Weapon Attacks cost 1 Action less (to a minimum of 1).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F81: She-Ra's ultimate skill",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966108/f81_xur70i.jpg",
+				"initiative": 8,
+				"ap": 2,
+				"mp": 2,
+				"description": "She-Ra's ultimate skill: She-Ra gains a She-ra token. When She-Ra has a She-ra token, she and all her allies within 8\" receive +1 die for all defence tests.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F82: Bow's ultimate skill",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966112/f82_r3xylf.jpg",
+				"initiative": 7,
+				"ap": 2,
+				"mp": 2,
+				"description": "Bow's ultimate skill: remove up to 3 buffs from allies. Draw a random card from your discard file for every buff removed.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F83: Glimmer's ultimate skill",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966109/f83_vjksbb.jpg",
+				"initiative": 10,
+				"ap": 1,
+				"mp": 1,
+				"description": "Glimmer's ultimate skill: choose any ally within 12\", Glimmer is teleported to a hex adjacent to that ally.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F84: Castaspella's ultimate skill",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966114/f84_kjww9r.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 3,
+				"description": "Castaspella's ultimate skill: all allies withat least 3 Mana gain a Focus.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F85: Frosta's ultimate skill",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966118/f85_jovktc.jpg",
+				"initiative": 4,
+				"ap": 3,
+				"mp": 1,
+				"description": "Frosta's ultimate skill: if this card is played during an interruption, gain 2 Action points.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F86: Angela's ultimate skill",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966120/f86_otbw5p.jpg",
+				"initiative": 1,
+				"ap": 3,
+				"mp": 0,
+				"description": "Angella's ultimate skill: choose an activated ally within 16\" with a buff token. Remove the buff token from that ally, then become ready.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F87: Remove Buff, gain a Focus and 2 mana.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966122/f87_buzxfg.jpg",
+				"initiative": 6,
+				"ap": 2,
+				"mp": 1,
+				"description": "If this character has a Buff token, remove it to gain a Focus and 2 Mana.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F88: Do not loose Buffs or Debuffs at EOR.",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966125/f88_o7svlq.jpg",
+				"initiative": 5,
+				"ap": 3,
+				"mp": 1,
+				"description": "At the end of this round, the character does not lose their Buffs or Debuffs.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F89: Gain 1 Mana for each ally with a Buff",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966128/f89_oluctv.jpg",
+				"initiative": 1,
+				"ap": 2,
+				"mp": 0,
+				"description": "Gain 1 mana for each ally with a Buff (to a maximum of 3).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F90: -1 Die for defence tests until EOR",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966130/f90_klxyer.jpg",
+				"initiative": 10,
+				"ap": 2,
+				"mp": 0,
+				"description": "Until then end of the round, this character loses 1 Die for all defence tests.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
