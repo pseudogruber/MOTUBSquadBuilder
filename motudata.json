@@ -1033,7 +1033,7 @@
 				]
 			},
 			{
-				"name": "F2: Active skills cost -1 Action.",
+				"name": "F2: Active skills cost -1 Action",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f2_zdcmdf.jpg",
 				"initiative": 1,
 				"ap": 1,
@@ -1101,7 +1101,7 @@
 				]
 			},
 			{
-				"name": "F4: Deal 2+ Wounds, gain 1 Action and 1 Mana.",
+				"name": "F4: Deal 2+ Wounds, gain 1 Action and 1 Mana",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958969/f4_qpflks.jpg",
 				"initiative": 1,
 				"ap": 2,
@@ -1478,7 +1478,7 @@
 				]
 			},
 			{
-				"name": "F15: 3+ Successes on attack, gain Focus.",
+				"name": "F15: 3+ Successes on attack, gain Focus",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958970/f15_gja1sm.jpg",
 				"initiative": 4,
 				"ap": 3,
@@ -1512,7 +1512,7 @@
 				]
 			},
 			{
-				"name": "F16: 3+ Successes on attack, draw Fate card.",
+				"name": "F16: 3+ Successes on attack, draw Fate card",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f16_qa7xyh.jpg",
 				"initiative": 4,
 				"ap": 3,
@@ -1751,7 +1751,7 @@
 			},
 			{
 				"name": "F23: +1 AP or +1 MP",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f22_tbcarj.jpg",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959644/f23_obmzeb.jpg",
 				"initiative": 5,
 				"ap": 2,
 				"mp": 1,
@@ -1782,6 +1782,7 @@
 						"name": "Fighting Foe Men"
 					}
 				]
+			},
 			{
 				"name": "F24: Discard Fate card to draw Fate card.",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959639/f24_gwlmze.jpg",
