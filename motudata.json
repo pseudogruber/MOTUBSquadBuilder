@@ -1169,7 +1169,7 @@
 				]
 			},
 			{
-				"name": "F6: Free 2 hex move.",
+				"name": "F6: Free 2 hex move",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757958968/f6_ohvsui.jpg",
 				"initiative": 1,
 				"ap": 1,
@@ -2123,7 +2123,7 @@
 				]
 			},
 			{
-				"name": "F32: If Engaged, draw fate card from discard",
+				"name": "F34: If Engaged, draw fate card from discard",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959648/f34_de7x3i.jpg",
 				"initiative": 7,
 				"ap": 2,
@@ -2191,7 +2191,7 @@
 				]
 			},
 			{
-				"name": "Remove a Debuff.",
+				"name": "F36: Remove a Debuff.",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757959648/f36_fpk6em.jpg",
 				"initiative": 8,
 				"ap": 2,
