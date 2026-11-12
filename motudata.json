@@ -9459,6 +9459,204 @@
 				"focusedspeed": 8
 			},
 			{
+				"name": "Madame Razz",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Spell",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Fly Away",
+					"Telekinesis"
+				],
+				"BasicEquipment": [
+					"Mispronounced Spell"
+				],
+				"points": 0,
+				"health": 4,
+				"toughness": 2,
+				"mind": 2,
+				"power": 4,
+				"perception": 2,
+				"strength": 3,
+				"standardspeed": 4,
+				"focusedspeed": 6
+			},
+			{
+				"name": "Mermista (Mermaid Version)",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Melee",
+					"Ranged",
+					"Spell",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"I'm with you",
+					"Tides of Power"
+				],
+				"BasicEquipment": [
+					"Telepathy"
+				],
+				"points": 0,
+				"health": 5,
+				"toughness": 2,
+				"mind": 3,
+				"power": 4,
+				"perception": 3,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Mermista (Human Version)",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Armour",
+					"Shield",
+					"Trinket"
+				],
+				"skills": [
+					"I'm with you",
+					"Merfolk guidance"
+				],
+				"BasicEquipment": [
+					"Telepathy"
+				],
+				"points": 0,
+				"health": 5,
+				"toughness": 3,
+				"mind": 2,
+				"power": 3,
+				"perception": 2,
+				"strength": 4,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Loo-Kee",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Spell",
+					"Spell",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"I'm with you",
+					"Merfolk guidance"
+				],
+				"BasicEquipment": [
+					""
+				],
+				"points": 0,
+				"health": 3,
+				"toughness": 2,
+				"mind": 2,
+				"power": 3,
+				"perception": 2,
+				"strength": 2,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Kowl",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Spell",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Last Wish",
+					"Glide"
+				],
+				"BasicEquipment": [
+					""
+				],
+				"points": 0,
+				"health": 3,
+				"toughness": 1,
+				"mind": 3,
+				"power": 3,
+				"perception": 3,
+				"strength": 1,
+				"standardspeed": 5,
+				"focusedspeed": 5
+			},
+			{
+				"name": "Broom",
+				"factions": [
+					{
+						"name": "The Great Rebellion",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Swipe",
+					"Inseperable"
+				],
+				"BasicEquipment": [
+					""
+				],
+				"points": 0,
+				"health": 3,
+				"toughness": 1,
+				"mind": 3,
+				"power": 3,
+				"perception": 3,
+				"strength": 1,
+				"standardspeed": 5,
+				"focusedspeed": 5
+			},
+			{
 				"name": "Hordak",
 				"factions": [
 					{
@@ -10783,10 +10981,60 @@
 				"definition": "If any enemy witin 12\" is activated with initiative 7 or higher, Frosta can spend 1 Mana token to interrupt this enemey's activations."
 			},
 			{
+				"name": "Fly Away",
+				"mana": 2,
+				"definition": "Broom interrupts Madame Razz. If, during this interruption, Madame Razz is on a hex adjacent to Broom, she can move with him."
+			},
+			{
+				"name": "Telekinesis",
+				"mana": 2,
+				"definition": "Place Broom on a hex adjacent to Madame Razz (even if Broom was knocked out)."
+			},
+				{
+				"name": "I'm with you",
+				"definition": "Friendly characters on hexes adjacent to Mermista gain 1 free reroll in every test."
+			},
+			{
+				"name": "Tides of Power",
+				"mana": 1,
+				"definition": "Until the end of the round, all Spell attacks and skills of all Allies cost 1 Mana less (to a minimum of 0)."
+			},
+			{
+				"name": "Merfolk guidance",
+				"mana": 2,
+				"definition": "All friendly characters in line of sight move 2 hexes toward Mermista."
+			},
+				{
 				"name": "I Command You",
 				"ap": 1,
 				"mana": 1,
 				"definition": "Choose an ally with an \"Endless Horde\" skill within 12\" and an enemy within 16\". The ally interrupts Hordak but acts as if they are interrupting the targeted enemy."
+			},
+			{
+				"name": "Hide Behind",
+				"ap": 1,
+				"mana": 2,
+				"definition": "If Loo-Kee is adjacent to an obstacle and out of sight of all enemies, he may teleport to any other hex that is also adjacent to an obstacle and out of sight of enemies."
+			},
+			{
+				"name": "Trickster",
+				"definition": "Loo-Kee can be activated even if you do not have a fate card in hand. If activated this way, gain 1 Action and 1 Mana."
+			},
+			{
+				"name": "Last Wish",
+				"definition": "When Kowl gains a Buff, an ally within 8\" gains the same Buff."
+			},
+			{
+				"name": "Glide",
+				"definition": "Move actions performed by Kowl use jump rules."
+			},
+			{
+				"name": "Swipe",
+				"definition": "When Broom interrupts Madame Razz, his move actions can be made in any direction, cannot be interrupted, and use jump rules."
+			},
+			{
+				"name": "Inseperable",
+				"definition": "Broom can only be added to a force if Madame Razz is already in it."
 			},
 			{
 				"name": "Ruthless Leader",
