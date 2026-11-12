@@ -8390,7 +8390,7 @@
 				"imageUrl": "",
 				"points": 3,
 				"unique": true,
-				"type": "Module",
+				"type": "Shield",
 					"definition": "This character cannot be pushed, pulled, or teleported and gains 1 Mana instead."
 			},
 			{
@@ -8399,7 +8399,7 @@
 				"imageUrl": "",
 				"points": 0,
 				"unique": true,
-				"type": "Trinket",
+				"type": "Shield",
 					"definition": "Frontal attacks against this character have a range reduced by 3\" to a minimum of 6\"."
 			},
 			{
@@ -8426,7 +8426,7 @@
 				"imageUrl": "",
 				"points": 0,
 				"unique": true,
-				"type": "Trinket",
+				"type": "Armour",
 					"definition": "When a Mark within 4\" is removed, gain Protection Buff."
 			},
 			{
