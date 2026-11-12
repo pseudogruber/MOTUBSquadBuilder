@@ -10283,16 +10283,46 @@
 					"Trinket"
 				],
 				"skills": [
-					"Snake Magic",
-					"Battle Rattle"
+					"Petrifying Power",
+					"Snake Men Revenge"
 				],
-				"points": 10,
+				"points": 0,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
 				"power": 5,
 				"perception": 1,
 				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
+				"name": "Tung Lashor",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Ranged",
+					"Armour",
+					"Trinket",
+					"Trinket"
+				],
+				"skills": [
+					"Sticky Tongue",
+					"Tongue Hook"
+				],
+				"points": 0,
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 2,
+				"perception": 4,
+				"strength": 4,
 				"standardspeed": 5,
 				"focusedspeed": 8
 			},
