@@ -7280,7 +7280,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "Spell",
-				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with. During the interruption, if the attack results in 2 or more Successes, end this character interruption and target's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wound"
+				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with. During the interruption, if the attack results in 2 or more Successes, end this character interruption and target's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wound",
 				"availableIn": [
 					"Snake Face"
 				]
@@ -7295,7 +7295,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "Spell",
-				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally's spell as a free action."
+				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally's spell as a free action.",
 				"availableIn": [
 					"Madame Razz"
 				]
@@ -7310,7 +7310,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "Spell",
-				"definition": "This spell targets allies instead of enemies. The target does not make a defense test.\n          2 Success: This character looses all remaining Actions. The target interrupts the current activation, with Actions equal to the Actions lost by this character."
+				"definition": "This spell targets allies instead of enemies. The target does not make a defense test.\n          2 Success: This character looses all remaining Actions. The target interrupts the current activation, with Actions equal to the Actions lost by this character.",
 				"availableIn": [
 					"Mermista (Mermaid Version)",
 					"Mermista (Human Version)"
