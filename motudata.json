@@ -11077,6 +11077,22 @@
 				"definition": "After King Hsss is attacked, he can spend 2 Mana to interrupt the attacker."
 			},
 			{
+				"name": "Sticky Tongue",
+				"definition": "Test Strength against the Toughness of a character within 4\". 1 Success: Cripple debuff and pull target 2 hexes."
+			},
+			{
+				"name": "Tongue Hook",
+				"definition": "Chose a Mark within 4\". Pull the chosen Mark up to 4 hexes. If it were moved adjacent to Tung Lashor, he gains a Focus."
+			},
+			{
+				"name": "Petrifying Power",
+				"definition": "Whenever an ally interrupts a character from a trigger fate card, Snake Face gains 1 Mana."
+			},
+			{
+				"name": "Snake Men Revenge",
+				"definition": "After discarding a trigger Fate card, Snake Face can spend 2 Mana to place it on top of your deck."
+			},
+			{
 				"name": "Tyrantisaurus Bite",
 				"ap": 1,
 				"mana": 1,
