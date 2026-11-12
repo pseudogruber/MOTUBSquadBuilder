@@ -8163,7 +8163,7 @@
 		"factions": [
 			{
 				"name": "Masters of the Universe",
-				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1720904065/He-Man_Test_01_hce86t.png",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_MOTU_xnrb1y.png",
 				"alignment": "Factions",
 				"armyBonus": "",
 				"additionalRules": "",
@@ -10286,7 +10286,7 @@
 					"Snake Magic",
 					"Battle Rattle"
 				],
-				"points": ,
+				"points": 10,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
