@@ -8290,6 +8290,33 @@
 					"definition": "Disposable. Draw a fate card."
 			},
 			{
+				"name": "Mermista's Shield",
+				"ID": "I108",
+				"imageUrl": "",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "This character cannot be pushed, pulled, or teleported and gains 1 Mana instead."
+			},
+			{
+				"name": "Netossa's Shield",
+				"ID": "I109",
+				"imageUrl": "",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Frontal attacks against this character have a range reduced by 3\" to a minimum of 6\"."
+			},
+			{
+				"name": "Seashell",
+				"ID": "I110",
+				"imageUrl": "",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "This character can use their active skills twice per activation or interruption."
+			},
+			{
 				"name": "Net Cape",
 				"ID": "I111",
 				"imageUrl": "",
