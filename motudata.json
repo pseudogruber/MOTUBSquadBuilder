@@ -1309,6 +1309,74 @@
 						"name": "Fighting Foe Men"
 					}
 				]
+			},
+			{
+				"name": "G30: Trigger 4 interruptions",
+				"ID": "G30",
+				"imageUrl": "",
+				"initiative": 11,
+				"ap": 2,
+				"mana": 2,
+				"description": "During this activation, trigger at least 4 interruptions",
+				"vp": 30,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "G31: Place 3 Mark tokens",
+				"ID": "G31",
+				"imageUrl": "",
+				"initiative": 6,
+				"ap": 1,
+				"mana": 1,
+				"description": "During this activation or interruption, place at least 3 different Marks on the battlegdound.",
+				"vp": 10,
+				"alternativeBonus": "+1 AP",
+				"factions": [
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
 			}
 		],
 		"fatecards": [
@@ -5346,6 +5414,216 @@
 				"ap": 2,
 				"mana": 0,
 				"description": "Trigger: You may discard this card when your character is about to receive a Debuff. Your character doesn't receive that Debuff.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F119: Madame Razz's Ultimate Skill",
+				"ID": "F119",
+				"imageUrl": "",
+				"initiative": 7,
+				"ap": 2,
+				"mana": 1,
+				"description": "Madame Razz's Ultimate Skill: Place Broom within 8\" of Madame Razz (even if Broom was knocked out).\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F120: Mermista's Ultimate Skill",
+				"ID": "F120",
+				"imageUrl": "",
+				"initiative": 6,
+				"ap": 3,
+				"mana": 1,
+				"description": "Mermista's Ultimate Skill: During this round, each friendly character gains 1 free reroll in every test.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F121: Discard, gain Quickness",
+				"ID": "F121",
+				"imageUrl": "",
+				"initiative": 3,
+				"ap": 2,
+				"mana": 1,
+				"description": "After this card is discarded during an activation phase, give Quickness Buff to any character.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F122: Trigger: enemy gains Focus, gain Focus and interrupt enemy",
+				"ID": "F122",
+				"imageUrl": "",
+				"initiative": 2,
+				"ap": 2,
+				"mana": 0,
+				"description": "Trigger: You may discard this card after an enemy gains Focus. Your character within 4\" gains Focus and interrupts the current activation or interruption with 0 Actions.\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F123: Trigger: perform flank attack, ally interrupts",
+				"ID": "F123",
+				"imageUrl": "",
+				"initiative": 8,
+				"ap": 1,
+				"mana": 4,
+				"description": "Trigger: You may discard this card after your character performs a flank attack. Your other character interrupts the current activation or interruption\n          OR +1 Mana.",
+				"factions": [
+					{
+						"name": "Fighting Foe Men"
+					},
+					{
+						"name": "Evil Horde"
+					},
+					{
+						"name": "Evil Warriors"
+					},
+					{
+						"name": "Masters of the Universe"
+					},
+					{
+						"name": "The Great Rebellion"
+					},
+					{
+						"name": "Snake Men"
+					},
+					{
+						"name": "Preternian Heroes"
+					},
+					{
+						"name": "Fighting Foe Men"
+					}
+				]
+			},
+			{
+				"name": "F124: Move a Mark",
+				"ID": "F124",
+				"imageUrl": "",
+				"initiative": 5,
+				"ap": 3,
+				"mana": 1,
+				"description": "Move a Mark within 12\" up to 8 hexes.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
