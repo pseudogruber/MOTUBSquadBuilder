@@ -10266,6 +10266,37 @@
 				"focusedspeed": 8
 			},
 			{
+				"name": "Snake Face",
+				"factions": [
+					{
+						"name": "Snake Men",
+						"heroicTier": "Hero"
+					}
+				],
+				"portraitUrl": "",
+				"imageUrls": ["", ""],
+				"upgradeTypes": [
+					"Melee",
+					"Spell",
+					"Armour",
+					"Shield",
+					"Trinket"
+				],
+				"skills": [
+					"Snake Magic",
+					"Battle Rattle"
+				],
+				"points": 16,
+				"health": 5,
+				"toughness": 2,
+				"mind": 2,
+				"power": 5,
+				"perception": 1,
+				"strength": 3,
+				"standardspeed": 5,
+				"focusedspeed": 8
+			},
+			{
 				"name": "King Hsss with Tyrantisaurus",
 				"factions": [
 					{
