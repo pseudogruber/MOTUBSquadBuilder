@@ -6120,6 +6120,47 @@
 				]
 			},
 			{
+				"name": "Mechanical Claw",
+				"ID": "WM67",
+				"imageUrl": "",
+				"points": 0,
+				"diceModifier": "-",
+				"unique": true,
+					"definition": "Attacks with this weapon loose 1 Die for each Mana on this character.\n          2 Success: 2 Wounds\n          4 Successes: 2 Wounds and a Knockdown debuff"
+			},
+			{
+				"name": "Shaping Staff",
+				"ID": "WM",
+				"imageUrl": "",
+				"points": 0,
+				"diceModifier": "-",
+				"unique": true,
+					"definition": "Targets only this character. The target does not make a defense test. Can be used when this character is not engaged.\n          1 Success: Gain 1 Mana\n          3 Successes: Gain 1 Mana and 1 Buff\n          5 Successes: Gain 1 Mana, 1 Buff and a Focus."
+			},
+			{
+				"name": "Spear of Bakkull",
+				"ID": "WM",
+				"imageUrl": "",
+				"points": 0,
+				"diceModifier": "-",
+				"unique": true,
+					"definition": "Before attacking, this character can remove Buff from themselves to gain 2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds."
+			},
+			{
+				"name": "Venomous Tongue",
+				"ID": "WM",
+				"imageUrl": "",
+				"points": 0,
+				"diceModifier": "-",
+				"unique": true,
+				"type": "NoSlot",
+					"definition": "This does not use a Melee weapon slot. If Tung Lashor is adjacent to a Mark, add +1 Die. \n          1 Success: 1 Wound\n          1 Successes: 1 Wound and a Curse debuff\n          5 Successes: 2 Wounds and a Curse Debuff",
+				"highlight": true,
+				"availableIn": [
+					"Tung Lashor"
+				]
+			},
+			{
 				"name": "Tyrantisaurus Tail",
 				"ID": "WMM1",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756667067/wmm1_vq2hut.jpg",
@@ -6618,6 +6659,50 @@
 				"availableIn": [
 					"Ditztroyer in Roton"
 				]
+			},
+			{
+				"name": "Tung's Gun",
+				"ID": "WR41",
+				"imageUrl": "",
+				"points": 0,
+				"range": 12,
+				"diceModifier": "1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Targets allies or enemies. Attacks with this weapon cost 1 Action less (to a minimum of 0) when targeting allies.\n          1 Success: 1 Wound and target activates its Overwatch interrupting this character"
+			},
+			{
+				"name": "Silver Bow",
+				"ID": "WR",
+				"imageUrl": "",
+				"points": 0,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "You can pay the Action cost for this attack by discarding any fate card as 1 Action.\n          1 Success: 1 Wound\n          3 Successess: 2 Wounds"
+			},
+			{
+				"name": "Boomerang",
+				"ID": "WR",
+				"imageUrl": "",
+				"points": 0,
+				"range": 8,
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "After the attack with this weapon, increase Perception by 1 for the remainder of the activation or interruption\n          2 Successes: 1 Wound and target looses 1 Mana.\n          3 Successes: 1 Wound and target looses 2 Mana.\n          5 Successes: 2 Wound and target looses 2 Mana."
+			},
+			{
+				"name": "Etherian Crossbow",
+				"ID": "WR",
+				"imageUrl": "",
+				"points": 0,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Attacks with this weapon ignore 2 Toughness, to a minimum of 2.\n          1 Successes: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds."
 			},
 			{
 				"name": "Tyrantisaurus Blaster",
@@ -7184,6 +7269,64 @@
 				"unique": true,
 				"type": "Spell",
 				"definition": "Targets a hex of high obstacle. The spell affects all characters within 3 hexes of the targeted hex.\n          1 Success: Pull target 2 hexes\n          2 Successes: Pull target 2 hexes and a Cripple debuff\n          3 Successes: 1 Wound, Pull target 2 hexes and a Cripple debuff"
+			},
+			{
+				"name": "Petrification",
+				"ID": "WS48",
+				"imageUrl": "",
+				"points": 0,
+				"mana": 1,
+				"range": "-",
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with. During the interruption, if the attack results in 2 or more Successes, end this character interruption and target's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wound"
+				"availableIn": [
+					"Snake Face"
+				]
+			},
+			{
+				"name": "Mispronounced Spell",
+				"ID": "WS",
+				"imageUrl": "",
+				"points": 0,
+				"mana": 0,
+				"range": "-",
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally's spell as a free action."
+				"availableIn": [
+					"Madame Razz"
+				]
+			},
+			{
+				"name": "Telepathy",
+				"ID": "WS",
+				"imageUrl": "",
+				"points": 0,
+				"mana": 1,
+				"range": "12",
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell targets allies instead of enemies. The target does not make a defense test.\n          2 Success: This character looses all remaining Actions. The target interrupts the current activation, with Actions equal to the Actions lost by this character."
+				"availableIn": [
+					"Mermista (Mermaid Version)",
+					"Mermista (Human Version)"
+				]
+			},
+			{
+				"name": "Quicksand",
+				"ID": "WS",
+				"imageUrl": "",
+				"points": 0,
+				"mana": 1,
+				"range": "-",
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "Targets only this character. The target does not make a defense test. If the character enters a hex adjacent to Quicksand Mark, lose all remaining moves.\n          1 Success: Place Quicksand Mark within 8\".\n          3 Success: Place Quicksand Mark within 12\"."
 			},
 			{
 				"name": "Demolisher Missile",
@@ -8145,6 +8288,43 @@
 				"unique": true,
 				"type": "Trinket",
 					"definition": "Disposable. Draw a fate card."
+			},
+			{
+				"name": "Net Cape",
+				"ID": "I111",
+				"imageUrl": "",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "The area within 2 hexes from this character is treated as difficult terrain for enemies."
+			},
+			{
+				"name": "Armour with Straps",
+				"ID": "I112",
+				"imageUrl": "",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "When a Mark within 4\" is removed, gain Protection Buff."
+			},
+			{
+				"name": "Serpent's Ring",
+				"ID": "I113",
+				"imageUrl": "",
+				"points": 0,
+				"action cost": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Serpent's Mark. Put Serpent's Mark within 8\". When removed, remove friendly characters within 2\", then redeploy them the next round."
+			},
+			{
+				"name": "Lizard Companion",
+				"ID": "I114",
+				"imageUrl": "",
+				"points": 0,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "When an ally interrupts this character, that ally may act as if they are interrupting an enemy within 8\" from this character."
 			},
 			{
 				"name": "Reinforced Limbs",
