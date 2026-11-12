@@ -6120,26 +6120,8 @@
 				]
 			},
 			{
-				"name": "Mechanical Claw",
-				"ID": "WM67",
-				"imageUrl": "",
-				"points": 0,
-				"diceModifier": "-",
-				"unique": true,
-					"definition": "Attacks with this weapon loose 1 Die for each Mana on this character.\n          2 Success: 2 Wounds\n          4 Successes: 2 Wounds and a Knockdown debuff"
-			},
-			{
-				"name": "Shaping Staff",
-				"ID": "WM",
-				"imageUrl": "",
-				"points": 0,
-				"diceModifier": "-",
-				"unique": true,
-					"definition": "Targets only this character. The target does not make a defense test. Can be used when this character is not engaged.\n          1 Success: Gain 1 Mana\n          3 Successes: Gain 1 Mana and 1 Buff\n          5 Successes: Gain 1 Mana, 1 Buff and a Focus."
-			},
-			{
 				"name": "Spear of Bakkull",
-				"ID": "WM",
+				"ID": "WM64",
 				"imageUrl": "",
 				"points": 0,
 				"diceModifier": "-",
@@ -6147,8 +6129,17 @@
 					"definition": "Before attacking, this character can remove Buff from themselves to gain 2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds."
 			},
 			{
+				"name": "Shaping Staff",
+				"ID": "WM65",
+				"imageUrl": "",
+				"points": 0,
+				"diceModifier": "-",
+				"unique": true,
+					"definition": "Targets only this character. The target does not make a defense test. Can be used when this character is not engaged.\n          1 Success: Gain 1 Mana\n          3 Successes: Gain 1 Mana and 1 Buff\n          5 Successes: Gain 1 Mana, 1 Buff and a Focus."
+			},
+			{
 				"name": "Venomous Tongue",
-				"ID": "WM",
+				"ID": "WM66",
 				"imageUrl": "",
 				"points": 0,
 				"diceModifier": "-",
@@ -6159,6 +6150,15 @@
 				"availableIn": [
 					"Tung Lashor"
 				]
+			},
+			{
+				"name": "Mechanical Claw",
+				"ID": "WM67",
+				"imageUrl": "",
+				"points": 0,
+				"diceModifier": "-",
+				"unique": true,
+					"definition": "Attacks with this weapon loose 1 Die for each Mana on this character.\n          2 Success: 2 Wounds\n          4 Successes: 2 Wounds and a Knockdown debuff"
 			},
 			{
 				"name": "Tyrantisaurus Tail",
@@ -6661,30 +6661,8 @@
 				]
 			},
 			{
-				"name": "Tung's Gun",
-				"ID": "WR41",
-				"imageUrl": "",
-				"points": 0,
-				"range": 12,
-				"diceModifier": "1",
-				"unique": true,
-				"type": "Ranged",
-					"definition": "Targets allies or enemies. Attacks with this weapon cost 1 Action less (to a minimum of 0) when targeting allies.\n          1 Success: 1 Wound and target activates its Overwatch interrupting this character"
-			},
-			{
-				"name": "Silver Bow",
-				"ID": "WR",
-				"imageUrl": "",
-				"points": 0,
-				"range": 12,
-				"diceModifier": "-1",
-				"unique": true,
-				"type": "Ranged",
-					"definition": "You can pay the Action cost for this attack by discarding any fate card as 1 Action.\n          1 Success: 1 Wound\n          3 Successess: 2 Wounds"
-			},
-			{
 				"name": "Boomerang",
-				"ID": "WR",
+				"ID": "WR38",
 				"imageUrl": "",
 				"points": 0,
 				"range": 8,
@@ -6695,7 +6673,7 @@
 			},
 			{
 				"name": "Etherian Crossbow",
-				"ID": "WR",
+				"ID": "WR39",
 				"imageUrl": "",
 				"points": 0,
 				"range": 12,
@@ -6703,6 +6681,28 @@
 				"unique": true,
 				"type": "Ranged",
 					"definition": "Attacks with this weapon ignore 2 Toughness, to a minimum of 2.\n          1 Successes: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds."
+			},
+			{
+				"name": "Silver Bow",
+				"ID": "WR40",
+				"imageUrl": "",
+				"points": 0,
+				"range": 12,
+				"diceModifier": "-1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "You can pay the Action cost for this attack by discarding any fate card as 1 Action.\n          1 Success: 1 Wound\n          3 Successess: 2 Wounds"
+			},
+			{
+				"name": "Tung's Gun",
+				"ID": "WR41",
+				"imageUrl": "",
+				"points": 0,
+				"range": 12,
+				"diceModifier": "1",
+				"unique": true,
+				"type": "Ranged",
+					"definition": "Targets allies or enemies. Attacks with this weapon cost 1 Action less (to a minimum of 0) when targeting allies.\n          1 Success: 1 Wound and target activates its Overwatch interrupting this character"
 			},
 			{
 				"name": "Tyrantisaurus Blaster",
@@ -7271,6 +7271,37 @@
 				"definition": "Targets a hex of high obstacle. The spell affects all characters within 3 hexes of the targeted hex.\n          1 Success: Pull target 2 hexes\n          2 Successes: Pull target 2 hexes and a Cripple debuff\n          3 Successes: 1 Wound, Pull target 2 hexes and a Cripple debuff"
 			},
 			{
+				"name": "Telepathy",
+				"ID": "WS46",
+				"imageUrl": "",
+				"points": 0,
+				"mana": 1,
+				"range": "12",
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "This spell targets allies instead of enemies. The target does not make a defense test.\n          2 Success: This character looses all remaining Actions. The target interrupts the current activation, with Actions equal to the Actions lost by this character.",
+				"availableIn": [
+					"Mermista (Mermaid Version)",
+					"Mermista (Human Version)"
+				]
+			},
+			{
+				"name": "Mispronounced Spell",
+				"ID": "WS47",
+				"imageUrl": "",
+				"points": 0,
+				"mana": 0,
+				"range": "-",
+				"diceModifier": "-",
+				"unique": true,
+				"type": "Spell",
+				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally's spell as a free action.",
+				"availableIn": [
+					"Madame Razz"
+				]
+			},
+			{
 				"name": "Petrification",
 				"ID": "WS48",
 				"imageUrl": "",
@@ -7286,39 +7317,8 @@
 				]
 			},
 			{
-				"name": "Mispronounced Spell",
-				"ID": "WS",
-				"imageUrl": "",
-				"points": 0,
-				"mana": 0,
-				"range": "-",
-				"diceModifier": "-",
-				"unique": true,
-				"type": "Spell",
-				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally's spell as a free action.",
-				"availableIn": [
-					"Madame Razz"
-				]
-			},
-			{
-				"name": "Telepathy",
-				"ID": "WS",
-				"imageUrl": "",
-				"points": 0,
-				"mana": 1,
-				"range": "12",
-				"diceModifier": "-",
-				"unique": true,
-				"type": "Spell",
-				"definition": "This spell targets allies instead of enemies. The target does not make a defense test.\n          2 Success: This character looses all remaining Actions. The target interrupts the current activation, with Actions equal to the Actions lost by this character.",
-				"availableIn": [
-					"Mermista (Mermaid Version)",
-					"Mermista (Human Version)"
-				]
-			},
-			{
 				"name": "Quicksand",
-				"ID": "WS",
+				"ID": "WS49",
 				"imageUrl": "",
 				"points": 0,
 				"mana": 1,
