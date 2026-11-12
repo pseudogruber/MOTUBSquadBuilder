@@ -8290,12 +8290,107 @@
 					"definition": "Disposable. Draw a fate card."
 			},
 			{
+				"name": "Secret Liquid of Life",
+				"ID": "I97",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650321/i97_h4o9wi.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Gain Regeneration Buff."
+			},
+			{
+				"name": "Photog Emulator",
+				"ID": "I98",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650320/i98_k8j1fc.jpg",
+				"points": 1,
+				"mana cost": "X",
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Spot Light. Spend up to 5 Mana. An ally withing 12\" gains half of it (rounded up)."
+			},
+			{
+				"name": "War Horn",
+				"ID": "I100",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650322/i100_kjiejq.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "To Battle. Discard a Fate card, next attack during this activation or interruption has a Focus."
+			},
+			{
+				"name": "Handy Kit",
+				"ID": "I101",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650323/i101_bhm2my.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Upon activation, if this character is 2 or less Wounds away from being knocked out, gain a Focus."
+			},
+			{
+				"name": "Trap Set",
+				"ID": "I102",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650323/i102_ne6t6k.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Gain Overwatch, current activation or interruption ends."
+			},
+			{
+				"name": "Herbal Suspension",
+				"ID": "I103",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650323/i102_ne6t6k.jpg",
+				"points": 1,
+				"unique": true,
+				"type": "Trinket",
+					"definition": "Disposable. Gain Focus."
+			},
+			{
+				"name": "Radar",
+				"ID": "I104",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651433/i104_l0n1f0.jpg",
+				"points": 1,
+				"mana cost": "1",
+				"unique": true,
+				"type": "Module",
+					"definition": "Localization. Test Perception against the Mind of an enemy within 8\".\n 1 Success: 1 Wound."
+			},
+			{
+				"name": "The Beak",
+				"ID": "I105",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651434/i105_t8wgfe.jpg",
+				"points": 3,
+				"mana cost": "2",
+				"unique": true,
+				"type": "Module",
+					"definition": "Peck. Test Strength against Toughness of an enemy on an adjacent hex.\n 1 Success: 1 Wound."
+			},
+			{
+				"name": "Control Panel",
+				"ID": "I106",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651435/i106_uc4bxt.jpg",
+				"points": 2,
+				"mana cost": "2",
+				"unique": true,
+				"type": "Module",
+					"definition": "Back in Control. Gain Focus. This item can be used multiple times per activation or interruption."
+			},
+			{
+				"name": "Heat Detector",
+				"ID": "I107",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756651429/i107_kez9et.jpg",
+				"points": 3,
+				"mana cost": "2",
+				"unique": true,
+				"type": "Module",
+					"definition": "Take Aim. Until the end of this activation or interruption, increase the range of Heavy Attack by 4\"."
+			},
+			{
 				"name": "Mermista's Shield",
 				"ID": "I108",
 				"imageUrl": "",
-				"points": 0,
+				"points": 3,
 				"unique": true,
-				"type": "Trinket",
+				"type": "Module",
 					"definition": "This character cannot be pushed, pulled, or teleported and gains 1 Mana instead."
 			},
 			{
