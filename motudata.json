@@ -8807,6 +8807,10 @@
 		"keywords": [
 			{
 				"name": "Game Round",
+				"definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n 2. Activation Phase: Players take turns activating their characters. \n 3. Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+			},
+			{
+				"name": "Game Round",
 				"definition": "Preparation Phase: Players draw fate cards (maximum of five in hand). \n Activation Phase: Players take turns activating their characters. \n Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
 			}
 		],
