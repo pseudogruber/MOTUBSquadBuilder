@@ -11255,8 +11255,8 @@
 		],
 		"keywords": [
 			{
-				"name": "He-Man Basic Equipment",
-				"definition": "Sword of Power"
+				"name": "Game Round",
+				"definition": "Preparation Phase: Players draw fate cards (maximum of five in hand). \n Activation Phase: Players take turns activating their characters. \n Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
 			}
 		],
 		"skills": [
