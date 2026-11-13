@@ -231,7 +231,14 @@
 						}
 					],
 					"tiers": [],
-					"children": []
+					"children": [
+						{
+							"propertyName": "keywords",
+							"label": "Keywords",
+							"type": "static",
+							"dataSource": "keywords"
+						}
+					]
 				},
 				{
 					"propertyName": "glorycards",
