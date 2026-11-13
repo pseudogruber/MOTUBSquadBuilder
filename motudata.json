@@ -8828,8 +8828,16 @@
 				"definition": "The focus action allows characters to enhance their next action or test. \n To perform a focus action, the active player places one focus token next to the active character on the battleground. If a character has a focus token, they are FOCUSED. While a character is focused, they cannot gain another focus token."
 			},
 			{
+				"name": "Force",
+				"definition": "During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. \n Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
+			},
+			{
 				"name": "Scope",
 				"definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
+			},
+			{
+				"name": "Tests",
+				"definition": "Throughout the game, characters must resolve tests. During a test, players roll dice to determine the outcome of various game interactions, such as attacks and defences as well as attempts to apply or resist certain buffs and debuffs. The number of dice a player rolls and the results that are required for success are all determined by a character’s stats and modifiers. \n To resolve a test, a player performs the following steps: \n **1. CHECK STAT:** The player checks the value on their character card that corresponds to the stat that is being tested. That stat’s value is how many dice the player rolls to test that stat before modifiers are applied. For example, He-Man has a strength of five, which means he would roll five dice—before modifiers are applied—when he tests strength. \n **2. DETERMINE MODIFIERS:** Modifiers temporarily increase or decrease a character’s stat, changing the number of dice the player rolls. Modifiers come from a variety of sources, including card skills, and they are cumulative. If a modifier adds or subtracts a number to a test (i.e., ‘Test strength +1’ or ‘Test strength –1’) that character’s stat is increased or decreased, as appropriate, for the duration of the test.\n **3. DETERMINE THE SCOPE:** Scope defines the lowest result on a die that is treated as a success. By default, the scope of each test is four. Scope can be modified by a variety of sources, including card skills and they are cumulative (see Scope rules). \n **4. NORMAL ROLL:** The player resolving the test rolls a number of dice equal to their modified stat that is being tested."
 			}
 		],
 		"characters": [
