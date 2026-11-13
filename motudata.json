@@ -8856,6 +8856,10 @@
 				"definition": "While a character has this debuff, the scope of each of their defence tests is decreased by one."
 			},
 			{
+				"name": "Marks",
+				"definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
+			},
+			{
 				"name": "Protection",
 				"definition": "While a character has this buff, the scope of each of their defence tests is increased by one."
 			},
