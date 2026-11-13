@@ -8812,6 +8812,10 @@
 			{
 				"name": "Activation Phase",
 				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
+			},
+			{
+				"name": "Scope",
+				"definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
 			}
 		],
 		"characters": [
