@@ -8844,6 +8844,10 @@
 				"definition": "While a character has this buff, the scope of each of their attack tests is increased by one."
 			},
 			{
+				"name": "Flank attacks",
+				"definition": "A character’s facing and the position of their front and rear arcs affects the potency of incoming attacks. Any attack that originates from a hex that is within a character’s rear arc is called a FLANK ATTACK, all other attacks are called FRONTAL ATTACKS. Any flank attack, regardless of the attack type (melee, ranged, or spell), has its scope increased by one. \n Hexes that are halfway between a character’s front and rear arcs are not part of that character’s flank. Attacks that originate from those hexes do not have their scope increased."
+			},
+			{
 				"name": "Focus",
 				"definition": "The focus action allows characters to enhance their next action or test. \n To perform a focus action, the active player places one focus token next to the active character on the battleground. If a character has a focus token, they are FOCUSED. While a character is focused, they cannot gain another focus token."
 			},
