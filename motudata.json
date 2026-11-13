@@ -8840,6 +8840,10 @@
 				"definition": "While a character has this debuff, there is no inherent effect. However, when this debuff is removed, the affected character gains one wound token."
 			},
 			{
+				"name": "Difficult Terrain",
+				"definition": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. \n **Movement and difficult terrain:** If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
+			},
+			{
 				"name": "Enhancement",
 				"definition": "While a character has this buff, the scope of each of their attack tests is increased by one."
 			},
@@ -9455,6 +9459,10 @@
 					"Summon",
 					"Lord of Destruction"
 				],
+				"keywords": [
+					"Teleport",
+					"Spell Attack"
+				],
 				"BasicEquipment": [
 					"Havoc Staff"
 				],
@@ -9488,6 +9496,9 @@
 				"skills": [
 					"Shared Power",
 					"Dark Presence"
+				],
+				"keywords": [
+					"Blind"
 				],
 				"BasicEquipment": [
 					"Shadow Strike"
@@ -9524,6 +9535,11 @@
 					"Instant Puddle",
 					"Freezing Ray"
 				],
+				"keywords": [
+					"Marks",
+					"Cripple",
+					"Difficult Terrain"
+				],
 				"BasicEquipment": [
 					"Trident"
 				],
@@ -9558,6 +9574,10 @@
 				"skills": [
 					"Gammavision",
 					"Optic Blast!"
+				],
+				"keywords": [
+					"Buffs and Debuffs",
+					"Focus"
 				],
 				"BasicEquipment": [
 					"Longsword"
@@ -9594,6 +9614,9 @@
 				"skills": [
 					"Weapon Swap",
 					"Grappling Hook"
+				],
+				"keywords": [
+					"Jump"
 				],
 				"BasicEquipment": [
 					"Hook Attachment"
@@ -9637,6 +9660,10 @@
 				"skills": [
 					"Nightmare",
 					"Fearsome Presence"
+				],
+				"keywords": [
+					"Curse",
+					"Buffs and Debuffs"
 				],
 				"BasicEquipment": [
 					"Scythe of Doom"
@@ -9706,6 +9733,10 @@
 					"Cold-Blooded",
 					"Tail Trashing"
 				],
+				"keywords": [
+					"Focus",
+					"Push and Pull"
+				],
 				"BasicEquipment": [
 					"Electro Shocker Spear"
 				],
@@ -9741,6 +9772,12 @@
 					"Evil Master of Odors",
 					"Stinking Delight"
 				],
+				"keywords": [
+					"Blind",
+					"Knockdown",
+					"Cripple",
+					"Buffs and Debuffs"
+				],
 				"BasicEquipment": [
 					"Stink Gun"
 				],
@@ -9774,6 +9811,10 @@
 				"skills": [
 					"Master of Escape",
 					"Hide and Seek"
+				],
+				"keywords": [
+					"Buffs and Debuffs",
+					"Flank attacks"
 				],
 				"BasicEquipment": [
 					"Power Blaster"
@@ -9866,6 +9907,10 @@
 					"I Have the (Fake) Power",
 					"Robot Reflex"
 				],
+				"keywords": [
+					"Buffs and Debuffs",
+					"Focus"
+				],
 				"points": 19,
 				"health": 5,
 				"toughness": 3,
@@ -9897,6 +9942,9 @@
 				"skills": [
 					"Deception",
 					"Panthor's Fangs"
+				],
+				"keywords": [
+					"Push and Pull"
 				],
 				"BasicEquipment": [
 					"Havoc Staff"
