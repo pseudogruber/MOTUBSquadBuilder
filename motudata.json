@@ -2896,7 +2896,10 @@
 				"ap": 1,
 				"mana": 1,
 				"description": "During this activation or interruption, add +1 to the scope of Melee attacks.",
-				"keyword": "Scope",
+				"keywords": [
+					{
+				"name": "Scope"
+				},
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
