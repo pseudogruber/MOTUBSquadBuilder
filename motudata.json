@@ -6423,7 +6423,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "NoSlot",
-					"definition": "This does not use a Melee weapon slot. If Tung Lashor is adjacent to a Mark, add +1 Die. \n          1 Success: 1 Wound\n          1 Successes: 1 Wound and a Curse debuff\n          5 Successes: 2 Wounds and a Curse Debuff",
+					"definition": "This does not use a Melee weapon slot. If Tung Lashor is adjacent to a Mark, add +1 Die. \n          1 Success: 1 Wound\n          3 Successes: 1 Wound and a Curse debuff\n          5 Successes: 2 Wounds and a Curse Debuff",
 				"highlight": true,
 				"availableIn": [
 					"Tung Lashor"
