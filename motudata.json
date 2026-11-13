@@ -8820,8 +8820,24 @@
 				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
 			},
 			{
-				"name": "Game Round",
-				"definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+				"name": "Buffs and Debuffs",
+				"definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
+			},
+			{
+				"name": "Blind",
+				"definition": "While a character has this debuff, the scope of each of their attack tests is decreased by one."
+			},
+			{
+				"name": "Cripple",
+				"definition": "While a character has this debuff, their speed value (and focused speed value) is reduced by two. A character ignores this debuff if they begin their movement in difficult terrain."
+			},
+			{
+				"name": "Curse",
+				"definition": "While a character has this debuff, there is no inherent effect. However, when this debuff is removed, the affected character gains one wound token."
+			},
+			{
+				"name": "Enhancement",
+				"definition": "While a character has this buff, the scope of each of their attack tests is increased by one."
 			},
 			{
 				"name": "Focus",
@@ -8830,6 +8846,26 @@
 			{
 				"name": "Force",
 				"definition": "During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. \n Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
+			},
+				{
+				"name": "Game Round",
+				"definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+			},
+			{
+				"name": "Knockdown",
+				"definition": "While a character has this debuff, the scope of each of their defence tests is decreased by one."
+			},
+			{
+				"name": "Protection",
+				"definition": "While a character has this buff, the scope of each of their defence tests is increased by one."
+			},
+			{
+				"name": "Quickness",
+				"definition": "While a character has this buff, their speed value (and focused speed value) is increased by two."
+			},
+			{
+				"name": "Regeneration",
+				"definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
 			},
 			{
 				"name": "Scope",
