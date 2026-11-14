@@ -500,6 +500,10 @@
 				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
 			},
 			{
+				"name": "Alternative Deployment",
+				"definition": "If the character’s skill contains the term Alternative Deployment, this character isn’t deployed in the standard way (during the game setup). Instead, to deploy this character, follow the instructions in the associated skill."
+			},
+			{
 				"name": "Buffs and Debuffs",
 				"definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
 			},
@@ -528,12 +532,24 @@
 				"definition": "While a character has this buff, the scope of each of their attack tests is increased by one."
 			},
 			{
+				"name": "False Marks",
+				"definition": "Lady Slither's ‘Shedding Skin’ skill places a mark and a fake mark. Both of these tokens have the same reverse, but on the other side of the false mark, there is no mark symbol. That side is revealed when the token is about to be removed from the battleground. Until then, the false mark is treated as a standard mark."
+			},
+			{
+				"name": "Fang-or Deployment FAQ",
+				"definition": "Fang-Or isn’t deployed during the setup. He is deployed at the beginning of the second or the following rounds within any player deployment zone, at least seven hexes from any enemy."
+			},
+			{
 				"name": "Flank attacks",
 				"definition": "A character’s facing and the position of their front and rear arcs affects the potency of incoming attacks. Any attack that originates from a hex that is within a character’s rear arc is called a FLANK ATTACK, all other attacks are called FRONTAL ATTACKS. Any flank attack, regardless of the attack type (melee, ranged, or spell), has its scope increased by one. \n Hexes that are halfway between a character’s front and rear arcs are not part of that character’s flank. Attacks that originate from those hexes do not have their scope increased."
 			},
 			{
 				"name": "Focus",
 				"definition": "The focus action allows characters to enhance their next action or test. \n To perform a focus action, the active player places one focus token next to the active character on the battleground. If a character has a focus token, they are FOCUSED. While a character is focused, they cannot gain another focus token."
+			},
+			{
+				"name": "Free Actions",
+				"definition": "Some game effects provide a character with free actions. Free actions are simply actions that do not cost a character AP and are not treated as normal actions for the purposes of increasing action costs. \n Example: He-Man receives a free move action at the beginning of his activation. After performing the action, he decides to perform another move action. Because the first move action is free, the second move action only costs him 1 AP (since it is the first standard move action of his activation)."
 			},
 			{
 				"name": "Force",
@@ -556,8 +572,16 @@
 				"definition": "Jumping uses the same rules as the move action with the following exception: a jumping character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A jumping character also treats all surrounding hexes as adjacent, even if they are on different elevations."
 			},
 			{
+				"name": "King Hsss - Snake in the Grass FAQ",
+				"definition": "The character that ends activation within two hexes from King Hsss’s mark must perform a free move action towards King Hsss. The character performing this action must use as many movement points as possible. This action can be interrupted."
+			},
+			{
 				"name": "Knockdown",
 				"definition": "While a character has this debuff, the scope of each of their defence tests is decreased by one."
+			},
+			{
+				"name": "Lady Slither Marks, Deployment, and Objectives FAQ",
+				"definition": "Lady Slither isn’t deployed during the setup. Place her mark and false mark on the battleground after all other characters are deployed, before the first fate or glory cards are played. \n Her shedding skin ability allows her to place two marks at least three hexes away from any other character, which means that between a mark and a character, there must be **at least two empty hexes**. \n If Lady Slither’s mark is about to be removed but a massive model covers it and all adjacent hexes, Lady Slither can teleport on any hex adjacent to this massive model. \n During a clean-up phase, marks are removed after the objective tokens are claimed. If Lady Slither stands next to the objective, she will claim that objective before she teleports to her mark. If, after teleporting, she stands next to a different objective token, she won’t claim it during this clean-up phase."
 			},
 			{
 				"name": "Marks",
@@ -602,6 +626,10 @@
 			{
 				"name": "Towards",
 				"definition": "Moving towards uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character or object. At the end of the movement, the character’s model must rotate to face the character or object they are moving towards."
+			},
+			{
+				"name": "Trigger Cards",
+				"definition": "Some fate cards included in this expansion have bonuses described as triggers. These cards can be discarded during situations mentioned in their descriptions to interrupt the current activation or interruption."
 			}
 		],
 		"glorycards": [
@@ -11266,6 +11294,15 @@
 					"Snake in the Grass",
 					"Dreadful and Disguised"
 				],
+				"BasicEquipment": [
+					"Ancient Magic"
+				],
+				"keywords": [
+					"Marks",
+					"Free Actions",
+					"Towards",
+					"Interruptions"
+				],
 				"points": 19,
 				"health": 5,
 				"toughness": 3,
@@ -11300,6 +11337,15 @@
 					"Shedding Skin",
 					"Deadly Assassin"
 				],
+				"BasicEquipment": [
+					"Snake Dagger"
+				],
+				"keywords": [
+					"Marks",
+					"False Marks",
+					"Teleport",
+					"Alternative Deployment"
+				],
 				"points": 15,
 				"health": 5,
 				"toughness": 2,
@@ -11330,6 +11376,15 @@
 				"skills": [
 					"Fight Back!",
 					"Ambush!"
+				],
+				"BasicEquipment": [
+					"Enormous Fangs"
+				],
+				"keywords": [
+					"Interruptions",
+					"Trigger Cards",
+					"Alternative Deployment",
+					"Fang-or Deployment FAQ"
 				],
 				"points": 17,
 				"health": 5,
