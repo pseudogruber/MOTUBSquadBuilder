@@ -302,6 +302,7 @@
 			"assets": {
 				"faction_badge_MOTU": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_MOTU_xnrb1y.png",
 				"faction_badge_EV": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_EV_jgstao.png"
+				"Rulebook_Basic_Concepts_02_Model_p6": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794677598/Rulebook_Basic_Concepts_02_Model_p6_x1htef.png"
 			},
 			"rulebook": {
 				"title": "Rulebook",
@@ -369,7 +370,7 @@
 									},
 									{
 										"type": "figure",
-										"asset": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794677598/Rulebook_Basic_Concepts_02_Model_p6_x1htef.png",
+										"asset": "Rulebook_Basic_Concepts_02_Model_p6",
 										"alt": "Rulebook - Model"
 									}
 								]
