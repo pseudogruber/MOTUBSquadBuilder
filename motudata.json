@@ -496,12 +496,28 @@
 		],
 		"keywords": [
 			{
+				"name": "Activation",
+				"definition": "All situations when a player activates one of their characters with a fate or glory card to perform their actions."
+			},
+			{
 				"name": "Activation Phase",
 				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
 			},
 			{
+				"name": "Active Skills",
+				"definition": "All skills that have a cost (in AP and/or mana) stated next to their description. Active skills can only be used when an associated character is active or interrupting. Every active skill can only be used once per activation and interruption."
+			},
+			{
+				"name": "Ally",
+				"definition": "Any character that belongs to the same force (excluding the character that currently resolves their activation or interruption)."
+			},
+			{
 				"name": "Alternative Deployment",
 				"definition": "If the character’s skill contains the term Alternative Deployment, this character isn’t deployed in the standard way (during the game setup). Instead, to deploy this character, follow the instructions in the associated skill."
+			},
+			{
+				"name": "Attack Test",
+				"definition": "Test of the attacker’s stat during the attack."
 			},
 			{
 				"name": "Buffs and Debuffs",
@@ -510,6 +526,10 @@
 			{
 				"name": "Blind",
 				"definition": "While a character has this debuff, the scope of each of their attack tests is decreased by one."
+			},
+			{
+				"name": "Card Limits",
+				"definition": "Players cannot have more than five fate cards in their hand at a time. Glory cards do not count towards this restriction."
 			},
 			{
 				"name": "Charge",
@@ -524,8 +544,20 @@
 				"definition": "While a character has this debuff, there is no inherent effect. However, when this debuff is removed, the affected character gains one wound token."
 			},
 			{
+				"name": "Defence Test",
+				"definition": "Any test made to decrease the number of successes received by the enemy during an attack or skill test."
+			},
+			{
 				"name": "Difficult Terrain",
 				"definition": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. \n **Movement and difficult terrain:** If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
+			},
+			{
+				"name": "Enemy",
+				"definition": "Any character that belongs to the opposite force."
+			},
+			{
+				"name": "Engaged",
+				"definition": "Two characters from opposing forces are engaged if they are in adjacent hexes."
 			},
 			{
 				"name": "Enhancement",
@@ -542,6 +574,10 @@
 			{
 				"name": "Flank attacks",
 				"definition": "A character’s facing and the position of their front and rear arcs affects the potency of incoming attacks. Any attack that originates from a hex that is within a character’s rear arc is called a FLANK ATTACK, all other attacks are called FRONTAL ATTACKS. Any flank attack, regardless of the attack type (melee, ranged, or spell), has its scope increased by one. \n Hexes that are halfway between a character’s front and rear arcs are not part of that character’s flank. Attacks that originate from those hexes do not have their scope increased."
+			},
+			{
+				"name": "Flipping Equipment FAQ",
+				"definition": "When any piece of equipment is flipped face down, it can no longer be used, brings no benefit to the character, and is not treated as equipped."
 			},
 			{
 				"name": "Focus",
@@ -564,8 +600,12 @@
 				"definition": "Any piece of terrain that is two inches or taller is a HIGH OBSTACLE. \n **Movement and High Obstacles:** A character can move over high obstacles. During a move action, a character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of that obstacle."
 			},
 			{
+				"name": "Immediately",
+				"definition": "When one action must be performed immediately after another, the revelant character cannot perform any action in-between (including free actions)."
+			},
+			{
 				"name": "Interruptions",
-				"definition": "During the game, there are times when a character can perform an action during another character’s activation. This is called an interruption. \n During an interruption, the interrupting character receives one AP. The interrupting character can perform **move**, **attack**, or **use an active skill** actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation. \n \n Interruptions must obey the following rules unless specifically stated otherwise: \n - All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks. \n - All movements must be made towards the interrupted character and end within the line of sight of that character. \n - All tests made by the interrupting character have their scope decreased by one. \n - If any skill or attack places a mark token on the battleground, it must be placed on a hex that is adjacent to the enemy that has been interrupted (unless stated otherwise). \n - All cards played during an interruption are discarded. Do not place them on the interrupting character’s card. \n - Glory cards with fulfilled side missions should be placed faceup in the player’s play area. \n \n  After the interrupting character has completed all the actions they wish to perform or is out of AP, the interruption ends, and the interrupted character resumes their activation."
+				"definition": "All situations when any character interrupts other characters to perform their own action. The interrupting player can play cards from their hand, to provide the interrupting character with additional bonuses. \n \n During the game, there are times when a character can perform an action during another character’s activation. This is called an interruption. \n During an interruption, the interrupting character receives one AP. The interrupting character can perform **move**, **attack**, or **use an active skill** actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation. \n \n Interruptions must obey the following rules unless specifically stated otherwise: \n - All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks. \n - All movements must be made towards the interrupted character and end within the line of sight of that character. \n - All tests made by the interrupting character have their scope decreased by one. \n - If any skill or attack places a mark token on the battleground, it must be placed on a hex that is adjacent to the enemy that has been interrupted (unless stated otherwise). \n - All cards played during an interruption are discarded. Do not place them on the interrupting character’s card. \n - Glory cards with fulfilled side missions should be placed faceup in the player’s play area. \n \n  After the interrupting character has completed all the actions they wish to perform or is out of AP, the interruption ends, and the interrupted character resumes their activation."
 			},
 			{
 				"name": "Jump",
@@ -588,8 +628,16 @@
 				"definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
 			},
 			{
+				"name": "Ongoing effects",
+				"definition": "All active buffs, debuffs, and marks are treated as ongoing effects."
+			},
+			{
 				"name": "Overwatch",
 				"definition": "This action allows the active character to prepare for incoming enemies. To perform the overwatch action, the player takes an overwatch token from the supply and places it near the active character on the battleground. This token indicates that the active character is on overwatch. Then, the active character’s activation ends immediately. \n \n If a character is on overwatch, they must **interrupt** (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met: \n - The enemy ends their movement in a hex that is within line of sight of the character on overwatch. \n - Any part of the enemy’s base is within the front arc of the character on overwatch. \n - The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target). \n \n A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations: \n - If a character that is on overwatch starts an overwatch interruption. \n - If a character that is on overwatch starts an activation. \n \n More than one character can interrupt the same enemy action. In that case, the player who controls those characters chooses which interruption is resolved first."
+			},
+			{
+				"name": "Passive Skills",
+				"definition": "All skills that do not have a cost (in AP and/ or mana) stated next to their description. Passive skills can be resolved if the associated character is on the battleground."
 			},
 			{
 				"name": "Protection",
@@ -606,6 +654,10 @@
 			{
 				"name": "Regeneration",
 				"definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
+			},
+			{
+				"name": "Skill Test",
+				"definition": "Any test related to the character’s skill (passive or active)."
 			},
 			{
 				"name": "Scope",
@@ -9218,6 +9270,12 @@
 				"BasicEquipment": [
 					"Teela's Sword"
 				],
+				"keywords": [
+					"Interruptions",
+					"Free Actions",
+					"Skill Test",
+					"Tests"
+				],
 				"points": 16,
 				"health": 5,
 				"toughness": 2,
@@ -9251,6 +9309,9 @@
 				],
 				"BasicEquipment": [
 					"Staff of Power"
+				],
+				"keywords": [
+					"Interruptions"
 				],
 				"points": 16,
 				"health": 4,
@@ -9286,6 +9347,10 @@
 				"BasicEquipment": [
 					"Short Axe"
 				],
+				"keywords": [
+					"Focus",
+					"Jump"
+				],
 				"points": 15,
 				"health": 4,
 				"toughness": 3,
@@ -9318,7 +9383,14 @@
 					"Trinket"
 				],
 				"BasicEquipment": [
-					"Laser Gun"
+					"Laser Gun",
+					"Laser Gun (Human)",
+					"Laser Gun (Robot)",
+					"Laser Gun (Monster)"					
+				],
+				"keywords": [
+					"Buffs and Debuffs",
+					"Focus"
 				],
 				"points": 17,
 				"health": 5,
@@ -9353,6 +9425,9 @@
 				],
 				"BasicEquipment": [
 					"Metal Fist"
+				],
+				"keywords": [
+					"Overwatch"
 				],
 				"points": 18,
 				"health": 6,
@@ -9447,6 +9522,9 @@
 				"BasicEquipment": [
 					"Sword of Power"
 				],
+				"keywords": [
+					"Interruptions"
+				],
 				"points": 30,
 				"health": 8,
 				"toughness": 3,
@@ -9485,6 +9563,10 @@
 				"BasicEquipment": [
 					"Arm Cannon"
 				],
+				"keywords": [
+					"Interruptions",
+					"Overwatch"
+				],
 				"points": 18,
 				"health": 5,
 				"toughness": 4,
@@ -9520,6 +9602,10 @@
 				"BasicEquipment": [
 					"Flamethrower"
 				],
+				"keywords": [
+					"Jump",
+					"Engaged"
+				],
 				"points": 17,
 				"health": 4,
 				"toughness": 2,
@@ -9554,6 +9640,10 @@
 				"BasicEquipment": [
 					"Cosmic Storm"
 				],
+				"keywords": [
+					"Defence Test",
+					"Attack Test"
+				],
 				"points": 16,
 				"health": 3,
 				"toughness": 1,
@@ -9587,6 +9677,12 @@
 				],
 				"BasicEquipment": [
 					"Axe"
+				],
+				"keywords": [
+					"Free Actions",
+					"Knockdown",
+					"Engaged",
+					"Focus"
 				],
 				"points": 18,
 				"health": 6,
@@ -9624,6 +9720,9 @@
 					"Axe Attachment",
 					"Blaster Attachment"
 				],
+				"keywords": [
+					"Flipping Equipment FAQ"
+				],
 				"points": 12,
 				"health": 3,
 				"toughness": "X",
@@ -9657,6 +9756,9 @@
 				],
 				"BasicEquipment": [
 					"Power Clamp"
+				],
+				"keywords": [
+					"Focus"
 				],
 				"points": 16,
 				"health": 5,
