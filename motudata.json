@@ -406,7 +406,84 @@
 										"type": "figure",
 										"asset": "Rulebook_Basic_Concepts_03_Character_Card_p6",
 										"alt": "Rulebook - Character Card"
-									}
+									},
+									{
+										"type": "paragraph",
+										"text": "There are multiple classifications of terrain that can affect character movement and attacks."
+									},
+									{
+										"type": "paragraph",
+										"text": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. Any piece of terrain that is less than two inches tall but does not contain any hexes characters can stand on is a LOW OBSTACLE. A terrain piece cannot be classified as both a low obstacle and difficult terrain."
+									},
+									{
+										"type": "figure",
+										"asset": "Rulebook_Terrain_01_Low_Obstacle_p7",
+										"alt": "Low obstacle example. Illustration compares the height of a low terrain obstacle with a character model using a 1, 2 and 3 inch height scale."
+									},
+									{
+										"type": "paragraph",
+										"text": "Any piece of terrain that is two inches or taller is a HIGH OBSTACLE."
+									},
+									{
+										"type": "figure",
+										"asset": "Rulebook_Terrain_02_High_Obstacle_p7",
+										"alt": "High obstacle example. Illustration shows a tall terrain structure compared with a character model using a 1, 2 and 3 inch height scale."
+									},
+									{
+										"type": "paragraph",
+										"text": "Any piece of terrain that could be attached to the high obstacles and contains hexes that a character can stand on is a PLATFORM. Hexes that are part of a platform are at HIGHER ELEVATION than hexes at a standard elevation (battleground or difficult terrain)."
+									},
+									{
+										"type": "figure",
+										"asset": "Rulebook_Terrain_03_Platform_p7",
+										"alt": "Platform attached to a high obstacle. Illustration shows a character standing on a platform at higher elevation than the standard battleground, with the elevation difference indicated."
+									},
+									{
+										"type": "paragraph",
+										"text": "Some pieces of terrain contain both high and low obstacles. If a portion of a terrain piece has a large opening, such as a window, it is a low obstacle regardless of its height. Each terrain piece is treated as separate element."
+									},
+        {
+          "type": "figure",
+          "asset": "Rulebook_Terrain_04_High_and_Low_Obstacles_p7",
+          "alt": "Terrain piece containing both high and low obstacles. The illustration identifies the high obstacle and low obstacle portions of the same terrain piece."
+        }
+      ]
+    },
+    {
+      "id": "golden-rule",
+      "title": "Golden Rule",
+      "page": 7,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If players disagree about an unclear situation that is not described in the rules, each player rolls a die. The player who rolls the highest result determines the outcome. If there is a tie, the players continue to roll dice until one player rolls a higher result."
+        },
+        {
+          "type": "paragraph",
+          "text": "The most important thing to remember is that having fun is the primary objective of the game, not victory points."
+        }
+      ]
+    },
+    {
+      "id": "rule-hierarchy",
+      "title": "Rule Hierarchy",
+      "page": 7,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When two or more rules contradict each other, players resolve that conflict by referring to the following rule hierarchy:"
+        },
+        {
+          "type": "list",
+          "style": "ordered",
+          "items": [
+            "Rules on character cards override all other rules.",
+            "Rules on fate and glory cards override all rules listed below.",
+            "Rules on weapon cards override all rules listed below.",
+            "Rules on items cards override rules from the rulebook.",
+            "Rules in the rulebook can be overriden by any rule mentioned above."
+          ]
+        }
 								]
 							}
 						]
