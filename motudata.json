@@ -6379,6 +6379,9 @@
 				"diceModifier": "0",
 				"definition": "If an attack with this weapon results in 2 or less Successes, Faker gains a Cripple debuff.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
 				"highlight": true,
+				"keywords": [
+					"Cripple"
+				],
 				"availableIn": [
 					"Faker"
 				]
@@ -9948,6 +9951,9 @@
 				"keywords": [
 					"Buffs and Debuffs",
 					"Focus"
+				],
+				"BasicEquipment": [
+					"Orange Sword of Power"
 				],
 				"points": 19,
 				"health": 5,
