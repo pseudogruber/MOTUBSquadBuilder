@@ -469,7 +469,7 @@
 									},
 									{
 										"type": "list",
-										"style": "ordered",
+										"style": "numbered",
 										"items": [
 											"Rules on character cards override all other rules.",
 											"Rules on fate and glory cards override all rules listed below.",
