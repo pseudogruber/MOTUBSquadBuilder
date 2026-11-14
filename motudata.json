@@ -315,16 +315,6 @@
 							{
 								"type": "paragraph",
 								"text": "**Force** \n During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
-							},
-							{
-								"type": "figure",
-								"asset": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_MOTU_xnrb1y.png",
-								"alt": "faction_badge_MOTU"
-							},
-							{
-								"type": "figure",
-								"asset": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794677598/Rulebook_Basic_Concepts_02_Model_p6_x1htef.png",
-								"alt": "Rulebook - Model"
 							}
 						],
 						"sections": [
@@ -338,12 +328,12 @@
 									},
 									{
 										"type": "figure",
-										"asset": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735696/Icon_Faction_MOTU_xnrb1y.png",
+										"asset": "faction_badge_MOTU",
 										"alt": "MOTU Faction badge"
 									},
 									{
 										"type": "figure",
-										"asset": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_EV_jgstao.png",
+										"asset": "faction_badge_EV",
 										"alt": "EV Faction badge"
 									},
 									{
@@ -366,7 +356,7 @@
 									},
 									{
 										"type": "paragraph",
-										"text": "Each model represents where that character is located on the battleground. The base of each model has clearly defined front and rear arcs. The front arc has a notch that indicates the direction that a model is facing. Models must always face one border of the hex they are occupying."
+										"text": "**Model** \nEach model represents where that character is located on the battleground. The base of each model has clearly defined front and rear arcs. The front arc has a notch that indicates the direction that a model is facing. Models must always face one border of the hex they are occupying."
 									},
 									{
 										"type": "figure",
