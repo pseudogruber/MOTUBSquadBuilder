@@ -11978,13 +11978,11 @@
 				"definition": "Test Strength against Toughness of an enemy engaged w/ or interruption, gain +2 Die. 2 Successes: 1 Wound; 3 Successes: 2 Wounds"
 			}
 		],
-		"Rules": [
-			{
-				"name": "Core Rules",
-				"definition": "Preparation Phase: Players draw fate cards (maximum of five in hand). \n Activation Phase: Players take turns activating their characters. \n Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
-			}
-		],
-		"rulebook": {
+		"encyclopedia": {
+			"assets": {
+				"bases": "https://example.com/images/bases.png"
+			},
+			"rulebook": {
 				"title": "Rulebook",
 				"sections": [
 					{
