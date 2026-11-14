@@ -11978,51 +11978,7 @@
 				"definition": "Test Strength against Toughness of an enemy engaged w/ or interruption, gain +2 Die. 2 Successes: 1 Wound; 3 Successes: 2 Wounds"
 			}
 		],
-		"encyclopedia": {
-			"assets": {
-				"bases": "https://example.com/images/bases.png"
-			},
-			"rulebook": {
-				"title": "Rulebook",
-				"sections": [
-					{
-						"id": "the-basics",
-						"title": "The Basics",
-						"page": 5,
-						"blocks": [
-							{
-								"type": "paragraph",
-								"text": "Each miniature stands on a base. Many rules use **base contact**."
-							},
-							{
-								"type": "figure",
-								"asset": "bases",
-								"alt": "The different base sizes"
-							}
-						],
-						"sections": [
-							{
-								"id": "dice",
-								"title": "Dice",
-								"blocks": [
-									{
-										"type": "paragraph",
-										"text": "Attack dice show {hit}, {critical}, and {surge}."
-									},
-									{
-										"type": "unorderedList",
-										"items": [
-											"Red dice are the strongest.",
-											"White dice are the weakest."
-										]
-									}
-								]
-							}
-						]
-					}
-				]
-			}
-		}"Rules": [
+		"Rules": [
 			{
 				"name": "Core Rules",
 				"definition": "Preparation Phase: Players draw fate cards (maximum of five in hand). \n Activation Phase: Players take turns activating their characters. \n Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
