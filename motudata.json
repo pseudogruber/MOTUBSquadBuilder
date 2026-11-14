@@ -352,12 +352,12 @@
 										"text": "Each character is represented by a model and a character card."
 									},
 									{
-										"type": "title",
-										"text": "Model"
+										"type": "paragraph",
+										"text": "**MODEL**"
 									},
 									{
 										"type": "paragraph",
-										"text": "**Model** \n Each model represents where that character is located on the battleground. The base of each model has clearly defined front and rear arcs. The front arc has a notch that indicates the direction that a model is facing. Models must always face one border of the hex they are occupying."
+										"text": "Each model represents where that character is located on the battleground. The base of each model has clearly defined front and rear arcs. The front arc has a notch that indicates the direction that a model is facing. Models must always face one border of the hex they are occupying."
 									},
 									{
 										"type": "figure",
