@@ -184,6 +184,14 @@
 							],
 							"repeatingTypes": [
 								"NoSlot"
+							],
+							"children": [
+								{
+									"propertyName": "keywords",
+									"label": "Keywords",
+									"type": "static",
+									"dataSource": "keywords"
+								}
 							]
 						}
 					]
