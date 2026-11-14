@@ -395,9 +395,13 @@
 				"name": "Force",
 				"definition": "During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. \n Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
 			},
-				{
+			{
 				"name": "Game Round",
 				"definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+			},
+			{
+				"name": "High Obstacle",
+				"definition": "Any piece of terrain that is two inches or taller is a HIGH OBSTACLE. \n **Movement and High Obstacles:** A character can move over high obstacles. During a move action, a character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of that obstacle."
 			},
 			{
 				"name": "Interruptions",
@@ -10482,6 +10486,9 @@
 				"BasicEquipment": [
 					"Energy Cannon"
 				],
+				"keywords": [
+					"Interruptions"
+				],
 				"points": 20,
 				"health": 5,
 				"toughness": 3,
@@ -10518,6 +10525,9 @@
 				],
 				"BasicEquipment": [
 					"Horde Axe"
+				],
+				"keywords": [
+					"Interruptions"
 				],
 				"points": 15,
 				"health": 6,
@@ -10587,6 +10597,9 @@
 				"BasicEquipment": [
 					"Overwhelming Power"
 				],
+				"keywords": [
+					"Interruptions"
+				],
 				"points": 16,
 				"health": 4,
 				"toughness": 1,
@@ -10647,6 +10660,9 @@
 					"For the Evil Horde!",
 					"Endless Horde"
 				],
+				"keywords": [
+					"Switch"
+				],
 				"points": 9,
 				"health": 3,
 				"toughness": 1,
@@ -10680,6 +10696,9 @@
 				],
 				"BasicEquipment": [
 					"Slug Armour"
+				],
+				"keywords": [
+					"High Obstacle"
 				],
 				"points": 17,
 				"health": 5,
