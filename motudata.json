@@ -11301,7 +11301,8 @@
 					"Marks",
 					"Free Actions",
 					"Towards",
-					"Interruptions"
+					"Interruptions",
+					"King Hsss - Snake in the Grass FAQ"
 				],
 				"points": 19,
 				"health": 5,
@@ -11416,6 +11417,15 @@
 					"Camoulflage",
 					"Hypnotic Mist"
 				],
+				"BasicEquipment": [
+					"Kobra Pistol"
+				],
+				"keywords": [
+					"Interruptions",
+					"Trigger Cards",
+					"Marks",
+					"Fang-or Deployment FAQ"
+				],
 				"points": 17,
 				"health": 4,
 				"toughness": 2,
@@ -11446,6 +11456,14 @@
 				"skills": [
 					"Dirty Tricks",
 					"Elongated Arms"
+				],
+				"BasicEquipment": [
+					"Snake-Head Staff"
+				],
+				"keywords": [
+					"Interruptions",
+					"Trigger Cards",
+					"Focus"
 				],
 				"points": 16,
 				"health": 6,
@@ -11478,6 +11496,12 @@
 					"Snake Magic",
 					"Battle Rattle"
 				],
+				"BasicEquipment": [
+					"Viper Staff"
+				],
+				"keywords": [
+					"Marks"
+				],
 				"points": 16,
 				"health": 5,
 				"toughness": 2,
@@ -11509,6 +11533,13 @@
 					"Petrifying Power",
 					"Snake Men Revenge"
 				],
+				"BasicEquipment": [
+					"Petrification"
+				],
+				"keywords": [
+					"Interruptions",
+					"Trigger Cards"
+				],
 				"points": 0,
 				"health": 5,
 				"toughness": 2,
@@ -11539,6 +11570,14 @@
 					"Sticky Tongue",
 					"Tongue Hook"
 				],
+				"BasicEquipment": [
+					"Venomous Tongue"
+				],
+				"keywords": [
+					"Cripple",
+					"Marks",
+					"Focus"
+				],
 				"points": 0,
 				"health": 5,
 				"toughness": 2,
@@ -11568,6 +11607,12 @@
 				"skills": [
 					"Serpent's Rage",
 					"Tyrantisaurus Bite"
+				],
+				"BasicEquipment": [
+					"Ancient Magic"
+				],
+				"keywords": [
+					"Interruptions"
 				],
 				"points": 34,
 				"health": 8,
