@@ -326,6 +326,7 @@
 						"sections": [
 							{
 								"id": "force",
+								"page": 6,
 								"title": "Force",
 								"blocks": [
 									{
@@ -351,6 +352,7 @@
 							{
 								"id": "characters",
 								"title": "Characters",
+								"page": 6,
 								"blocks": [
 									{
 										"type": "paragraph",
@@ -383,6 +385,7 @@
 							{
 								"id": "battleground",
 								"title": "Battleground",
+								"page": 6,
 								"blocks": [
 									{
 										"type": "paragraph",
