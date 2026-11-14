@@ -8808,118 +8808,6 @@
 				"additionalRules": ""
 			}
 		],
-		"Rules": [
-			{
-				"name": "Core Rules",
-				"definition": "Preparation Phase: Players draw fate cards (maximum of five in hand). \n Activation Phase: Players take turns activating their characters. \n Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
-			}
-		],
-		"keywords": [
-			{
-				"name": "Activation Phase",
-				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
-			},
-			{
-				"name": "Buffs and Debuffs",
-				"definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
-			},
-			{
-				"name": "Blind",
-				"definition": "While a character has this debuff, the scope of each of their attack tests is decreased by one."
-			},
-			{
-				"name": "Charge",
-				"definition": "Charging uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character. To resolve a charge, the character must end their movement in a hex adjacent to the character they are charging, and they must rotate their model to face that character."
-			},
-			{
-				"name": "Cripple",
-				"definition": "While a character has this debuff, their speed value (and focused speed value) is reduced by two. A character ignores this debuff if they begin their movement in difficult terrain."
-			},
-			{
-				"name": "Curse",
-				"definition": "While a character has this debuff, there is no inherent effect. However, when this debuff is removed, the affected character gains one wound token."
-			},
-			{
-				"name": "Difficult Terrain",
-				"definition": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. \n **Movement and difficult terrain:** If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
-			},
-			{
-				"name": "Enhancement",
-				"definition": "While a character has this buff, the scope of each of their attack tests is increased by one."
-			},
-			{
-				"name": "Flank attacks",
-				"definition": "A character’s facing and the position of their front and rear arcs affects the potency of incoming attacks. Any attack that originates from a hex that is within a character’s rear arc is called a FLANK ATTACK, all other attacks are called FRONTAL ATTACKS. Any flank attack, regardless of the attack type (melee, ranged, or spell), has its scope increased by one. \n Hexes that are halfway between a character’s front and rear arcs are not part of that character’s flank. Attacks that originate from those hexes do not have their scope increased."
-			},
-			{
-				"name": "Focus",
-				"definition": "The focus action allows characters to enhance their next action or test. \n To perform a focus action, the active player places one focus token next to the active character on the battleground. If a character has a focus token, they are FOCUSED. While a character is focused, they cannot gain another focus token."
-			},
-			{
-				"name": "Force",
-				"definition": "During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. \n Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
-			},
-				{
-				"name": "Game Round",
-				"definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
-			},
-			{
-				"name": "Interruptions",
-				"definition": "During the game, there are times when a character can perform an action during another character’s activation. This is called an interruption. \n During an interruption, the interrupting character receives one AP. The interrupting character can perform **move**, **attack**, or **use an active skill** actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation. \n \n Interruptions must obey the following rules unless specifically stated otherwise: \n - All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks. \n - All movements must be made towards the interrupted character and end within the line of sight of that character. \n - All tests made by the interrupting character have their scope decreased by one. \n - If any skill or attack places a mark token on the battleground, it must be placed on a hex that is adjacent to the enemy that has been interrupted (unless stated otherwise). \n - All cards played during an interruption are discarded. Do not place them on the interrupting character’s card. \n - Glory cards with fulfilled side missions should be placed faceup in the player’s play area. \n \n  After the interrupting character has completed all the actions they wish to perform or is out of AP, the interruption ends, and the interrupted character resumes their activation."
-			},
-			{
-				"name": "Jump",
-				"definition": "Jumping uses the same rules as the move action with the following exception: a jumping character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A jumping character also treats all surrounding hexes as adjacent, even if they are on different elevations."
-			},
-			{
-				"name": "Knockdown",
-				"definition": "While a character has this debuff, the scope of each of their defence tests is decreased by one."
-			},
-			{
-				"name": "Marks",
-				"definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
-			},
-			{
-				"name": "Overwatch",
-				"definition": "This action allows the active character to prepare for incoming enemies. To perform the overwatch action, the player takes an overwatch token from the supply and places it near the active character on the battleground. This token indicates that the active character is on overwatch. Then, the active character’s activation ends immediately. \n \n If a character is on overwatch, they must **interrupt** (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met: \n - The enemy ends their movement in a hex that is within line of sight of the character on overwatch. \n - Any part of the enemy’s base is within the front arc of the character on overwatch. \n - The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target). \n \n A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations: \n - If a character that is on overwatch starts an overwatch interruption. \n - If a character that is on overwatch starts an activation. \n \n More than one character can interrupt the same enemy action. In that case, the player who controls those characters chooses which interruption is resolved first."
-			},
-			{
-				"name": "Protection",
-				"definition": "While a character has this buff, the scope of each of their defence tests is increased by one."
-			},
-			{
-				"name": "Push and Pull",
-				"definition": "If a game effect pushes or pulls a character, the character’s model is moved to an adjacent hex. If a character is pushed or pulled multiple hexes, those hexes must be in a straight line. \n If the target was pushed or pulled by another character, this movement must be made along a straight line connecting both characters. \n If a target would move into a hex that contains a terrain piece or other model, their movement stops immediately. \n If a target is pushed or pulled from elevated ground, they must perform a free climbing down action, after that movement immediately stops. \n When being pushed or pulled, a character cannot rotate their facing. \n This movement cannot cause attack of opportunity and overwatch interruptions."
-			},
-			{
-				"name": "Quickness",
-				"definition": "While a character has this buff, their speed value (and focused speed value) is increased by two."
-			},
-			{
-				"name": "Regeneration",
-				"definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
-			},
-			{
-				"name": "Scope",
-				"definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
-			},
-			{
-				"name": "Switch",
-				"definition": "If a game effect instructs two characters to switch positions, both models are placed on each other’s previously occupied hexes. This movement cannot trigger overwatch interruptions. However, this movement can cause attacks of opportunity. \n When being switched, characters cannot rotate their facing."
-			},
-			{
-				"name": "Teleport",
-				"definition": "Teleporting uses the same rules as the move action with the following exception: a teleporting character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A teleporting character also treats all surrounding hexes as adjacent, even if they are at different elevations. After the movement is complete, the player who controls that teleporting character can change that character’s facing. \n This movement cannot cause attack of opportunity and overwatch interruptions."
-			},
-			{
-				"name": "Tests",
-				"definition": "1. Check Stat \n 2. Determine Modifiers \n 3. Determine the scope \n 4. Normal roll \n 5. Determine Initial Successes \n 6. Free Rerolls \n 7. Mana Rerolls \n 8. Exploding Dice \n 9. Determine Final Successes \n 10. Defence Test (optional) \n 11. Apply Successes \n \n Throughout the game, characters must resolve tests. During a test, players roll dice to determine the outcome of various game interactions, such as attacks and defences as well as attempts to apply or resist certain buffs and debuffs. The number of dice a player rolls and the results that are required for success are all determined by a character’s stats and modifiers. \n To resolve a test, a player performs the following steps: \n **1. CHECK STAT:** The player checks the value on their character card that corresponds to the stat that is being tested. That stat’s value is how many dice the player rolls to test that stat before modifiers are applied. For example, He-Man has a strength of five, which means he would roll five dice—before modifiers are applied—when he tests strength. \n **2. DETERMINE MODIFIERS:** Modifiers temporarily increase or decrease a character’s stat, changing the number of dice the player rolls. Modifiers come from a variety of sources, including card skills, and they are cumulative. If a modifier adds or subtracts a number to a test (i.e., ‘Test strength +1’ or ‘Test strength –1’) that character’s stat is increased or decreased, as appropriate, for the duration of the test.\n **3. DETERMINE THE SCOPE:** Scope defines the lowest result on a die that is treated as a success. By default, the scope of each test is four. Scope can be modified by a variety of sources, including card skills and they are cumulative (see Scope rules). \n **4. NORMAL ROLL:** The player resolving the test rolls a number of dice equal to their modified stat that is being tested. \n **5. DETERMINE INITIAL SUCCESS:** The player counts their successes. Each result is equal to or greater than the scope (normally 4+) is a success. \n **6. FREE REROLLS:** Some game effects allow a player to reroll dice at no cost. Such dice are rolled during this step. All free rerolls have to be made at once. \n **7. MANA REROLLS:** A character may spend up to five mana to reroll one die for each mana spent. Each mana spent is removed from that character’s card and placed in the supply. All mana rerolls have to be made at once. \n **8. EXPLODING DICE:** If a die produces a result of six, it explodes, allowing the player to roll one additional die. Newly rolled dice can also explode—this can happen indefinitely. Keep all additional dice rolled due to an explosion separate from dice that were rolled initially. \n **9. DETERMINE FINAL SUCCESSES:** The player counts their successes as follows: \n - For the initial dice, each result that is equal to or greater than the scope is a success. \n - For dice rolled due to explosions, each result of five or higher is a success. This cannot be modified by game effects. \n **10. DEFENCE TEST (optional):** If required, the target of the test performs a defence test (see ‘Defence Test’ below). \n **11. APPLY SUCCESSES:** The player applies the successes according to the test’s description or the weapon card being used (for attack tests) to determine the outcome. If a test has more than one available outcome, only the outcome that requires the most successes is resolved."
-			},
-			{
-				"name": "Towards",
-				"definition": "Moving towards uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character or object. At the end of the movement, the character’s model must rotate to face the character or object they are moving towards."
-			}
-		],
 		"characters": [
 			{
 				"name": "He-Man",
@@ -12088,6 +11976,162 @@
 				"ap": 1,
 				"mana": 1,
 				"definition": "Test Strength against Toughness of an enemy engaged w/ or interruption, gain +2 Die. 2 Successes: 1 Wound; 3 Successes: 2 Wounds"
+			}
+		],
+		"encyclopedia": {
+			"assets": {
+				"bases": "https://example.com/images/bases.png"
+			},
+			"rulebook": {
+				"title": "Rulebook",
+				"sections": [
+					{
+						"id": "the-basics",
+						"title": "The Basics",
+						"page": 5,
+						"blocks": [
+							{
+								"type": "paragraph",
+								"text": "Each miniature stands on a base. Many rules use **base contact**."
+							},
+							{
+								"type": "figure",
+								"asset": "bases",
+								"alt": "The different base sizes"
+							}
+						],
+						"sections": [
+							{
+								"id": "dice",
+								"title": "Dice",
+								"blocks": [
+									{
+										"type": "paragraph",
+										"text": "Attack dice show {hit}, {critical}, and {surge}."
+									},
+									{
+										"type": "unorderedList",
+										"items": [
+											"Red dice are the strongest.",
+											"White dice are the weakest."
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		}"Rules": [
+			{
+				"name": "Core Rules",
+				"definition": "Preparation Phase: Players draw fate cards (maximum of five in hand). \n Activation Phase: Players take turns activating their characters. \n Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+			}
+		],
+		"keywords": [
+			{
+				"name": "Activation Phase",
+				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
+			},
+			{
+				"name": "Buffs and Debuffs",
+				"definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
+			},
+			{
+				"name": "Blind",
+				"definition": "While a character has this debuff, the scope of each of their attack tests is decreased by one."
+			},
+			{
+				"name": "Charge",
+				"definition": "Charging uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character. To resolve a charge, the character must end their movement in a hex adjacent to the character they are charging, and they must rotate their model to face that character."
+			},
+			{
+				"name": "Cripple",
+				"definition": "While a character has this debuff, their speed value (and focused speed value) is reduced by two. A character ignores this debuff if they begin their movement in difficult terrain."
+			},
+			{
+				"name": "Curse",
+				"definition": "While a character has this debuff, there is no inherent effect. However, when this debuff is removed, the affected character gains one wound token."
+			},
+			{
+				"name": "Difficult Terrain",
+				"definition": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. \n **Movement and difficult terrain:** If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
+			},
+			{
+				"name": "Enhancement",
+				"definition": "While a character has this buff, the scope of each of their attack tests is increased by one."
+			},
+			{
+				"name": "Flank attacks",
+				"definition": "A character’s facing and the position of their front and rear arcs affects the potency of incoming attacks. Any attack that originates from a hex that is within a character’s rear arc is called a FLANK ATTACK, all other attacks are called FRONTAL ATTACKS. Any flank attack, regardless of the attack type (melee, ranged, or spell), has its scope increased by one. \n Hexes that are halfway between a character’s front and rear arcs are not part of that character’s flank. Attacks that originate from those hexes do not have their scope increased."
+			},
+			{
+				"name": "Focus",
+				"definition": "The focus action allows characters to enhance their next action or test. \n To perform a focus action, the active player places one focus token next to the active character on the battleground. If a character has a focus token, they are FOCUSED. While a character is focused, they cannot gain another focus token."
+			},
+			{
+				"name": "Force",
+				"definition": "During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. \n Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
+			},
+				{
+				"name": "Game Round",
+				"definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+			},
+			{
+				"name": "Interruptions",
+				"definition": "During the game, there are times when a character can perform an action during another character’s activation. This is called an interruption. \n During an interruption, the interrupting character receives one AP. The interrupting character can perform **move**, **attack**, or **use an active skill** actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation. \n \n Interruptions must obey the following rules unless specifically stated otherwise: \n - All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks. \n - All movements must be made towards the interrupted character and end within the line of sight of that character. \n - All tests made by the interrupting character have their scope decreased by one. \n - If any skill or attack places a mark token on the battleground, it must be placed on a hex that is adjacent to the enemy that has been interrupted (unless stated otherwise). \n - All cards played during an interruption are discarded. Do not place them on the interrupting character’s card. \n - Glory cards with fulfilled side missions should be placed faceup in the player’s play area. \n \n  After the interrupting character has completed all the actions they wish to perform or is out of AP, the interruption ends, and the interrupted character resumes their activation."
+			},
+			{
+				"name": "Jump",
+				"definition": "Jumping uses the same rules as the move action with the following exception: a jumping character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A jumping character also treats all surrounding hexes as adjacent, even if they are on different elevations."
+			},
+			{
+				"name": "Knockdown",
+				"definition": "While a character has this debuff, the scope of each of their defence tests is decreased by one."
+			},
+			{
+				"name": "Marks",
+				"definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
+			},
+			{
+				"name": "Overwatch",
+				"definition": "This action allows the active character to prepare for incoming enemies. To perform the overwatch action, the player takes an overwatch token from the supply and places it near the active character on the battleground. This token indicates that the active character is on overwatch. Then, the active character’s activation ends immediately. \n \n If a character is on overwatch, they must **interrupt** (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met: \n - The enemy ends their movement in a hex that is within line of sight of the character on overwatch. \n - Any part of the enemy’s base is within the front arc of the character on overwatch. \n - The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target). \n \n A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations: \n - If a character that is on overwatch starts an overwatch interruption. \n - If a character that is on overwatch starts an activation. \n \n More than one character can interrupt the same enemy action. In that case, the player who controls those characters chooses which interruption is resolved first."
+			},
+			{
+				"name": "Protection",
+				"definition": "While a character has this buff, the scope of each of their defence tests is increased by one."
+			},
+			{
+				"name": "Push and Pull",
+				"definition": "If a game effect pushes or pulls a character, the character’s model is moved to an adjacent hex. If a character is pushed or pulled multiple hexes, those hexes must be in a straight line. \n If the target was pushed or pulled by another character, this movement must be made along a straight line connecting both characters. \n If a target would move into a hex that contains a terrain piece or other model, their movement stops immediately. \n If a target is pushed or pulled from elevated ground, they must perform a free climbing down action, after that movement immediately stops. \n When being pushed or pulled, a character cannot rotate their facing. \n This movement cannot cause attack of opportunity and overwatch interruptions."
+			},
+			{
+				"name": "Quickness",
+				"definition": "While a character has this buff, their speed value (and focused speed value) is increased by two."
+			},
+			{
+				"name": "Regeneration",
+				"definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
+			},
+			{
+				"name": "Scope",
+				"definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
+			},
+			{
+				"name": "Switch",
+				"definition": "If a game effect instructs two characters to switch positions, both models are placed on each other’s previously occupied hexes. This movement cannot trigger overwatch interruptions. However, this movement can cause attacks of opportunity. \n When being switched, characters cannot rotate their facing."
+			},
+			{
+				"name": "Teleport",
+				"definition": "Teleporting uses the same rules as the move action with the following exception: a teleporting character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A teleporting character also treats all surrounding hexes as adjacent, even if they are at different elevations. After the movement is complete, the player who controls that teleporting character can change that character’s facing. \n This movement cannot cause attack of opportunity and overwatch interruptions."
+			},
+			{
+				"name": "Tests",
+				"definition": "1. Check Stat \n 2. Determine Modifiers \n 3. Determine the scope \n 4. Normal roll \n 5. Determine Initial Successes \n 6. Free Rerolls \n 7. Mana Rerolls \n 8. Exploding Dice \n 9. Determine Final Successes \n 10. Defence Test (optional) \n 11. Apply Successes \n \n Throughout the game, characters must resolve tests. During a test, players roll dice to determine the outcome of various game interactions, such as attacks and defences as well as attempts to apply or resist certain buffs and debuffs. The number of dice a player rolls and the results that are required for success are all determined by a character’s stats and modifiers. \n To resolve a test, a player performs the following steps: \n **1. CHECK STAT:** The player checks the value on their character card that corresponds to the stat that is being tested. That stat’s value is how many dice the player rolls to test that stat before modifiers are applied. For example, He-Man has a strength of five, which means he would roll five dice—before modifiers are applied—when he tests strength. \n **2. DETERMINE MODIFIERS:** Modifiers temporarily increase or decrease a character’s stat, changing the number of dice the player rolls. Modifiers come from a variety of sources, including card skills, and they are cumulative. If a modifier adds or subtracts a number to a test (i.e., ‘Test strength +1’ or ‘Test strength –1’) that character’s stat is increased or decreased, as appropriate, for the duration of the test.\n **3. DETERMINE THE SCOPE:** Scope defines the lowest result on a die that is treated as a success. By default, the scope of each test is four. Scope can be modified by a variety of sources, including card skills and they are cumulative (see Scope rules). \n **4. NORMAL ROLL:** The player resolving the test rolls a number of dice equal to their modified stat that is being tested. \n **5. DETERMINE INITIAL SUCCESS:** The player counts their successes. Each result is equal to or greater than the scope (normally 4+) is a success. \n **6. FREE REROLLS:** Some game effects allow a player to reroll dice at no cost. Such dice are rolled during this step. All free rerolls have to be made at once. \n **7. MANA REROLLS:** A character may spend up to five mana to reroll one die for each mana spent. Each mana spent is removed from that character’s card and placed in the supply. All mana rerolls have to be made at once. \n **8. EXPLODING DICE:** If a die produces a result of six, it explodes, allowing the player to roll one additional die. Newly rolled dice can also explode—this can happen indefinitely. Keep all additional dice rolled due to an explosion separate from dice that were rolled initially. \n **9. DETERMINE FINAL SUCCESSES:** The player counts their successes as follows: \n - For the initial dice, each result that is equal to or greater than the scope is a success. \n - For dice rolled due to explosions, each result of five or higher is a success. This cannot be modified by game effects. \n **10. DEFENCE TEST (optional):** If required, the target of the test performs a defence test (see ‘Defence Test’ below). \n **11. APPLY SUCCESSES:** The player applies the successes according to the test’s description or the weapon card being used (for attack tests) to determine the outcome. If a test has more than one available outcome, only the outcome that requires the most successes is resolved."
+			},
+			{
+				"name": "Towards",
+				"definition": "Moving towards uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character or object. At the end of the movement, the character’s model must rotate to face the character or object they are moving towards."
 			}
 		]
 	}
