@@ -442,48 +442,48 @@
 										"type": "paragraph",
 										"text": "Some pieces of terrain contain both high and low obstacles. If a portion of a terrain piece has a large opening, such as a window, it is a low obstacle regardless of its height. Each terrain piece is treated as separate element."
 									},
-        {
-          "type": "figure",
-          "asset": "Rulebook_Terrain_04_High_and_Low_Obstacles_p7",
-          "alt": "Terrain piece containing both high and low obstacles. The illustration identifies the high obstacle and low obstacle portions of the same terrain piece."
-        }
-      ]
-    },
-    {
-      "id": "golden-rule",
-      "title": "Golden Rule",
-      "page": 7,
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "If players disagree about an unclear situation that is not described in the rules, each player rolls a die. The player who rolls the highest result determines the outcome. If there is a tie, the players continue to roll dice until one player rolls a higher result."
-        },
-        {
-          "type": "paragraph",
-          "text": "The most important thing to remember is that having fun is the primary objective of the game, not victory points."
-        }
-      ]
-    },
-    {
-      "id": "rule-hierarchy",
-      "title": "Rule Hierarchy",
-      "page": 7,
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "When two or more rules contradict each other, players resolve that conflict by referring to the following rule hierarchy:"
-        },
-        {
-          "type": "list",
-          "style": "ordered",
-          "items": [
-            "Rules on character cards override all other rules.",
-            "Rules on fate and glory cards override all rules listed below.",
-            "Rules on weapon cards override all rules listed below.",
-            "Rules on items cards override rules from the rulebook.",
-            "Rules in the rulebook can be overriden by any rule mentioned above."
-          ]
-        }
+									{
+										"type": "figure",
+										"asset": "Rulebook_Terrain_04_High_and_Low_Obstacles_p7",
+										"alt": "Terrain piece containing both high and low obstacles. The illustration identifies the high obstacle and low obstacle portions of the same terrain piece."
+									}
+								]
+							},
+							{
+								"id": "golden-rule",
+								"title": "Golden Rule",
+								"page": 7,
+								"blocks": [
+									{
+										"type": "paragraph",
+										"text": "If players disagree about an unclear situation that is not described in the rules, each player rolls a die. The player who rolls the highest result determines the outcome. If there is a tie, the players continue to roll dice until one player rolls a higher result."
+									},
+									{
+										"type": "paragraph",
+										"text": "The most important thing to remember is that having fun is the primary objective of the game, not victory points."
+									}
+								]
+							},
+							{
+								"id": "rule-hierarchy",
+								"title": "Rule Hierarchy",
+								"page": 7,
+								"blocks": [
+									{
+										"type": "paragraph",
+										"text": "When two or more rules contradict each other, players resolve that conflict by referring to the following rule hierarchy:"
+									},
+									{
+										"type": "list",
+										"style": "ordered",
+										"items": [
+											"Rules on character cards override all other rules.",
+											"Rules on fate and glory cards override all rules listed below.",
+											"Rules on weapon cards override all rules listed below.",
+											"Rules on items cards override rules from the rulebook.",
+											"Rules in the rulebook can be overriden by any rule mentioned above."
+										]
+									}
 								]
 							}
 						]
