@@ -304,7 +304,11 @@
 				"faction_badge_EV": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_EV_jgstao.png",
 				"Rulebook_Basic_Concepts_02_Model_p6": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794677598/Rulebook_Basic_Concepts_02_Model_p6_x1htef.png",
 				"Rulebook_Basic_Concepts_03_Character_Card_p6": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794678655/Rulebook_Basic_Concepts_03_Character_Card_p6_wmrwq9.png",
-				"Rulebook_Basic_Concepts_04_Adjacent": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794679206/Rulebook_Basic_Concepts_04_Character_Card_p6_utjyin.png"
+				"Rulebook_Basic_Concepts_04_Adjacent": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794679206/Rulebook_Basic_Concepts_04_Character_Card_p6_utjyin.png",
+				"Rulebook_Basic_Concepts_05_Terrain_High_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681863/Rulebook_Basic_Concepts_06_Terrain_High_Obstacle_p7_d6ijdz.png",
+				"Rulebook_Basic_Concepts_06_Terrain_Low_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681877/Rulebook_Basic_Concepts_05_Terrain_Low_Obstacle_p7_ri3hzh.png",
+				"Rulebook_Basic_Concepts_07_Terrain_Platform": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681899/Rulebook_Basic_Concepts_07_Terrain_Platform_p7_wslgyc.png",
+				"Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794682459/Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles_p7_iagada.png"
 			},
 			"rulebook": {
 				"title": "Rulebook",
@@ -397,16 +401,6 @@
 										"type": "paragraph",
 										"text": "Each game of Masters of the Universe: Battleground is played on a pre-set map that consists of a variety of terrain and deployment zones where each player places their force as well as objective tokens that their opponent is trying to claim."
 									},
-									
-									{
-										"type": "paragraph",
-										"text": "**Character Card** \n The character card contains that character’s stats and skills, which are described in detail later."
-									},
-									{
-										"type": "figure",
-										"asset": "Rulebook_Basic_Concepts_03_Character_Card_p6",
-										"alt": "Rulebook - Character Card"
-									},
 									{
 										"type": "paragraph",
 										"text": "There are multiple classifications of terrain that can affect character movement and attacks."
@@ -417,7 +411,7 @@
 									},
 									{
 										"type": "figure",
-										"asset": "Rulebook_Terrain_01_Low_Obstacle_p7",
+										"asset": "Rulebook_Basic_Concepts_06_Terrain_Low_Obstacle",
 										"alt": "Low obstacle example. Illustration compares the height of a low terrain obstacle with a character model using a 1, 2 and 3 inch height scale."
 									},
 									{
@@ -426,7 +420,7 @@
 									},
 									{
 										"type": "figure",
-										"asset": "Rulebook_Terrain_02_High_Obstacle_p7",
+										"asset": "Rulebook_Basic_Concepts_06_Terrain_Low_Obstacle",
 										"alt": "High obstacle example. Illustration shows a tall terrain structure compared with a character model using a 1, 2 and 3 inch height scale."
 									},
 									{
@@ -435,7 +429,7 @@
 									},
 									{
 										"type": "figure",
-										"asset": "Rulebook_Terrain_03_Platform_p7",
+										"asset": "Rulebook_Basic_Concepts_07_Terrain_Platform",
 										"alt": "Platform attached to a high obstacle. Illustration shows a character standing on a platform at higher elevation than the standard battleground, with the elevation difference indicated."
 									},
 									{
@@ -444,7 +438,7 @@
 									},
 									{
 										"type": "figure",
-										"asset": "Rulebook_Terrain_04_High_and_Low_Obstacles_p7",
+										"asset": "Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles",
 										"alt": "Terrain piece containing both high and low obstacles. The illustration identifies the high obstacle and low obstacle portions of the same terrain piece."
 									}
 								]
