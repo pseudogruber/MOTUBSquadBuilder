@@ -190,7 +190,6 @@
 							"label": "Keywords",
 							"type": "static",
 							"dataSource": "keywords"
-						},
 						}
 					]
 				},
