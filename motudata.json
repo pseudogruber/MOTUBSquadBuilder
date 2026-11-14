@@ -11980,7 +11980,7 @@
 		],
 		"encyclopedia": {
 			"assets": {
-				"bases": "https://example.com/images/bases.png"
+				"bases": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738849/Token_MP_01_iwipwf.png"
 			},
 			"rulebook": {
 				"title": "Rulebook",
@@ -12021,6 +12021,7 @@
 						]
 					}
 				]
+			}
 		},
 		"keywords": [
 			{
