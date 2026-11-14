@@ -134,14 +134,14 @@
 							"propertyName": "BasicEquipment",
 							"label": "Basic Equipment",
 							"type": "static",
-							"dataSource": "keywords",
+							"dataSource": "upgrades",
 							"defineInPreview": true,
 							"children": [
 								{
 									"label": "Basic Equipment",
 									"propertyName": "BasicEquipment",
 									"type": "static",
-									"dataSource": "keywords"
+									"dataSource": "upgrades"
 								}
 							]
 						},
