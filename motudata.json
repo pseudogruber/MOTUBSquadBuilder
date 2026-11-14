@@ -468,8 +468,7 @@
 										"text": "When two or more rules contradict each other, players resolve that conflict by referring to the following rule hierarchy:"
 									},
 									{
-										"type": "list",
-										"style": "numbered",
+										"type": "orderedList",
 										"items": [
 											"Rules on character cards override all other rules.",
 											"Rules on fate and glory cards override all rules listed below.",
