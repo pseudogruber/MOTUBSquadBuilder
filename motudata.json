@@ -333,9 +333,8 @@
 						]
 					}
 				]
-			}
-	},
-	"keywords": [
+			},
+		"keywords": [
 			{
 				"name": "Activation Phase",
 				"definition": "1. Select Cards \n 2. Activate Characters \n 3. Gain Bonuses \n 4. Perform Actions End Activation"
@@ -440,7 +439,8 @@
 				"name": "Towards",
 				"definition": "Moving towards uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character or object. At the end of the movement, the character’s model must rotate to face the character or object they are moving towards."
 			}
-	],
+		]
+	},
 	"data": {
 		"heroicTiers": [
 			{
