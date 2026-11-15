@@ -6378,24 +6378,24 @@
 					"Grizzlor"
 				]
 			},
-			{
-				"name": "Dragon Staff",
+				{
+				"name": "Horde Staff",
 				"ID": "WM28",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417825/wm28_oksbyj.jpg",
+				"points": 3,
+				"unique": true,
+				"type": "Melee",
+					"definition": "Upon activation, gain 1 Mana token for every knocked out ally (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds"
+			},
+			{
+				"name": "Dragon Staff",
+				"ID": "WM29",
+				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417823/wm29_ts8tuo.jpg",
 				"points": 1,
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Melee",
 					"definition": "After attacking, end this characters activation of interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
-			},
-			{
-				"name": "Horde Staff",
-				"ID": "WM29",
-				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417823/wm29_ts8tuo.jpg",
-				"points": 3,
-				"unique": true,
-				"type": "Melee",
-					"definition": "Upon activation, gain 1 Mana token for every knocked out ally (to a maximum of 3).\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds"
 			},
 			{
 				"name": "Propeller Arm",
