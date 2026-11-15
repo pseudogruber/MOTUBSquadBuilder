@@ -485,11 +485,11 @@
 										"text": "**PREPARATION PHASE**"
                                                                         },
 									{
-										"type": "title",
+										"type": "paragraph",
 										"text": "PREPARATION PHASE"
 									},
 									{
-										"type": "subheading",
+										"type": "paragraph",
 										"text": "### SELECT CARDSE"
 									}
 								]
@@ -506,11 +506,11 @@
                                 "text": "Each game of Masters of the Universe: Battleground is played over four rounds. Each round consists of three phases that players resolve in the following order:"
                             },
                             {
-                                "type": "orderedlist",
+                                "type": "orderedList",
                                 "items": [
-                                    "Preparation Phase: Players draw fate cards.",
-                                    "Activation Phase: Players take turns activating their characters.",
-                                    "Clean-Up Phase: Players claim objectives, check victory conditions, and remove used cards and tokens."
+                                    "**Preparation Phase**: Players draw fate cards.",
+                                    "**Activation Phase**: Players take turns activating their characters.",
+                                    "**Clean-Up Phase**: Players claim objectives, check victory conditions, and remove used cards and tokens."
                                 ]
                             }
                         ],
