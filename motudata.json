@@ -522,6 +522,11 @@
 								        },
 									]
 								},
+								{
+									"id": "activation-phase-p10-11",
+									"title": "ACTIVATION PHASE",
+									"page": 10,
+									"blocks": [
 					        {
 					            "type": "heading",
 					            "level": 3,
@@ -711,6 +716,8 @@
 					            "type": "paragraph",
 					            "text": "After both players have passed, the game proceeds to the clean-up phase."
 					        },
+										]
+								},
 					        {
 					            "type": "heading",
 					            "level": 3,
