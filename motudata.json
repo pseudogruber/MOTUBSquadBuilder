@@ -482,17 +482,19 @@
 									},
 									{
 										"type": "title",
-										"text": "PREPARATION PHASE
+										"text": "PREPARATION PHASE"
 									},
 									{
 										"type": "subheading",
-										"text": "PREPARATION PHASE
+										"text": "PREPARATION PHASE"
 									}
 								]
 							}
 						]
-					},
-					"data": {
+					}
+				]
+			},
+		"data": {
 		"heroicTiers": [
 			{
 				"name": "Hero",
