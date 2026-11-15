@@ -501,6 +501,7 @@
 					                "Clean-Up Phase: Players claim objectives, check victory conditions, and remove used cards and tokens."
 					            ]
 					        },
+							{
 							"sections": [
 						        {
 						            "id": "preparation-phase-p10",
