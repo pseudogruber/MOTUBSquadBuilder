@@ -516,7 +516,7 @@
                         ],
                         "sections": [
                             {
-                                "id": "preparation-phase-p10",
+                                "id": "preparation-phase",
                                 "title": "PREPARATION PHASE",
                                 "page": 10,
                                 "blocks": [
@@ -531,7 +531,7 @@
                                 ]
                             },
                             {
-                                "id": "activation-phase-p10-11",
+                                "id": "activation-phase",
                                 "title": "ACTIVATION PHASE",
                                 "page": 10,
                                 "blocks": [
@@ -587,7 +587,7 @@
 			                                    }
 											]
 								        }
-								    ]
+								    ],
                                     {
                                         "type": "paragraph",
                                         "text": "**SELECT CARDS**"
