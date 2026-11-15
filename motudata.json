@@ -481,12 +481,16 @@
 										]
 									},
 									{
+										"type": "paragraph",
+										"text": "**PREPARATION PHASE**"
+                                                                        },
+									{
 										"type": "title",
 										"text": "PREPARATION PHASE"
 									},
 									{
 										"type": "subheading",
-										"text": "PREPARATION PHASE"
+										"text": "### SELECT CARDSE"
 									}
 								]
 							}
