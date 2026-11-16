@@ -11066,7 +11066,7 @@
 				"BasicEquipment": [
 					""
 				],
-				"points": 0,
+				"points": "0",
 				"health": 3,
 				"toughness": 1,
 				"mind": 3,
