@@ -10886,7 +10886,7 @@
 						"heroicTier": "Hero"
 					}
 				],
-				"portraitUrl": "",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794849662/Madame_Razz_01_stu1v5.png",
 				"imageUrls": ["", ""],
 				"upgradeTypes": [
 					"Melee",
@@ -10988,7 +10988,7 @@
 						"heroicTier": "Hero"
 					}
 				],
-				"portraitUrl": "",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794849662/Loo-Kee_01_qgw5sx.png",
 				"imageUrls": ["", ""],
 				"upgradeTypes": [
 					"Spell",
