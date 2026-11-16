@@ -11957,7 +11957,7 @@
 						"heroicTier": "Hero"
 					}
 				],
-				"portraitUrl": "",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794850714/Snake_Face_01_kguo1p.png",
 				"imageUrls": ["", ""],
 				"upgradeTypes": [
 					"Melee",
@@ -11995,7 +11995,7 @@
 						"heroicTier": "Hero"
 					}
 				],
-				"portraitUrl": "",
+				"portraitUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794850714/Tung_Lashor_01_duxky4.png",
 				"imageUrls": ["", ""],
 				"upgradeTypes": [
 					"Ranged",
