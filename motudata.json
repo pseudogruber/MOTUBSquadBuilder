@@ -10902,7 +10902,7 @@
 				"BasicEquipment": [
 					"Mispronounced Spell"
 				],
-				"points": 0,
+				"points": 23,
 				"health": 4,
 				"toughness": 2,
 				"mind": 2,
@@ -10936,7 +10936,7 @@
 				"BasicEquipment": [
 					"Telepathy"
 				],
-				"points": 0,
+				"points": 14,
 				"health": 5,
 				"toughness": 2,
 				"mind": 3,
@@ -10970,7 +10970,7 @@
 				"BasicEquipment": [
 					"Telepathy"
 				],
-				"points": 0,
+				"points": 15,
 				"health": 5,
 				"toughness": 3,
 				"mind": 2,
@@ -11003,7 +11003,7 @@
 				"BasicEquipment": [
 					""
 				],
-				"points": 0,
+				"points": 10,
 				"health": 3,
 				"toughness": 2,
 				"mind": 2,
@@ -11035,7 +11035,7 @@
 				"BasicEquipment": [
 					""
 				],
-				"points": 0,
+				"points": 9,
 				"health": 3,
 				"toughness": 1,
 				"mind": 3,
@@ -11977,7 +11977,7 @@
 					"Interruptions",
 					"Trigger Cards"
 				],
-				"points": 0,
+				"points": 16,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
@@ -12015,7 +12015,7 @@
 					"Marks",
 					"Focus"
 				],
-				"points": 0,
+				"points": 17,
 				"health": 5,
 				"toughness": 2,
 				"mind": 2,
