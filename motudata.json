@@ -1044,6 +1044,568 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": "character-actions-p14-21",
+                    "title": "CHARACTER ACTIONS",
+                    "page": 14,
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "text": "This section describes how to perform each character’s action."
+                        }
+                    ],
+                    "sections": [
+                        {
+                            "id": "focus-p14",
+                            "title": "FOCUS",
+                            "page": 14,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The focus action allows characters to enhance their next action or test."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "To perform a focus action, the active player places one focus token next to the active character on the battleground. If a character has a focus token, they are FOCUSED. While a character is focused, they cannot gain another focus token."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Focus_Token_p14",
+                                    "alt": "A focus token is placed on the battleground next to the active character to indicate that they are focused."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**SPENDING FOCUS**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Focus tokens are spent to increase a character’s movement or to increase the scope of a test."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Move Actions: When a focused character is performing a move action, they may spend their focus token to use the second number of their speed stat."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Tests: When a focused character is resolving a test, they must spend their focus token. Spending a focus token in this way increases the test’s scope by one. The focus token must be spent, even if a game effect prevents it from affecting the scope of a test."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "After a player spends a focus token, they place it in the supply. The character whose focus token was spent is no longer focused."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "move-p14-16",
+                            "title": "MOVE",
+                            "page": 14,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The move action allows a player to move their character. The character receives a number of movement points equal to their standard speed value. If the character is focused and spends a focus token, they receive a number of movement points equal to their focused speed value. If a game effect modifies a character’s speed value, it modifies both its standard and focused values."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Standard_and_Focused_Speed_p14",
+                                    "alt": "Character speed stat showing the standard speed value and focused speed value."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "While performing a move action, a character can spend any number of their movement points, but any movement points that are not spent during the action are lost. If a character enters a hex that is adjacent to an enemy, their move action ends immediately."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Then, after a character moves, their model can be rotated to face any direction—the notch on a model’s base must point to one of the hexes’ six borders. Unless a game effect specifically states otherwise, a player cannot rotate their opponent’s model, even after resolving an effect that causes it to move."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**STANDARD MOVEMENT**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "By spending one movement point, a character can move from the hex they occupy to any adjacent hex that does not contain another character, ladder, low obstacle, or high obstacle."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Standard_Movement_p14",
+                                    "alt": "Movement example showing He-Man moving with and without spending a focus token. He-Man can move up to five hexes because he has a speed value of five. If he spends a focus token, he can move up to eight hexes."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**MOVEMENT AND DIFFICULT TERRAIN**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Movement_Difficult_Terrain_p15",
+                                    "alt": "He-Man has a speed value of five, but because he begins his move action in difficult terrain, that value is reduced by two, giving him only three movement points to spend this action."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**MOVEMENT AND LOW OBSTACLES**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "A character can move over low obstacles. During a move action, a character can spend three movement points to move from any hex that shares a border with a portion of a low obstacle to any other hex that shares a border with the same portion of that obstacle."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The phrase ‘portion of the obstacle’ refers to any part of the obstacle that occupies exactly one hex."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Movement_Low_Obstacles_p15",
+                                    "alt": "Skeletor spends three movement points to move over a hex that contains a low obstacle."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**OBSTACLES WITH OPENINGS**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Any portion of a terrain piece that has a large opening, such as a window, is treated as a low obstacle, regardless of height."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Obstacles_With_Openings_p15",
+                                    "alt": "Skeletor can move through this terrain's opening following the normal movement rules for low obstacles."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**MOVEMENT AND HIGH OBSTACLES**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "A character can move over high obstacles. During a move action, a character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of that obstacle."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Movement_High_Obstacles_p15",
+                                    "alt": "Skeletor spends six movement points to move over a hex that contains a high obstacle."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**LADDERS AND PLATFORMS**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Platforms consist of hexes at a higher elevation where characters can end their movement. Characters can reach platforms by using ladders or by climbing up to them."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**CLIMBING UP**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "During a move action, a character can spend three movement points to climb up to a platform. To climb up, the character must occupy a hex that shares a border with a platform hex. Then, their model is placed on that hex. A character cannot climb up from a hex that is directly underneath a platform."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Climbing_Up_Platform_p16",
+                                    "alt": "Skeletor spends three movement points to climb to the top of the platform."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**CLIMBING DOWN**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "During a move action, a character can spend three movement points to climb down from a platform. To climb down, the character must occupy a platform hex that shares a border with a hex below it. Then, their model is placed on that hex. A character cannot climb down to a hex that is directly underneath a platform."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**LADDERS**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "During a move action, a character can spend two movement points to move from any hex that shares a border with a ladder to any other hex that shares a border with that ladder (no matter its elevation)."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Ladders_Movement_p16",
+                                    "alt": "Skeletor spends two movement points to move up the ladder to the hex on the platform and then another movement point to move along the platform."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If, for any reason, the model cannot fit under the platform. The model must be temporarily replaced by a replacement token."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Replacement_Token_p16",
+                                    "alt": "Replacement token used when a character's model cannot fit under a platform."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "**PUSHING**"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "When a character is climbing down from or up to a platform, if the hex they are moving to contains a character, that character is pushed. If a character on that hex cannot be pushed, the moving character cannot enter this hex. When a character is pushed, they are moved to a hex that shares a border with the hex they occupy. The player who controls that character decides the hex to which they are pushed."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "attack-p17-20",
+                            "title": "ATTACK",
+                            "page": 17,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The attack action allows a character to attack one of their enemies in an attempt to knock them out and remove them from the battleground."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Each attack requires a character to use one of their equipped weapons, and the attack is resolved differently depending on the type of weapon used. There are three types of weapons: MELEE, RANGED, and SPELL. Each weapon is represented by a card and is indicated by one of the following icons:"
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Weapon_Types_p17",
+                                    "alt": "Icons representing melee, ranged, and spell weapons."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The AP cost of each attack action depends on the weapon type the character uses. The first time that a character uses a weapon of one of the three types during an activation, it costs one AP. Each additional time a weapon type is used during the same activation, its cost increases by one AP."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Example: Mer-Man has two weapons: ‘Magic Blast’ (a spell weapon) and ‘Laser Rifle’ (a ranged weapon). He attacks with the ‘Laser Rifle’, spending one AP. Then, he performs another attack using the ‘Magic Blast’, which also only costs one AP because it was the first attack of this activation using a spell weapon. If Mer-Man performs another attack action with the ‘Laser Rifle’, he must spend two AP as that will be the second attack using a ranged weapon in this activation."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Each attack requires the character to perform an ATTACK TEST. Then, the results of that test are applied using the selected weapon card."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Weapons can modify an attack test by increasing or decreasing the number of dice rolled. The number of dice added or subtracted to an attack test is indicated by a value next to a die icon on each weapon card."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Attack_Dice_Modifiers_p17",
+                                    "alt": "Weapon card icons showing Adds 1 Die, Subtracts 1 Die, and No Modifier."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Each weapon also has a special ability. Unless stated otherwise, a player can only resolve those abilities while their character is performing an attack action using that weapon."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Trident_Special_Ability_p17",
+                                    "alt": "The Trident adds a die to the attack test if the target is in difficult terrain."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The results of an attack test are defined by the weapon card that is used. The bottom of each weapon card lists the effects—typically a number of wounds—that are resolved according to the number of successes the test provides."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Weapon_Attack_Results_p17",
+                                    "alt": "An attack test using the Sword of Power inflicts one wound with a test result of one or two successes, two wounds with a test result of three or four successes, and three wounds with a test result of five or more successes."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Only one effect from a weapon card is resolved during a single attack action, and the player must resolve the effect that requires the greatest number of successes possible, but no more than the number the test provided. If the test results in no successes, an inadequate number of successes, or if all the successes are cancelled because of defence tests or other game effects, no weapon effect is resolved."
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "id": "melee-attack-p17",
+                                    "title": "MELEE ATTACK",
+                                    "page": 17,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "To perform a melee attack, the player chooses one of the character’s equipped melee weapons to use for the attack. Then, they must choose an enemy as the target of the attack, and then rotate the attacking character’s model so it faces that enemy."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The target of a melee attack must be an enemy that is engaged with the attacking character. Two characters from opposing forces are engaged if they are in adjacent hexes."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Melee_Engagement_p17",
+                                            "alt": "He-Man and Skeletor are engaged but He-Man and Evil-Lyn are not."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "After the player chooses a legal target and a weapon, they resolve a strength test against the enemy’s toughness."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a character does not have an equipped melee weapon, they can perform a melee attack using their fists. Such an attack is treated as an attack made with a melee weapon and uses the character’s base strength value. If the test results in one or more successes, the attack applies one wound."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "ranged-attack-p18-19",
+                                    "title": "RANGED ATTACK",
+                                    "page": 18,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "To perform a ranged attack, the player chooses one of the character’s equipped ranged weapons to use for the attack. Then, they must choose an enemy as the target of the attack and rotate the attacking character’s model so it faces that enemy. The model must face the adjacent hex that is closest to the target, measuring from that hex’s centre. If two hexes are at the same distance, the model can face either hex of the controlling player’s choice."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A character cannot perform a ranged attack while they are engaged with an enemy."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Ranged_Attack_Engaged_Characters_p18",
+                                            "alt": "He-Man cannot perform a ranged attack against Evil-Lyn because he is engaged with Skeletor."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The target of a ranged attack must be within range of the chosen weapon and in line of sight of the attacking character."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "After the player chooses a legal target and a weapon, they resolve a perception test against the enemy’s toughness."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**DETERMINING RANGE**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Each ranged weapon indicates its maximum range in inches. To determine if a target is in range of the chosen weapon, the player measures the distance between the hexes occupied by the attacking character and the enemy target using the ruler. If the distance between both characters - measuring between the two closest points of the hexes occupied by those characters - is equal to or less than the weapon’s maximum range, the enemy target is within range of the attack."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Ranged_Attack_Range_p18",
+                                            "alt": "Maximum range of 8. Stratos is attacking Evil-Lyn using the Flamethrower, which has a range of 8. Evil-Lyn and Stratos are 4 inches apart, so Evil-Lyn is within range of the Flamethrower."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**MEASUREMENT**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "At any time during the game, a player can measure any distance on the battleground. Unless stated otherwise, measurements are made between the two closest points of two hexes."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**DETERMINING LINE OF SIGHT**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "To determine line of sight, the player must be able to trace two unblocked lines that connect any corner of the attacking character’s hex to at least two different corners of the target’s hex. Lines can be traced through difficult terrain, low obstacles, ladders, characters, and tokens. However, if a line traces through a high obstacle, the line of sight is blocked. Traced lines cannot overlap each other."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Ranged_Attack_Line_Of_Sight_p18",
+                                            "alt": "Stratos has line of sight to Evil-Lyn, but he does not have line of sight to Trap Jaw. When trying to trace a line of sight to Trap Jaw, all but one line is blocked by a high obstacle."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If the attacking character is at a higher elevation than the target, the line of sight is only blocked by high obstacles that are on hexes adjacent to the target. A character that is on a platform does not have line of sight to any hexes that are directly under that platform. A character that is directly under a platform does not have line of sight to hexes on that platform."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Ranged_Attack_Platform_Line_Of_Sight_p18",
+                                            "alt": "Stratos does not have line of sight to Evil-Lyn because the high obstacle is on a hex that is adjacent to Evil-Lyn's hex. However, Stratos can see over the high obstacles to trace line of sight to Trap Jaw."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If the attacking character is at a lower elevation than the target, the line of sight is only blocked by high obstacles that are on hexes adjacent to the attacking character."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19",
+                                            "alt": "Stratos can see over the high obstacles to trace line of sight to Trap Jaw. However, Stratos does not have line of sight to Evil-Lyn because he must trace through portions of the high obstacle that are on hexes that are adjacent to his hex."
+                                        }
+                                    ],
+                                    "sections": [
+                                        {
+                                            "id": "ranged-attack-example-p19",
+                                            "title": "RANGED ATTACK EXAMPLE",
+                                            "page": 19,
+                                            "blocks": [
+                                                {
+                                                    "type": "orderedlist",
+                                                    "items": [
+                                                        "Man-At-Arms is using his ‘Arm Cannon’ to perform a ranged attack against Skeletor. Man-At-Arms has a perception stat of 4, and the ‘Arm Cannon’ weapon’s range is 12 inches.",
+                                                        "Skeletor is within range (3 inches) and line of sight of Man-At-Arms.",
+                                                        "There are no dice or scope modifiers, so the player rolls 4 dice, which is the value of Man-At-Arms’ perception stat. The results are ‘4’, ‘1’, ‘3’, and ‘5’. Each result that is 4 or greater is a success.",
+                                                        "Skeletor has a toughness stat of 3, so rolls 3 dice for his defence test. The results are ‘3’, ‘1’, and ‘4’. Each result that is 4 or greater is a success.",
+                                                        "The success from the defence test cancells one success from the attack test. The attack test still has one success. Man-At-Arms consults the ‘Arm Cannon’ weapon’s effects, which indicates that one success results in one wound. So, Skeletor gains one wound and the attack is complete."
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "figure",
+                                                    "asset": "Rulebook_Ranged_Attack_Example_Man_At_Arms_p19",
+                                                    "alt": "Five illustrated steps showing Man-At-Arms performing a ranged attack against Skeletor, measuring range and line of sight, rolling attack and defence dice, and applying one wound."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "spell-attack-p19",
+                                    "title": "SPELL ATTACK",
+                                    "page": 19,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A spell attack follows all the rules of a ranged attack with the following exceptions:"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The attacking character must use an equipped spell weapon instead of a ranged weapon."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The attack is resolved with a power test against the target’s mind."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The attacking character must spend an amount of mana equal to the spell’s mana cost."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**MANA COSTS**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Each spell card has a mana cost, which indicates how much mana the attacking character must spend to use that spell during an attack action. While making a spell attack, after choosing a spell, the player takes a number of mana tokens equal to the spell’s mana cost from the attacking character’s card and places them in the supply."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Spell_Mana_Cost_p19",
+                                            "alt": "A spell card mana cost indicator showing the amount of mana required."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**TARGETING ALLIES**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Some spells provide beneficial effects and can target allies instead of enemies. To target an ally with a spell, all of the normal range, line of sight, facing, and mana-cost rules apply."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "extra-effects-p20",
+                                    "title": "EXTRA EFFECTS",
+                                    "page": 20,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Skills, weapons, or fate cards can provide attacking characters with additional benefits that will be applied, if an attack results in a specific number of successes. Successes are counted after the target of the attack performs their defence test."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Example:"
+                                        },
+                                        {
+                                            "type": "orderedlist",
+                                            "items": [
+                                                "He-Man equipped with a ‘Grayskull Ring’ attacks Skeletor.",
+                                                "The player rolls 5 dice. The results are ‘1’, ‘3’, ‘4’, ‘4’ and ‘5’. Each result that is 4 or greater is a success.",
+                                                "Now the player controlling Skeletor performs a defence test. The results are ‘3’, ‘2’, and ‘4’. The success from the defence test cancells one success from the attack test, therefore the whole attack resulted in two successes.",
+                                                "The passive skill of ‘Grayskull Ring’, requires at least three successes, so its effect won’t be applied."
+                                            ]
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Extra_Effects_Grayskull_Ring_Example_p20",
+                                            "alt": "Four-step example showing He-Man attacking Skeletor with the Grayskull Ring, attack dice results, Skeletor's defence test, and the passive skill effect not being applied because the attack produced only two successes."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "use-active-skill-p21",
+                            "title": "USE AN ACTIVE SKILL",
+                            "page": 21,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "This action allows a character to use one of their active skills. An active skill is any skill that has an AP or mana cost. Active skills appear on character cards and items."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Active_Skill_AP_Mana_Cost_p21",
+                                    "alt": "Man-At-Arms' Master Tactician skill has both an AP and a Mana Cost."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "To use an active skill, the character spends the appropriate AP and mana to pay for the skill’s cost, and then the player resolves the skill’s text. Each active skill can only be resolved once per activation or interruption."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "overwatch-p21",
+                            "title": "OVERWATCH",
+                            "page": 21,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "This action allows the active character to prepare for incoming enemies. To perform the overwatch action, the player takes an overwatch token from the supply and places it near the active character on the battleground. This token indicates that the active character is on overwatch. Then, the active character’s activation ends immediately."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a character is on overwatch, they must interrupt (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met:"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The enemy ends their movement in a hex that is within line of sight of the character on overwatch."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Any part of the enemy’s base is within the front arc of the character on overwatch."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target)."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations:"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a character that is on overwatch starts an overwatch interruption."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a character that is on overwatch starts an activation."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "More than one character can interrupt the same enemy action. In that case, the player who controls those characters chooses which interruption is resolved first."
+                                }
+                            ],
+                            "sections": [
+                                {
+                                    "id": "overwatch-examples-p21",
+                                    "title": "OVERWATCH EXAMPLES",
+                                    "page": 21,
+                                    "blocks": [
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Overwatch_Example_1_p21",
+                                            "alt": "Skeletor, He-Man, and Stratos are on overwatch. Tri-Klops ends his movement triggering both He-Man's and Stratos's overwatch. The player who controls the Masters of the Universe chooses to resolve Stratos' interruption first."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Overwatch_Example_2_p21",
+                                            "alt": "After Stratos resolves his interruption, He-Man can start his own interruption and moves to engage Tri-Klops."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Overwatch_Example_3_p21",
+                                            "alt": "He-Man's movement triggers Skeletor's overwatch."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
