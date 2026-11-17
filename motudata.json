@@ -839,6 +839,16 @@
                             "text": "Below is a list of a character’s basic stats that may be tested during a game:"
                         },
                         {
+                                    "type": "list",
+                                    "items": [
+                                        "**Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess.",
+                                        "**Perception:** This stat represents the character’s effectiveness in using ranged weapons and performing any other task requiring outstanding coordination.",
+                                        "**Power:** This stat represents the character’s effectiveness in casting spells and performing any other task requiring magical powers.",
+                                        "**Toughness:** This stat represents the character’s ability to prevent damage from physical attacks and perform any other task requiring remarkable endurance.",
+                                        "**Mind:** This stat represents the character’s ability to prevent damage from spell attacks, resist enemy skills, and perform any other task requiring fast thinking."
+                                    ]
+                                },
+                        {
                             "type": "paragraph",
                             "text": "**Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess."
                         },
@@ -1035,7 +1045,7 @@
                                 },
                                 {
                                     "type": "paragraph",
-                                    "text": "All increases and decreases to scope are cumulative. Regardless of the scope of a test, any results of six are always successes and any results of one are always failures."
+                                    "text": "All increases and decreases to scope are cumulative. **Regardless of the scope of a test, any results of six are always successes and any results of one are always failures.**"
                                 }
                             ]
                         },
