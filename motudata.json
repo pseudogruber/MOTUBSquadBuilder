@@ -824,6 +824,146 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": "tests-p12-13",
+                    "title": "TESTS",
+                    "page": 12,
+                    "sections": [
+                        {
+                            "id": "check-stat-p12",
+                            "title": "1. Check Stat",
+                            "page": 12,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The player checks the value on their character card that corresponds to the stat that is being tested. That stat’s value is how many dice the player rolls to test that stat before modifiers are applied. For example, He-Man has a strength of five, which means he would roll five dice—before modifiers are applied—when he tests strength."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "determine-modifiers-p12",
+                            "title": "2. Determine Modifiers",
+                            "page": 12,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Modifiers temporarily increase or decrease a character’s stat, changing the number of dice the player rolls. Modifiers come from a variety of sources, including card skills, and they are cumulative."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a modifier adds or subtracts a number to a test (i.e., ‘Test strength +1’ or ‘Test strength –1’) that character’s stat is increased or decreased, as appropriate, for the duration of the test."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "determine-scope-p12",
+                            "title": "3. Determine the Scope",
+                            "page": 12,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Scope defines the lowest result on a die that is treated as a success. By default, the scope of each test is four. Scope can be modified by a variety of sources, including card skills and they are cumulative (see ‘Scope’ on page 13)."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "normal-roll-p13",
+                            "title": "4. Normal Roll",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The player resolving the test rolls a number of dice equal to their modified stat that is being tested."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "determine-initial-successes-p13",
+                            "title": "5. Determine Initial Successes",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The player counts their successes. Each result that is equal to or greater than the scope (normally 4+) is a success."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "free-rerolls-p13",
+                            "title": "6. Free Rerolls",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Some game effects allow a player to reroll dice at no cost. Such dice are rolled during this step. All free rerolls have to be made at once."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "mana-rerolls-p13",
+                            "title": "7. Mana Rerolls",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "A character may spend up to five mana to reroll one die for each mana spent. Each mana spent is removed from that character’s card and placed in the supply. All mana rerolls have to be made at once."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "exploding-dice-p13",
+                            "title": "8. Exploding Dice",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a die produces a result of six, it explodes, allowing the player to roll one additional die. Newly rolled dice can also explode—this can happen indefinitely. Keep all additional dice rolled due to an explosion separate from dice that were rolled initially."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "determine-final-successes-p13",
+                            "title": "9. Determine Final Successes",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The player counts their successes as follows:"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "For the initial dice, each result that is equal to or greater than the scope is a success."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "For dice rolled due to explosions, each result of five or higher is a success. This cannot be modified by game effects."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "defence-test-optional-p13",
+                            "title": "10. Defence Test (optional)",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If required, the target of the test performs a defence test (see ‘Defence Test’ below)."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "apply-successes-p13",
+                            "title": "11. Apply Successes",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The player applies the successes according to the test’s description or the weapon card being used (for attack tests) to determine the outcome. If a test has more than one available outcome, only the outcome that requires the most successes is resolved."
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
