@@ -1106,7 +1106,7 @@
             },
             {
                 "name": "Defence Test",
-                "definition": "Any test made to decrease the number of successes received by the enemy during an attack or skill test."
+                "definition": "Any test made to decrease the number of successes received by the enemy during an attack or skill test. \n \n A DEFENCE TEST provides a character with an opportunity to mitigate the results of a test that is targeting them such as an attack (see ‘Attacks’ on page 17). A defence test is always resolved after dice for another test are rolled, but before its successes are applied. Each success that results from the defence test cancells one success from the enemy’s test. Any successes that are not cancelled are applied. A defence test follows the same procedure as standard tests. \n When there is an opportunity for a defence test, the test description or game rule always uses the word ‘against’ and provides the stat used for that defence test. \n *Example: If the test description instructs a character to ‘Resolve a strength test against toughness’, the player resolves a test using their strength stat. Then, the other player resolves a defence test using their toughness stat. Each success rolled during the defence (toughness) test cancells one success from the previous (strength) test.*"
             },
             {
                 "name": "Difficult Terrain",
