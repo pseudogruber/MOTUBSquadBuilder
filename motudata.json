@@ -308,7 +308,13 @@
 				"Rulebook_Basic_Concepts_05_Terrain_High_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681863/Rulebook_Basic_Concepts_06_Terrain_High_Obstacle_p7_d6ijdz.png",
 				"Rulebook_Basic_Concepts_06_Terrain_Low_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681877/Rulebook_Basic_Concepts_05_Terrain_Low_Obstacle_p7_ri3hzh.png",
 				"Rulebook_Basic_Concepts_07_Terrain_Platform": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681899/Rulebook_Basic_Concepts_07_Terrain_Platform_p7_wslgyc.png",
-				"Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794682459/Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles_p7_iagada.png"
+				"Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794682459/Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles_p7_iagada.png",
+				"Rulebook_Fate_Card_Initiative_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_01_Select_Cards_01_Fate_Card_Initiative_p10_tvwuo2.png",
+				"Rulebook_Ready_and_Activated_Characters_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_02_Activate_Character_02_Rulebook_Ready_and_Activated_Characters_p10_njljw7.png",
+				"Rulebook_Action_Points_and_Mana_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_01_Rulebook_Action_Points_and_Mana_p10_mjzruz.png",
+				"Rulebook_Fate_Card_Bonuses_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_02_Rulebook_Fate_Card_Bonuses_p10_lt8fpa.png",
+				"Rulebook_Glory_Card_Bonuses_p11": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946187/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_03_Rulebook_Glory_Card_Bonuses_p11_yffhtu.png",
+				"Rulebook_Activated_Character_Cards_p11": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_04_End_Activation_01_Rulebook_Activated_Character_Cards_p11_ncgvrd.png"
 			},
 			"rulebook": {
 				"title": "Rulebook",
