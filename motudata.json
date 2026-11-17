@@ -1084,7 +1084,7 @@
                                     "text": "Focus tokens are spent to increase a character’s movement or to increase the scope of a test."
                                 },
                                 {
-                                    "type": "unorderedlist",
+                                    "type": "unorderedList",
                                     "items": [
                                         "**Move Actions**: When a focused character is performing a move action, they may spend their focus token to use the second number of their speed stat.",
                                         "**Tests**: When a focused character is resolving a test, they must spend their focus token. Spending a focus token in this way increases the test’s scope by one. The focus token must be spent, even if a game effect prevents it from affecting the scope of a test."
