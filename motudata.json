@@ -308,7 +308,13 @@
 				"Rulebook_Basic_Concepts_05_Terrain_High_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681863/Rulebook_Basic_Concepts_06_Terrain_High_Obstacle_p7_d6ijdz.png",
 				"Rulebook_Basic_Concepts_06_Terrain_Low_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681877/Rulebook_Basic_Concepts_05_Terrain_Low_Obstacle_p7_ri3hzh.png",
 				"Rulebook_Basic_Concepts_07_Terrain_Platform": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681899/Rulebook_Basic_Concepts_07_Terrain_Platform_p7_wslgyc.png",
-				"Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794682459/Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles_p7_iagada.png"
+				"Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794682459/Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles_p7_iagada.png",
+				"Rulebook_Fate_Card_Initiative_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_01_Select_Cards_01_Fate_Card_Initiative_p10_tvwuo2.png",
+				"Rulebook_Ready_and_Activated_Characters_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_02_Activate_Character_02_Rulebook_Ready_and_Activated_Characters_p10_njljw7.png",
+				"Rulebook_Action_Points_and_Mana_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_01_Rulebook_Action_Points_and_Mana_p10_mjzruz.png",
+				"Rulebook_Fate_Card_Bonuses_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_02_Rulebook_Fate_Card_Bonuses_p10_lt8fpa.png",
+				"Rulebook_Glory_Card_Bonuses_p11": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946187/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_03_Rulebook_Glory_Card_Bonuses_p11_yffhtu.png",
+				"Rulebook_Activated_Character_Cards_p11": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_04_End_Activation_01_Rulebook_Activated_Character_Cards_p11_ncgvrd.png"
 			},
 			"rulebook": {
 				"title": "Rulebook",
@@ -496,332 +502,330 @@
 							}
 						]
 					},
-                    {
-                        "id": "playing-the-game-p10-12",
-                        "title": "PLAYING the game",
-                        "page": 10,
-                        "blocks": [
-                            {
-                                "type": "paragraph",
-                                "text": "Each game of Masters of the Universe: Battleground is played over four rounds. Each round consists of three phases that players resolve in the following order:"
-                            },
-                            {
-                                "type": "orderedList",
-                                "items": [
-                                    "**Preparation Phase**: Players draw fate cards.",
-                                    "**Activation Phase**: Players take turns activating their characters.",
-                                    "**Clean-Up Phase**: Players claim objectives, check victory conditions, and remove used cards and tokens."
-                                ]
-                            }
-                        ],
-                        "sections": [
-                            {
-                                "id": "preparation-phase",
-                                "title": "PREPARATION PHASE",
-                                "page": 10,
-                                "blocks": [
-                                    {
-                                        "type": "paragraph",
-                                        "text": "During this phase, each player draws fate cards from their fate deck until they have five fate cards in their hand. Before drawing cards, a player can discard any number of cards from their hand. Players cannot have more than five fate cards in their hand at any one time. Players cannot gain additional glory cards."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "As players draw fate cards during setup, they skip this step during the first game round."
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "activation-phase",
-                                "title": "ACTIVATION PHASE",
-                                "page": 10,
-                                "blocks": [
-                                    {
-                                        "type": "paragraph",
-                                        "text": "To resolve this phase, players perform the following steps in order:"
-                                    },
-                                    {
-                                        "type": "orderedlist",
-                                        "items": [
-                                            "Select Cards",
-                                            "Activate Character",
-                                            "Resolve Card",
-                                            "Perform Actions",
-                                            "End Activation"
-                                        ]
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Players repeat this phase until both players have activated all their characters, played all their fate and glory cards, or pass."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**SELECT CARDS**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Each player selects one fate or glory card from their hand and places it facedown on the table. Then, they simultaneously reveal their selected card."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Each fate or glory card has an initiative value."
-                                    },
-                                    {
-                                        "type": "figure",
-                                        "asset": "Rulebook_Fate_Card_Initiative_p10",
-                                        "alt": "Fate card showing an initiative value of 3. Caption: The fate card has an initiative value of 3."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "The player who reveals the card with the highest initiative value becomes the active player and is the first to activate one of their characters. If both players reveal a card with the same initiative value, the first player becomes the active player."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**ACTIVATE CHARACTER**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "The active player chooses one of their READY characters to activate. A character is ready if their character card does not have any fate or glory cards on it."
-                                    },
-                                    {
-                                        "type": "figure",
-                                        "asset": "Rulebook_Ready_and_Activated_Characters_p10",
-                                        "alt": "Comparison of a Ready character and an Activated character."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**DOUBLE ACTIVATION**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "The last character activated by a player in any given round cannot be activated as that player's first character during their next round. Players ignore this rule if they have only one character remaining."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**RESOLVE CARD**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "After a player chooses and activates a character, that character becomes the ACTIVE CHARACTER and gains action points (AP) and mana equal to the values indicated on their selected fate or glory card. Characters use AP to perform actions during their turn, and they use mana to cast spells, resolve abilities, and reroll dice during tests, as described later."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "For each mana a character gains, place one mana token on that character's card. A character can have a maximum of five mana tokens on their card at the same time."
-                                    },
-                                    {
-                                        "type": "figure",
-                                        "asset": "Rulebook_Action_Points_and_Mana_p10",
-                                        "alt": "Character card showing action points and mana. Caption: The activated character gains two action points and two mana."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**GAIN BONUSES**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Then, the player resolves the bonus on that card. If the selected card was a fate card, the bonus provides either a unique ability or one additional mana, which is taken from the supply and placed on the active character's card (to a maximum of five)."
-                                    },
-                                    {
-                                        "type": "figure",
-                                        "asset": "Rulebook_Fate_Card_Bonuses_p10",
-                                        "alt": "Fate card showing the options to gain additional mana or resolve a unique ability. Caption: A character can either gain one additional mana or resolve the ability."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "If the player's selected card was a glory card, the bonus provides either a side mission or one additional AP. Side missions are described on page 25."
-                                    },
-                                    {
-                                        "type": "figure",
-                                        "asset": "Rulebook_Glory_Card_Bonuses_p11",
-                                        "alt": "Glory card showing victory points, a side mission, and additional AP. Caption: A character can either gain one additional AP or a side mission."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**PERFORM ACTIONS**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "During this step, the active character performs any number of the following actions, which are described in detail later:"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "- Focus\n- Move\n- Attack\n- Use an Active Skill\n- Overwatch"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Each action can be performed any number of times. The first time a focus, move or overwatch action is performed during an activation, it costs one AP. Each time any of these actions are repeated during a single activation, it costs one additional AP."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Example: He-Man performs a focus action, followed by a move action. Both actions cost one AP each. If He-Man wished to perform a second move action, it would cost two AP. If He-Man were to perform a third move action, it would cost three AP."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "The cost of use an active skill action depends on the skill itself. Each active skill can be used only once per activation or interruption. Skills are described on page 25."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "The cost to perform an attack action increases the more times a particular weapon type is used during the activation. This is described in detail in the ‘Attacks’ section on page 17."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**PLAYING ADDITIONAL CARDS**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Before or after performing any action, the active player can play additional fate and glory cards to gain extra bonuses. For every fate or glory card played, the active character can choose either bonus."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**END ACTIVATION**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "After a player has finished performing their character's actions, they place all their played fate and glory cards facedown on the active character's card to indicate that the character has been activated (glory cards with fulfilled side missions should be placed faceup). An activated character cannot become an active character again until that character becomes ready during the clean-up phase or by another game effect. Any unspent action points are lost and do not carry over to the character's next activation; however, any unspent mana tokens remain."
-                                    },
-                                    {
-                                        "type": "figure",
-                                        "asset": "Rulebook_Activated_Character_Cards_p11",
-                                        "alt": "Played fate and glory cards placed on the active character's card. Caption: All played fate and glory cards are placed on the active character's card at the end of their activation."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Then, the active player's opponent becomes the active player, and they use their played fate or glory card to activate a character following the same rules (steps 2–5)."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "After both players have finished their activations, if both players have ready characters and fate or glory cards in their hands, they repeat this phase by selecting new cards (step 1). If one of the players cannot or chooses not to activate any more characters, they PASS and cannot activate characters for the remainder of the round. However, their opponent can continue the phase by selecting cards and activating characters until they pass."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "After both players have passed, the game proceeds to the clean-up phase."
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "clean-up-phase-p11-12",
-                                "title": "CLEAN-UP PHASE",
-                                "page": 11,
-                                "blocks": [
-                                    {
-                                        "type": "paragraph",
-                                        "text": "During this phase, players claim objective tokens and prepare the battleground for the upcoming game round. During the fourth round, the game ends and a winner is determined."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "To resolve this phase, players perform the following steps in order:"
-                                    },
-                                    {
-                                        "type": "orderedlist",
-                                        "items": [
-                                            "Claim Objective Tokens",
-                                            "Clear Tokens",
-                                            "Check for Victory",
-                                            "Ready Characters and Gain Mana"
-                                        ]
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Then, players proceed to the preparation phase of the next game round."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**CLAIM OBJECTIVE TOKENS**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "During this step, characters claim objective tokens. Players can resolve each objective token in any order."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "A character claims an objective token if all of the following conditions have been met:"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "- There are no enemies adjacent to a hex occupied by the character.\n- The character is in, or adjacent to, a hex that contains the objective token.\n- There are no enemies either in, or adjacent to, a hex that contains the objective token.\n- The objective token is not in the character's own deployment zone."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "If all the conditions are met, the character can claim that objective token, removing it from the battlefield and placing it in their play area. At the end of the game, each player gains 20 victory points for every objective token they have."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**CLEAR TOKENS**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Players remove all the buff, debuff, and mark tokens from the table. See ‘Buffs and Debuffs’ on page 24 and ‘Marks’ on page 25."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**CHECK FOR VICTORY**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "If this is the fourth round of the game or each character in a player's force was removed from the battleground, players calculate their total victory points and determine the outcome of the game. See ‘Scoring’ below."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "To win a game of Masters of the Universe: Battleground, a player either needs to knock out their opponent's entire force or have at least 20 victory points more than their opponent at the end of the game."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**KNOCKOUT VICTORY**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "During the clean-up phase, if every character in a player's force is knocked out, the player with one or more characters still on the battleground wins the game."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "If both players lose all of their characters, the game ends in a draw."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**POINTS VICTORY**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "During the clean-up phase of the fourth game round, if neither player has secured a knockout victory, the game ends and each player calculates the total victory points they have earned."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "If one player has at least 20 victory points more than their opponent, the player with the most victory points wins the game."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "If neither player has 20 victory points more than their opponent, no player wins and the game ends in a draw."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**SCORING**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Players can earn victory points from the following sources:"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "- Claiming objective tokens (worth 20 VP each).\n- Completing side missions (gain VP equal to the amount indicated on the glory card).\n- Knocking out an opponent's character (VP equal to the cost of that character and all of their equipment). Information about the cost of any particular character or item can be found on page 12 in the Battleground Book."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Additionally, if both players agree, they can choose to end the game in a draw at any time. Similarly, a player can forfeit a game at any time, making their opponent the winner."
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "**READY CHARACTERS AND GAIN MANA**"
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "text": "Each ready character that was not activated during the round gains one mana token (to a maximum of five). Then, players ready each of their characters by taking all the fate and glory cards they played in the last round and placing them in their appropriate discard piles. Glory cards with fulfilled side missions should be placed faceup in the play area of the appropriate player."
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-				]
-			}
-	},
+		                    {
+		                        "id": "playing-the-game-p10-12",
+		                        "title": "PLAYING the game",
+		                        "page": 10,
+		                        "blocks": [
+		                            {
+		                                "type": "paragraph",
+		                                "text": "Each game of Masters of the Universe: Battleground is played over four rounds. Each round consists of three phases that players resolve in the following order:"
+		                            },
+		                            {
+		                                "type": "orderedList",
+		                                "items": [
+		                                    "**Preparation Phase**: Players draw fate cards.",
+		                                    "**Activation Phase**: Players take turns activating their characters.",
+		                                    "**Clean-Up Phase**: Players claim objectives, check victory conditions, and remove used cards and tokens."
+		                                ]
+		                            }
+		                        ],
+		                        "sections": [
+		                            {
+		                                "id": "preparation-phase",
+		                                "title": "PREPARATION PHASE",
+		                                "page": 10,
+		                                "blocks": [
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "During this phase, each player draws fate cards from their fate deck until they have five fate cards in their hand. Before drawing cards, a player can discard any number of cards from their hand. Players cannot have more than five fate cards in their hand at any one time. Players cannot gain additional glory cards."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "As players draw fate cards during setup, they skip this step during the first game round."
+		                                    }
+		                                ]
+		                            },
+		                            {
+		                                "id": "activation-phase",
+		                                "title": "ACTIVATION PHASE",
+		                                "page": 10,
+		                                "blocks": [
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "To resolve this phase, players perform the following steps in order:"
+		                                    },
+		                                    {
+		                                        "type": "orderedlist",
+		                                        "items": [
+		                                            "Select Cards",
+		                                            "Activate Character",
+		                                            "Resolve Card",
+		                                            "Perform Actions",
+		                                            "End Activation"
+		                                        ]
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Players repeat this phase until both players have activated all their characters, played all their fate and glory cards, or pass."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**SELECT CARDS**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Each player selects one fate or glory card from their hand and places it facedown on the table. Then, they simultaneously reveal their selected card."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Each fate or glory card has an initiative value."
+		                                    },
+		                                    {
+		                                        "type": "figure",
+		                                        "asset": "Rulebook_Fate_Card_Initiative_p10",
+		                                        "alt": "Fate card showing an initiative value of 3. Caption: The fate card has an initiative value of 3."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "The player who reveals the card with the highest initiative value becomes the active player and is the first to activate one of their characters. If both players reveal a card with the same initiative value, the first player becomes the active player."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**ACTIVATE CHARACTER**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "The active player chooses one of their READY characters to activate. A character is ready if their character card does not have any fate or glory cards on it."
+		                                    },
+		                                    {
+		                                        "type": "figure",
+		                                        "asset": "Rulebook_Ready_and_Activated_Characters_p10",
+		                                        "alt": "Comparison of a Ready character and an Activated character."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**DOUBLE ACTIVATION**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "The last character activated by a player in any given round cannot be activated as that player's first character during their next round. Players ignore this rule if they have only one character remaining."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**RESOLVE CARD**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "After a player chooses and activates a character, that character becomes the ACTIVE CHARACTER and gains action points (AP) and mana equal to the values indicated on their selected fate or glory card. Characters use AP to perform actions during their turn, and they use mana to cast spells, resolve abilities, and reroll dice during tests, as described later."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "For each mana a character gains, place one mana token on that character's card. A character can have a maximum of five mana tokens on their card at the same time."
+		                                    },
+		                                    {
+		                                        "type": "figure",
+		                                        "asset": "Rulebook_Action_Points_and_Mana_p10",
+		                                        "alt": "Character card showing action points and mana. Caption: The activated character gains two action points and two mana."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**GAIN BONUSES**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Then, the player resolves the bonus on that card. If the selected card was a fate card, the bonus provides either a unique ability or one additional mana, which is taken from the supply and placed on the active character's card (to a maximum of five)."
+		                                    },
+		                                    {
+		                                        "type": "figure",
+		                                        "asset": "Rulebook_Fate_Card_Bonuses_p10",
+		                                        "alt": "Fate card showing the options to gain additional mana or resolve a unique ability. Caption: A character can either gain one additional mana or resolve the ability."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "If the player's selected card was a glory card, the bonus provides either a side mission or one additional AP. Side missions are described on page 25."
+		                                    },
+		                                    {
+		                                        "type": "figure",
+		                                        "asset": "Rulebook_Glory_Card_Bonuses_p11",
+		                                        "alt": "Glory card showing victory points, a side mission, and additional AP. Caption: A character can either gain one additional AP or a side mission."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**PERFORM ACTIONS**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "During this step, the active character performs any number of the following actions, which are described in detail later:"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "- Focus\n- Move\n- Attack\n- Use an Active Skill\n- Overwatch"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Each action can be performed any number of times. The first time a focus, move or overwatch action is performed during an activation, it costs one AP. Each time any of these actions are repeated during a single activation, it costs one additional AP."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Example: He-Man performs a focus action, followed by a move action. Both actions cost one AP each. If He-Man wished to perform a second move action, it would cost two AP. If He-Man were to perform a third move action, it would cost three AP."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "The cost of use an active skill action depends on the skill itself. Each active skill can be used only once per activation or interruption. Skills are described on page 25."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "The cost to perform an attack action increases the more times a particular weapon type is used during the activation. This is described in detail in the ‘Attacks’ section on page 17."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**PLAYING ADDITIONAL CARDS**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Before or after performing any action, the active player can play additional fate and glory cards to gain extra bonuses. For every fate or glory card played, the active character can choose either bonus."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**END ACTIVATION**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "After a player has finished performing their character's actions, they place all their played fate and glory cards facedown on the active character's card to indicate that the character has been activated (glory cards with fulfilled side missions should be placed faceup). An activated character cannot become an active character again until that character becomes ready during the clean-up phase or by another game effect. Any unspent action points are lost and do not carry over to the character's next activation; however, any unspent mana tokens remain."
+		                                    },
+		                                    {
+		                                        "type": "figure",
+		                                        "asset": "Rulebook_Activated_Character_Cards_p11",
+		                                        "alt": "Played fate and glory cards placed on the active character's card. Caption: All played fate and glory cards are placed on the active character's card at the end of their activation."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Then, the active player's opponent becomes the active player, and they use their played fate or glory card to activate a character following the same rules (steps 2–5)."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "After both players have finished their activations, if both players have ready characters and fate or glory cards in their hands, they repeat this phase by selecting new cards (step 1). If one of the players cannot or chooses not to activate any more characters, they PASS and cannot activate characters for the remainder of the round. However, their opponent can continue the phase by selecting cards and activating characters until they pass."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "After both players have passed, the game proceeds to the clean-up phase."
+		                                    }
+		                                ]
+		                            },
+		                            {
+		                                "id": "clean-up-phase-p11-12",
+		                                "title": "CLEAN-UP PHASE",
+		                                "page": 11,
+		                                "blocks": [
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "During this phase, players claim objective tokens and prepare the battleground for the upcoming game round. During the fourth round, the game ends and a winner is determined."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "To resolve this phase, players perform the following steps in order:"
+		                                    },
+		                                    {
+		                                        "type": "orderedlist",
+		                                        "items": [
+		                                            "Claim Objective Tokens",
+		                                            "Clear Tokens",
+		                                            "Check for Victory",
+		                                            "Ready Characters and Gain Mana"
+		                                        ]
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Then, players proceed to the preparation phase of the next game round."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**CLAIM OBJECTIVE TOKENS**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "During this step, characters claim objective tokens. Players can resolve each objective token in any order."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "A character claims an objective token if all of the following conditions have been met:"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "- There are no enemies adjacent to a hex occupied by the character.\n- The character is in, or adjacent to, a hex that contains the objective token.\n- There are no enemies either in, or adjacent to, a hex that contains the objective token.\n- The objective token is not in the character's own deployment zone."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "If all the conditions are met, the character can claim that objective token, removing it from the battlefield and placing it in their play area. At the end of the game, each player gains 20 victory points for every objective token they have."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**CLEAR TOKENS**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Players remove all the buff, debuff, and mark tokens from the table. See ‘Buffs and Debuffs’ on page 24 and ‘Marks’ on page 25."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**CHECK FOR VICTORY**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "If this is the fourth round of the game or each character in a player's force was removed from the battleground, players calculate their total victory points and determine the outcome of the game. See ‘Scoring’ below."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "To win a game of Masters of the Universe: Battleground, a player either needs to knock out their opponent's entire force or have at least 20 victory points more than their opponent at the end of the game."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**KNOCKOUT VICTORY**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "During the clean-up phase, if every character in a player's force is knocked out, the player with one or more characters still on the battleground wins the game."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "If both players lose all of their characters, the game ends in a draw."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**POINTS VICTORY**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "During the clean-up phase of the fourth game round, if neither player has secured a knockout victory, the game ends and each player calculates the total victory points they have earned."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "If one player has at least 20 victory points more than their opponent, the player with the most victory points wins the game."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "If neither player has 20 victory points more than their opponent, no player wins and the game ends in a draw."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**SCORING**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Players can earn victory points from the following sources:"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "- Claiming objective tokens (worth 20 VP each).\n- Completing side missions (gain VP equal to the amount indicated on the glory card).\n- Knocking out an opponent's character (VP equal to the cost of that character and all of their equipment). Information about the cost of any particular character or item can be found on page 12 in the Battleground Book."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Additionally, if both players agree, they can choose to end the game in a draw at any time. Similarly, a player can forfeit a game at any time, making their opponent the winner."
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "**READY CHARACTERS AND GAIN MANA**"
+		                                    },
+		                                    {
+		                                        "type": "paragraph",
+		                                        "text": "Each ready character that was not activated during the round gains one mana token (to a maximum of five). Then, players ready each of their characters by taking all the fate and glory cards they played in the last round and placing them in their appropriate discard piles. Glory cards with fulfilled side missions should be placed faceup in the play area of the appropriate player."
+		                                    }
+		                                ]
+		                            }
+		                        ]
+		                    }
+					},
 		"data": {
 		"heroicTiers": [
 			{
