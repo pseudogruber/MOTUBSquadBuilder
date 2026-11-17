@@ -559,33 +559,6 @@
 		                                        "type": "paragraph",
 		                                        "text": "Players repeat this phase until both players have activated all their characters, played all their fate and glory cards, or pass."
 		                                    },
-						],
-							"sections": [
-			                            {
-			                                "id": "select-cards",
-			                                "title": "Select Cards",
-			                                "page": 10,
-			                                "blocks": [
-			                                    {
-			                                        "type": "paragraph",
-			                                        "text": "Each player selects one fate or glory card from their hand and places it facedown on the table. Then, they simultaneously reveal their selected card."
-			                                    },
-			                                    {
-			                                        "type": "paragraph",
-			                                        "text": "Each fate or glory card has an initiative value."
-			                                    },
-								{
-			                                        "type": "figure",
-			                                        "asset": "Rulebook_Fate_Card_Initiative_p10",
-			                                        "alt": "Fate card showing an initiative value of 3. Caption: The fate card has an initiative value of 3."
-			                                    },
-			                                    {
-			                                        "type": "paragraph",
-			                                        "text": "The player who reveals the card with the highest initiative value becomes the active player and is the first to activate one of their characters. If both players reveal a card with the same initiative value, the first player becomes the active player."
-			                                    },
-			                                ]
-			                            },
-							],
 		                                    {
 		                                        "type": "paragraph",
 		                                        "text": "**SELECT CARDS**"
