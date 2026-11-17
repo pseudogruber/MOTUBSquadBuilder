@@ -839,26 +839,6 @@
                                         "**Toughness:** This stat represents the character’s ability to prevent damage from physical attacks and perform any other task requiring remarkable endurance.",
                                         "**Mind:** This stat represents the character’s ability to prevent damage from spell attacks, resist enemy skills, and perform any other task requiring fast thinking."
                                     ]
-                                },
-                        {
-                            "type": "paragraph",
-                            "text": "**Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess."
-                        },
-                        {
-                            "type": "paragraph",
-                            "text": "**Perception:** This stat represents the character’s effectiveness in using ranged weapons and performing any other task requiring outstanding coordination."
-                        },
-                        {
-                            "type": "paragraph",
-                            "text": "**Power:** This stat represents the character’s effectiveness in casting spells and performing any other task requiring magical powers."
-                        },
-                        {
-                            "type": "paragraph",
-                            "text": "**Toughness:** This stat represents the character’s ability to prevent damage from physical attacks and perform any other task requiring remarkable endurance."
-                        },
-                        {
-                            "type": "paragraph",
-                            "text": "**Mind:** This stat represents the character’s ability to prevent damage from spell attacks, resist enemy skills, and perform any other task requiring fast thinking."
                         },
                         {
                             "type": "paragraph",
