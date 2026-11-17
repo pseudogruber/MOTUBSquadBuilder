@@ -489,14 +489,6 @@
                                 {
                                     "type": "paragraph",
                                     "text": "**PREPARATION PHASE**"
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "PREPARATION PHASE"
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "### SELECT CARDSE"
                                 }
                             ]
                         }
@@ -839,7 +831,7 @@
                             "text": "Below is a list of a character’s basic stats that may be tested during a game:"
                         },
                         {
-                                    "type": "list",
+                                    "type": "unorderedList",
                                     "items": [
                                         "**Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess.",
                                         "**Perception:** This stat represents the character’s effectiveness in using ranged weapons and performing any other task requiring outstanding coordination.",
