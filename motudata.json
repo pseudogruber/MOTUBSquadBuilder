@@ -829,6 +829,44 @@
                     "id": "tests-p12-13",
                     "title": "TESTS",
                     "page": 12,
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "text": "Throughout the game, characters must resolve tests. During a test, players roll dice to determine the outcome of various game interactions, such as attacks and defences as well as attempts to apply or resist certain buffs and debuffs. The number of dice a player rolls and the results that are required for success are all determined by a character’s stats and modifiers."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Below is a list of a character’s basic stats that may be tested during a game:"
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "**Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "**Perception:** This stat represents the character’s effectiveness in using ranged weapons and performing any other task requiring outstanding coordination."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "**Power:** This stat represents the character’s effectiveness in casting spells and performing any other task requiring magical powers."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "**Toughness:** This stat represents the character’s ability to prevent damage from physical attacks and perform any other task requiring remarkable endurance."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "**Mind:** This stat represents the character’s ability to prevent damage from spell attacks, resist enemy skills, and perform any other task requiring fast thinking."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "If a die rolls off the table, its result does not count, and it is rerolled."
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "To resolve a test, a player performs the following steps:"
+                        }
+                    ],
                     "sections": [
                         {
                             "id": "check-stat-p12",
@@ -960,6 +998,65 @@
                                 {
                                     "type": "paragraph",
                                     "text": "The player applies the successes according to the test’s description or the weapon card being used (for attack tests) to determine the outcome. If a test has more than one available outcome, only the outcome that requires the most successes is resolved."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "defence-tests-p13",
+                            "title": "DEFENCE TESTS",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "A DEFENCE TEST provides a character with an opportunity to mitigate the results of a test that is targeting them such as an attack (see ‘Attacks’ on page 17). A defence test is always resolved after dice for another test are rolled, but before its successes are applied. Each success that results from the defence test cancells one success from the enemy’s test. Any successes that are not cancelled are applied. A defence test follows the same procedure as standard tests."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "When there is an opportunity for a defence test, the test description or game rule always uses the word ‘against’ and provides the stat used for that defence test."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "*Example: If the test description instructs a character to ‘Resolve a strength test against toughness’, the player resolves a test using their strength stat. Then, the other player resolves a defence test using their toughness stat. Each success rolled during the defence (toughness) test cancells one success from the previous (strength) test.*"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "scope-p13",
+                            "title": "SCOPE",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "During a test, the lowest result that leads to a success on the initial roll is called the SCOPE. By default, the scope of each test is four. That is, any results of four or higher on the initial roll are successes. However, a game effect can increase the scope, lowering the result needed for successes, or decrease the scope, raising the result needed for successes."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "For example, if a game effect increases a test’s scope by one, the scope becomes three. That means that any results of three or higher on the initial roll are successes. Likewise, if a game effect decreases a test’s scope by one, the scope becomes five. That means that only results of five or higher on the initial roll are successes."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "All increases and decreases to scope are cumulative. Regardless of the scope of a test, any results of six are always successes and any results of one are always failures."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "test-example-p13",
+                            "title": "TEST EXAMPLE",
+                            "page": 13,
+                            "blocks": [
+                                {
+                                    "type": "orderedlist",
+                                    "items": [
+                                        "Ram Man is resolving a strength test. His strength stat is 4, so he rolls 4 dice.",
+                                        "The roll produces the following results: ‘3’, ‘4’, ‘6’, and ‘2’. Each roll of 4 or higher is a success.",
+                                        "Ram Man spends 1 mana and rerolls the ‘2’ result. The reroll produces a ‘3’.",
+                                        "Then, Ram Man’s ‘6’ explodes, so he rolls an additional die, and the result is ‘5’. The test ends with 3 successes."
+                                    ]
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "Rulebook_Test_Example_Ram_Man_p13",
+                                    "alt": "Illustrated example of Ram Man resolving a strength test, rolling four dice, rerolling a result by spending mana, and gaining an additional die from an exploding six."
                                 }
                             ]
                         }
