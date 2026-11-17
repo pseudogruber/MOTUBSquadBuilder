@@ -580,7 +580,7 @@
 			},
 			{
 				"name": "False Marks",
-				"definition": "Lady Slither"s ‘Shedding Skin’ skill places a mark and a fake mark. Both of these tokens have the same reverse, but on the other side of the false mark, there is no mark symbol. That side is revealed when the token is about to be removed from the battleground. Until then, the false mark is treated as a standard mark."
+				"definition": "Lady Slither's ‘Shedding Skin’ skill places a mark and a fake mark. Both of these tokens have the same reverse, but on the other side of the false mark, there is no mark symbol. That side is revealed when the token is about to be removed from the battleground. Until then, the false mark is treated as a standard mark."
 			},
 			{
 				"name": "Fang-or Deployment FAQ",
@@ -735,13 +735,13 @@
 				]
 			},
 			{
-				"name": "G02: One of your characters ends move action in the enemy"s deployment zone.",
+				"name": "G02: One of your characters ends move action in the enemy's deployment zone.",
 				"ID": "G2",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757971954/g2_mcwbqn.jpg",
 				"initiative": 2,
 				"ap": 3,
 				"mana": 0,
-				"description": "One of your characters ends move action in the enemy"s deployment zone.",
+				"description": "One of your characters ends move action in the enemy's deployment zone.",
 				"vp": 10,
 				"alternativeBonus": "+1 AP",
 				"factions": [
@@ -1169,7 +1169,7 @@
 				"initiative": 11,
 				"ap": 1,
 				"mana": 2,
-				"description": "This mission will be completed if an enemy"s attack knocks out this character during the current round.",
+				"description": "This mission will be completed if an enemy's attack knocks out this character during the current round.",
 				"vp": 10,
 				"alternativeBonus": "+1 AP",
 				"factions": [
@@ -2040,7 +2040,7 @@
 				"initiative": 2,
 				"ap": 2,
 				"mana": 0,
-				"description": "During this activation or interruption, spell attacks gain +1 Die for every 2 Mana in the character"s possession.\n          Mana is counted after it is spent for an attack and any additional bonuses.",
+				"description": "During this activation or interruption, spell attacks gain +1 Die for every 2 Mana in the character's possession.\n          Mana is counted after it is spent for an attack and any additional bonuses.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -2283,7 +2283,7 @@
 				"initiative": 4,
 				"ap": 3,
 				"mana": 0,
-				"description": "During this activation or interruption, if this character"s attack results in 3 or more Successes, gain a Focus.",
+				"description": "During this activation or interruption, if this character's attack results in 3 or more Successes, gain a Focus.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -2317,7 +2317,7 @@
 				"initiative": 4,
 				"ap": 3,
 				"mana": 1,
-				"description": "During this activation or interruption, if this character"s attack results in 3 or more Successes, draw a fate card.",
+				"description": "During this activation or interruption, if this character's attack results in 3 or more Successes, draw a fate card.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -2657,7 +2657,7 @@
 				"initiative": 6,
 				"ap": 3,
 				"mana": 0,
-				"description": "During this activation or interruption, if this character"s attack results in 5 or more Successes, deal 1 extra Wound.",
+				"description": "During this activation or interruption, if this character's attack results in 5 or more Successes, deal 1 extra Wound.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -2691,7 +2691,7 @@
 				"initiative": 6,
 				"ap": 3,
 				"mana": 0,
-				"description": "During this activation or interruption, if this character"s attack results in 2 or more Successes, gain 1 Mana.",
+				"description": "During this activation or interruption, if this character's attack results in 2 or more Successes, gain 1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -3099,7 +3099,7 @@
 				"initiative": 8,
 				"ap": 2,
 				"mana": 1,
-				"description": "During this activation or interruption, if this character"s attacks results in 4 or more Successes, gain 1 Action.",
+				"description": "During this activation or interruption, if this character's attacks results in 4 or more Successes, gain 1 Action.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -3539,12 +3539,12 @@
 				]
 			},
 			{
-				"name": "F52: Set this character"s Mana to 3.",
+				"name": "F52: Set this character's Mana to 3.",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757963737/f52_mdaepm.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mana": 0,
-				"description": "Set this character"s Mana to 3.",
+				"description": "Set this character's Mana to 3.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -3612,7 +3612,7 @@
 				"initiative": 3,
 				"ap": 2,
 				"mana": 2,
-				"description": "During this activation or interruption, if this character"s skill test results in 3 or more Successes, gain a Focus.",
+				"description": "During this activation or interruption, if this character's skill test results in 3 or more Successes, gain a Focus.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -4533,12 +4533,12 @@
 				]
 			},
 			{
-				"name": "F81: She-Ra"s ultimate skill",
+				"name": "F81: She-Ra's ultimate skill",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966108/f81_xur70i.jpg",
 				"initiative": 8,
 				"ap": 2,
 				"mana": 2,
-				"description": "She-Ra"s ultimate skill: She-Ra gains a She-ra token. When She-Ra has a She-ra token, she and all her allies within 8\" receive +1 die for all defence tests.\n          OR +1 Mana.",
+				"description": "She-Ra's ultimate skill: She-Ra gains a She-ra token. When She-Ra has a She-ra token, she and all her allies within 8\" receive +1 die for all defence tests.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -4567,12 +4567,12 @@
 				]
 			},
 			{
-				"name": "F82: Bow"s ultimate skill",
+				"name": "F82: Bow's ultimate skill",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966112/f82_r3xylf.jpg",
 				"initiative": 7,
 				"ap": 2,
 				"mana": 2,
-				"description": "Bow"s ultimate skill: remove up to 3 buffs from allies. Draw a random card from your discard file for every buff removed.\n          OR +1 Mana.",
+				"description": "Bow's ultimate skill: remove up to 3 buffs from allies. Draw a random card from your discard file for every buff removed.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -4601,12 +4601,12 @@
 				]
 			},
 			{
-				"name": "F83: Glimmer"s ultimate skill",
+				"name": "F83: Glimmer's ultimate skill",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966109/f83_vjksbb.jpg",
 				"initiative": 10,
 				"ap": 1,
 				"mana": 1,
-				"description": "Glimmer"s ultimate skill: choose any ally within 12\", Glimmer is teleported to a hex adjacent to that ally.\n          OR +1 Mana.",
+				"description": "Glimmer's ultimate skill: choose any ally within 12\", Glimmer is teleported to a hex adjacent to that ally.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -4635,12 +4635,12 @@
 				]
 			},
 			{
-				"name": "F84: Castaspella"s ultimate skill",
+				"name": "F84: Castaspella's ultimate skill",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966114/f84_kjww9r.jpg",
 				"initiative": 6,
 				"ap": 2,
 				"mana": 3,
-				"description": "Castaspella"s ultimate skill: all allies withat least 3 Mana gain a Focus.\n          OR +1 Mana.",
+				"description": "Castaspella's ultimate skill: all allies withat least 3 Mana gain a Focus.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -4669,12 +4669,12 @@
 				]
 			},
 			{
-				"name": "F85: Frosta"s ultimate skill",
+				"name": "F85: Frosta's ultimate skill",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966118/f85_jovktc.jpg",
 				"initiative": 4,
 				"ap": 3,
 				"mana": 1,
-				"description": "Frosta"s ultimate skill: if this card is played during an interruption, gain 2 Action points.\n          OR +1 Mana.",
+				"description": "Frosta's ultimate skill: if this card is played during an interruption, gain 2 Action points.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -4703,12 +4703,12 @@
 				]
 			},
 			{
-				"name": "F86: Angela"s ultimate skill",
+				"name": "F86: Angela's ultimate skill",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1757966120/f86_otbw5p.jpg",
 				"initiative": 1,
 				"ap": 3,
 				"mana": 0,
-				"description": "Angella"s ultimate skill: choose an activated ally within 16\" with a buff token. Remove the buff token from that ally, then become ready.\n          OR +1 Mana.",
+				"description": "Angella's ultimate skill: choose an activated ally within 16\" with a buff token. Remove the buff token from that ally, then become ready.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -5089,7 +5089,7 @@
 				"initiative": 2,
 				"ap": 3,
 				"mana": 1,
-				"description": "Trigger: You may discard this card after your character"s attack knockout any character. Your other character interrupts current activation or interruption.\n          OR +1 Mana.",
+				"description": "Trigger: You may discard this card after your character's attack knockout any character. Your other character interrupts current activation or interruption.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -5789,7 +5789,7 @@
 				"initiative": 3,
 				"ap": 3,
 				"mana": 0,
-				"description": "Trigger: You may discard this card when your character is about to be pushed or pulled. Your character can"t be pushed or pulled.\n          OR +1 Mana.",
+				"description": "Trigger: You may discard this card when your character is about to be pushed or pulled. Your character can't be pushed or pulled.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -5824,7 +5824,7 @@
 				"initiative": 9,
 				"ap": 2,
 				"mana": 0,
-				"description": "Trigger: You may discard this card when your character is about to receive a Debuff. Your character doesn"t receive that Debuff.\n          OR +1 Mana.",
+				"description": "Trigger: You may discard this card when your character is about to receive a Debuff. Your character doesn't receive that Debuff.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -5853,13 +5853,13 @@
 				]
 			},
 			{
-				"name": "F119: Madame Razz"s Ultimate Skill",
+				"name": "F119: Madame Razz's Ultimate Skill",
 				"ID": "F119",
 				"imageUrl": "",
 				"initiative": 7,
 				"ap": 2,
 				"mana": 1,
-				"description": "Madame Razz"s Ultimate Skill: Place Broom within 8\" of Madame Razz (even if Broom was knocked out).\n          OR +1 Mana.",
+				"description": "Madame Razz's Ultimate Skill: Place Broom within 8\" of Madame Razz (even if Broom was knocked out).\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -5888,13 +5888,13 @@
 				]
 			},
 			{
-				"name": "F120: Mermista"s Ultimate Skill",
+				"name": "F120: Mermista's Ultimate Skill",
 				"ID": "F120",
 				"imageUrl": "",
 				"initiative": 6,
 				"ap": 3,
 				"mana": 1,
-				"description": "Mermista"s Ultimate Skill: During this round, each friendly character gains 1 free reroll in every test.\n          OR +1 Mana.",
+				"description": "Mermista's Ultimate Skill: During this round, each friendly character gains 1 free reroll in every test.\n          OR +1 Mana.",
 				"factions": [
 					{
 						"name": "Fighting Foe Men"
@@ -6255,7 +6255,7 @@
 				]
 			},
 			{
-				"name": "Beast Man"s Whip",
+				"name": "Beast Man's Whip",
 				"ID": "WM17",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417996/wm17_gksnsp.jpg",
 				"points": 2,
@@ -6276,10 +6276,10 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Melee",
-				"definition": "If an attack with this weapon results in 2 or more Successes, pass this character"s Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+				"definition": "If an attack with this weapon results in 2 or more Successes, pass this character's Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
 			},
 			{
-				"name": "Teela"s Sword",
+				"name": "Teela's Sword",
 				"ID": "WM19",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417802/wm19_mo1dnh.jpg",
 				"points": 2,
@@ -6365,7 +6365,7 @@
 				"definition": "Gain +1 Die for every activated enemy.\n          1 success: 1 Wound\n          2 successes: 2 Wounds\n          4 successes: 3 Wounds"
 			},
 			{
-				"name": "Catra"s Whip",
+				"name": "Catra's Whip",
 				"ID": "WM26",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418318/wm26_o8as6c.jpg",
 				"points": 2,
@@ -6429,7 +6429,7 @@
 				"diceModifier": "0",
 				"unique": true,
 				"type": "Melee",
-				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies" overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes",
+				"definition": "Attacks with this weapon made immediately after a move action cost 1 AP less (to a minimum of 0). Pushes made with this weapon trigger allies' overwatches.\n          1 success: Push target 1 hex\n          2 successes: 1 Wound and push target 2 hexes\n          3 successes: 2 Wound and pull target 3 hexes",
 				"highlight": true,
 				"availableIn": [
 					"Fisto"
@@ -6443,7 +6443,7 @@
 				"diceModifier": "0",
 				"unique": true,
 				"type": "Melee",
-				"definition": "For every "6" rolled in the attack test, the target loses 1 defence Die. The number of defence Dice  cannot be reduced by 2.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+				"definition": "For every '6' rolled in the attack test, the target loses 1 defence Die. The number of defence Dice  cannot be reduced by 2.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
 			},
 			{
 				"name": "Knife of Evil",
@@ -6453,7 +6453,7 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Melee",
-				"definition": "Attacks with this weapon are always treated as flank attacks, but do not receive a bonus to the scope unless they are really made from a flank.\n          1 success: 1 Wound\n          2 successes: 1 Wound and change the target"s facing\n          3 successes: 2 Wounds and change the target"s facing"
+				"definition": "Attacks with this weapon are always treated as flank attacks, but do not receive a bonus to the scope unless they are really made from a flank.\n          1 success: 1 Wound\n          2 successes: 1 Wound and change the target's facing\n          3 successes: 2 Wounds and change the target's facing"
 			},
 			{
 				"name": "Cursed Sword",
@@ -6466,7 +6466,7 @@
 				"definition": "If an attack with this weapon results in 2 or less Successes, this character gains a Curse Debuff.\n          1 success: 1 Wound\n2 successes: 2 Wounds\n5 successes: 3 Wounds"
 			},
 			{
-				"name": "Scorpia"s Tail",
+				"name": "Scorpia's Tail",
 				"ID": "WM37",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756418437/wm37_bdiqb4.jpg",
 				"points": 1,
@@ -6558,7 +6558,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "-1",
-				"definition": "When Sssqueeze isn"t engaged, gain +2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
+				"definition": "When Sssqueeze isn't engaged, gain +2 Dice.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds",
 				"highlight": true,
 				"availableIn": [
 					"Sssqueeze"
@@ -6610,7 +6610,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "-",
-				"definition": "When Clamp Champ has a Focus token, gain +1 Die, and enemies engaged with him can"t leave their hex.\n          1 successes: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
+				"definition": "When Clamp Champ has a Focus token, gain +1 Die, and enemies engaged with him can't leave their hex.\n          1 successes: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
 				"highlight": true,
 				"availableIn": [
 					"Clamp Champ"
@@ -6654,7 +6654,7 @@
 				"definition": "Before attacking, if a target has a Buff, gain +2 Dice and remove a Buff from the target.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
 			},
 			{
-				"name": "King"s Axe",
+				"name": "King's Axe",
 				"ID": "WM52",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756419628/wm52_uq5zfo.jpg",
 				"points": 3,
@@ -6675,7 +6675,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "-1",
-				"definition": "He-Ro"s Melee and Range attacks gain +1 Die if the target is within 6\" from an ally with a Dinosaur skill.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"definition": "He-Ro's Melee and Range attacks gain +1 Die if the target is within 6\" from an ally with a Dinosaur skill.\n          1 success: 1 wound\n          3 successes: 2 wounds",
 				"highlight": true,
 				"availableIn": [
 					"He-Ro"
@@ -6689,7 +6689,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "-1",
-				"definition": "When He-ro is attacked by the enemy within 6\" from an ally with a Dinosaur skill, He-Ro"s defense tests gain +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"definition": "When He-ro is attacked by the enemy within 6\" from an ally with a Dinosaur skill, He-Ro's defense tests gain +1 Die.\n          1 success: 1 wound\n          3 successes: 2 wounds",
 				"highlight": true,
 				"availableIn": [
 					"He-Ro"
@@ -6703,7 +6703,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "0",
-				"definition": "He-Ro Melee and Ranged attacks ignore Protection, and the target can"t roll more Die than their Toughness value.\n          1 success: 1 wound\n          3 successes: 2 wounds",
+				"definition": "He-Ro Melee and Ranged attacks ignore Protection, and the target can't roll more Die than their Toughness value.\n          1 success: 1 wound\n          3 successes: 2 wounds",
 				"highlight": true,
 				"availableIn": [
 					"He-Ro"
@@ -6773,7 +6773,7 @@
 				"unique": true,
 				"type": "Melee",
 				"diceModifier": "-1",
-				"definition": "If at least one "1" is rolled during the attack test, flip this weapon face down after the attack or spend 2 Mana.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
+				"definition": "If at least one '1' is rolled during the attack test, flip this weapon face down after the attack or spend 2 Mana.\n          1 success: 1 wound\n          3 successes: 2 wounds\n          4 successes: 3 wounds",
 				"highlight": true,
 				"availableIn": [
 					"Moss Man"
@@ -6797,7 +6797,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "NoSlot",
-					"definition": "This does not use a Melee weapon slot. After a move action, if Roton didn"t end on any hexes it started on, it can perform a free Melee attack with this weapon.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
+					"definition": "This does not use a Melee weapon slot. After a move action, if Roton didn't end on any hexes it started on, it can perform a free Melee attack with this weapon.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds",
 				"highlight": true,
 				"availableIn": [
 					"Ditztroyer in Roton"
@@ -6918,7 +6918,7 @@
 				"type": "Ranged",
 				"range": 8,
 				"diceModifier": "-1",
-				"definition": "This weapon affects the target and all characters within 2 hexes from them. Targets" defence tests only succeed on results of 6.\n          2 successes: 1 wound\n          3 successes: 2 wounds",
+				"definition": "This weapon affects the target and all characters within 2 hexes from them. Targets' defence tests only succeed on results of 6.\n          2 successes: 1 wound\n          3 successes: 2 wounds",
 				"highlight": true,
 				"availableIn": [
 					"Stratos"
@@ -7086,7 +7086,7 @@
 				"range": 8,
 				"unique": true,
 				"type": "NoSlot",
-				"definition": "This does not use a ranged weapon slot.\n          During Interruptions, if this character isn"t engaged, this weapon can target any enemy, not only the one interrupted.\n          1 success: 1 Wound\n3 successes: 1 Wound and this character gains a Focus."
+				"definition": "This does not use a ranged weapon slot.\n          During Interruptions, if this character isn't engaged, this weapon can target any enemy, not only the one interrupted.\n          1 success: 1 Wound\n3 successes: 1 Wound and this character gains a Focus."
 			},
 			{
 				"name": "Stink Gun",
@@ -7097,7 +7097,7 @@
 				"type": "Ranged",
 				"diceModifier": "0",
 				"range": 12,
-				"definition": "Gain +1 Die for every 2 Mana in Stinkor"s Posession\n          1 success: 1 Wound\n2 successes: 1 Wound and a Blind debuff\n3 successes: 2 Wounds and a Blind debuff",
+				"definition": "Gain +1 Die for every 2 Mana in Stinkor's Posession\n          1 success: 1 Wound\n2 successes: 1 Wound and a Blind debuff\n3 successes: 2 Wounds and a Blind debuff",
 				"highlight": true,
 				"availableIn": [
 					"Stinkor"
@@ -7111,7 +7111,7 @@
 				"diceModifier": "+1",
 				"unique": true,
 				"type": "Ranged",
-				"definition": "This weapon affects the target and all characters that are both within 3 hexes from the target and within the target"s rear arc.\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (only additional target)\n4 successes: 2 Wounds"
+				"definition": "This weapon affects the target and all characters that are both within 3 hexes from the target and within the target's rear arc.\n          1 success: 1 Wound\n3 successes: 1 Wound and 1 Wound (only additional target)\n4 successes: 2 Wounds"
 			},
 			{
 				"name": "Energy Cannon",
@@ -7136,7 +7136,7 @@
 				"range": 12,
 				"unique": true,
 				"type": "Ranged",
-					"definition": "Ignore the target"s shield.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and remove buff from the target\n          4 successes: 2 Wounds and remove buff from the target"
+					"definition": "Ignore the target's shield.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and remove buff from the target\n          4 successes: 2 Wounds and remove buff from the target"
 			},
 			{
 				"name": "Cosmic Blaster",
@@ -7146,7 +7146,7 @@
 				"range": 12,
 				"unique": true,
 				"type": "Ranged",
-					"definition": "After attacking, end the character"s activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+					"definition": "After attacking, end the character's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
 			},
 			{
 				"name": "Magic Wand",
@@ -7277,7 +7277,7 @@
 				"unique": true,
 				"type": "Ranged",
 				"diceModifier": "-",
-				"definition": "If at least one "6" is rolled in this attack, perform a free attack with this weapon on the same enemy. This attack uses 2 Dice fewer than the previous one.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
+				"definition": "If at least one '6' is rolled in this attack, perform a free attack with this weapon on the same enemy. This attack uses 2 Dice fewer than the previous one.\n          1 Success: 1 Wound\n          4 Successes: 2 Wounds"
 			},
 			{
 				"name": "Teleportation Ray",
@@ -7291,7 +7291,7 @@
 				"definition": "This weapon can target enemies or allies.\n          1 Success: Knockdown debuff\n          2 Successes: Teleport target 2 hexes"
 			},
 			{
-				"name": "Zodac"s Blaster",
+				"name": "Zodac's Blaster",
 				"ID": "WR33",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756420974/wr33_c1m9jm.jpg",
 				"points": 2,
@@ -7307,7 +7307,7 @@
 				]
 			},
 			{
-				"name": "Dare"s Blaster",
+				"name": "Dare's Blaster",
 				"ID": "WR34",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756645035/wr34_azepet.jpg",
 				"points": 2,
@@ -7392,7 +7392,7 @@
 					"definition": "You can pay the Action cost for this attack by discarding any fate card as 1 Action.\n          1 Success: 1 Wound\n          3 Successess: 2 Wounds"
 			},
 			{
-				"name": "Tung"s Gun",
+				"name": "Tung's Gun",
 				"ID": "WR41",
 				"imageUrl": "",
 				"points": 1,
@@ -7615,7 +7615,7 @@
 				"mana": 1,
 				"unique": true,
 				"type": "Spell",
-				"definition": "This spell can target any character, if doesn"t affect them, but it does affect other characters within 4 hexes. Pulls caused by this spell are made between main and additional targets.\n          1 success: Pull target 1 hex\n2 successes: 1 Wound and pull target 2 hexes\n3 successes: 1 Wound and pull target 3 hexes"
+				"definition": "This spell can target any character, if doesn't affect them, but it does affect other characters within 4 hexes. Pulls caused by this spell are made between main and additional targets.\n          1 success: Pull target 1 hex\n2 successes: 1 Wound and pull target 2 hexes\n3 successes: 1 Wound and pull target 3 hexes"
 			},
 			{
 				"name": "Strong will Fall",
@@ -7676,7 +7676,7 @@
 				"mana": 2,
 				"unique": true,
 				"type": "Spell",
-				"definition": "If at least one "6" is rolled in this attack, perform a free attack with this spell on another enemy within 6\" from the target. This attack uses 2 Dice fewer than the previous one.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
+				"definition": "If at least one '6' is rolled in this attack, perform a free attack with this spell on another enemy within 6\" from the target. This attack uses 2 Dice fewer than the previous one.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
 			},
 			{
 				"name": "Motivational Speech",
@@ -7699,7 +7699,7 @@
 				"mana": 1,
 				"unique": true,
 				"type": "Spell",
-				"definition": "Before attacking, add up to 3 Dice. All successes are cancelled if at least one "1" is rolled in the attack test.\n          2 successes: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
+				"definition": "Before attacking, add up to 3 Dice. All successes are cancelled if at least one '1' is rolled in the attack test.\n          2 successes: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
 			},
 			{
 				"name": "Insults",
@@ -7896,7 +7896,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "Spell",
-				"definition": "Targets this character and can be used while engaged. If this character"s Melee or Ranged attack had no effect, the character can immediately perform a free Spell attack with this spell.\n          0 Successes: This character gains 1 Mana\n          1 Success: This character gain Focus\n          2 Success: This character gains 1 Action"
+				"definition": "Targets this character and can be used while engaged. If this character's Melee or Ranged attack had no effect, the character can immediately perform a free Spell attack with this spell.\n          0 Successes: This character gains 1 Mana\n          1 Success: This character gain Focus\n          2 Success: This character gains 1 Action"
 			},
 			{
 				"name": "Earthquake",
@@ -7994,7 +7994,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "Spell",
-				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally"s spell as a free action.",
+				"definition": "Targets only this character. The target does not make a defense test.\n          0 Success: Loose all Mana\n          2 Successes: Use an ally's spell as a free action.",
 				"availableIn": [
 					"Madame Razz"
 				]
@@ -8009,7 +8009,7 @@
 				"diceModifier": "-",
 				"unique": true,
 				"type": "Spell",
-				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with. During the interruption, if the attack results in 2 or more Successes, end this character interruption and target"s activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wound",
+				"definition": "This spell can be used while engaged. Can only target enemies this character is engaged with. During the interruption, if the attack results in 2 or more Successes, end this character interruption and target's activation or interruption.\n          1 Success: 1 Wound\n          4 Successes: 2 Wound",
 				"availableIn": [
 					"Snake Face"
 				]
@@ -8091,7 +8091,7 @@
 				"diceModifier": "-1",
 				"unique": true,
 				"type": "Heavy Weapon",
-					"definition": "Ignores the target"s shield and armor.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 Hexes\n          3 Successes: 2 Wounds and push target 2 Hexes",
+					"definition": "Ignores the target's shield and armor.\n          1 Success: 1 Wound\n          2 Successes: 1 Wound and push target 2 Hexes\n          3 Successes: 2 Wounds and push target 2 Hexes",
 				"highlight": true,
 				"availableIn": [
 					"Dawg-O-Tor in Land Shark"
@@ -8293,7 +8293,7 @@
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "If the character"s attack results in 3 or more Successes, gain a Focus."
+				"definition": "If the character's attack results in 3 or more Successes, gain a Focus."
 			},
 			{
 				"name": "Spellstone",
@@ -8302,7 +8302,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "If the character"s attack results in 2 or more Successes, gain 1 Mana."
+				"definition": "If the character's attack results in 2 or more Successes, gain 1 Mana."
 			},
 			{
 				"name": "Sun Scarab",
@@ -8374,7 +8374,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "If the character"s skill test results in 2 or more Successes, gain 1 Mana."
+				"definition": "If the character's skill test results in 2 or more Successes, gain 1 Mana."
 			},
 			{
 				"name": "Coridite",
@@ -8383,7 +8383,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "if the character"s interruption attack results in 2 or more Successes, draw a fate card."
+				"definition": "if the character's interruption attack results in 2 or more Successes, draw a fate card."
 			},
 			{
 				"name": "Steel Shield",
@@ -8395,7 +8395,7 @@
 				"definition": "If the character is a target of a frontal Melee Attack, gain a Focus."
 			},
 			{
-				"name": "Assassin"s Belt",
+				"name": "Assassin's Belt",
 				"ID": "I33",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650339/i33_hvm9bf.jpg",
 				"points": 2,
@@ -8410,10 +8410,10 @@
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "Enemy attacks trigger this character"s overwatches. Interruption starts after the attack."
+				"definition": "Enemy attacks trigger this character's overwatches. Interruption starts after the attack."
 			},
 			{
-				"name": "King"s Goblet",
+				"name": "King's Goblet",
 				"ID": "I35",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650340/i35_sewyew.jpg",
 				"points": 2,
@@ -8582,7 +8582,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "If this character"s flank attack results in 2 or more Successes, the target receives a Blind debuff."
+				"definition": "If this character's flank attack results in 2 or more Successes, the target receives a Blind debuff."
 			},
 			{
 				"name": "Magic Lamp",
@@ -8591,7 +8591,7 @@
 				"points": 1,
 				"unique": true,
 				"type": "Trinket",
-				"definition": "Spell attacks gain +1 Die. After the Spell attack, this character receives a Curse debuff if at least one "1" was rolled in the attack test."
+				"definition": "Spell attacks gain +1 Die. After the Spell attack, this character receives a Curse debuff if at least one '1' was rolled in the attack test."
 			},
 			{
 				"name": "Slug Armour",
@@ -8600,7 +8600,7 @@
 				"points": 3,
 				"unique": true,
 				"type": "Armour",
-					"definition": "Gain +1 Toughness and +1 Mind for every 2 Mana in Leech"s possession. Leech loses 1 Mana after every defence test.",
+					"definition": "Gain +1 Toughness and +1 Mind for every 2 Mana in Leech's possession. Leech loses 1 Mana after every defence test.",
 				"highlight": true,
 				"availableIn": [
 					"Leech"
@@ -8734,7 +8734,7 @@
 				"points": 2,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "If this character"s attack results in 3 or more Successes, gain 1 Protection."
+					"definition": "If this character's attack results in 3 or more Successes, gain 1 Protection."
 			},
 			{
 				"name": "Galactic Shoes",
@@ -8846,7 +8846,7 @@
 					"definition": "Disposable. Choose a trinket of any ally and use it as your own during this activation or interruption."
 			},
 			{
-				"name": "King"s Order",
+				"name": "King's Order",
 				"ID": "I82",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i82_ubvq0z.jpg",
 				"points": 2,
@@ -8897,10 +8897,10 @@
 				"points": 3,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "When performing a move action, always assume that this character isn"t engaged."
+					"definition": "When performing a move action, always assume that this character isn't engaged."
 			},
 			{
-				"name": "Enforcer"s Armor",
+				"name": "Enforcer's Armor",
 				"ID": "I88",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i88_skh1bd.jpg",
 				"points": 2,
@@ -8922,7 +8922,7 @@
 				]
 			},
 			{
-				"name": "King"s Shield",
+				"name": "King's Shield",
 				"ID": "I90",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650771/i90_pqk2t2.jpg",
 				"points": 2,
@@ -8969,7 +8969,7 @@
 					"definition": "Disposable. Until the end of the current activation, this character cannot be interrupted."
 			},
 			{
-				"name": "Rider"s Gloves",
+				"name": "Rider's Gloves",
 				"ID": "I95",
 				"imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650318/i95_zi5zpq.jpg",
 				"points": 1,
@@ -9083,7 +9083,7 @@
 					"definition": "Take Aim. Until the end of this activation or interruption, increase the range of Heavy Attack by 4\"."
 			},
 			{
-				"name": "Mermista"s Shield",
+				"name": "Mermista's Shield",
 				"ID": "I108",
 				"imageUrl": "",
 				"points": 2,
@@ -9092,7 +9092,7 @@
 					"definition": "This character cannot be pushed, pulled, or teleported and gains 1 Mana instead."
 			},
 			{
-				"name": "Netossa"s Shield",
+				"name": "Netossa's Shield",
 				"ID": "I109",
 				"imageUrl": "",
 				"points": 3,
@@ -9128,14 +9128,14 @@
 					"definition": "When a Mark within 4\" is removed, gain Protection Buff."
 			},
 			{
-				"name": "Serpent"s Ring",
+				"name": "Serpent's Ring",
 				"ID": "I113",
 				"imageUrl": "",
 				"points": 3,
 				"action cost": 1,
 				"unique": true,
 				"type": "Trinket",
-					"definition": "Serpent"s Mark. Put Serpent"s Mark within 8\". When removed, remove friendly characters within 2\", then redeploy them the next round."
+					"definition": "Serpent's Mark. Put Serpent's Mark within 8\". When removed, remove friendly characters within 2\", then redeploy them the next round."
 			},
 			{
 				"name": "Lizard Companion",
@@ -9283,7 +9283,7 @@
 					"Trinket"
 				],
 				"BasicEquipment": [
-					"Teela"s Sword"
+					"Teela's Sword"
 				],
 				"keywords": [
 					"Interruptions",
@@ -9524,7 +9524,7 @@
 				"imageUrls": ["https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411262/hm6_a_rzd8rh.jpg", "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756411265/hm6_b_kxqsmu.jpg"],
 				"skills": [
 					"Lead by Example",
-					"Tiger"s Claw"
+					"Tiger's Claw"
 				],
 				"upgradeTypes": [
 					"Melee",
@@ -10048,7 +10048,7 @@
 					"Supernatural Endurance"
 				],
 				"BasicEquipment": [
-					"Beast Man"s Whip"
+					"Beast Man's Whip"
 				],
 				"points": 19,
 				"health": 6,
@@ -10292,7 +10292,7 @@
 				],
 				"skills": [
 					"Deception",
-					"Panthor"s Fangs"
+					"Panthor's Fangs"
 				],
 				"keywords": [
 					"Push and Pull"
@@ -10610,7 +10610,7 @@
 					"Trinket"
 				],
 				"skills": [
-					"I"m with you",
+					"I'm with you",
 					"Tides of Power"
 				],
 				"BasicEquipment": [
@@ -10644,7 +10644,7 @@
 					"Trinket"
 				],
 				"skills": [
-					"I"m with you",
+					"I'm with you",
 					"Merfolk guidance"
 				],
 				"BasicEquipment": [
@@ -10856,7 +10856,7 @@
 					"It Belongs to Me"
 				],
 				"BasicEquipment": [
-					"Catra"s Whip"
+					"Catra's Whip"
 				],
 				"points": 15,
 				"health": 4,
@@ -10922,7 +10922,7 @@
 					"Trinket"
 				],
 				"skills": [
-					"Hordak"s Enforcer",
+					"Hordak's Enforcer",
 					"Endless Horde"
 				],
 				"points": 7,
@@ -11027,7 +11027,7 @@
 					"Living Shield"
 				],
 				"BasicEquipment": [
-					"Scorpia"s Tail"
+					"Scorpia's Tail"
 				],
 				"points": 14,
 				"health": 4,
@@ -11722,7 +11722,7 @@
 					"Trinket"
 				],
 				"skills": [
-					"Serpent"s Rage",
+					"Serpent's Rage",
 					"Tyrantisaurus Bite"
 				],
 				"BasicEquipment": [
@@ -11875,7 +11875,7 @@
 			},
 			{
 				"name": "Shared Power",
-				"definition": "Any Ally within 8\" can spend Evil-Lyn"s mana as their own.",
+				"definition": "Any Ally within 8\" can spend Evil-Lyn's mana as their own.",
 				"ap": 0,
 				"mana": 0
 			},
@@ -11911,7 +11911,7 @@
 			},
 			{
 				"name": "To the Sky!",
-				"definition": "If Stratos isnt" engaged, spend up to 5 Mana to jump 1 hex for every Mana spent.",
+				"definition": "If Stratos isnt' engaged, spend up to 5 Mana to jump 1 hex for every Mana spent.",
 				"mana": "X"
 			},
 			{
@@ -11960,12 +11960,12 @@
 			},
 			{
 				"name": "Weapon Swap",
-				"definition": "If Trap Jaw has the "Hook Attachment" equipped, replace it with the "Laser Attachment".\n            If Trap Jaw has the "Laser Attachment" equipped, replace it with the "Hook Attachment".",
+				"definition": "If Trap Jaw has the 'Hook Attachment' equipped, replace it with the 'Laser Attachment'.\n            If Trap Jaw has the 'Laser Attachment' equipped, replace it with the 'Hook Attachment'.",
 				"mana": 1
 			},
 			{
 				"name": "Grappling Hook",
-				"definition": "If Trap Jaw has the "Hook Attachment" equipped, test Perception -1.\n            Trap Jaw can jump in a straigth line up to 2 hexes per Success.",
+				"definition": "If Trap Jaw has the 'Hook Attachment' equipped, test Perception -1.\n            Trap Jaw can jump in a straigth line up to 2 hexes per Success.",
 				"mana": 2
 			},
 			{
@@ -12024,10 +12024,10 @@
 			{
 				"name": "Lead by Example",
 				"mana": 2,
-				"definition": "Any ally within 12\" can use this skill as their own. He-Man interrupts this ally"s activation or interruption. During this interruption He-Man can move in any direction."
+				"definition": "Any ally within 12\" can use this skill as their own. He-Man interrupts this ally's activation or interruption. During this interruption He-Man can move in any direction."
 			},
 			{
-				"name": "Tiger"s Claw",
+				"name": "Tiger's Claw",
 				"ap": 1,
 				"mana": 1,
 				"definition": "Test Strength-1 against the Mind of an enemy engaged with He-Man.\n            1 Success: 1 Wound.\n            2 Successes: 1 Wound and a Knockdown debuff."
@@ -12086,18 +12086,18 @@
 			},
 			{
 				"name": "I Have the (Fake) Power",
-				"definition": "During Skeletor"s activation or interruption, Skeletor gains 1 Mana for every played fate card."
+				"definition": "During Skeletor's activation or interruption, Skeletor gains 1 Mana for every played fate card."
 			},
 			{
 				"name": "Deception",
-				"definition": "During Skeletor"s activation or interruption, Skeletor gains 1 Mana for every played Fate card."
+				"definition": "During Skeletor's activation or interruption, Skeletor gains 1 Mana for every played Fate card."
 			},
 			{
 				"name": "Robot Reflex",
 				"definition": "Faker cannot receive Mana from fate and glory cards. If he gains a Focus, he also gains 2 Mana."
 			},
 			{
-				"name": "Panthor"s Fangs",
+				"name": "Panthor's Fangs",
 				"definition": "Test Strength against Toughness of an Enemy engaged with Skeletor.\n            1 Success: 1 Wound.\n            2 Successes: 1 Wound and push target 1 hex."
 			},
 			{
@@ -12119,11 +12119,11 @@
 			},
 			{
 				"name": "Guiding Light",
-				"definition": "If Glimmer is ready, after revealing activation cards, the controlling player can use their card to activate Glimmer and overwrite the card"s initiative with 10."
+				"definition": "If Glimmer is ready, after revealing activation cards, the controlling player can use their card to activate Glimmer and overwrite the card's initiative with 10."
 			},
 			{
 				"name": "Guiding Light",
-				"definition": "If Glimmer is ready, after revealing activation cards, the controlling player can use their card to activate Glimmer and overwrite the card"s initiative with 10."
+				"definition": "If Glimmer is ready, after revealing activation cards, the controlling player can use their card to activate Glimmer and overwrite the card's initiative with 10."
 			},
 			{
 				"name": "Invisibility",
@@ -12159,7 +12159,7 @@
 			},
 			{
 				"name": "Sub-Zero",
-				"definition": "If any enemy witin 12\" is activated with initiative 7 or higher, Frosta can spend 1 Mana token to interrupt this enemey"s activations."
+				"definition": "If any enemy witin 12\" is activated with initiative 7 or higher, Frosta can spend 1 Mana token to interrupt this enemey's activations."
 			},
 			{
 				"name": "Fly Away",
@@ -12172,7 +12172,7 @@
 				"definition": "Place Broom on a hex adjacent to Madame Razz (even if Broom was knocked out)."
 			},
 				{
-				"name": "I"m with you",
+				"name": "I'm with you",
 				"definition": "Friendly characters on hexes adjacent to Mermista gain 1 free reroll in every test."
 			},
 			{
@@ -12248,7 +12248,7 @@
 				"definition": "Whenever an ally is knocked out, transfer all Mana from that ally to the Shadow Weaver."
 			},
 			{
-				"name": "Hordak"s Enforcer",
+				"name": "Hordak's Enforcer",
 				"definition": "When a Horde trooper is knocked out, shuffle 2 random fate cards from your discard pile back to your deck."
 			},
 			{
@@ -12303,13 +12303,13 @@
 			},
 			{
 				"name": "Vehicle - Rotation",
-				"definition": "Roton doesn"t have a rear arc. Its front arc is 360 degrees wide."
+				"definition": "Roton doesn't have a rear arc. Its front arc is 360 degrees wide."
 			},
 			{
 				"name": "Rotor Motors",
 				"ap": 0,
 				"mana": 2,
-				"definition": "Until the end of the round, Roton move actions cost 1 Action less (to a minimum of 1), use jump rules, and can"t be interrupted by attacks of opportunity."
+				"definition": "Until the end of the round, Roton move actions cost 1 Action less (to a minimum of 1), use jump rules, and can't be interrupted by attacks of opportunity."
 			},
 			{
 				"name": "Vehicle - Aggression",
@@ -12321,7 +12321,7 @@
 			},
 			{
 				"name": "Radio Communication",
-				"definition": "Allies with an \"Endless Horde\" skill can use Hordak"s trinkets as their own."
+				"definition": "Allies with an \"Endless Horde\" skill can use Hordak's trinkets as their own."
 			},
 			{
 				"name": "A Thousand Cuts",
@@ -12345,7 +12345,7 @@
 			},
 			{
 				"name": "Side by Side",
-				"definition": "Any ally within 6\" can use Clamp Champ"s Focus as their own."
+				"definition": "Any ally within 6\" can use Clamp Champ's Focus as their own."
 			},
 			{
 				"name": "We Fight as One!",
@@ -12457,7 +12457,7 @@
 			},
 			{
 				"name": "Fight Back!",
-				"definition": "Upon Fang-Or"s interruption from trigger fate card, he receives 1 extra Action."
+				"definition": "Upon Fang-Or's interruption from trigger fate card, he receives 1 extra Action."
 			},
 			{
 				"name": "Ambush!",
@@ -12465,7 +12465,7 @@
 			},
 			{
 				"name": "Camoulflage",
-				"definition": "At the end of Kobra Khan"s interruption from a trigger fate card, you can remove him from the table and redeploy him at the beginning of the next round."
+				"definition": "At the end of Kobra Khan's interruption from a trigger fate card, you can remove him from the table and redeploy him at the beginning of the next round."
 			},
 			{
 				"name": "Hypnotic Mist",
@@ -12499,7 +12499,7 @@
 			},
 			{
 				"name": "Elongated Arms",
-				"definition": "Sssqueeze"s Melee attacks can target enemies within 2 hexes (assuming they are in line of sight), even if they are not engaged with him."
+				"definition": "Sssqueeze's Melee attacks can target enemies within 2 hexes (assuming they are in line of sight), even if they are not engaged with him."
 			},
 			{
 				"name": "Serpent's Rage",
