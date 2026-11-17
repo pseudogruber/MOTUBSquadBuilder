@@ -315,7 +315,8 @@
             "Rulebook_Fate_Card_Bonuses_p10": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_02_Rulebook_Fate_Card_Bonuses_p10_lt8fpa.png",
             "Rulebook_Glory_Card_Bonuses_p11": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946187/Rulebook_02_PLAYING_THE_GAME_01_Activation_03_Resolve_Card_03_Rulebook_Glory_Card_Bonuses_p11_yffhtu.png",
             "Rulebook_Activated_Character_Cards_p11": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794946188/Rulebook_02_PLAYING_THE_GAME_01_Activation_04_End_Activation_01_Rulebook_Activated_Character_Cards_p11_ncgvrd.png",
-            "Rulebook_Test_Example_Ram_Man_p13": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794955809/Rulebook_03_TESTS_Rulebook_Test_Example_Ram_Man_p13_cvckgr.png"
+            "Rulebook_Test_Example_Ram_Man_p13": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794955809/Rulebook_03_TESTS_Rulebook_Test_Example_Ram_Man_p13_cvckgr.png",
+            "Rulebook_Focus_Token_p14": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794958102/Rulebook_04_CHARACTER_ACTIONS_01_FOCUS_01_Rulebook_Focus_Token_p14_bqb5f4.png"
         },
         "rulebook": {
             "title": "Rulebook",
@@ -1083,12 +1084,11 @@
                                     "text": "Focus tokens are spent to increase a character’s movement or to increase the scope of a test."
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "Move Actions: When a focused character is performing a move action, they may spend their focus token to use the second number of their speed stat."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "Tests: When a focused character is resolving a test, they must spend their focus token. Spending a focus token in this way increases the test’s scope by one. The focus token must be spent, even if a game effect prevents it from affecting the scope of a test."
+                                    "type": "unorderedlist",
+                                    "items": [
+                                        "**Move Actions**: When a focused character is performing a move action, they may spend their focus token to use the second number of their speed stat.",
+                                        "**Tests**: When a focused character is resolving a test, they must spend their focus token. Spending a focus token in this way increases the test’s scope by one. The focus token must be spent, even if a game effect prevents it from affecting the scope of a test."
+                                    ]
                                 },
                                 {
                                     "type": "paragraph",
