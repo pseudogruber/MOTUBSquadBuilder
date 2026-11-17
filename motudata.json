@@ -502,32 +502,6 @@
 							}
 						]
 					},
-					{
-    "id": "playing-the-game-p10-12",
-    "title": "PLAYING the game",
-    "page": 10,
-    "sections": [
-        {
-            "id": "preparation-phase-p10",
-            "title": "PREPARATION PHASE",
-            "page": 10,
-            "blocks": []
-        },
-        {
-            "id": "activation-phase-p10-11",
-            "title": "ACTIVATION PHASE",
-            "page": 10,
-            "blocks": []
-        },
-        {
-            "id": "clean-up-phase-p11-12",
-            "title": "CLEAN-UP PHASE",
-            "page": 11,
-            "blocks": []
-        }
-    ]
-}
-				],
 		"data": {
 		"heroicTiers": [
 			{
