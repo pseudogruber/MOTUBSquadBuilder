@@ -1555,28 +1555,23 @@
                                     "text": "If a character is on overwatch, they must interrupt (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met:"
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "The enemy ends their movement in a hex that is within line of sight of the character on overwatch."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "Any part of the enemy’s base is within the front arc of the character on overwatch."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target)."
+                                            "type": "orderedlist",
+                                            "items": [
+                                                "The enemy ends their movement in a hex that is within line of sight of the character on overwatch.",
+                                                "Any part of the enemy’s base is within the front arc of the character on overwatch.",
+                                                "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target)."
+                                            ]
                                 },
                                 {
                                     "type": "paragraph",
                                     "text": "A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations:"
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "If a character that is on overwatch starts an overwatch interruption."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "If a character that is on overwatch starts an activation."
+                                            "type": "orderedlist",
+                                            "items": [
+                                                "If a character that is on overwatch starts an overwatch interruption.",
+                                                "If a character that is on overwatch starts an activation."
+                                            ]
                                 },
                                 {
                                     "type": "paragraph",
