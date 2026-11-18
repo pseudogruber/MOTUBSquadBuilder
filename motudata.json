@@ -324,7 +324,17 @@
             "Rulebook_Obstacles_With_Openings_p15": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794959024/Rulebook_04_CHARACTER_ACTIONS_02_MOVE_05_Rulebook_Obstacles_With_Openings_p15_acctf3.png",
             "Rulebook_Movement_High_Obstacles_p15": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794959022/Rulebook_04_CHARACTER_ACTIONS_02_MOVE_06_Rulebook_Movement_High_Obstacles_p15_zsfzha.png",
             "Rulebook_Climbing_Up_Platform_p16": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794959022/Rulebook_04_CHARACTER_ACTIONS_02_MOVE_07_Rulebook_Climbing_Up_Platform_p16_maiajs.png",
-            "Rulebook_Ladders_Movement_p16": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794959021/Rulebook_04_CHARACTER_ACTIONS_02_MOVE_08_Rulebook_Ladders_Movement_p16_xfl8ay.png"
+            "Rulebook_Ladders_Movement_p16": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794959021/Rulebook_04_CHARACTER_ACTIONS_02_MOVE_08_Rulebook_Ladders_Movement_p16_xfl8ay.png",
+            "Rulebook_Weapon_Types_p17": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018440/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_01_Rulebook_Weapon_Types_p17_pfccks.png",
+            "Rulebook_Attack_Dice_Modifiers_p17": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018440/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_02_Rulebook_Attack_Dice_Modifiers_p17_po91jy.png",
+            "Rulebook_Trident_Special_Ability_p17": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018440/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_03_Rulebook_Trident_Special_Ability_p17_dlfjcq.png",
+            "Rulebook_Weapon_Attack_Results_p17": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018441/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_04_Rulebook_Weapon_Attack_Results_p17_ryv86h.png",
+            "Rulebook_Melee_Engagement_p17": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018441/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_05_Rulebook_Melee_Engagement_p17_j7eh4a.png",
+            "Rulebook_Ranged_Attack_Engaged_Characters_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018492/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_06_Rulebook_Ranged_Attack_Engaged_Characters_p18_unr1g2.png",
+            "Rulebook_Ranged_Attack_Range_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018502/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_07_Rulebook_Ranged_Attack_Range_p18_cxg7pf.png",
+            "Rulebook_Ranged_Attack_Line_Of_Sight_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018502/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_08_Rulebook_Rulebook_Ranged_Attack_Line_Of_Sight_p18_ci6hnw.png",
+            "Rulebook_Ranged_Attack_Platform_Line_Of_Sight_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018503/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_09_Rulebook_Ranged_Attack_Platform_Line_Of_Sight_p18_x5snbc.png.png",
+            "Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018440/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_10_Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19_jmzcn0.png"
         },
         "rulebook": {
             "title": "Rulebook",
