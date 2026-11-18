@@ -2272,47 +2272,35 @@
                                         {
                                             "type": "paragraph",
                                             "text": "During a move action, a massive character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of high obstacle. No part of the massive character’s base can be placed on top of the obstacle."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "climbing-up-p28",
-                                    "title": "CLIMBING UP",
-                                    "page": 28,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**CLIMBING UP**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "Massive models can climb up a platform using the standard rules with the following exception: the massive model must end in a position where its entire base can fit."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "climbing-down-p28",
-                                    "title": "CLIMBING DOWN",
-                                    "page": 28,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**CLIMBING DOWN**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "Massive models can climb down a platform using the standard rules with the following exception: the massive model must end in a position where its entire base can fit."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "ladders-p28",
-                                    "title": "LADDERS",
-                                    "page": 28,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**LADDERS**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "Massive models cannot use ladders and treat them as low obstacles."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "facing-p28",
-                                    "title": "FACING",
-                                    "page": 28,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**FACING**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "When a character attacks a massive model, they can face any hex occupied by that model."
@@ -2338,54 +2326,35 @@
                                             "type": "figure",
                                             "asset": "massive-model-facing-target-examples",
                                             "alt": "Examples showing how a massive model faces a target that is not adjacent."
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "massive-model-rules-p29",
-                            "title": "MASSIVE MODELS",
-                            "page": 29,
-                            "sections": [
-                                {
-                                    "id": "line-of-sight-p29",
-                                    "title": "LINE OF SIGHT",
-                                    "page": 29,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**LINE OF SIGHT**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "When determining line of sight to or from a massive model, players can use any single hex occupied by the massive model."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "cover-p29",
-                                    "title": "COVER",
-                                    "page": 29,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**COVER**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "When determining if a massive model has cover, players ignore all characters and high or low obstacles that are adjacent to any hex occupied by the massive model."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "pushing-and-pulling-p29",
-                                    "title": "PUSHING AND PULLING",
-                                    "page": 29,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**PUSHING AND PULLING**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "Massive models cannot be pushed or pulled."
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "switching-p29",
-                                    "title": "SWITCHING",
-                                    "page": 29,
-                                    "blocks": [
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**SWITCHING**"
+                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "Massive models cannot switch positions with non-massive models."
