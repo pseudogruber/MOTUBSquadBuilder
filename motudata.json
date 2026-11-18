@@ -1685,46 +1685,46 @@
                                             "alt": "Diagram showing a character’s FRONT and FLANK arcs."
                                         }
                                     ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "targeting-engaged-models-p22",
-                            "title": "TARGETING ENGAGED MODELS",
-                            "page": 22,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "If the target of a ranged attack is engaged with another character, the scope of the ranged attack is decreased by one. This does not affect spell and melee attacks."
                                 },
                                 {
-                                    "type": "figure",
-                                    "asset": "targeting-engaged-models",
-                                    "alt": "Evil-Lyn is targeting Stratos with a ranged attack. Because Stratos is engaged with Trap Jaw, the scope of Evil-Lyn’s attack is decreased by one."
-                                }
-                            ]
-                        },
-                        {
-                            "id": "cover-p22",
-                            "title": "COVER",
-                            "page": 22,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "Characters can use obstacles and elevation to take cover from incoming ranged and spell attacks. If the target of the attack is in cover, the scope of that attack is decreased by one."
+                                    "id": "targeting-engaged-models-p22",
+                                    "title": "TARGETING ENGAGED MODELS",
+                                    "page": 22,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If the target of a ranged attack is engaged with another character, the scope of the ranged attack is decreased by one. This does not affect spell and melee attacks."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "targeting-engaged-models",
+                                            "alt": "Evil-Lyn is targeting Stratos with a ranged attack. Because Stratos is engaged with Trap Jaw, the scope of Evil-Lyn’s attack is decreased by one."
+                                        }
+                                    ]
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "To determine if a character is in cover, the player traces a straight line from the centre of the attacking model’s base to the centre of the target model’s base. If the line passes through characters or high or low obstacles—excluding any characters or high or low obstacles that are adjacent to the attacker’s hex—the target character is in cover."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "The target does not have cover if the line passes only through difficult terrain, ladders, or tokens."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "cover-ranged-attack",
-                                    "alt": "Stratos is choosing a target for a ranged attack. Skeletor is a good target as he is not in cover. The line between Stratos and Trap Jaw passes through a high obstacle, so Trap Jaw is in cover. The line between Stratos and Evil-Lyn passes through He-Man, so Evil-Lyn is in cover."
+                                    "id": "cover-p22",
+                                    "title": "COVER",
+                                    "page": 22,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Characters can use obstacles and elevation to take cover from incoming ranged and spell attacks. If the target of the attack is in cover, the scope of that attack is decreased by one."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "To determine if a character is in cover, the player traces a straight line from the centre of the attacking model’s base to the centre of the target model’s base. If the line passes through characters or high or low obstacles—excluding any characters or high or low obstacles that are adjacent to the attacker’s hex—the target character is in cover."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The target does not have cover if the line passes only through difficult terrain, ladders, or tokens."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "cover-ranged-attack",
+                                            "alt": "Stratos is choosing a target for a ranged attack. Skeletor is a good target as he is not in cover. The line between Stratos and Trap Jaw passes through a high obstacle, so Trap Jaw is in cover. The line between Stratos and Evil-Lyn passes through He-Man, so Evil-Lyn is in cover."
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -1926,48 +1926,50 @@
                                     "type": "paragraph",
                                     "text": "A passive skill does not have any cost. While a character is on the battleground, any passive skills on their character card or equipped items are always in effect. Each passive skill describes when and how it is resolved. A passive skill can be resolved any number of times during the game, but only once for each instance that the skill’s timing is triggered."
                                 }
-                            ]
-                        },
-                        {
-                            "id": "marks-p25",
-                            "title": "MARKS",
-                            "page": 25,
-                            "blocks": [
+                            ],
+                            "sections": [
                                 {
-                                    "type": "paragraph",
-                                    "text": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase."
+                                    "id": "marks-p25",
+                                    "title": "MARKS",
+                                    "page": 25,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "mark-range-and-line-of-sight",
+                                            "alt": "He-Man and Stratos are within range and line of sight of the mark and are affected by it. Orko is not in line of sight of the mark and avoids its effects."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
+                                        }
+                                    ]
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "mark-range-and-line-of-sight",
-                                    "alt": "He-Man and Stratos are within range and line of sight of the mark and are affected by it. Orko is not in line of sight of the mark and avoids its effects."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
-                                }
-                            ]
-                        },
-                        {
-                            "id": "targeting-and-tests-p25",
-                            "title": "TARGETING AND TESTS",
-                            "page": 25,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "If a skill refers to the character of a group of characters within a given range, all of those characters have to be in line of sight of the character that is resolving the skill. Some skills may require a target. For such an effect, the target must be in line of sight of the character that is resolving the skill, and that character must be rotated to face the target. Follow the same line of sight and facing rules used for performing a ranged attack. See ‘Ranged Attacks’ on page 18."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "If a skill requires a test, it is called a skill test, but it is resolved using the normal test rules. See ‘Tests’ on page 12."
+                                    "id": "targeting-and-tests-p25",
+                                    "title": "TARGETING AND TESTS",
+                                    "page": 25,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a skill refers to the character of a group of characters within a given range, all of those characters have to be in line of sight of the character that is resolving the skill. Some skills may require a target. For such an effect, the target must be in line of sight of the character that is resolving the skill, and that character must be rotated to face the target. Follow the same line of sight and facing rules used for performing a ranged attack. See ‘Ranged Attacks’ on page 18."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a skill requires a test, it is called a skill test, but it is resolved using the normal test rules. See ‘Tests’ on page 12."
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -2042,25 +2044,27 @@
                                     "asset": "power-gain-item-skill-example",
                                     "alt": "Example of the Power Gain special ability on an item card. To resolve the Power Gain special ability, the character must spend one AP and one mana."
                                 }
-                            ]
-                        },
-                        {
-                            "id": "disposable-items-p26",
-                            "title": "DISPOSABLE ITEMS",
-                            "page": 26,
-                            "blocks": [
+                            ],
+                            "sections": [
                                 {
-                                    "type": "paragraph",
-                                    "text": "Some items offer single-use skills. These abilities are prefaced by the word ‘Disposable’. A character can use any number of disposable items as a free action before or after any standard action. And, if a character is interrupted, they can use disposable items before the enemy resolves their interruption."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "After using a disposable item, it is flipped facedown and cannot be used again. Used disposable items still count towards the points value of that character."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "disposable-item-example",
-                                    "alt": "Example of a Disposable item card. Once per game, a character can resolve this ability to gain 1 AP."
+                                    "id": "disposable-items-p26",
+                                    "title": "DISPOSABLE ITEMS",
+                                    "page": 26,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Some items offer single-use skills. These abilities are prefaced by the word ‘Disposable’. A character can use any number of disposable items as a free action before or after any standard action. And, if a character is interrupted, they can use disposable items before the enemy resolves their interruption."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "After using a disposable item, it is flipped facedown and cannot be used again. Used disposable items still count towards the points value of that character."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "disposable-item-example",
+                                            "alt": "Example of a Disposable item card. Once per game, a character can resolve this ability to gain 1 AP."
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -2143,68 +2147,68 @@
                                             "text": "This movement cannot cause attack of opportunity and overwatch interruptions."
                                         }
                                     ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "jump-p27",
-                            "title": "JUMP",
-                            "page": 27,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "Jumping uses the same rules as the move action with the following exception: a jumping character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A jumping character also treats all surrounding hexes as adjacent, even if they are on different elevations."
-                                }
-                            ]
-                        },
-                        {
-                            "id": "push-and-pull-p27",
-                            "title": "PUSH AND PULL",
-                            "page": 27,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "If a game effect pushes or pulls a character, the character’s model is moved to an adjacent hex. If a character is pushed or pulled multiple hexes, those hexes must be in a straight line."
                                 },
                                 {
-                                    "type": "figure",
-                                    "asset": "push-and-pull-correct-and-incorrect",
-                                    "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
+                                    "id": "jump-p27",
+                                    "title": "JUMP",
+                                    "page": 27,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Jumping uses the same rules as the move action with the following exception: a jumping character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A jumping character also treats all surrounding hexes as adjacent, even if they are on different elevations."
+                                        }
+                                    ]
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "If the target was pushed or pulled by another character, this movement must be made along a straight line connecting both characters."
+                                    "id": "push-and-pull-p27",
+                                    "title": "PUSH AND PULL",
+                                    "page": 27,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a game effect pushes or pulls a character, the character’s model is moved to an adjacent hex. If a character is pushed or pulled multiple hexes, those hexes must be in a straight line."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "push-and-pull-correct-and-incorrect",
+                                            "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If the target was pushed or pulled by another character, this movement must be made along a straight line connecting both characters."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a target would move into a hex that contains a terrain piece or other model, their movement stops immediately."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a target is pushed or pulled from elevated ground, they must perform a free climbing down action, after that movement immediately stops."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "When being pushed or pulled, a character cannot rotate their facing."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "This movement cannot cause attack of opportunity and overwatch interruptions."
+                                        }
+                                    ]
                                 },
                                 {
-                                    "type": "paragraph",
-                                    "text": "If a target would move into a hex that contains a terrain piece or other model, their movement stops immediately."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "If a target is pushed or pulled from elevated ground, they must perform a free climbing down action, after that movement immediately stops."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "When being pushed or pulled, a character cannot rotate their facing."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "This movement cannot cause attack of opportunity and overwatch interruptions."
-                                }
-                            ]
-                        },
-                        {
-                            "id": "switch-p27",
-                            "title": "SWITCH",
-                            "page": 27,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "If a game effect instructs two characters to switch positions, both models are placed on each other’s previously occupied hexes. This movement cannot trigger overwatch interruptions. However, this movement can cause attacks of opportunity."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "When being switched, characters cannot rotate their facing."
+                                    "id": "switch-p27",
+                                    "title": "SWITCH",
+                                    "page": 27,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a game effect instructs two characters to switch positions, both models are placed on each other’s previously occupied hexes. This movement cannot trigger overwatch interruptions. However, this movement can cause attacks of opportunity."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "When being switched, characters cannot rotate their facing."
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -2252,30 +2256,22 @@
                                         {
                                             "type": "paragraph",
                                             "text": "Every movement must end in a position that can fit the entire base of a massive model."
-                                        }
-                                    ],
-                                    "sections": [
-                                        {
-                                            "id": "moving-over-low-obstacles-p28",
-                                            "title": "MOVING OVER LOW OBSTACLES",
-                                            "page": 28,
-                                            "blocks": [
-                                                {
-                                                    "type": "paragraph",
-                                                    "text": "During a move action, a massive character can spend three movement points to move from any hex that shares a border with a portion of a low obstacle to any other hex that shares a border with the same portion of that obstacle. No part of the massive character’s base can be placed on top of the obstacle."
-                                                }
-                                            ]
                                         },
                                         {
-                                            "id": "moving-over-high-obstacles-p28",
-                                            "title": "MOVING OVER HIGH OBSTACLES",
-                                            "page": 28,
-                                            "blocks": [
-                                                {
-                                                    "type": "paragraph",
-                                                    "text": "During a move action, a massive character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of high obstacle. No part of the massive character’s base can be placed on top of the obstacle."
-                                                }
-                                            ]
+                                            "type": "paragraph",
+                                            "text": "**MOVING OVER LOW OBSTACLES**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "During a move action, a massive character can spend three movement points to move from any hex that shares a border with a portion of a low obstacle to any other hex that shares a border with the same portion of that obstacle. No part of the massive character’s base can be placed on top of the obstacle."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**MOVING OVER HIGH OBSTACLES**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "During a move action, a massive character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of high obstacle. No part of the massive character’s base can be placed on top of the obstacle."
                                         }
                                     ]
                                 },
