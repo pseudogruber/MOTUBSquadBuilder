@@ -1758,7 +1758,7 @@
                                     "text": "Interruptions must obey the following rules unless specifically stated otherwise:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks.",
                                         "All movements must be made towards the interrupted character and end within the line of sight of that character.",
@@ -1788,7 +1788,7 @@
                                     "text": "Attacks of opportunity are resolved following the normal interruption rules with the following exceptions:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "The interrupting character can only perform attack actions.",
                                         "Any attacks must be melee attacks.",
@@ -1807,7 +1807,7 @@
                                     "text": "Some game effects allow attacks to hit multiple targets. These are called AREA ATTACKS. To resolve an area attack, the player begins by resolving an attack against a single target, following the normal attack rules. The target of this attack is the INITIAL TARGET. Then, the player must resolve attacks against additional characters, in the order of their choice, if the following conditions are met:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "Each additional character (including allies) is within the area of attack.",
                                         "Each additional character is within the line of sight of the initial target.",
@@ -1828,7 +1828,7 @@
                                     "text": "When resolving attacks against additional characters, the scope modifier rules are as follows:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "**Flank Attacks:** If the initial target’s base is in the additional target’s rear arc, it is a flank attack and scope is increased by one.",
                                         "**Attacked While Engaged:** If the additional target is engaged, ranged attacks have their scope decreased by one. Spell and melee area attacks do not suffer this penalty.",
@@ -1838,7 +1838,10 @@
                                 },
                                 {
                                     "type": "paragraph",
-                                    "title": "{AoE KNOCKOUTS}",
+                                    "text": "{AoE KNOCKOUTS}"
+                                },
+                                {
+                                    "type": "paragraph",
                                     "text": "If any target is knocked out during an area attack, that target’s model remains on the battleground until the entire attack is completed."
                                 }
                             ]
@@ -1865,7 +1868,7 @@
                                     "text": "The four most common types of buff are:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "**Quickness:** While a character has this buff, their speed value (and focused speed value) is increased by two.",
                                         "**Enhancement:** While a character has this buff, the scope of each of their attack tests is increased by one.",
@@ -1874,11 +1877,16 @@
                                     ]
                                 },
                                 {
+                                    "type": "figure",
+                                    "asset": "buffs-tokens",
+                                    "alt": "Tokens representing the four common buffs: Quickness, Enhancement, Protection and Regeneration."
+                                },
+                                {
                                     "type": "paragraph",
                                     "text": "The four most common types of debuff are:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "**Cripple:** While a character has this debuff, their speed value (and focused speed value) is reduced by two. A character ignores this debuff if they begin their movement in difficult terrain.",
                                         "**Blind:** While a character has this debuff, the scope of each of their attack tests is decreased by one.",
@@ -1887,22 +1895,16 @@
                                     ]
                                 },
                                 {
+                                    "type": "figure",
+                                    "asset": "debuffs-tokens",
+                                    "alt": "Tokens representing the four common debuffs: Cripple, Blind, Knockdown and Curse."
+                                }{
                                     "type": "paragraph",
                                     "text": "Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time."
                                 },
                                 {
                                     "type": "paragraph",
                                     "text": "Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "buffs-tokens",
-                                    "alt": "Tokens representing the four common buffs: Quickness, Enhancement, Protection and Regeneration."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "debuffs-tokens",
-                                    "alt": "Tokens representing the four common debuffs: Cripple, Blind, Knockdown and Curse."
                                 }
                             ]
                         },
@@ -2079,7 +2081,7 @@
                                     "text": "Mana is used for the following effects:"
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "To resolve active skills that have a mana cost.",
                                         "To perform attacks using spells.",
@@ -2365,7 +2367,7 @@
                                     "text": "Most skills and special abilities describe when they can be used."
                                 },
                                 {
-                                    "type": "orderedList",
+                                    "type": "unorderedList",
                                     "items": [
                                         "Any effects that are triggered ‘upon activation’ are resolved between steps 3 and 4 of an activation—after the character gains bonuses but before they perform any actions. If there is more than one such effect, the active player decides the order.",
                                         "Any effects that are triggered ‘at the end of activation’ are resolved after step 5 of an activation—immediately after a character ends their activation. If there is more than one such effect, the active player decides the order.",
