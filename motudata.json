@@ -1647,11 +1647,6 @@
                                 {
                                     "type": "paragraph",
                                     "text": "When a character is knocked out, the opposing player gains a number of victory points equal to the costs of the knocked out character and all of their equipment on the cost tables. See ‘Cost Tables’ on page 12 of the Battleground Book."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "health-value",
-                                    "alt": "Character card health value example showing a value of 5."
                                 }
                             ]
                         },
@@ -1723,28 +1718,25 @@
                                             "type": "figure",
                                             "asset": "cover-ranged-attack",
                                             "alt": "Stratos is choosing a target for a ranged attack. Skeletor is a good target as he is not in cover. The line between Stratos and Trap Jaw passes through a high obstacle, so Trap Jaw is in cover. The line between Stratos and Evil-Lyn passes through He-Man, so Evil-Lyn is in cover."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**COVER AND ELEVATION**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If the attacking character is at a lower elevation than the target of an attack, the target is in cover."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If the attacking character is on a platform, any characters at a lower elevation only have cover if they are behind high obstacles. Low obstacles do not provide cover. To determine cover, players follow the same rules; however, the target character is only in cover if the line passes through a high obstacle—excluding any high obstacles that are adjacent to hexes that are directly under the platform."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "cover-and-elevation",
+                                            "alt": "Stratos is choosing a target for a ranged attack. Trap Jaw is in cover because the line between him and Stratos passes through a high obstacle. The line between Stratos and Skeletor passes through a high obstacle as well, but since that obstacle is adjacent to the hexes below the platform that Stratos is on, it does not provide cover. Evil-Lyn is behind a low obstacle, which does not provide cover because Stratos is at a higher elevation than her."
                                         }
                                     ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": "cover-and-elevation-p23",
-                            "title": "COVER AND ELEVATION",
-                            "page": 23,
-                            "blocks": [
-                                {
-                                    "type": "paragraph",
-                                    "text": "If the attacking character is at a lower elevation than the target of an attack, the target is in cover."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "If the attacking character is on a platform, any characters at a lower elevation only have cover if they are behind high obstacles. Low obstacles do not provide cover. To determine cover, players follow the same rules; however, the target character is only in cover if the line passes through a high obstacle—excluding any high obstacles that are adjacent to hexes that are directly under the platform."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "cover-and-elevation",
-                                    "alt": "Stratos is choosing a target for a ranged attack. Trap Jaw is in cover because the line between him and Stratos passes through a high obstacle. The line between Stratos and Skeletor passes through a high obstacle as well, but since that obstacle is adjacent to the hexes below the platform that Stratos is on, it does not provide cover. Evil-Lyn is behind a low obstacle, which does not provide cover because Stratos is at a higher elevation than her."
                                 }
                             ]
                         },
@@ -1759,14 +1751,14 @@
                                 },
                                 {
                                     "type": "paragraph",
-                                    "text": "During an interruption, the interrupting character receives one AP. The interrupting character can perform move, attack, or use an active skill actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation."
+                                    "text": "During an interruption, the interrupting character receives one AP. The interrupting character can perform **move**, **attack**, or **use an active skill** actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation."
                                 },
                                 {
                                     "type": "paragraph",
                                     "text": "Interruptions must obey the following rules unless specifically stated otherwise:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks.",
                                         "All movements must be made towards the interrupted character and end within the line of sight of that character.",
@@ -1796,7 +1788,7 @@
                                     "text": "Attacks of opportunity are resolved following the normal interruption rules with the following exceptions:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "The interrupting character can only perform attack actions.",
                                         "Any attacks must be melee attacks.",
@@ -1815,7 +1807,7 @@
                                     "text": "Some game effects allow attacks to hit multiple targets. These are called AREA ATTACKS. To resolve an area attack, the player begins by resolving an attack against a single target, following the normal attack rules. The target of this attack is the INITIAL TARGET. Then, the player must resolve attacks against additional characters, in the order of their choice, if the following conditions are met:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "Each additional character (including allies) is within the area of attack.",
                                         "Each additional character is within the line of sight of the initial target.",
@@ -1836,7 +1828,7 @@
                                     "text": "When resolving attacks against additional characters, the scope modifier rules are as follows:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "**Flank Attacks:** If the initial target’s base is in the additional target’s rear arc, it is a flank attack and scope is increased by one.",
                                         "**Attacked While Engaged:** If the additional target is engaged, ranged attacks have their scope decreased by one. Spell and melee area attacks do not suffer this penalty.",
@@ -1845,8 +1837,8 @@
                                     ]
                                 },
                                 {
-                                    "type": "callout",
-                                    "title": "AoE KNOCKOUTS",
+                                    "type": "paragraph",
+                                    "title": "{AoE KNOCKOUTS}",
                                     "text": "If any target is knocked out during an area attack, that target’s model remains on the battleground until the entire attack is completed."
                                 }
                             ]
@@ -1873,7 +1865,7 @@
                                     "text": "The four most common types of buff are:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "**Quickness:** While a character has this buff, their speed value (and focused speed value) is increased by two.",
                                         "**Enhancement:** While a character has this buff, the scope of each of their attack tests is increased by one.",
@@ -1886,7 +1878,7 @@
                                     "text": "The four most common types of debuff are:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "**Cripple:** While a character has this debuff, their speed value (and focused speed value) is reduced by two. A character ignores this debuff if they begin their movement in difficult terrain.",
                                         "**Blind:** While a character has this debuff, the scope of each of their attack tests is decreased by one.",
@@ -1904,8 +1896,13 @@
                                 },
                                 {
                                     "type": "figure",
-                                    "asset": "buffs-and-debuffs-tokens",
-                                    "alt": "Tokens representing the four common buffs: Quickness, Enhancement, Protection and Regeneration, and the four common debuffs: Cripple, Blind, Knockdown and Curse."
+                                    "asset": "buffs-tokens",
+                                    "alt": "Tokens representing the four common buffs: Quickness, Enhancement, Protection and Regeneration."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "debuffs-tokens",
+                                    "alt": "Tokens representing the four common debuffs: Cripple, Blind, Knockdown and Curse."
                                 }
                             ]
                         },
@@ -2082,7 +2079,7 @@
                                     "text": "Mana is used for the following effects:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "To resolve active skills that have a mana cost.",
                                         "To perform attacks using spells.",
@@ -2092,11 +2089,6 @@
                                 {
                                     "type": "paragraph",
                                     "text": "A character cannot have more than five mana at a time."
-                                },
-                                {
-                                    "type": "figure",
-                                    "asset": "mana-token",
-                                    "alt": "Mana token."
                                 }
                             ]
                         },
