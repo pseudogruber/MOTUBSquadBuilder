@@ -334,7 +334,9 @@
             "Rulebook_Ranged_Attack_Range_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018502/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_07_Rulebook_Ranged_Attack_Range_p18_cxg7pf.png",
             "Rulebook_Ranged_Attack_Line_Of_Sight_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018502/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_08_Rulebook_Rulebook_Ranged_Attack_Line_Of_Sight_p18_ci6hnw.png",
             "Rulebook_Ranged_Attack_Platform_Line_Of_Sight_p18": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018503/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_09_Rulebook_Ranged_Attack_Platform_Line_Of_Sight_p18_x5snbc.png.png",
-            "Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018440/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_10_Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19_jmzcn0.png"
+            "Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795018440/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_10_Rulebook_Ranged_Attack_Lower_Elevation_Line_Of_Sight_p19_jmzcn0.png",
+            "Rulebook_Ranged_Attack_Example_Man_At_Arms_p19": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019167/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_11_Rulebook_Ranged_Attack_Example_Man_At_Arms_p19_fo0btp.png",
+            "Rulebook_Extra_Effects_Grayskull_Ring_Example_p20": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019167/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_12_Rulebook_Extra_Effects_Grayskull_Ring_Example_p20_dkzgl4.png"
         },
         "rulebook": {
             "title": "Rulebook",
@@ -1488,11 +1490,6 @@
                                         {
                                             "type": "paragraph",
                                             "text": "Each spell card has a mana cost, which indicates how much mana the attacking character must spend to use that spell during an attack action. While making a spell attack, after choosing a spell, the player takes a number of mana tokens equal to the spell’s mana cost from the attacking character’s card and places them in the supply."
-                                        },
-                                        {
-                                            "type": "figure",
-                                            "asset": "Rulebook_Spell_Mana_Cost_p19",
-                                            "alt": "A spell card mana cost indicator showing the amount of mana required."
                                         },
                                         {
                                             "type": "paragraph",
