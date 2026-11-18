@@ -1898,7 +1898,8 @@
                                     "type": "figure",
                                     "asset": "debuffs-tokens",
                                     "alt": "Tokens representing the four common debuffs: Cripple, Blind, Knockdown and Curse."
-                                }{
+                                },
+                                {
                                     "type": "paragraph",
                                     "text": "Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time."
                                 },
