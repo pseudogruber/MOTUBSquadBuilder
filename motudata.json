@@ -1635,7 +1635,7 @@
                     "sections": [
                         {
                             "id": "health-and-wounds-p22",
-                            "title": "HEALTH AND WOUNDS",
+                            "title": "Healts and Wounds",
                             "page": 22,
                             "blocks": [
                                 {
@@ -1654,7 +1654,7 @@
                         },
                         {
                             "id": "scope-modifiers-p22",
-                            "title": "SCOPE MODIFIERS",
+                            "title": "Scope Modifiers",
                             "page": 22,
                             "blocks": [
                                 {
@@ -1665,7 +1665,7 @@
                             "sections": [
                                 {
                                     "id": "flank-attacks-p22",
-                                    "title": "FLANK ATTACKS",
+                                    "title": "Flank Attacks",
                                     "page": 22,
                                     "blocks": [
                                         {
@@ -1685,7 +1685,7 @@
                                 },
                                 {
                                     "id": "targeting-engaged-models-p22",
-                                    "title": "TARGETING ENGAGED MODELS",
+                                    "title": "Targeting Engaged Models",
                                     "page": 22,
                                     "blocks": [
                                         {
@@ -1701,7 +1701,7 @@
                                 },
                                 {
                                     "id": "cover-p22",
-                                    "title": "COVER",
+                                    "title": "Cover",
                                     "page": 22,
                                     "blocks": [
                                         {
@@ -1744,7 +1744,7 @@
                         },
                         {
                             "id": "interruptions-p23",
-                            "title": "INTERRUPTIONS",
+                            "title": "Interruptions",
                             "page": 23,
                             "blocks": [
                                 {
@@ -1778,7 +1778,7 @@
                         },
                         {
                             "id": "attacks-of-opportunity-p23",
-                            "title": "ATTACKS OF OPPORTUNITY",
+                            "title": "Attacks of Opportunity",
                             "page": 23,
                             "blocks": [
                                 {
@@ -1801,7 +1801,7 @@
                         },
                         {
                             "id": "area-attacks-p24",
-                            "title": "AREA ATTACKS",
+                            "title": "Area Attacks",
                             "page": 24,
                             "blocks": [
                                 {
@@ -1913,7 +1913,7 @@
                         },
                         {
                             "id": "skills-p25",
-                            "title": "SKILLS",
+                            "title": "Skills",
                             "page": 25,
                             "blocks": [
                                 {
@@ -1977,7 +1977,7 @@
                         },
                         {
                             "id": "free-actions-p25",
-                            "title": "FREE ACTIONS",
+                            "title": "Free Actions",
                             "page": 25,
                             "blocks": [
                                 {
@@ -1992,7 +1992,7 @@
                         },
                         {
                             "id": "side-missions-p25",
-                            "title": "SIDE MISSIONS",
+                            "title": "Side Missions",
                             "page": 25,
                             "blocks": [
                                 {
@@ -2016,7 +2016,7 @@
                         },
                         {
                             "id": "items-p26",
-                            "title": "ITEMS",
+                            "title": "Items",
                             "page": 26,
                             "blocks": [
                                 {
@@ -2072,7 +2072,7 @@
                         },
                         {
                             "id": "mana-p26",
-                            "title": "MANA",
+                            "title": "Mana",
                             "page": 26,
                             "blocks": [
                                 {
@@ -2099,7 +2099,7 @@
                         },
                         {
                             "id": "movement-effects-p26",
-                            "title": "MOVEMENT EFFECTS",
+                            "title": "Movement Effects",
                             "page": 26,
                             "blocks": [
                                 {
@@ -2211,7 +2211,7 @@
                         },
                         {
                             "id": "massive-models-p28",
-                            "title": "MASSIVE MODELS",
+                            "title": "Massive Models",
                             "page": 28,
                             "blocks": [
                                 {
@@ -2362,7 +2362,7 @@
                         },
                         {
                             "id": "effect-timing-p29",
-                            "title": "EFFECT TIMING",
+                            "title": "Effect Timing",
                             "page": 29,
                             "blocks": [
                                 {
