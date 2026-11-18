@@ -304,7 +304,7 @@
             "faction_badge_EV": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732735697/Icon_Faction_EV_jgstao.png",
             "Rulebook_Basic_Concepts_02_Model_p6": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794677598/Rulebook_Basic_Concepts_02_Model_p6_x1htef.png",
             "Rulebook_Basic_Concepts_03_Character_Card_p6": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794685654/Rulebook_Basic_Concepts_03_Character_Card_p6_wmrwq9.png",
-            "Rulebook_Basic_Concepts_04_Adjacent": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794679206/Rulebook_Basic_Concepts_04_Character_Card_p6_utjyin.png",
+            "Rulebook_Basic_Concepts_04_Adjacent": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794679206/Rulebook_Basic_Concepts_05_Adjacent.png",
             "Rulebook_Basic_Concepts_05_Terrain_High_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681863/Rulebook_Basic_Concepts_06_Terrain_High_Obstacle_p7_d6ijdz.png",
             "Rulebook_Basic_Concepts_06_Terrain_Low_Obstacle": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681877/Rulebook_Basic_Concepts_05_Terrain_Low_Obstacle_p7_ri3hzh.png",
             "Rulebook_Basic_Concepts_07_Terrain_Platform": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1794681899/Rulebook_Basic_Concepts_07_Terrain_Platform_p7_wslgyc.png",
@@ -375,7 +375,7 @@
                                     "text": "Each character is represented by a model and a character card."
                                 },
                                 {
-                                    "type": "heading",
+                                    "type": "Paragraph",
                                     "text": "**MODEL**"
                                 },
                                 {
@@ -389,7 +389,11 @@
                                 },
                                 {
                                     "type": "paragraph",
-                                    "text": "**Character Card** \n The character card contains that character’s stats and skills, which are described in detail later."
+                                    "text": "**Character Card**"
+                                },
+                                 {
+                                    "type": "paragraph",
+                                    "text": "The character card contains that character’s stats and skills, which are described in detail later."
                                 },
                                 {
                                     "type": "figure",
@@ -419,6 +423,10 @@
                                 {
                                     "type": "paragraph",
                                     "text": "Each game of Masters of the Universe: Battleground is played on a pre-set map that consists of a variety of terrain and deployment zones where each player places their force as well as objective tokens that their opponent is trying to claim."
+                                },
+                                 {
+                                    "type": "paragraph",
+                                    "text": "**Terrain**"
                                 },
                                 {
                                     "type": "paragraph",
@@ -495,10 +503,6 @@
                                         "Rules on items cards override rules from the rulebook.",
                                         "Rules in the rulebook can be overriden by any rule mentioned above."
                                     ]
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "**PREPARATION PHASE**"
                                 }
                             ]
                         }
