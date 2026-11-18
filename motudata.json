@@ -548,7 +548,7 @@
                                     "text": "To resolve this phase, players perform the following steps in order:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "Select Cards",
                                         "Activate Character",
@@ -719,7 +719,7 @@
                                     "text": "To resolve this phase, players perform the following steps in order:"
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "Claim Objective Tokens",
                                         "Clear Tokens",
@@ -1555,7 +1555,7 @@
                                     "text": "If a character is on overwatch, they must interrupt (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met:"
                                 },
                                 {
-                                            "type": "orderedlist",
+                                            "type": "unorderedList",
                                             "items": [
                                                 "The enemy ends their movement in a hex that is within line of sight of the character on overwatch.",
                                                 "Any part of the enemy’s base is within the front arc of the character on overwatch.",
@@ -1567,7 +1567,7 @@
                                     "text": "A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations:"
                                 },
                                 {
-                                            "type": "orderedlist",
+                                            "type": "unorderedList",
                                             "items": [
                                                 "If a character that is on overwatch starts an overwatch interruption.",
                                                 "If a character that is on overwatch starts an activation."
