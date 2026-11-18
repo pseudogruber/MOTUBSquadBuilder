@@ -340,7 +340,9 @@
             "Rulebook_Active_Skill_AP_Mana_Cost_p21": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019564/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_13_Rulebook_Active_Skill_AP_Mana_Cost_p21_lfbmxl.png",
             "Rulebook_Overwatch_Example_1_p21": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019586/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_13_Rulebook_Overwatch_Example_1_p21_uxy8xd.png",
             "Rulebook_Overwatch_Example_2_p21": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019588/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_14_Rulebook_Overwatch_Example_2_p21_greqhp.png",
-            "Rulebook_Overwatch_Example_3_p21": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019588/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_15_Rulebook_Overwatch_Example_3_p21_dfrtuk.png"
+            "Rulebook_Overwatch_Example_3_p21": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795019588/Rulebook_05_CHARACTER_ACTIONS_02_ATTACK_15_Rulebook_Overwatch_Example_3_p21_dfrtuk.png",
+            "buffs-tokens": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795027871/buffs-tokens_jurxay.png",
+            "debuffs-tokens": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795027871/debuffs-tokens_dgbhnv.png"
         },
         "rulebook": {
             "title": "Rulebook",
@@ -1848,7 +1850,7 @@
                         },
                         {
                             "id": "buffs-and-debuffs-p24",
-                            "title": "BUFFS AND DEBUFFS",
+                            "title": "Buffs and Debuffs",
                             "page": 24,
                             "blocks": [
                                 {
