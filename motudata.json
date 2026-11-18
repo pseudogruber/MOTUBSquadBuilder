@@ -2404,7 +2404,7 @@
                                     "text": "Most skills and special abilities describe when they can be used."
                                 },
                                 {
-                                    "type": "orderedlist",
+                                    "type": "orderedList",
                                     "items": [
                                         "Any effects that are triggered ‘upon activation’ are resolved between steps 3 and 4 of an activation—after the character gains bonuses but before they perform any actions. If there is more than one such effect, the active player decides the order.",
                                         "Any effects that are triggered ‘at the end of activation’ are resolved after step 5 of an activation—immediately after a character ends their activation. If there is more than one such effect, the active player decides the order.",
