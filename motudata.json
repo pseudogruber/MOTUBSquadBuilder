@@ -2438,6 +2438,10 @@
                 "definition": "Players cannot have more than five fate cards in their hand at a time. Glory cards do not count towards this restriction."
             },
             {
+                "name": "Chain Lightning Additional Attacks FAQ",
+                "definition": "If, as a result of of attacking with Chain Lightning, a character receives a free attack, the target of that additional attack must be within 6\" from the initial target and within their LOS. The target of the free attack does not need to be within LOS of the character  performing the attack. The cover modifier for that attack is determined by tracing the line between the initial and the secondary targets. If the initial target’s base is in the secondary target’s rear arc, it is a flank attack. \n **Remember**: Remember: A free spell attack does not cost any APs and does not increase the cost of other spell attacks. However, a character who performs these attacks must still pay their Mana cost!"
+            },
+            {
                 "name": "Charge",
                 "definition": "Charging uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character. To resolve a charge, the character must end their movement in a hex adjacent to the character they are charging, and they must rotate their model to face that character."
             },
@@ -2568,6 +2572,10 @@
             {
                 "name": "Lava Pit",
                 "definition": "A lava pit is a 3- or 4-hex piece. If the character enters a hex occupied by a lava pit, their movement immediately ends—this effect is triggered by any type of movement, except jumping and teleporting. If the character ends any type movement (including jumping and teleporting) on a hex occupied by a lava pit, that character receives one wound. If the character ends their activation on a hex occupied by a lava pit, they also receive one wound. \n Massive Models are unaffected by lava pits."
+            },
+            {
+                "name": "Magic Wand's Free Attacks FAQ",
+                "definition": "Free spell attacks performed as the effect of the Magic Wand can only be used if all requirements of the chosen spell weapon are met (range, mana cost etc.). Reduction in mana cost applies only to the base mana cost of the chosen spell. If that spell has additional costs (like Fireball), the player has to pay them as usual."
             },
             {
                 "name": "Marks",
@@ -9176,7 +9184,11 @@
                 "range": 12,
                 "unique": true,
                 "type": "NoSlot",
-                "definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Die per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost"
+                "definition": "This does not use a ranged weapon slot.\n          Before attacking, spend up to 3 Mana to gain 1 Die per Mana spent. The target tests Mind instead of Toughness.\n          1 success: Perform a free Spell Attack on the same target\n          2  success: Perform a free Spell Attack on the same target at no Mana cost",
+                "keywords": [
+                    "Free Actions",
+                    "Magic Wand's Free Attacks FAQ"
+                ]
             },
             {
                 "name": "Black Blaster",
@@ -9695,7 +9707,11 @@
                 "mana": 2,
                 "unique": true,
                 "type": "Spell",
-                "definition": "If at least one '6' is rolled in this attack, perform a free attack with this spell on another enemy within 6\" from the target. This attack uses 2 Dice fewer than the previous one.\n          1 success: 1 Wound\n3 successes: 2 Wounds"
+                "definition": "If at least one '6' is rolled in this attack, perform a free attack with this spell on another enemy within 6\" from the target. This attack uses 2 Dice fewer than the previous one.\n          1 success: 1 Wound\n3 successes: 2 Wounds",
+                "keywords": [
+                    "Free Actions",
+                    "Chain Lightning Additional Attacks FAQ"
+                ]
             },
             {
                 "name": "Motivational Speech",
