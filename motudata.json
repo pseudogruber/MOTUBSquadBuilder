@@ -2438,6 +2438,10 @@
                 "definition": "Charging uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character. To resolve a charge, the character must end their movement in a hex adjacent to the character they are charging, and they must rotate their model to face that character."
             },
             {
+                "name": "Crater",
+                "definition": "CRATER: A crater is a special terrain piece that occupies seven hexes. In contrast to other special terrain pieces, craters can not be attacked or removed. \n **Craters** \n - can be placed on hexes occupied by characters. Those characters are moved to any empty hex adjacent to any hex occupied by the crater – (the player controlling the character chooses the hex). This movement cannot be interrupted. After a character moves, their model can be rotated to face any direction. Characters on removed platforms are treated in the same way. \n - can be placed on hexes occupied by other terrain pieces – including other special terrain pieces. Any overlapped terrain pieces are removed from the battleground. If any of these removed terrain pieces have a platform attached, this platform is also removed. \n - can be placed on hexes containing marks. Those marks are removed from the battleground. \n - can not be placed on hexes containing objective tokens. \n - can not be placed over other craters. \n - do not block line of sight and do not provide cover."
+            },
+            {
                 "name": "Cripple",
                 "definition": "While a character has this debuff, their speed value (and focused speed value) is reduced by two. A character ignores this debuff if they begin their movement in difficult terrain."
             },
@@ -2452,6 +2456,10 @@
             {
                 "name": "Difficult Terrain",
                 "definition": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. \n **Movement and difficult terrain:** If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
+            },
+            {
+                "name": "Discarded Effects",
+                "definition": "If any effect is triggered after discarding a card, the player must resolve this effect immediately after the action that discarded the card, not during that action. \n EXAMPLE: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
             },
             {
                 "name": "Enemy",
@@ -2494,6 +2502,14 @@
                 "definition": "During a game, each player controls a FORCE, which consists of one or more characters. Each force represents one of two factions: The Masters of the Universe and The Evil Warriors. \n Each faction is represented by an icon, which appears on components that are unique to that faction. \n Any characters that belong to the same force are ALLIES of each other, and any characters that belong to different forces are ENEMIES."
             },
             {
+                "name": "Force Field",
+                "definition": "A force field is a special terrain piece that occupies two hexes. For the purpose of movement, force fields are treated as high obstacles. \n Force fields do not block line of sight and they do not provide cover."
+            },
+            {
+                "name": "Gas Tank",
+                "definition": "special terrain piece that occupies two hexes. All characters within 3 hexes from any hex occupied by a Gas Tank – and within line of sight of that hex – can only be activated normally with fate or glory cards with an initiative of 5 or lower. If those characters are activated with a card with initiative of 6 or higher, the stats of this card are changed to 1AP, 0 Mana, and no bonuses. Gas tanks do not block line of sight and do not provide cover."
+            },
+            {
                 "name": "Game Round",
                 "definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
             },
@@ -2526,6 +2542,10 @@
                 "definition": "Lady Slither isn’t deployed during the setup. Place her mark and false mark on the battleground after all other characters are deployed, before the first fate or glory cards are played. \n Her shedding skin ability allows her to place two marks at least three hexes away from any other character, which means that between a mark and a character, there must be **at least two empty hexes**. \n If Lady Slither’s mark is about to be removed but a massive model covers it and all adjacent hexes, Lady Slither can teleport on any hex adjacent to this massive model. \n During a clean-up phase, marks are removed after the objective tokens are claimed. If Lady Slither stands next to the objective, she will claim that objective before she teleports to her mark. If, after teleporting, she stands next to a different objective token, she won’t claim it during this clean-up phase."
             },
             {
+                "name": "Lava Pit",
+                "definition": "A lava pit is a 3- or 4-hex piece. If the character enters a hex occupied by a lava pit, their movement immediately ends—this effect is triggered by any type of movement, except jumping and teleporting. If the character ends any type movement (including jumping and teleporting) on a hex occupied by a lava pit, that character receives one wound. If the character ends their activation on a hex occupied by a lava pit, they also receive one wound. \n Massive Models are unaffected by lava pits."
+            },
+            {
                 "name": "Marks",
                 "definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
             },
@@ -2542,12 +2562,20 @@
                 "definition": "All skills that do not have a cost (in AP and/ or mana) stated next to their description. Passive skills can be resolved if the associated character is on the battleground."
             },
             {
+                "name": "Passing Buffs and Debuffs",
+                "definition": "Some game effects allow a character to pass their buffs or debuffs to other characters. Passed buffs and debuffs are not treated as removed. \n EXAMPLE: Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
+            },
+            {
                 "name": "Protection",
                 "definition": "While a character has this buff, the scope of each of their defence tests is increased by one."
             },
             {
                 "name": "Push and Pull",
-                "definition": "If a game effect pushes or pulls a character, the character’s model is moved to an adjacent hex. If a character is pushed or pulled multiple hexes, those hexes must be in a straight line. \n If the target was pushed or pulled by another character, this movement must be made along a straight line connecting both characters. \n If a target would move into a hex that contains a terrain piece or other model, their movement stops immediately. \n If a target is pushed or pulled from elevated ground, they must perform a free climbing down action, after that movement immediately stops. \n When being pushed or pulled, a character cannot rotate their facing. \n This movement cannot cause attack of opportunity and overwatch interruptions."
+                "definition": "If a game effect pushes or pulls a character, the character’s model is moved to an adjacent hex. If a character is pushed or pulled multiple hexes, those hexes must be in a straight line. \n If the target was pushed or pulled by another character, this movement must be made along a straight line connecting both characters. \n If a target would move into a hex that contains a terrain piece or other model, their movement stops immediately. \n If a target is pushed or pulled from elevated ground, they must perform a free climbing down action, after that movement immediately stops. \n When being pushed or pulled, a character cannot rotate their facing. \n This movement cannot cause attack of opportunity and overwatch interruptions. \n If a character pulls the target, this pulled movement must be made along a straight line connecting the centres of both characters’ bases. If this line crosses through the border of the two valid hexes, the player who initiated the pull may choose where the pulled character lands."
+            },
+            {
+                "name": "Pulling Characters",
+                "definition": "If a character pulls the target, this pulled movement must be made along a straight line connecting the centres of both characters’ bases. If this line crosses through the border of the two valid hexes, the player who initiated the pull may choose where the pulled character lands."
             },
             {
                 "name": "Quickness",
@@ -2558,12 +2586,24 @@
                 "definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
             },
             {
+                "name": "Scope",
+                "definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
+            },
+            {
                 "name": "Skill Test",
                 "definition": "Any test related to the character’s skill (passive or active)."
             },
             {
-                "name": "Scope",
-                "definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
+                "name": "Smoke",
+                "definition": "Smoke is a 3-hex piece that blocks line of sight and provides cover. A character cannot end their movement on a hex occupied by smoke. However, during a move action, the character can spend two movement points to move from any hex adjacent to a portion of a smoke to any other hex that is adjacent to the same portion of that smoke"
+            },
+            {
+                "name": "Special Terrain",
+                "definition": "Some skills allow a character to place special terrain pieces on the battleground. \n **Placement** \n Unless stated otherwise, Special terrain must be placed on an empty hex within line of sight of the character using the skill that allows the terrain placement. If a special terrain piece occupies more than one hex, all hexes must be empty and at least **one** of them must be within line of sight of the character using the skill. \n If the skill description instructs the special terrain piece to be placed within 8\", at least one hex of that special terrain piece needs to be within 8\" from the character using it. \n **Movement** \n For the purpose of movement, all special terrain pieces are treated as high obstacles. \n **Attacks** \n A character can perform an attack action against special terrain pieces. Unless stated otherwise, all special terrain pieces have 1 health, 0 toughness, and 0 mind. Special terrain pieces do not have arcs, so they cannot be the target of flank attacks. If the health of the special terrain piece is reduced to 0, this terrain piece is removed from the battleground. Characters cannot be engaged with a special terrain piece but characters standing on the hexes adjacent to a special terrain piece can perform melee attacks against it \n **TYPES OF SPECIAL TERRAIN** \n Teleporter, Force Field, Crater, Gas Tank, Mud Monster"
+            },
+            {
+                "name": "Swamp",
+                "definition": "A swamps is a 7-hex piece of difficult terrain. If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
             },
             {
                 "name": "Switch",
@@ -2574,12 +2614,20 @@
                 "definition": "Teleporting uses the same rules as the move action with the following exception: a teleporting character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A teleporting character also treats all surrounding hexes as adjacent, even if they are at different elevations. After the movement is complete, the player who controls that teleporting character can change that character’s facing. \n This movement cannot cause attack of opportunity and overwatch interruptions."
             },
             {
+                "name": "Teleporter",
+                "definition": "A teleporter is a special terrain piece that occupies a single hex. A teleporter becomes active the round after it is placed on the battleground. For the purposes of movement, all hexes that are adjacent to any active teleporters are also adjacent to each other. For massive models, these hexes are not adjacent—massive models cannot use teleporters. \n Teleporters do not block line of sight and do not provide cover."
+            },
+            {
                 "name": "Tests",
                 "definition": "1. Check Stat \n 2. Determine Modifiers \n 3. Determine the scope \n 4. Normal roll \n 5. Determine Initial Successes \n 6. Free Rerolls \n 7. Mana Rerolls \n 8. Exploding Dice \n 9. Determine Final Successes \n 10. Defence Test (optional) \n 11. Apply Successes \n \n Throughout the game, characters must resolve tests. During a test, players roll dice to determine the outcome of various game interactions, such as attacks and defences as well as attempts to apply or resist certain buffs and debuffs. The number of dice a player rolls and the results that are required for success are all determined by a character’s stats and modifiers. \n To resolve a test, a player performs the following steps: \n **1. CHECK STAT:** The player checks the value on their character card that corresponds to the stat that is being tested. That stat’s value is how many dice the player rolls to test that stat before modifiers are applied. For example, He-Man has a strength of five, which means he would roll five dice—before modifiers are applied—when he tests strength. \n **2. DETERMINE MODIFIERS:** Modifiers temporarily increase or decrease a character’s stat, changing the number of dice the player rolls. Modifiers come from a variety of sources, including card skills, and they are cumulative. If a modifier adds or subtracts a number to a test (i.e., ‘Test strength +1’ or ‘Test strength –1’) that character’s stat is increased or decreased, as appropriate, for the duration of the test.\n **3. DETERMINE THE SCOPE:** Scope defines the lowest result on a die that is treated as a success. By default, the scope of each test is four. Scope can be modified by a variety of sources, including card skills and they are cumulative (see Scope rules). \n **4. NORMAL ROLL:** The player resolving the test rolls a number of dice equal to their modified stat that is being tested. \n **5. DETERMINE INITIAL SUCCESS:** The player counts their successes. Each result is equal to or greater than the scope (normally 4+) is a success. \n **6. FREE REROLLS:** Some game effects allow a player to reroll dice at no cost. Such dice are rolled during this step. All free rerolls have to be made at once. \n **7. MANA REROLLS:** A character may spend up to five mana to reroll one die for each mana spent. Each mana spent is removed from that character’s card and placed in the supply. All mana rerolls have to be made at once. \n **8. EXPLODING DICE:** If a die produces a result of six, it explodes, allowing the player to roll one additional die. Newly rolled dice can also explode—this can happen indefinitely. Keep all additional dice rolled due to an explosion separate from dice that were rolled initially. \n **9. DETERMINE FINAL SUCCESSES:** The player counts their successes as follows: \n - For the initial dice, each result that is equal to or greater than the scope is a success. \n - For dice rolled due to explosions, each result of five or higher is a success. This cannot be modified by game effects. \n **10. DEFENCE TEST (optional):** If required, the target of the test performs a defence test (see ‘Defence Test’ below). \n **11. APPLY SUCCESSES:** The player applies the successes according to the test’s description or the weapon card being used (for attack tests) to determine the outcome. If a test has more than one available outcome, only the outcome that requires the most successes is resolved."
             },
             {
                 "name": "Towards",
                 "definition": "Moving towards uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character or object. At the end of the movement, the character’s model must rotate to face the character or object they are moving towards."
+            },
+            {
+                "name": "Tree",
+                "definition": "A tree is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with a few notable differences: \n - Characters cannot move over trees unless they are jumping or teleporting. \n - Characters on a higher elevation cannot ignore trees like other low obstacles."
             },
             {
                 "name": "Trigger Cards",
@@ -8164,7 +8212,10 @@
                 "diceModifier": "+1",
                 "unique": true,
                 "type": "Melee",
-                "definition": "If an attack with this weapon results in 2 or more Successes, pass this character's Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds"
+                "definition": "If an attack with this weapon results in 2 or more Successes, pass this character's Debuff to the target.\n          1 success: 1 Wound\n3 successes: 2 Wounds\n5 successes: 3 Wounds",
+                "keywords": [
+                    "Passing Buffs and Debuffs"
+                ]
             },
             {
                 "name": "Teela's Sword",
