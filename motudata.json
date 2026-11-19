@@ -2462,6 +2462,10 @@
                 "definition": "If any effect is triggered after discarding a card, the player must resolve this effect immediately after the action that discarded the card, not during that action. \n EXAMPLE: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
             },
             {
+                "name": "Endless Garbage Pile",
+                "definition": "7-hex terrain piece treated as a low obstacle, with one notable difference: \n - An endless Garbage Pile can be attacked. \n - When a player reduces health of the endless garbage pile to 0, they remove it from its current spot and immediately place it elsewhere on the battleground. An endless garbage pile can only be placed on empty hexes. \n **Attacking the Endless Garbage Pile**: \n A character can perform an attack againt the endless garbage pile. It has 2 Health, 0 Toughness, and 0 Mind, no arcs (cannot be target of flank attacks). Cannot be engaged, characters are not considered engaged with it."
+            },
+            {
                 "name": "Enemy",
                 "definition": "Any character that belongs to the opposite force."
             },
@@ -2550,6 +2554,10 @@
                 "definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
             },
             {
+                "name": "Heavy Weapons and Attacks",
+                "definition": "With the following exceptions, heavy attacks follow the rules for ranged attacks: \n - The attacking character must use a heavy weapon instead of a ranged weapon. \n - The attacking character can use a heavy attack even when engaged with an enemy. \n - During the attacks of opportunity, heavy weapons can be used instead of melee weapons."
+            },
+            {
                 "name": "Ongoing effects",
                 "definition": "All active buffs, debuffs, and marks are treated as ongoing effects."
             },
@@ -2586,12 +2594,24 @@
                 "definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
             },
             {
+                "name": "Regular Buffs - FAQ",
+                "definition": "As regular Buffs, we understand the following: {Quickness}, {Enhancement}, {Protection}."
+            },
+            {
+                "name": "Regular Debuffs - FAQ",
+                "definition": "As regular Debuffs, we understand the following: {Cripple}, {Blind}, {Knockdown}."
+            },
+            {
                 "name": "Scope",
                 "definition": "**Scope Default is 4.** \n If the target is in cover, scope decreases by one. \n If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks. \n If it is a flank attack, scope increases by one. \n If the attacker is focused, scope increases by one (must spend token). \n Attacks performed during interruptions have their scope decreased by one (excluding attacks of opportunity). \n Attacks of opportunity have their scope increased by one."
             },
             {
                 "name": "Skill Test",
                 "definition": "Any test related to the character’s skill (passive or active)."
+            },
+            {
+                "name": "Small Garbage Pile",
+                "definition": "Garbage piles are a 2-hex and 3-hex terrain piece treated as a low obstacle, with one notable difference: \n - When a garbage pile stops a pushed or pulled character, that character receives one Wound."
             },
             {
                 "name": "Smoke",
@@ -2602,8 +2622,12 @@
                 "definition": "Some skills allow a character to place special terrain pieces on the battleground. \n **Placement** \n Unless stated otherwise, Special terrain must be placed on an empty hex within line of sight of the character using the skill that allows the terrain placement. If a special terrain piece occupies more than one hex, all hexes must be empty and at least **one** of them must be within line of sight of the character using the skill. \n If the skill description instructs the special terrain piece to be placed within 8\", at least one hex of that special terrain piece needs to be within 8\" from the character using it. \n **Movement** \n For the purpose of movement, all special terrain pieces are treated as high obstacles. \n **Attacks** \n A character can perform an attack action against special terrain pieces. Unless stated otherwise, all special terrain pieces have 1 health, 0 toughness, and 0 mind. Special terrain pieces do not have arcs, so they cannot be the target of flank attacks. If the health of the special terrain piece is reduced to 0, this terrain piece is removed from the battleground. Characters cannot be engaged with a special terrain piece but characters standing on the hexes adjacent to a special terrain piece can perform melee attacks against it \n **TYPES OF SPECIAL TERRAIN** \n Teleporter, Force Field, Crater, Gas Tank, Mud Monster"
             },
             {
-                "name": "Swamp",
+                "name": "Swamp (Legends of Preternia)",
                 "definition": "A swamps is a 7-hex piece of difficult terrain. If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
+            },
+            {
+                "name": "Swamp (Snakemen w12 Low Terrain)",
+                "definition": "A Swamp is a 4-hex terrain piece treated as a low obstacle, with two notable differences: \n - Characters that move over a swamp must immediately end their movement. \n - Swamps do not provide cover."
             },
             {
                 "name": "Switch",
@@ -2632,6 +2656,14 @@
             {
                 "name": "Trigger Cards",
                 "definition": "Some fate cards included in this expansion have bonuses described as triggers. These cards can be discarded during situations mentioned in their descriptions to interrupt the current activation or interruption."
+            },
+            {
+                "name": "Ultimate Skills",
+                "definition": "Some fate cards included in this expansion have bonuses described as ultimate skills. Any character can be activated with those fate cards, but only the character mentioned in the bonus description can use those bonuses."
+            },
+            {
+                "name": "Vehicle",
+                "definition": "Characters with a skill 'Vehicle' are classified as vehicles. Vehicles follow the rules for massive models."
             }
         ],
         "glorycards": [
@@ -13919,6 +13951,10 @@
                     "Vehicle",
                     "Indirect Fire"
                 ],
+                 "keywords": [
+                    "Vehicle",
+                    "Marks"
+                ],
                 "points": 28,
                 "health": 6,
                 "toughness": 2,
@@ -13950,6 +13986,10 @@
                 "skills": [
                     "Vehicle - Speed",
                     "Supersonic Speed"
+                ],
+                 "keywords": [
+                    "Vehicle",
+                    "Defence Test"
                 ],
                 "points": 26,
                 "health": 7,
@@ -13983,6 +14023,10 @@
                     "Vehicle - Rotation",
                     "Rotor Motors"
                 ],
+                "keywords": [
+                    "Vehicle",
+                    "Jump"
+                ],
                 "points": 26,
                 "health": 7,
                 "toughness": 3,
@@ -14013,6 +14057,11 @@
                 "skills": [
                     "Vehicle - Aggression",
                     "Shoot and Move"
+                ],
+                "keywords": [
+                    "Vehicle",
+                    "Interruptions",
+                    "Free Actions"
                 ],
                 "points": 27,
                 "health": 8,
