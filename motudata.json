@@ -2422,6 +2422,10 @@
                 "definition": "Test of the attacker’s stat during the attack."
             },
             {
+                "name": "Attacks of Opportunity against Webstor FAQ",
+                "definition": "Suppose Webstor receives 1 wound as a result of an attack of opportunity. In that case, he uses his free movement granted my the 'Master of Escape' skill before the move action that has initiated the attack of opportunity."
+            },
+            {
                 "name": "Buffs and Debuffs",
                 "definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
             },
@@ -2460,6 +2464,10 @@
             {
                 "name": "Discarded Effects",
                 "definition": "If any effect is triggered after discarding a card, the player must resolve this effect immediately after the action that discarded the card, not during that action. \n EXAMPLE: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
+            },
+            {
+                "name": "Electro Shocker Spear and Focus FAQ",
+                "definition": "If the player decides to use an Elecro Shocker Spear as a ranged weapon, they must spend the focus token before the attack. This attack won’t have a focus and won’t benefit from the effects that require it."
             },
             {
                 "name": "Endless Garbage Pile",
@@ -2518,8 +2526,20 @@
                 "definition": "**1. Preparation Phase:** Players draw fate cards (maximum of five in hand). \n **2. Activation Phase:** Players take turns activating their characters. \n **3. Clean-Up Phase:** Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
             },
             {
+                "name": "Harp Rerolls FAQ",
+                "definition": "If a character uses a Harp to discard a card and perform free rerolls, these rerolls must be made before any mana rerolls and exploding dice."
+            },
+            {
                 "name": "High Obstacle",
                 "definition": "Any piece of terrain that is two inches or taller is a HIGH OBSTACLE. \n **Movement and High Obstacles:** A character can move over high obstacles. During a move action, a character can spend six movement points to move from any hex that shares a border with a portion of a high obstacle to any other hex that shares a border with the same portion of that obstacle."
+            },
+            {
+                "name": "Heavy Weapons and Attacks",
+                "definition": "With the following exceptions, heavy attacks follow the rules for ranged attacks: \n - The attacking character must use a heavy weapon instead of a ranged weapon. \n - The attacking character can use a heavy attack even when engaged with an enemy. \n - During the attacks of opportunity, heavy weapons can be used instead of melee weapons."
+            },
+            {
+                "name": "Hordak's Commands FAQ",
+                "definition": "After Hordak uses his ‘I Command You!’ skill, he has to rotate to face the ally he targeted, not the enemy (Hordak changes his facing before the mentioned ally begins their interruption). The targeted ally and the enemy must be in Hordak’s LoS."
             },
             {
                 "name": "Immediately",
@@ -2554,8 +2574,8 @@
                 "definition": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase. \n A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill. \n The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character. \n Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
             },
             {
-                "name": "Heavy Weapons and Attacks",
-                "definition": "With the following exceptions, heavy attacks follow the rules for ranged attacks: \n - The attacking character must use a heavy weapon instead of a ranged weapon. \n - The attacking character can use a heavy attack even when engaged with an enemy. \n - During the attacks of opportunity, heavy weapons can be used instead of melee weapons."
+                "name": "Mind Control FAQ",
+                "definition": "When the enemy affected by the Shadow Weaver’s ‘Mind Control’ is performing a mandatory movement and has two or more valid hexes they can stand on, the player controlling that character chooses the final spot. \n **Remember!**: As a result of the ‘Mind Control’ skill, the targeted enemy interrupts Shadow Weaver. All standard interruption rules still apply. The player who controls the interrupting character can even play fate or glory cards to gain extra AP and perform additional actions. However, the mandatory move action always has to be performed as the first action in this interruption."
             },
             {
                 "name": "Ongoing effects",
@@ -2565,13 +2585,21 @@
                 "name": "Overwatch",
                 "definition": "This action allows the active character to prepare for incoming enemies. To perform the overwatch action, the player takes an overwatch token from the supply and places it near the active character on the battleground. This token indicates that the active character is on overwatch. Then, the active character’s activation ends immediately. \n \n If a character is on overwatch, they must **interrupt** (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met: \n - The enemy ends their movement in a hex that is within line of sight of the character on overwatch. \n - Any part of the enemy’s base is within the front arc of the character on overwatch. \n - The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target). \n \n A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations: \n - If a character that is on overwatch starts an overwatch interruption. \n - If a character that is on overwatch starts an activation. \n \n More than one character can interrupt the same enemy action. In that case, the player who controls those characters chooses which interruption is resolved first."
             },
-            {
+             {
                 "name": "Passive Skills",
                 "definition": "All skills that do not have a cost (in AP and/ or mana) stated next to their description. Passive skills can be resolved if the associated character is on the battleground."
             },
             {
+                "name": "Palace Guards and Area Attacks FAQ",
+                "definition": "Palace Guard's 'Heroic Guard' skill can protect allies from becoming an initial target of area attacks, but it cannot protect them from becoming additional targets of those attacks."
+            },
+            {
                 "name": "Passing Buffs and Debuffs",
                 "definition": "Some game effects allow a character to pass their buffs or debuffs to other characters. Passed buffs and debuffs are not treated as removed. \n EXAMPLE: Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
+            },
+            {
+                "name": "Propeller Arm and Discards FAQ",
+                "definition": "Propeller Arm discards cards before the attack, not during it, so the effects triggered after discarding will also apply before the attack."
             },
             {
                 "name": "Protection",
@@ -2594,12 +2622,16 @@
                 "definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
             },
             {
-                "name": "Regular Buffs - FAQ",
+                "name": "Regular Buffs FAQ",
                 "definition": "As regular Buffs, we understand the following: {Quickness}, {Enhancement}, {Protection}."
             },
             {
-                "name": "Regular Debuffs - FAQ",
+                "name": "Regular Debuffs FAQ",
                 "definition": "As regular Debuffs, we understand the following: {Cripple}, {Blind}, {Knockdown}."
+            },
+            {
+                "name": "Rolled values FAQ",
+                "definition": "When effects refer to the values rolled in an attack test, take the state of the dice after any rerolls and exploding, but before the enemy defence test."
             },
             {
                 "name": "Scope",
@@ -2664,6 +2696,10 @@
             {
                 "name": "Vehicle",
                 "definition": "Characters with a skill 'Vehicle' are classified as vehicles. Vehicles follow the rules for massive models."
+            },
+            {
+                "name": "Visor and Overwatch - FAQ",
+                "definition": "If a character, equipped with a visor, is on overwatch, they must interrupt an enemy activation or interruption when all the following conditions are met: \n - The enemy ends their movement or attack action in a hex that is within line of sight of the character on overwatch. \n - Any part of the enemy’s base is within the front arc of the character on overwatch. \n - The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action – if the character is focused, they could use their focus token to reach the target."
             }
         ],
         "glorycards": [
@@ -8323,7 +8359,11 @@
                 "highlight": true,
                 "availableIn": [
                     "Whiplash"
-                ]
+                ],
+                "keywords": [
+                    "Focus",
+                    "Electro Shocker Spear and Focus FAQ"
+                ],
             },
             {
                 "name": "Club",
@@ -8390,7 +8430,11 @@
                 "points": 3,
                 "unique": true,
                 "type": "Melee",
-                "definition": "Before attacking, discard up to 3 fate cards to gain 1 Die per discarded card.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds"
+                "definition": "Before attacking, discard up to 3 fate cards to gain 1 Die per discarded card.\n          1 Success: 1 Wound\n          3 Successes: 2 Wounds\n          5 Successes: 3 Wounds",
+                "keywords": [
+                    "Discarded Effects",
+                    "Propeller Arm and Discards FAQ"
+                ]
             },
             {
                 "name": "Metal Fist",
@@ -9674,7 +9718,10 @@
                 "mana": 1,
                 "unique": true,
                 "type": "Spell",
-                "definition": "Before attacking, add up to 3 Dice. All successes are cancelled if at least one '1' is rolled in the attack test.\n          2 successes: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds"
+                "definition": "Before attacking, add up to 3 Dice. All successes are cancelled if at least one '1' is rolled in the attack test.\n          2 successes: 1 Wound\n4 successes: 2 Wounds\n6 successes: 3 Wounds",
+                "keywords": [
+                    "Rolled values FAQ"
+                ]
             },
             {
                 "name": "Insults",
@@ -10385,7 +10432,12 @@
                 "points": 1,
                 "unique": true,
                 "type": "Trinket",
-                "definition": "Enemy attacks trigger this character's overwatches. Interruption starts after the attack."
+                "definition": "Enemy attacks trigger this character's overwatches. Interruption starts after the attack.",
+                "keywords": [
+                    "Overwatch",
+                    "Visor and Overwatch - FAQ",
+                    "Interruptions"
+                ]
             },
             {
                 "name": "King's Goblet",
@@ -10458,7 +10510,11 @@
                 "points": 1,
                 "unique": true,
                 "type": "Trinket",
-                "definition": "During any test, this character may discard a fate card to gain 2 free rerolls."
+                "definition": "During any test, this character may discard a fate card to gain 2 free rerolls.",
+                "keywords": [
+                    "Harp Rerolls FAQ",
+                    "Discarded Effects"
+                ]
             },
             {
                 "name": "Horde Armband",
@@ -11464,6 +11520,9 @@
                     "Heroic Guard",
                     "Endless Heroes"
                 ],
+                 "keywords": [
+                    "Palace Guards and Area Attacks FAQ"
+                ],
                 "upgradeTypes": [
                     "Melee",
                     "Ranged",
@@ -11495,6 +11554,9 @@
                 "skills": [
                     "Heroic Guard",
                     "Endless Heroes"
+                ],
+                 "keywords": [
+                    "Palace Guards and Area Attacks FAQ"
                 ],
                 "upgradeTypes": [
                     "Melee",
@@ -12212,7 +12274,8 @@
                 ],
                 "keywords": [
                     "Buffs and Debuffs",
-                    "Flank attacks"
+                    "Flank attacks",
+                    "Attacks of Opportunity against Webstor FAQ"
                 ],
                 "BasicEquipment": [
                     "Power Blaster"
@@ -12886,7 +12949,8 @@
                     "Energy Cannon"
                 ],
                 "keywords": [
-                    "Interruptions"
+                    "Interruptions",
+                    "Hordak's Commands FAQ"
                 ],
                 "points": 20,
                 "health": 5,
@@ -13006,7 +13070,8 @@
                     "Overwhelming Power"
                 ],
                 "keywords": [
-                    "Interruptions"
+                    "Interruptions",
+                    "Mind Control FAQ"
                 ],
                 "points": 16,
                 "health": 4,
