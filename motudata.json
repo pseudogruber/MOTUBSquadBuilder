@@ -2422,6 +2422,10 @@
                 "definition": "Test of the attacker’s stat during the attack."
             },
             {
+                "name": "Attacks of Opportunity",
+                "definition": "If an engaged character is about to move out of a hex, anyenemies they are engaged with resolve an interruption. This type of interruption is called an attack of opportunity, and it is resolved after a move action is declared. If the interrupted character was engaged with multiple enemies, each enemy can perform an attack of opportunity in the order of the controlling player’s choice. Attacks of opportunity are resolved following the normal interruption rules with the following exceptions: \n - The interrupting character can only perform attack actions. \n - Any attacks must be melee attacks. \n - The scope of the interruption attack is increased by one (instead of decreased by one)."
+            },
+            {
                 "name": "Attacks of Opportunity against Webstor FAQ",
                 "definition": "Suppose Webstor receives 1 wound as a result of an attack of opportunity. In that case, he uses his free movement granted my the 'Master of Escape' skill before the move action that has initiated the attack of opportunity."
             },
