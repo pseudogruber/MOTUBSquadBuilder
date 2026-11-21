@@ -359,9 +359,9 @@
                                 {
                                     "type": "orderedList",
                                     "items": [
-                                        "Preparation Phase: Players draw fate cards (maximum of five in hand).",
-                                        "Activation Phase: Players take turns activating their characters.",
-                                        "Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+                                        "**Preparation Phase**: Players draw fate cards (maximum of five in hand).",
+                                        "**Activation Phase**: Players take turns activating their characters.",
+                                        "**Clean-Up Phase**: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
                                     ]
                                 }
                             ]
@@ -406,9 +406,9 @@
                                 {
                                     "type": "unorderedList",
                                     "items": [
-                                        "High Obstacles provide cover and block line of sight. Characters can spend six movement points to climb over the high obstacle.",
-                                        "Low Obstacles provide cover and do not block line of sight. Characters can spend three movement points to move over the low obstacle.",
-                                        "Difficult Terrain does not provide cover and does not block line of sight. If a character begins their action in it, their speed (and focused speed) is reduced by two."
+                                        "**High Obstacles** provide cover and block line of sight. Characters can spend six movement points to climb over the high obstacle.",
+                                        "**Low Obstacles** provide cover and do not block line of sight. Characters can spend three movement points to move over the low obstacle.",
+                                        "**Difficult Terrain** does not provide cover and does not block line of sight. If a character begins their action in it, their speed (and focused speed) is reduced by two."
                                     ]
                                 }
                             ]
