@@ -348,6 +348,243 @@
             "title": "Rulebook",
             "sections": [
                 {
+                    "id": "quick-reference-p32",
+                    "title": "QUICK REFERENCE",
+                    "page": 32,
+                    "sections": [
+                        {
+                            "id": "game-round-p32",
+                            "title": "GAME ROUND",
+                            "blocks": [
+                                {
+                                    "type": "orderedList",
+                                    "items": [
+                                        "Preparation Phase: Players draw fate cards (maximum of five in hand).",
+                                        "Activation Phase: Players take turns activating their characters.",
+                                        "Clean-Up Phase: Players claim objectives, remove mark, buff, and debuff tokens, check victory conditions, gain one mana per ready character, and discard played cards."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "activation-phase-p32",
+                            "title": "ACTIVATION PHASE",
+                            "blocks": [
+                                {
+                                    "type": "orderedList",
+                                    "items": [
+                                        "Select Cards",
+                                        "Activate Characters",
+                                        "Gain Bonuses",
+                                        "Perform Actions",
+                                        "End Activation"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "scope-default-4-p32",
+                            "title": "SCOPE (DEFAULT 4)",
+                            "blocks": [
+                                {
+                                    "type": "unorderedList",
+                                    "items": [
+                                        "If the target is in cover, scope decreases by one.",
+                                        "If the target of a ranged attack is engaged, scope decreases by one. This does not affect spell and melee attacks.",
+                                        "If it is a flank attack, scope increases by one.",
+                                        "If the attacker is focused, scope increases by one (must spend token).",
+                                        "Attacks perform during interruptions have their scope decreased by one (excluding attacks of opportunity).",
+                                        "Attacks of opportunity have their scope increased by one."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "terrain-rules-p32",
+                            "title": "TERRAIN RULES (NO ELEVATION)",
+                            "blocks": [
+                                {
+                                    "type": "unorderedList",
+                                    "items": [
+                                        "High Obstacles provide cover and block line of sight. Characters can spend six movement points to climb over the high obstacle.",
+                                        "Low Obstacles provide cover and do not block line of sight. Characters can spend three movement points to move over the low obstacle.",
+                                        "Difficult Terrain does not provide cover and does not block line of sight. If a character begins their action in it, their speed (and focused speed) is reduced by two."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tests-p32",
+                            "title": "TESTS",
+                            "blocks": [
+                                {
+                                    "type": "orderedList",
+                                    "items": [
+                                        "Check Stats",
+                                        "Determine Modifiers",
+                                        "Determine the Scope",
+                                        "Normal Roll",
+                                        "Determine Initial Successes",
+                                        "Free Rerolls",
+                                        "Mana Rerolls",
+                                        "Exploding Dice",
+                                        "Determine Final Successes",
+                                        "Defence Test (optional)",
+                                        "Apply Successes"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "icon-key-p32",
+                            "title": "ICON KEY",
+                            "blocks": [
+                                {
+                                    "type": "figure",
+                                    "asset": "icon-key-p32",
+                                    "alt": "Icon key showing character stats: Health, Strength, Toughness, Mind, Power, Perception and Speed; weapon types: Melee, Ranged and Spell; and the Mana and Action Points icons."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "glossary-p32",
+                            "title": "GLOSSARY",
+                            "sections": [
+                                {
+                                    "id": "glossary-activation-p32",
+                                    "title": "Activation",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "All situations when a player activates one of their characters with a fate or glory card to perform their actions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-active-skills-p32",
+                                    "title": "Active Skills",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "All skills that have a cost (in AP and/or mana) stated next to their description. Active skills can only be used when an associated character is active or interrupting. Every active skill can only be used once per activation and interruption."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-ally-p32",
+                                    "title": "Ally",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Any character that belongs to the same force (excluding the character that currently resolves their activation or interruption)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-attack-test-p32",
+                                    "title": "Attack Test",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Test of the attacker’s stat during the attack."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-card-limits-p32",
+                                    "title": "Card Limits",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Players cannot have more than five fate cards in their hand at a time. Glory cards do not count towards this restriction."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-character-p32",
+                                    "title": "Character",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Any model on the table."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-defence-test-p32",
+                                    "title": "Defence Test",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Any test made to decrease the number of successes received by the enemy during an attack or skill test."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-enemy-p32",
+                                    "title": "Enemy",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Any character that belongs to the opposite force."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-immediately-p32",
+                                    "title": "Immediately",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "When one action must be performed immediately after another, the revelant character cannot perform any action in-between (including free actions)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-interruptions-p32",
+                                    "title": "Interruptions",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "All situations when any character interrupts other characters to perform their own action. The interrupting player can play cards from their hand, to provide the interrupting character with additional bonuses."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-ongoing-effects-p32",
+                                    "title": "Ongoing effects",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "All active buffs, debuffs, and marks are treated as ongoing effects."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-passive-skills-p32",
+                                    "title": "Passive skills",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "All skills that do not have a cost (in AP and/or mana) stated next to their description. Passive skills can be resolved if the associated character is on the battleground."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "glossary-skill-test-p32",
+                                    "title": "Skill Test",
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Any test related to the character’s skill (passive or active)."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "id": "basic-concepts",
                     "title": "Basic Concepts",
                     "page": 6,
