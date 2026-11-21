@@ -2672,12 +2672,16 @@
                 "definition": "Suppose Webstor receives 1 wound as a result of an attack of opportunity. In that case, he uses his free movement granted my the 'Master of Escape' skill before the move action that has initiated the attack of opportunity."
             },
             {
-                "name": "Buffs and Debuffs",
-                "definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
-            },
-            {
                 "name": "Blind",
                 "definition": "While a character has this debuff, the scope of each of their attack tests is decreased by one."
+            },
+            {
+                "name": "Bow's Buffs FAQ",
+                "definition": "Whenever Bow loses a buff during an activation phase, the active player chooses which buff he loses. \n During the clean-up phase, Bow loses all his buffs. If any effect says that Bow should not lose a buff, the controlling player can choose one of Bow's buffs to keep. This effect can be cumulative."
+            },
+            {
+                "name": "Buffs and Debuffs",
+                "definition": "Attacks and skills can cause a character to receive an ongoing effect. Positive effects are BUFFS, and negative effects are DEBUFFS. There are multiple types of buffs and debuffs and each is represented by a token. \n If a character gains a buff or debuff, the appropriate token is taken from the supply and placed next to that character on the battleground as an indicator of the ongoing effect. \n Each character can only have one buff and one debuff at a time. If a character gains a buff or debuff and already has one, their previous buff or debuff is removed from the battleground and placed back in the supply. \n Attacks and skills may allow a character to gain a unique buff or debuff that is not described above. Each unique buff or debuff has its own token, and each force can only have one copy of each unique buff or debuff active at a time. \n Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
             },
             {
                 "name": "Card Limits",
@@ -2765,7 +2769,11 @@
             },
             {
                 "name": "Free Actions",
-                "definition": "Some game effects provide a character with free actions. Free actions are simply actions that do not cost a character AP and are not treated as normal actions for the purposes of increasing action costs. \n Example: He-Man receives a free move action at the beginning of his activation. After performing the action, he decides to perform another move action. Because the first move action is free, the second move action only costs him 1 AP (since it is the first standard move action of his activation)."
+                "definition": "Some game effects allow a player to reroll dice at no cost. Such dice are rolled during step 6 of a Test (after determining Initial Successes and before Mana Rerolls). All free rerolls have to be made at once."
+            },
+            {
+                "name": "Free Rerolls",
+                "definition": "Fang-Or isn’t deployed during the setup. He is deployed at the beginning of the second or the following rounds within any player deployment zone, at least seven hexes from any enemy."
             },
             {
                 "name": "Force",
@@ -2810,6 +2818,10 @@
             {
                 "name": "Indirect Fire FAQ",
                 "definition": "An enemy that ends any form of movement within 2 hexes of the Indirect Fire mark must make a defence test. This effect is also triggered by pushes, pulls, teleports, and jumps. However, it does not affect enemies that are not within the mark’s line of sight"
+            },
+            {
+                "name": "Initiative Bonuses FAQ",
+                "definition": "All effects that influence characters activated with specific initiatives won't affect characters that weren't activated this round."
             },
             {
                 "name": "Interruptions",
@@ -2867,7 +2879,7 @@
                 "name": "Overwatch",
                 "definition": "This action allows the active character to prepare for incoming enemies. To perform the overwatch action, the player takes an overwatch token from the supply and places it near the active character on the battleground. This token indicates that the active character is on overwatch. Then, the active character’s activation ends immediately. \n \n If a character is on overwatch, they must **interrupt** (see ‘Interruptions’ on page 23) an enemy activation or interruption when all the following conditions are met: \n - The enemy ends their movement in a hex that is within line of sight of the character on overwatch. \n - Any part of the enemy’s base is within the front arc of the character on overwatch. \n - The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action (if the character is focused, they could use their focus token to reach the target). \n \n A character is no longer on overwatch and their overwatch token is returned to the supply in the following situations: \n - If a character that is on overwatch starts an overwatch interruption. \n - If a character that is on overwatch starts an activation. \n \n More than one character can interrupt the same enemy action. In that case, the player who controls those characters chooses which interruption is resolved first."
             },
-             {
+            {
                 "name": "Passive Skills",
                 "definition": "All skills that do not have a cost (in AP and/ or mana) stated next to their description. Passive skills can be resolved if the associated character is on the battleground."
             },
@@ -8803,6 +8815,9 @@
                 "availableIn": [
                     "She-Ra",
                     "She-Ra With Swift Wind"
+                ],
+                "keywords": [
+                    "Defence Test"
                 ]
             },
             {
@@ -8816,6 +8831,9 @@
                 "highlight": true,
                 "availableIn": [
                     "Angella"
+                ],
+                "keywords": [
+                    "Initiative Bonuses FAQ"
                 ]
             },
             {
@@ -9539,6 +9557,9 @@
                 "highlight": true,
                 "availableIn": [
                     "Bow"
+                ],
+                "keywords": [
+                    "Buffs and Debuffs"
                 ]
             },
             {
@@ -10073,6 +10094,10 @@
                 "highlight": true,
                 "availableIn": [
                     "Glimmer"
+                ],
+                "keywords": [
+                    "Blind",
+                    "Teleport"
                 ]
             },
             {
@@ -11038,6 +11063,9 @@
                 "highlight": true,
                 "availableIn": [
                     "Castaspella"
+                ],
+                "keywords": [
+                    "Free Rerolls"
                 ]
             },
             {
@@ -12781,6 +12809,10 @@
                 "BasicEquipment": [
                     "Sword of Protection"
                 ],
+                "keywords": [
+                    "Buffs and Debuffs",
+                    "Defence Test"
+                ],
                 "points": 19,
                 "health": 5,
                 "toughness": 3,
@@ -12822,6 +12854,12 @@
                 "BasicEquipment": [
                     "Sword of Protection"
                 ],
+                "keywords": [
+                    "Regeneration",
+                    "Buffs and Debuffs",
+                    "Jump",
+                    "Defence Test"
+                ],
                 "points": 32,
                 "health": 7,
                 "toughness": 3,
@@ -12862,6 +12900,10 @@
                 "BasicEquipment": [
                     "Combow"
                 ],
+                 "keywords": [
+                    "Bow's Buffs FAQ",
+                     "Buffs and Debuffs"
+                ],
                 "points": 17,
                 "health": 5,
                 "toughness": 3,
@@ -12898,6 +12940,12 @@
                 ],
                 "BasicEquipment": [
                     "Beam of Light"
+                ],
+                "keywords": [
+                    "Activation",
+                    "Buffs and Debuffs",
+                    "Blind",
+                    "Teleport"
                 ],
                 "points": 14,
                 "health": 4,
@@ -12937,6 +12985,11 @@
                 "BasicEquipment": [
                     "Angellic Sword"
                 ],
+                "keywords": [
+                    "Regeneration",
+                    "Buffs and Debuffs",
+                    "Initiative Bonuses FAQ"
+                ],
                 "points": 18,
                 "health": 4,
                 "toughness": 2,
@@ -12973,6 +13026,11 @@
                 ],
                 "BasicEquipment": [
                     "Spinning Disc"
+                ],
+                "keywords": [
+                    "Tests",
+                    "Buffs and Debuffs",
+                    "Free Rerolls"
                 ],
                 "points": 17,
                 "health": 4,
@@ -13014,6 +13072,7 @@
                 ],
                 "keywords": [
                     "Interruptions",
+                    "Scope",
                     "Sub-Zero FAQ",
                     "Ice Spell FAQ"
                 ],
