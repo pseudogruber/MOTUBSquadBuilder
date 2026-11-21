@@ -2800,6 +2800,10 @@
                 "definition": "After Hordak uses his ‘I Command You!’ skill, he has to rotate to face the ally he targeted, not the enemy (Hordak changes his facing before the mentioned ally begins their interruption). The targeted ally and the enemy must be in Hordak’s LoS."
             },
             {
+                "name": "Ice Spell FAQ",
+                "definition": "When Frosta uses her Ice Spell during an interruption, she won't suffer the penalty for attacking during an interruption. Still, she can suffer penalties from other sources, like the target being behind the cover."
+            },
+            {
                 "name": "Immediately",
                 "definition": "When one action must be performed immediately after another, the revelant character cannot perform any action in-between (including free actions)."
             },
@@ -2830,6 +2834,14 @@
             {
                 "name": "Lava Pit",
                 "definition": "A lava pit is a 3- or 4-hex piece. If the character enters a hex occupied by a lava pit, their movement immediately ends—this effect is triggered by any type of movement, except jumping and teleporting. If the character ends any type movement (including jumping and teleporting) on a hex occupied by a lava pit, that character receives one wound. If the character ends their activation on a hex occupied by a lava pit, they also receive one wound. \n Massive Models are unaffected by lava pits."
+            },
+            {
+                "name": "Leech and Magic Blast FAQ",
+                "definition": "When an enemy uses a Magic Blast to attack Leech, the following steps must be resolved: \n 1.  The enemy spends mana on the spell, and Leech gains 1 Mana. \n 2.  The enemy checks if they have more mana than Leech, and then the attack test is made. During this test, if the enemy spends mana on re-rolls, Leech gains 1 Mana. \n 3.  Leech performs a defence test. If he has his Slug Armour, he rolls a number of dice depending on his current mana, not the amount of mana he had at the start of the test. \n 4.  After that test, if Leech has his Slug Armour, he loses one Mana."
+            },
+            {
+                "name": "Magic Forest",
+                "definition": "A Magic Forest is a 4-hex terrain piece treated as a low obstacle (provides cover but does not block LOS), with one notable difference: \n - The active character on a hex adjacent to a Magic Forest can teleport to any hex adjacent to any Magic Forest by paying 1 mana for every hex the character will traverse. Massive characters can't use Magic Forest."
             },
             {
                 "name": "Magic Push Interactions FAQ",
@@ -2922,6 +2934,10 @@
             {
                 "name": "Special Terrain",
                 "definition": "Some skills allow a character to place special terrain pieces on the battleground. \n **Placement** \n Unless stated otherwise, Special terrain must be placed on an empty hex within line of sight of the character using the skill that allows the terrain placement. If a special terrain piece occupies more than one hex, all hexes must be empty and at least **one** of them must be within line of sight of the character using the skill. \n If the skill description instructs the special terrain piece to be placed within 8\", at least one hex of that special terrain piece needs to be within 8\" from the character using it. \n **Movement** \n For the purpose of movement, all special terrain pieces are treated as high obstacles. \n **Attacks** \n A character can perform an attack action against special terrain pieces. Unless stated otherwise, all special terrain pieces have 1 health, 0 toughness, and 0 mind. Special terrain pieces do not have arcs, so they cannot be the target of flank attacks. If the health of the special terrain piece is reduced to 0, this terrain piece is removed from the battleground. Characters cannot be engaged with a special terrain piece but characters standing on the hexes adjacent to a special terrain piece can perform melee attacks against it \n **TYPES OF SPECIAL TERRAIN** \n Teleporter, Force Field, Crater, Gas Tank, Mud Monster"
+            },
+            {
+                "name": "Sub-Zero FAQ",
+                "definition": "Frosta's Sub-Zero skill takes effect after the card used to activate a character is fully resolved. The activated character will receive mana and the card's bonus before Frosta uses her skill."
             },
             {
                 "name": "Swamp (Legends of Preternia)",
@@ -9784,7 +9800,10 @@
                 "range": 12,
                 "mana": 1,
                 "diceModifier": "-1",
-                "definition": "If the target has less mana than the attacker (after mana is spent for the spell), gain +2 dice.\n          2 successes: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds"
+                "definition": "If the target has less mana than the attacker (after mana is spent for the spell), gain +2 dice.\n          2 successes: 1 wound\n          3 successes: 2 wounds\n          5 successes: 3 wounds",
+                "keywords": [
+                    "Leech and Magic Blast FAQ"
+                ]
             },
             {
                 "name": "Shadow Strike",
@@ -10069,6 +10088,11 @@
                 "highlight": true,
                 "availableIn": [
                     "Frosta"
+                ],
+                "keywords": [
+                    "Interruptions",
+                    "Scope",
+                    "Ice Spell FAQ"
                 ]
             },
             {
@@ -12988,6 +13012,11 @@
                 "BasicEquipment": [
                     "Ice Spell"
                 ],
+                "keywords": [
+                    "Interruptions",
+                    "Sub-Zero FAQ",
+                    "Ice Spell FAQ"
+                ],
                 "points": 16,
                 "health": 4,
                 "toughness": 2,
@@ -13474,7 +13503,8 @@
                     "Slug Armour"
                 ],
                 "keywords": [
-                    "High Obstacle"
+                    "High Obstacle",
+                    "Leech and Magic Blast FAQ"
                 ],
                 "points": 17,
                 "health": 5,
