@@ -2724,8 +2724,16 @@
                 "definition": "Any piece of terrain that is less than half an inch tall and contains hexes that a character can stand on is DIFFICULT TERRAIN. Hexes that are part of difficult terrain are at standard elevation. \n **Movement and difficult terrain:** If the character begins a movement action while occupying a hex that contains difficult terrain, that character’s speed value (and focused speed value) is reduced by two for the remainder of that action."
             },
             {
+                "name": "Dinosaur - Skill FAQ",
+                "definition": "Characters with a skill starting with “Dinosaur” are classified as dinosaurs. Dinosaurs follow the rules for massive models with the following exceptions: \n -  Dinosaurs can move over high obstacles only while jumping or teleporting. \n -  Dinosaurs have unique interactions with some skills and equipment. \n -  Dinosaurs cannot use heavy weapons during attacks of opportunity against non-massive models."
+            },
+            {
                 "name": "Discarded Effects",
                 "definition": "If any effect is triggered after discarding a card, the player must resolve this effect immediately after the action that discarded the card, not during that action. \n EXAMPLE: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
+            },
+            {
+                "name": "Eldor - Eldritch Spell FAQ",
+                "definition": "To check the number of wounds in play, the player counts every wound on every character on the battleground."
             },
             {
                 "name": "Electro Shocker Spear and Focus FAQ",
@@ -2832,6 +2840,10 @@
                 "definition": "Jumping uses the same rules as the move action with the following exception: a jumping character ignores all characters, low and high obstacles, penalties from difficult terrain, and does not end their movement after entering a hex adjacent to an enemy. A jumping character also treats all surrounding hexes as adjacent, even if they are on different elevations."
             },
             {
+                "name": "King Grayskull - Immortal King FAQ",
+                "definition": "When King Grayskull takes the 5th wound, this model is not removed immediately from the battleground but is still counted as being knocked out. King Grayskull remains on the battleground until the end of the round and can likewise be activated. At the end of the round, when this skill is triggered, remove King Grayskull from the battleground, even if this character’s wounds have been removed."
+            },
+            {
                 "name": "King Hsss - Snake in the Grass FAQ",
                 "definition": "The character that ends activation within two hexes from King Hsss’s mark must perform a free move action towards King Hsss. The character performing this action must use as many movement points as possible. This action can be interrupted."
             },
@@ -2850,6 +2862,10 @@
             {
                 "name": "Leech and Magic Blast FAQ",
                 "definition": "When an enemy uses a Magic Blast to attack Leech, the following steps must be resolved: \n 1.  The enemy spends mana on the spell, and Leech gains 1 Mana. \n 2.  The enemy checks if they have more mana than Leech, and then the attack test is made. During this test, if the enemy spends mana on re-rolls, Leech gains 1 Mana. \n 3.  Leech performs a defence test. If he has his Slug Armour, he rolls a number of dice depending on his current mana, not the amount of mana he had at the start of the test. \n 4.  After that test, if Leech has his Slug Armour, he loses one Mana."
+            },
+            {
+                "name": "Luck - Weapon FAQ",
+                "definition": "This spell can be used as a free action when an attack with a melee or ranged weapon has “no effect”. An attack has no effect when, after the enemy's defence roll, the player does not have enough success to use any of the weapon's effects."
             },
             {
                 "name": "Magic Forest",
@@ -2912,6 +2928,10 @@
                 "definition": "While a character has this buff, their speed value (and focused speed value) is increased by two."
             },
             {
+                "name": "Ready",
+                "definition": "A character is ready if their character card does not have any fate or glory cards on it."
+            },
+            {
                 "name": "Regeneration",
                 "definition": "While a character has this buff, there is no inherent effect. However, when this buff is removed, and if the affected character is not knocked out, one wound token is removed from their character’s card."
             },
@@ -2922,6 +2942,10 @@
             {
                 "name": "Regular Debuffs FAQ",
                 "definition": "As regular Debuffs, we understand the following: {Cripple}, {Blind}, {Knockdown}."
+            },
+            {
+                "name": "Remove Terrain and Platforms FAQ",
+                "definition": "If a piece of terrain connected with the platform is removed, then the platform is also removed. All characters on the platform are placed on the hexes directly below the platform. If a hex is occupied, place a character on the closest available hex chosen by a player who controls the character."
             },
             {
                 "name": "Rolled values FAQ",
@@ -2946,6 +2970,10 @@
             {
                 "name": "Special Terrain",
                 "definition": "Some skills allow a character to place special terrain pieces on the battleground. \n **Placement** \n Unless stated otherwise, Special terrain must be placed on an empty hex within line of sight of the character using the skill that allows the terrain placement. If a special terrain piece occupies more than one hex, all hexes must be empty and at least **one** of them must be within line of sight of the character using the skill. \n If the skill description instructs the special terrain piece to be placed within 8\", at least one hex of that special terrain piece needs to be within 8\" from the character using it. \n **Movement** \n For the purpose of movement, all special terrain pieces are treated as high obstacles. \n **Attacks** \n A character can perform an attack action against special terrain pieces. Unless stated otherwise, all special terrain pieces have 1 health, 0 toughness, and 0 mind. Special terrain pieces do not have arcs, so they cannot be the target of flank attacks. If the health of the special terrain piece is reduced to 0, this terrain piece is removed from the battleground. Characters cannot be engaged with a special terrain piece but characters standing on the hexes adjacent to a special terrain piece can perform melee attacks against it \n **TYPES OF SPECIAL TERRAIN** \n Teleporter, Force Field, Crater, Gas Tank, Mud Monster"
+            },
+            {
+                "name": "Spell Attack",
+                "definition": "A spell attack follows all the rules of a ranged attack with the following exceptions: \n - The attacking character must use an equipped spell weapon instead of a ranged weapon. \n - The attack is resolved with a power test against the target’s mind. \n - The attacking character must spend an amount of mana equal to the spell’s mana cost. \n \n **Mana Cost** Each spell card has a mana cost, which indicates how much mana the attacking character must spend to use that spell during an attack action. While making a spell attack, after choosing a spell, the player takes a number of mana tokens equal to the spell’s mana cost from the attacking character’s card and places them in the supply. \n \n **Targeting allies** Some spells provide beneficial effects and can target allies instead of enemies. To target an ally with a spell, all of the normal range, line of sight, facing, and mana-cost rules apply."
             },
             {
                 "name": "Sub-Zero FAQ",
@@ -2976,6 +3004,10 @@
                 "definition": "1. Check Stat \n 2. Determine Modifiers \n 3. Determine the scope \n 4. Normal roll \n 5. Determine Initial Successes \n 6. Free Rerolls \n 7. Mana Rerolls \n 8. Exploding Dice \n 9. Determine Final Successes \n 10. Defence Test (optional) \n 11. Apply Successes \n \n Throughout the game, characters must resolve tests. During a test, players roll dice to determine the outcome of various game interactions, such as attacks and defences as well as attempts to apply or resist certain buffs and debuffs. The number of dice a player rolls and the results that are required for success are all determined by a character’s stats and modifiers. \n To resolve a test, a player performs the following steps: \n **1. CHECK STAT:** The player checks the value on their character card that corresponds to the stat that is being tested. That stat’s value is how many dice the player rolls to test that stat before modifiers are applied. For example, He-Man has a strength of five, which means he would roll five dice—before modifiers are applied—when he tests strength. \n **2. DETERMINE MODIFIERS:** Modifiers temporarily increase or decrease a character’s stat, changing the number of dice the player rolls. Modifiers come from a variety of sources, including card skills, and they are cumulative. If a modifier adds or subtracts a number to a test (i.e., ‘Test strength +1’ or ‘Test strength –1’) that character’s stat is increased or decreased, as appropriate, for the duration of the test.\n **3. DETERMINE THE SCOPE:** Scope defines the lowest result on a die that is treated as a success. By default, the scope of each test is four. Scope can be modified by a variety of sources, including card skills and they are cumulative (see Scope rules). \n **4. NORMAL ROLL:** The player resolving the test rolls a number of dice equal to their modified stat that is being tested. \n **5. DETERMINE INITIAL SUCCESS:** The player counts their successes. Each result is equal to or greater than the scope (normally 4+) is a success. \n **6. FREE REROLLS:** Some game effects allow a player to reroll dice at no cost. Such dice are rolled during this step. All free rerolls have to be made at once. \n **7. MANA REROLLS:** A character may spend up to five mana to reroll one die for each mana spent. Each mana spent is removed from that character’s card and placed in the supply. All mana rerolls have to be made at once. \n **8. EXPLODING DICE:** If a die produces a result of six, it explodes, allowing the player to roll one additional die. Newly rolled dice can also explode—this can happen indefinitely. Keep all additional dice rolled due to an explosion separate from dice that were rolled initially. \n **9. DETERMINE FINAL SUCCESSES:** The player counts their successes as follows: \n - For the initial dice, each result that is equal to or greater than the scope is a success. \n - For dice rolled due to explosions, each result of five or higher is a success. This cannot be modified by game effects. \n **10. DEFENCE TEST (optional):** If required, the target of the test performs a defence test (see ‘Defence Test’ below). \n **11. APPLY SUCCESSES:** The player applies the successes according to the test’s description or the weapon card being used (for attack tests) to determine the outcome. If a test has more than one available outcome, only the outcome that requires the most successes is resolved."
             },
             {
+                "name": "The Call of Nature FAQ",
+                "definition": "This spell targets a high-obstacle hex. The targeted hex must be within both the range of the weapon and the line of sight of the character using that spell. This spell cannot be used to perform flank attacks."
+            },
+            {
                 "name": "Towards",
                 "definition": "Moving towards uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character or object. At the end of the movement, the character’s model must rotate to face the character or object they are moving towards."
             },
@@ -2986,6 +3018,10 @@
             {
                 "name": "Trigger Cards",
                 "definition": "Some fate cards included in this expansion have bonuses described as triggers. These cards can be discarded during situations mentioned in their descriptions to interrupt the current activation or interruption."
+            },
+            {
+                "name": "Turbodactyl - FAQ",
+                "definition": "Before the Turbodactyl performs any movement action, it can also spend 2 mana to move one adjacent character. \n After the movement, the player controlling the character that was moved alongside the Turbodactyl places it on any hes adjacent to the Turbodactyl and rotates it in any direction. \n \n The character that was moved by the Turbodactyl cannot be interrupted, nor can it perform an attack of opportunity against the Turbodactyl. \n \n If the Turbodactyl cannot fit under the platform, its model must be temporarily removed from the 7-hex base. Until the Turbodactyl remains under the platform, the 7-hes base represents this character."
             },
             {
                 "name": "Ultimate Skills",
@@ -8984,6 +9020,9 @@
                 "highlight": true,
                 "availableIn": [
                     "King Grayskull"
+                ],
+                "keywords": [
+                    "Interruptions"
                 ]
             },
             {
@@ -8998,6 +9037,9 @@
                 "highlight": true,
                 "availableIn": [
                     "He-Ro"
+                ],
+                "keywords": [
+                    "Dinosaur - Skill FAQ"
                 ]
             },
             {
@@ -9012,6 +9054,10 @@
                 "highlight": true,
                 "availableIn": [
                     "He-Ro"
+                ],
+                "keywords": [
+                    "Dinosaur - Skill FAQ",
+                    "Defence Test"
                 ]
             },
             {
@@ -9026,6 +9072,10 @@
                 "highlight": true,
                 "availableIn": [
                     "He-Ro"
+                ],
+                "keywords": [
+                    "Protection",
+                    "Buffs and Debuffs"
                 ]
             },
             {
@@ -9054,6 +9104,10 @@
                 "highlight": true,
                 "availableIn": [
                     "Veena"
+                ],
+                "keywords": [
+                    "Buffs and Debuffs",
+                    "Defence Test"
                 ]
             },
             {
@@ -9096,6 +9150,9 @@
                 "highlight": true,
                 "availableIn": [
                     "Moss Man"
+                ],
+                "keywords": [
+                    "Flipping Equipment FAQ"
                 ]
             },
             {
@@ -9660,6 +9717,9 @@
                 "highlight": true,
                 "availableIn": [
                     "Roboto"
+                ],
+                "keywords": [
+                    "Flipping Equipment FAQ"
                 ]
             },
             {
@@ -10251,7 +10311,12 @@
                 "diceModifier": "-",
                 "unique": true,
                 "type": "Spell",
-                "definition": "Targets this character and can be used while engaged. If this character's Melee or Ranged attack had no effect, the character can immediately perform a free Spell attack with this spell.\n          0 Successes: This character gains 1 Mana\n          1 Success: This character gain Focus\n          2 Success: This character gains 1 Action"
+                "definition": "Targets this character and can be used while engaged. If this character's Melee or Ranged attack had no effect, the character can immediately perform a free Spell attack with this spell.\n          0 Successes: This character gains 1 Mana\n          1 Success: This character gain Focus\n          2 Success: This character gains 1 Action",
+                "keywords": [
+                    "Luck - Weapon FAQ",
+                    "Immediately",
+                    "Free Actions"
+                ]
             },
             {
                 "name": "Earthquake",
@@ -10321,7 +10386,15 @@
                 "diceModifier": "-",
                 "unique": true,
                 "type": "Spell",
-                "definition": "Targets a hex of high obstacle. The spell affects all characters within 3 hexes of the targeted hex.\n          1 Success: Pull target 2 hexes\n          2 Successes: Pull target 2 hexes and a Cripple debuff\n          3 Successes: 1 Wound, Pull target 2 hexes and a Cripple debuff"
+                "definition": "Targets a hex of high obstacle. The spell affects all characters within 3 hexes of the targeted hex.\n          1 Success: Pull target 2 hexes\n          2 Successes: Pull target 2 hexes and a Cripple debuff\n          3 Successes: 1 Wound, Pull target 2 hexes and a Cripple debuff",
+                "keywords": [
+                    "Push and Pull",
+                    "Pulling Characters",
+                    "The Call of Nature FAQ",
+                    "High Obstacle",
+                    "Cripple",
+                    "Buffs and Debuffs"
+                ]
             },
             {
                 "name": "Telepathy",
@@ -10424,6 +10497,9 @@
                 "highlight": true,
                 "availableIn": [
                     "Bionatops"
+                ],
+                "keywords": [
+                    "Heavy Weapons and Attacks"
                 ]
             },
             {
@@ -10460,7 +10536,6 @@
                 "name": "Battle Armor I",
                 "ID": "I1",
                 "imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650669/i1_q8n1b4.jpg",
-                "ID": "WS9",
                 "points": 4,
                 "unique": true,
                 "type": "Armour",
@@ -11296,6 +11371,10 @@
                 "highlight": true,
                 "availableIn": [
                     "He-Ro II"
+                ],
+                "keywords": [
+                    "Defence Test",
+                    "Scope"
                 ]
             },
             {
@@ -13674,6 +13753,11 @@
                     "Cosmic Pilot",
                     "Precision"
                 ],
+                "keywords": [
+                    "Ready",
+                    "Regular Buffs FAQ",
+                    "Regular Debuffs FAQ"
+                ],
                 "points": 18,
                 "health": 5,
                 "toughness": 2,
@@ -13712,6 +13796,9 @@
                     "The Throne",
                     "The Guardian"
                 ],
+                "keywords": [
+                    "Focus"
+                ],
                 "points": 32,
                 "health": 8,
                 "toughness": 3,
@@ -13749,6 +13836,12 @@
                     "Well Armored",
                     "Once More"
                 ],
+                "keywords": [
+                    "Buffs and Debuffs",
+                    "Dinosaur - Skill FAQ",
+                    "Protection",
+                    "Defence Test"
+                ],
                 "points": 20,
                 "health": 6,
                 "toughness": 2,
@@ -13783,6 +13876,13 @@
                     "Tamer",
                     "Bravery"
                 ],
+                "keywords": [
+                    "Dinosaur - Skill FAQ",
+                    "Interruptions",
+                    "Protection",
+                    "Defence Test",
+                    "Scope"
+                ],
                 "points": 18,
                 "health": 5,
                 "toughness": 2,
@@ -13816,6 +13916,12 @@
                 "skills": [
                     "Magic of Sharing",
                     "By Your Side"
+                ],
+                "keywords": [
+                    "Buffs and Debuffs",
+                    "Teleport",
+                    "Overwatch",
+                    "Defence Test"
                 ],
                 "points": 17,
                 "health": 4,
@@ -13852,6 +13958,9 @@
                     "Immortal King",
                     "Last Stand"
                 ],
+                "keywords": [
+                    "King Grayskull - Immortal King FAQ"
+                ],
                 "points": 21,
                 "health": 5,
                 "toughness": 3,
@@ -13885,6 +13994,12 @@
                 "skills": [
                     "Eldrich Spell",
                     "Hey, Behind you!"
+                ],
+                "keywords": [
+                    "Overwatch",
+                    "Focus",
+                    "Teleport",
+                    "Eldor - Eldritch Spell FAQ"
                 ],
                 "points": 18,
                 "health": 5,
@@ -13920,6 +14035,10 @@
                     "Plant Control",
                     "Plant Movement"
                 ],
+                "keywords": [
+                    "Immediately",
+                    "Flipping Equipment FAQ"
+                ],
                 "points": 19,
                 "health": 5,
                 "toughness": 3,
@@ -13953,6 +14072,11 @@
                     "All Guns!",
                     "Dinosaur Ram"
                 ],
+                "keywords": [
+                    "Dinosaur - Skill FAQ",
+                    "Remove Terrain and Platforms FAQ",
+                    "Heavy Weapons and Attacks"
+                ],
                 "points": 29,
                 "health": 8,
                 "toughness": 3,
@@ -13984,6 +14108,11 @@
                 "skills": [
                     "Jet Wings",
                     "Dinosaur Beak"
+                ],
+                "keywords": [
+                    "Jump",
+                    "Turbodactyl - FAQ",
+                    "Dinosaur - Skill FAQ"
                 ],
                 "points": 28,
                 "health": 7,
