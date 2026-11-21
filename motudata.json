@@ -2656,6 +2656,10 @@
                 "definition": "If the character’s skill contains the term Alternative Deployment, this character isn’t deployed in the standard way (during the game setup). Instead, to deploy this character, follow the instructions in the associated skill."
             },
             {
+                "name": "Amulet of Kulataks FAQ",
+                "definition": "The Amulet of Kulataks is compatible only with common buffs and debuffs, which includie Quickness, Enhancement, Protection, Regeneration, Cripple, Blind, Knockdown, and Curse."
+            },
+            {
                 "name": "Attack Test",
                 "definition": "Test of the attacker’s stat during the attack."
             },
@@ -2688,6 +2692,10 @@
                 "definition": "Charging uses the same rules as the move action with the following exception: the moving character must use the shortest route possible towards the indicated character. To resolve a charge, the character must end their movement in a hex adjacent to the character they are charging, and they must rotate their model to face that character."
             },
             {
+                "name": "Common Buffs and Debuffs",
+                "definition": "Common buffs and debuffs includie Quickness, Enhancement, Protection, Regeneration, Cripple, Blind, Knockdown, and Curse \n (w6 - additional rules - Amulet of Kulataks FAQ)."
+            },
+            {
                 "name": "Crater",
                 "definition": "CRATER: A crater is a special terrain piece that occupies seven hexes. In contrast to other special terrain pieces, craters can not be attacked or removed. \n **Craters** \n - can be placed on hexes occupied by characters. Those characters are moved to any empty hex adjacent to any hex occupied by the crater – (the player controlling the character chooses the hex). This movement cannot be interrupted. After a character moves, their model can be rotated to face any direction. Characters on removed platforms are treated in the same way. \n - can be placed on hexes occupied by other terrain pieces – including other special terrain pieces. Any overlapped terrain pieces are removed from the battleground. If any of these removed terrain pieces have a platform attached, this platform is also removed. \n - can be placed on hexes containing marks. Those marks are removed from the battleground. \n - can not be placed on hexes containing objective tokens. \n - can not be placed over other craters. \n - do not block line of sight and do not provide cover."
             },
@@ -2702,6 +2710,10 @@
             {
                 "name": "Defence Test",
                 "definition": "Any test made to decrease the number of successes received by the enemy during an attack or skill test. \n \n A DEFENCE TEST provides a character with an opportunity to mitigate the results of a test that is targeting them such as an attack (see ‘Attacks’ on page 17). A defence test is always resolved after dice for another test are rolled, but before its successes are applied. Each success that results from the defence test cancells one success from the enemy’s test. Any successes that are not cancelled are applied. A defence test follows the same procedure as standard tests. \n When there is an opportunity for a defence test, the test description or game rule always uses the word ‘against’ and provides the stat used for that defence test. \n *Example: If the test description instructs a character to ‘Resolve a strength test against toughness’, the player resolves a test using their strength stat. Then, the other player resolves a defence test using their toughness stat. Each success rolled during the defence (toughness) test cancells one success from the previous (strength) test.*"
+            },
+            {
+                "name": "Demolisher Missile FAQ",
+                "definition": "No enemy can be attacked if they are not in the targeted hex’s line of sight. To determine cover modifiers, a line should be traced between the attacked character and the targeted hex. This weapon cannot be used to perform flank attacks. \n \n If a Demolisher Missile is used during interruptions, it must target a hex that is adjacent to the interrupted character."
             },
             {
                 "name": "Difficult Terrain",
@@ -2792,6 +2804,10 @@
                 "definition": "When one action must be performed immediately after another, the revelant character cannot perform any action in-between (including free actions)."
             },
             {
+                "name": "Indirect Fire FAQ",
+                "definition": "An enemy that ends any form of movement within 2 hexes of the Indirect Fire mark must make a defence test. This effect is also triggered by pushes, pulls, teleports, and jumps. However, it does not affect enemies that are not within the mark’s line of sight"
+            },
+            {
                 "name": "Interruptions",
                 "definition": "All situations when any character interrupts other characters to perform their own action. The interrupting player can play cards from their hand, to provide the interrupting character with additional bonuses. \n \n During the game, there are times when a character can perform an action during another character’s activation. This is called an interruption. \n During an interruption, the interrupting character receives one AP. The interrupting character can perform **move**, **attack**, or **use an active skill** actions. The player who controls the interrupting character can play fate and glory cards from their hand—as if their character is active—to gain bonuses. The AP cost for interruptions follows the same rules as a standard activation. \n \n Interruptions must obey the following rules unless specifically stated otherwise: \n - All attacks or skills that target an enemy must target the interrupted character. All attacks made during interruptions are called interruption attacks. \n - All movements must be made towards the interrupted character and end within the line of sight of that character. \n - All tests made by the interrupting character have their scope decreased by one. \n - If any skill or attack places a mark token on the battleground, it must be placed on a hex that is adjacent to the enemy that has been interrupted (unless stated otherwise). \n - All cards played during an interruption are discarded. Do not place them on the interrupting character’s card. \n - Glory cards with fulfilled side missions should be placed faceup in the player’s play area. \n \n  After the interrupting character has completed all the actions they wish to perform or is out of AP, the interruption ends, and the interrupted character resumes their activation."
             },
@@ -2814,6 +2830,10 @@
             {
                 "name": "Lava Pit",
                 "definition": "A lava pit is a 3- or 4-hex piece. If the character enters a hex occupied by a lava pit, their movement immediately ends—this effect is triggered by any type of movement, except jumping and teleporting. If the character ends any type movement (including jumping and teleporting) on a hex occupied by a lava pit, that character receives one wound. If the character ends their activation on a hex occupied by a lava pit, they also receive one wound. \n Massive Models are unaffected by lava pits."
+            },
+            {
+                "name": "Magic Push Interactions FAQ",
+                "definition": "To use the Magic Push spell as a free attack, all the requirements must be met. The target must be within the attacker’s line of sight and range, and the attacker cannot be engaged in combat. In the case of area-of-effect attacks, Magic Push can only be used against the initial target. Characters cannot use Magic Push to push themselves. \n \n Magic Push cen be used for additional attacks with Chain Lightning, even if the second target is not within the character’s line of sight. In such cases, the push direction is determined according to the positions of the current and previous targets."
             },
             {
                 "name": "Magic Wand's Free Attacks FAQ",
@@ -10002,7 +10022,13 @@
                 "diceModifier": "-1",
                 "unique": true,
                 "type": "Spell",
-                "definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes."
+                "definition": "If a Spell attack with a different spell results in 2 or more Successes, the character can immediately perform a free Spell attack with this spell against the same target.\n          1 Success: The target is pushed 2 hexes.",
+                "keywords": [
+                    "Magic Push Interactions FAQ",
+                    "Immediately",
+                    "Free Actions",
+                    "Push and Pull"
+                ]
             },
             {
                 "name": "Trick",
@@ -10319,6 +10345,10 @@
                 "highlight": true,
                 "availableIn": [
                     "Dawg-O-Tor in Battle Ram"
+                ],
+                "keywords": [
+                    "Heavy Weapons and Attacks",
+                    "Demolisher Missile FAQ"
                 ]
             },
             {
@@ -10911,7 +10941,12 @@
                 "points": 1,
                 "unique": true,
                 "type": "Trinket",
-                "definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character."
+                "definition": "Shared Fate. Choose an ally within 12\". Pass a common Debuff and a common Buff from the ally to this character.",
+                "keywords": [
+                    "Amulet of Kultaks FAQ",
+                    "Passing Buffs and Debuffs",
+                    "Buffs and Debuffs",
+                    "Common Buffs and Debuffs"
             },
             {
                 "name": "Buzz Saw",
@@ -14276,7 +14311,8 @@
                 ],
                  "keywords": [
                     "Vehicle",
-                    "Marks"
+                    "Marks",
+                    "Indirect Fire FAQ"
                 ],
                 "points": 28,
                 "health": 6,
