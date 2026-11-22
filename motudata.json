@@ -2666,8 +2666,8 @@
                                     "text": "Some skills allow a character to place special terrain pieces on the battleground."
                                 },
                                 {
-                                    "type": "**PLACEMENT**",
-                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                    "type": "paragraph",
+                                    "text": "**PLACEMENT**."
                                 },
                                 {
                                     "type": "paragraph",
@@ -2679,16 +2679,16 @@
                                     "alt": "Examples showing how a massive model faces a target that is not adjacent."
                                 },
                                 {
-                                    "type": "**MOVEMENT**",
-                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                    "type": "paragraph",
+                                    "text": "**MOVEMENT**"
                                 },
                                 {
                                     "type": "paragraph",
                                     "text": "For the purpose of movement, all special terrain pieces are treated as high obstacles."
                                 },
                                 {
-                                    "type": "**ATTACKS**",
-                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                    "type": "paragraph",
+                                    "text": "**ATTACKS**"
                                 },
                                 {
                                     "type": "paragraph",
@@ -2697,10 +2697,8 @@
                                 {
                                     "type": "unorderedList",
                                     "items": [
-                                        "Any effects that are triggered ‘upon activation’ are resolved between steps 3 and 4 of an activation—after the character gains bonuses but before they perform any actions. If there is more than one such effect, the active player decides the order.",
-                                        "Any effects that are triggered ‘at the end of activation’ are resolved after step 5 of an activation—immediately after a character ends their activation. If there is more than one such effect, the active player decides the order.",
-                                        "Any effects that are triggered ‘upon interruption’ are resolved by the interrupting character before they start their interruption. If there is more than one such effect, the interrupting player decides the order.",
-                                        "Any effects that are triggered ‘at the end of interruption’ are resolved by the interrupting character after they end their interruption. If there is more than one such effect, the interrupting player decides the order."
+                                        "listitem 1",
+                                        "listitem 2"
                                     ]
                                 }
                             ]
