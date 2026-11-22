@@ -2655,6 +2655,55 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": "special-terrain-w1-p2",
+                            "title": "Special Terrain",
+                            "page": 2,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                },
+                                {
+                                    "type": "**PLACEMENT**",
+                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Special terrain must be placed on an empty hex that is within line of sight of the character using the skill that allows the terrain placement. If a special terrain piece occupies more than one hex, all hexes must be empty and at least one of them must be within line of sight of the character using the skill."
+                                },
+                                {
+                                    "type": "figure",
+                                    "asset": "massive-model-facing-target-examples",
+                                    "alt": "Examples showing how a massive model faces a target that is not adjacent."
+                                },
+                                {
+                                    "type": "**MOVEMENT**",
+                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "For the purpose of movement, all special terrain pieces are treated as high obstacles."
+                                },
+                                {
+                                    "type": "**ATTACKS**",
+                                    "text": "Some skills allow a character to place special terrain pieces on the battleground."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "A character can perform an attack action against special terrain pieces. Unless stated otherwise, all special terrain pieces have 1 health, 0 toughness, and 0 mind. Special terrain pieces do not have arcs, so they cannot be the target of flank attacks. If the health of the special terrain piece is reduced to 0, this terrain piece is removed from the battleground. Characters cannot be engaged with a special terrain piece but characters standing on the hexes adjacent to a special terrain piece can perform melee attacks against it."
+                                },
+                                {
+                                    "type": "unorderedList",
+                                    "items": [
+                                        "Any effects that are triggered ‘upon activation’ are resolved between steps 3 and 4 of an activation—after the character gains bonuses but before they perform any actions. If there is more than one such effect, the active player decides the order.",
+                                        "Any effects that are triggered ‘at the end of activation’ are resolved after step 5 of an activation—immediately after a character ends their activation. If there is more than one such effect, the active player decides the order.",
+                                        "Any effects that are triggered ‘upon interruption’ are resolved by the interrupting character before they start their interruption. If there is more than one such effect, the interrupting player decides the order.",
+                                        "Any effects that are triggered ‘at the end of interruption’ are resolved by the interrupting character after they end their interruption. If there is more than one such effect, the interrupting player decides the order."
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
