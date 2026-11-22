@@ -2447,6 +2447,23 @@
                                         {
                                             "type": "paragraph",
                                             "text": "This movement cannot cause attack of opportunity and overwatch interruptions."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "{wave 3 additional rules}."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "**Pulling Characters**."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a character pulls the target, this pulled movement must be made along a straight line connecting the centres of both characters’ bases. If this line crosses through the border of the two valid hexes, the player who initiated the pull may choose where the pulled character lands."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "pulling-characters-w3-p5",
+                                            "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
                                         }
                                     ]
                                 },
