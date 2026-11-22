@@ -2696,76 +2696,47 @@
                                     "text": "A character can perform an attack action against special terrain pieces. Unless stated otherwise, all special terrain pieces have 1 health, 0 toughness, and 0 mind. Special terrain pieces do not have arcs, so they cannot be the target of flank attacks. If the health of the special terrain piece is reduced to 0, this terrain piece is removed from the battleground. Characters cannot be engaged with a special terrain piece but characters standing on the hexes adjacent to a special terrain piece can perform melee attacks against it."
                                 },
                                 {
+                                    "type": "paragraph",
+                                    "text": "**TYPES OF SPECIAL TERRAIN**"
+                                },
+                                {
                                     "type": "unorderedList",
                                     "items": [
-                                        "listitem 1",
-                                        "listitem 2"
+                                        "Teleporters",
+                                        "Force Fields"
                                     ]
                                 }
                             ],
                             "sections": [
                                 {
-                                    "id": "types-of-special-terrain-w1-p23",
-                                    "title": "Types of Special Terrain",
+                                    "id": "teleporters",
+                                    "title": "Teleporters",
                                     "page": 3,
                                     "blocks": [
-                                        {
-                                            "type": "paragraph",
-                                            "text": "**TELEPORTERS**"
-                                        },
                                         {
                                             "type": "paragraph",
                                             "text": "A teleporter is a special terrain piece that occupies a single hex. A teleporter becomes active the round after it is placed on the battleground. For the purposes of movement, all hexes that are adjacent to any active teleporters are also adjacent to each other. For massive models, these hexes are not adjacent—massive models cannot use teleporters."
                                         },
                                         {
                                             "type": "paragraph",
-                                            "text": "{Teleporters do not block line of sight and do not provide cover}"
-                                        },
-                                        {
-                                            "type": "paragraph",
-                                            "text": "**FORCE FIELDS**"
-                                        },
+                                            "text": "Teleporters do not block line of sight and do not provide cover"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "force-fields",
+                                    "title": "Force Fields",
+                                    "page": 3,
+                                    "blocks": [
                                         {
                                             "type": "paragraph",
                                             "text": "A force field is a special terrain piece that occupies two hexes. For the purpose of movement, force fields are treated as high obstacles."
                                         },
                                         {
                                             "type": "paragraph",
-                                            "text": "{Force fields do not block line of sight and they do not provide cover}"
+                                            "text": "Force fields do not block line of sight and they do not provide cover."
                                         }
-                                    ],
-                                        "sections": [
-                                            {
-                                                "id": "teleporters",
-                                                "title": "Teleporters",
-                                                "page": 3,
-                                                "blocks": [
-                                                    {
-                                                        "type": "paragraph",
-                                                        "text": "A teleporter is a special terrain piece that occupies a single hex. A teleporter becomes active the round after it is placed on the battleground. For the purposes of movement, all hexes that are adjacent to any active teleporters are also adjacent to each other. For massive models, these hexes are not adjacent—massive models cannot use teleporters."
-                                                    },
-                                                    {
-                                                        "type": "paragraph",
-                                                        "text": "Teleporters do not block line of sight and do not provide cover"
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "id": "force-fields",
-                                                "title": "Force Fields",
-                                                "page": 3,
-                                                "blocks": [
-                                                    {
-                                                        "type": "paragraph",
-                                                        "text": "A force field is a special terrain piece that occupies two hexes. For the purpose of movement, force fields are treated as high obstacles."
-                                                    },
-                                                    {
-                                                        "type": "paragraph",
-                                                        "text": "Force fields do not block line of sight and they do not provide cover."
-                                                    }
-                                                ]
-                                            }
-                                        ]
+                                    ]
                                 }
                             ]
                         }
