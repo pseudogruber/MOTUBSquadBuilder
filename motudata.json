@@ -2169,7 +2169,30 @@
                                     "type": "paragraph",
                                     "text": "Unique buffs and debuffs follow all standard rules of common buffs and debuffs."
                                 }
-                            ]
+                            ],
+                            "sections": [
+								        {
+								            "id": "passing-buffs-and-debuffs-w1-p4",
+								            "page": 4,
+								            "title": "Passing Buffs and Debuffs {wave 1}",
+								            "blocks": [
+												{
+			                                        "type": "paragraph",
+			                                        "text": "Some game effects allow a character to pass their buffs or debuffs to other characters. Passed buffs and debuffs are not treated as removed."
+			                                    },
+                                                {
+			                                        "type": "paragraph",
+			                                        "text": "{Example}: Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
+			                                    },
+                                                {
+                                                    "type": "figure",
+                                                    "asset": "passing-buffs-and-debuffs-example",
+                                                    "imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417800/wm18_u5hzxe.jpg",
+                                                    "alt": "Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
+                                                },
+											]
+								        }
+								    ]
                         },
                         {
                             "id": "skills-p25",
