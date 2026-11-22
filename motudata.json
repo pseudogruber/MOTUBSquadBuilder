@@ -2739,6 +2739,21 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": "multiple-classifications-w1-p4",
+                            "title": "Multiple Classifications",
+                            "page": 4,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If any game element provides modifiers to multiple types of tests (i.e., skill tests, defense tests, etc.) these modifiers can be applied only once per test, even if the test has multiple classifications."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "{Example}: This fate card provides bonuses to both skill tests and attack tests. Even if a test is classified as both a skill and an attack test, it still receives only one extra dice from this card."
+                                }
+                            ]
                         }
                     ]
                 }
