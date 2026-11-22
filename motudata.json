@@ -2185,8 +2185,7 @@
 			                                        "text": "{Example}: Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
 			                                    },
                                                 {
-                                                    "type": "figure",
-                                                    "asset": "passing-buffs-and-debuffs-example",
+                                                    "type": "image",
                                                     "imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417800/wm18_u5hzxe.jpg",
                                                     "alt": "Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
                                                 }
