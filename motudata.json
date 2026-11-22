@@ -2766,21 +2766,6 @@
                                                 ]
                                             }
                                         ]
-                                },
-                                {
-                                    "id": "targeting-and-tests-p25",
-                                    "title": "TARGETING AND TESTS",
-                                    "page": 25,
-                                    "blocks": [
-                                        {
-                                            "type": "paragraph",
-                                            "text": "If a skill refers to the character of a group of characters within a given range, all of those characters have to be in line of sight of the character that is resolving the skill. Some skills may require a target. For such an effect, the target must be in line of sight of the character that is resolving the skill, and that character must be rotated to face the target. Follow the same line of sight and facing rules used for performing a ranged attack. See ‘Ranged Attacks’ on page 18."
-                                        },
-                                        {
-                                            "type": "paragraph",
-                                            "text": "If a skill requires a test, it is called a skill test, but it is resolved using the normal test rules. See ‘Tests’ on page 12."
-                                        }
-                                    ]
                                 }
                             ]
                         }
