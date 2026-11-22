@@ -2702,6 +2702,51 @@
                                         "listitem 2"
                                     ]
                                 }
+                            ],
+                            "sections": [
+                                {
+                                    "id": "marks-p25",
+                                    "title": "MARKS",
+                                    "page": 25,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Some skills instruct players to place a MARK. A mark is a token on the battleground that affects characters that are near it. Marks remain on the battleground until the end of the round—they are removed during the clean-up phase."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A mark must be placed on an empty hex. It cannot be placed on hexes that contain characters, terrain, or other tokens. Each skill provides a range that indicates where the mark can be placed; the mark must be within the specified range and in line of sight of the character that is resolving the skill."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "mark-range-and-line-of-sight",
+                                            "alt": "He-Man and Stratos are within range and line of sight of the mark and are affected by it. Orko is not in line of sight of the mark and avoids its effects."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "targeting-and-tests-p25",
+                                    "title": "TARGETING AND TESTS",
+                                    "page": 25,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a skill refers to the character of a group of characters within a given range, all of those characters have to be in line of sight of the character that is resolving the skill. Some skills may require a target. For such an effect, the target must be in line of sight of the character that is resolving the skill, and that character must be rotated to face the target. Follow the same line of sight and facing rules used for performing a ranged attack. See ‘Ranged Attacks’ on page 18."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "If a skill requires a test, it is called a skill test, but it is resolved using the normal test rules. See ‘Tests’ on page 12."
+                                        }
+                                    ]
+                                }
                             ]
                         }
                     ]
