@@ -2715,22 +2715,57 @@
                                         },
                                         {
                                             "type": "paragraph",
-                                            "text": "A teleporter is a special terrain piece that occupies a single hex. A teleporter becomes active the round after it is placed on the battleground. For the purposes of movement, all hexes that are adjacent to any active teleporters are also adjacent to each other. For massive models, these hexes are not adjacent—massive models cannot use teleporters. \n Teleporters do not block line of sight and do not provide cover."
+                                            "text": "A teleporter is a special terrain piece that occupies a single hex. A teleporter becomes active the round after it is placed on the battleground. For the purposes of movement, all hexes that are adjacent to any active teleporters are also adjacent to each other. For massive models, these hexes are not adjacent—massive models cannot use teleporters."
                                         },
                                         {
                                             "type": "paragraph",
-                                            "text": "The skill also indicates what effect the mark causes, which characters it targets, and how close those characters must be to the mark to be affected. Marks only affect characters on the same elevation. For a mark to affect a target, that target must be within range and in line of sight of the mark. Follow the same range and line of sight rules used for performing ranged attacks, treating the mark as if it was the attacking character."
-                                        },
-                                        {
-                                            "type": "figure",
-                                            "asset": "mark-range-and-line-of-sight",
-                                            "alt": "He-Man and Stratos are within range and line of sight of the mark and are affected by it. Orko is not in line of sight of the mark and avoids its effects."
+                                            "text": "{Teleporters do not block line of sight and do not provide cover}"
                                         },
                                         {
                                             "type": "paragraph",
-                                            "text": "Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
+                                            "text": "**FORCE FIELDS**"
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A force field is a special terrain piece that occupies two hexes. For the purpose of movement, force fields are treated as high obstacles."
+                                        },
+                                        {
+                                            "type": "paragraph",
+                                            "text": "{Force fields do not block line of sight and they do not provide cover}"
                                         }
-                                    ]
+                                    ],
+                                        "sections": [
+                                            {
+                                                "id": "teleporters",
+                                                "title": "Teleporters",
+                                                "page": 3,
+                                                "blocks": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "text": "A teleporter is a special terrain piece that occupies a single hex. A teleporter becomes active the round after it is placed on the battleground. For the purposes of movement, all hexes that are adjacent to any active teleporters are also adjacent to each other. For massive models, these hexes are not adjacent—massive models cannot use teleporters."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "text": "Teleporters do not block line of sight and do not provide cover"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "force-fields",
+                                                "title": "Force Fields",
+                                                "page": 3,
+                                                "blocks": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "text": "A force field is a special terrain piece that occupies two hexes. For the purpose of movement, force fields are treated as high obstacles."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "text": "Force fields do not block line of sight and they do not provide cover."
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                 },
                                 {
                                     "id": "targeting-and-tests-p25",
