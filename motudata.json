@@ -369,7 +369,8 @@
 			"Rulebook_Terrain_Small_Garbage_Piles_w9-p2": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795456849/Rulebook_01_Basic_Concepts_07_Terrain_Rulebook_Terrain_Small_Garbage_Piles_w9-p2_bkbswk.png",
 			"Rulebook_Terrain_Endless_Garbage_Pile_w9-p2": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795456877/Rulebook_01_Basic_Concepts_07_Terrain_Rulebook_Terrain_Endless_Garbage_Pile_w9-p2_nwo05x.png",
 			"Rulebook_Terrain_Preternian_Heroes_low_obstacles-w10-p4": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795456882/Rulebook_01_Basic_Concepts_07_Terrain_Rulebook_Terrain_Preternian_Heroes_low_obstacles-w10-p4_euyjxi.png",
-			"Rulebook_Terrain_Wave_11_crystal_walls-w11-p2": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795456868/Rulebook_01_Basic_Concepts_07_Terrain_Rulebook_Terrain_Wave_11_crystal_walls-w11-p2_sklgl6.png"
+			"Rulebook_Terrain_Wave_11_crystal_walls-w11-p2": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795456868/Rulebook_01_Basic_Concepts_07_Terrain_Rulebook_Terrain_Wave_11_crystal_walls-w11-p2_sklgl6.png",
+			"Rulebook_standard-and-false-marks_w8-p5": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795462643/Rulebook_06_ADDITIONAL_RULES_06_Skills_02_standard-and-false-marks_w8-p5_x13hrz.png"
         },
         "rulebook": {
             "title": "Rulebook",
@@ -2439,7 +2440,25 @@
                                             "type": "paragraph",
                                             "text": "Each type of mark has its own token, and each force can only have one copy of each mark active at a time."
                                         }
-                                    ]
+                                    ],
+									"sections": [
+		                                {
+		                                    "id": "false-marks-w8-p5",
+		                                    "title": "False Mark",
+		                                    "page": "w8 p5",
+		                                    "blocks": [
+		                                        {
+		                                            "type": "paragraph",
+		                                            "text": "Lady Slither's ‘Shedding Skin’ skill places a mark and a fake mark. Both of these tokens have the same reverse, but on the other side of the false mark, there is no mark symbol. That side is revealed when the token is about to be removed from the battleground. Until then, the false mark is treated as a standard mark."
+		                                        },
+		                                        {
+		                                            "type": "figure",
+		                                            "asset": "Rulebook_standard-and-false-marks_w8-p5",
+		                                            "alt": "Lady Slither standard and false mark"
+		                                        }
+		                                    ]
+		                                }
+		                            ]
                                 },
                                 {
                                     "id": "targeting-and-tests-p25",
@@ -3070,6 +3089,17 @@
                                         "The attacking character can use a heavy attack even when engaged with an enemy.",
                                         "During the attacks of opportunity, heavy weapons can be used instead of melee weapons."
                                     ]
+                                }
+                            ]
+                        },
+						{
+                            "id": "trigger-cards_w10-p4",
+                            "title": "Trigger Cards",
+                            "page": "w10 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Some fate cards included in this expansion have bonuses described as triggers. These cards can be discarded during situations mentioned in their descriptions to interrupt the current activation or interruption."
                                 }
                             ]
                         }
