@@ -741,8 +741,174 @@
                                     "type": "figure",
                                     "asset": "Rulebook_Basic_Concepts_Terrain_08_High_and_Low_Obstacles",
                                     "alt": "Terrain piece containing both high and low obstacles. The illustration identifies the high obstacle and low obstacle portions of the same terrain piece."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "{Below is a list of terrain types from additional rules found in various expansions}"
                                 }
-                            ]
+                            ],
+							"sections": [
+                                {
+                                    "id": "tree",
+                                    "title": "Tree",
+                                    "page": 17,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A tree is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with a few notable differences:"
+                                        },
+                                        {
+		                                    "type": "orderedList",
+		                                    "items": [
+		                                        "Characters cannot move over trees unless they are jumping or teleporting.",
+		                                        "Characters on a higher elevation cannot ignore trees like other low obstacles."
+		                                    ]
+		                                },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Melee_Engagement_p17",
+                                            "alt": "He-Man and Skeletor are engaged but He-Man and Evil-Lyn are not."
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "magic-forest",
+                                    "title": "Magic Forest",
+                                    "page": 4,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A Magic Forest is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with one notable difference:"
+                                        },
+                                        {
+		                                    "type": "orderedList",
+		                                    "items": [
+		                                        "The active character on a hex adjacent to a Magic Forest can teleport to any hex adjacent to any Magic Forest by paying 1 mana for every hex the character will traverse. Massive characters cannot use Magic Forest"
+		                                    ]
+		                                },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Melee_Engagement_p17",
+                                            "alt": "He-Man and Skeletor are engaged but He-Man and Evil-Lyn are not."
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "swamp-terrain",
+                                    "title": "Swamp",
+                                    "page": 4,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A Swamp is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with two notable differencse:"
+                                        },
+                                        {
+		                                    "type": "orderedList",
+		                                    "items": [
+		                                        "Characters that move over a swamp must immediately end their movement.",
+												"Swamps do not provide cover"
+		                                    ]
+		                                },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Melee_Engagement_p17",
+                                            "alt": "He-Man and Skeletor are engaged but He-Man and Evil-Lyn are not."
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "small-garbage-pile",
+                                    "title": "Small Garbage Pile",
+                                    "page": 2,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Garbage piles are 2-hex and 3-hex terrain pieces treated as a low obstacle, with one notable difference:"
+                                        },
+                                        {
+		                                    "type": "orderedList",
+		                                    "items": [
+		                                        "When a garbage pile stops a pushed character, that character receives one Wound."
+		                                    ]
+		                                },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Garbage_Piles_w9-p2",
+                                            "alt": "2x and 3x Small Garbage Piles"
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "endless-garbage-pile",
+                                    "title": "Endless Garbage Pile",
+                                    "page": 2,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Endless Garbage pile is a 7-hex terrain piece treated as a low obstacle, with one notable difference:"
+                                        },
+                                        {
+		                                    "type": "orderedList",
+		                                    "items": [
+		                                        "An Endless garbage pile can be attacked",
+												"When the player reduces the health of the Endless Garbage Pile to 0, they remove it from its current spot and immediately place it elsewhere on the battleground. An endless garbage pile can only be placed on empty hexes."
+		                                    ]
+		                                },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Endless_Garbage_Pile_w9-p2",
+                                            "alt": "1x Endless Garbage Pile"
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "preternia-low-obstacles",
+                                    "title": "Preternia low obstacles",
+                                    "page": 4,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "This expansion adds new low-obstacle terrain pieces to the game."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Preternian_Heroes_low_obstacles-w10-p4",
+                                            "alt": "2x Low obstacles (4-hex piece)"
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "crystal-walls-w11-p2",
+                                    "title": "Crystal Walls",
+                                    "page": 2,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "Crystal Walls are a 4-hex terrain pieces treated as low obstacles with tow notable differencies:"
+                                        },
+										{
+		                                    "type": "orderedList",
+		                                    "items": [
+		                                        "Characters cannot move over crystal walls unless they are jumping or teleporting",
+												"Crystal walls can be attacked"
+		                                    ]
+		                                },
+										{
+                                            "type": "paragraph",
+                                            "text": "**ATTACKS**"
+                                        },
+										{
+                                            "type": "paragraph",
+                                            "text": "A character can perform an attack against crystal walls. Crystal walls have 1 health, 0 Toughness, and 0 Mind. Crystal walls do not have arcs, so they cannot be the target of flank attacks. If the health of the crystal wall piece is reduced to 0, it is removed from the battleground. Although characters standing on the hexes adjacent to a crystal wall can perform melee attacks against it, they are not considered engaged with it."
+                                        },
+                                        {
+                                            "type": "figure",
+                                            "asset": "Rulebook_Wave_11_crystal_walls-w11-p2",
+                                            "alt": "2x Crystal Walls (4-hex piece)"
+                                        }
+                                    ]
+                                }
+							]
                         },
                         {
                             "id": "golden-rule",
