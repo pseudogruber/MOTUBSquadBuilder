@@ -3135,7 +3135,82 @@
                         }
                     ],
                     "sections": [
-                        {
+						{
+                            "id": "faq-discarded-effects",
+                            "title": "Discarded Effects",
+                            "page": "w4 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If any effect is triggered after discarding a card, the player must resolve this effect immediately after the action that discarded the card, not during that action."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "{EXAMPLE}: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-electro-shocker-spear-and-focus-w3-p6",
+                            "title": "Electro Shocker Spear and Focus",
+                            "page": "w3 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If the player decides to use an Elecro Shocker Spear as a ranged weapon, they must spend the focus token before the attack. This attack won’t have a focus and won’t benefit from the effects that require it."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-harp-rerolls",
+                            "title": "Harp Rerolls",
+                            "page": "w4 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a character uses a Harp to discard a card and perform free rerolls, these rerolls must be made before any mana rerolls and exploding dice."
+                                },
+                                {
+                                    "type": "figure",
+                                    "text": "{Remember!} As a result of the ‘Mind Control’ skill, the targeted enemy interrupts Shadow Weaver. All standard interruption rules still apply. The player who controls the interrupting character can even play fate or glory cards to gain extra AP and perform additional actions. However, the mandatory move action always has to be performed as the first action in this interruption."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-hordaks-commands-w4-p4",
+                            "title": "Hordak's Commands",
+                            "page": "w4 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "After Hordak uses his ‘I Command You!’ skill, he has to rotate to face the ally he targeted, not the enemy (Hordak changes his facing before the mentioned ally begins their interruption). The targeted ally and the enemy must be in Hordak’s LoS."
+                                },
+								{
+		                            "type": "orderedList",
+		                            "items": [
+		                                "The enemy ends their movement or attack action in a hex that is within line of sight of the character on overwatch.",
+		                                "Any part of the enemy’s base is within the front arc of the character on overwatch.",
+		                                "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action – if the character is focused, they could use their focus token to reach the target."
+		                            ]
+		                        }
+                            ]
+                        },
+						{
+                            "id": "faq-mind-control",
+                            "title": "Mind Control",
+                            "page": "w4 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "When the enemy affected by the Shadow Weaver’s ‘Mind Control’ is performing a mandatory movement and has two or more valid hexes they can stand on, the player controlling that character chooses the final spot."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "{Remember!} As a result of the ‘Mind Control’ skill, the targeted enemy interrupts Shadow Weaver. All standard interruption rules still apply. The player who controls the interrupting character can even play fate or glory cards to gain extra AP and perform additional actions. However, the mandatory move action always has to be performed as the first action in this interruption."
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-multiple-classifications",
                             "title": "Multiple classifications",
                             "page": "w1 p4",
@@ -3151,7 +3226,7 @@
                             ]
                         },
                         {
-                            "id": "passing-buffs-and-debuffs-w1-p5",
+                            "id": "faq-passing-buffs-and-debuffs-w1-p5",
                             "title": "Passing Buffs and Debuffs",
                             "page": "w1 p5",
                             "blocks": [
@@ -3166,7 +3241,22 @@
                             ]
                         },
 						{
-                            "id": "pulling-characters-w3-p5",
+                            "id": "faq-propeller-arm-and-discards",
+                            "title": "Propeller Arm and Discards",
+                            "page": "w4 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Propeller Arm discards cards before the attack, not during it, so the effects triggered after discarding will also apply before the attack."
+                                },
+                                {
+                                    "type": "figure",
+                                    "text": "{EXAMPLE}: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-pulling-characters-w3-p5",
                             "title": "Pulling characters",
                             "page": "w3 p5",
                             "blocks": [
@@ -3175,21 +3265,29 @@
                                     "text": "If a character pulls the target, this pulled movement must be made along a straight line connecting the centres of both characters’ bases. If this line crosses through the border of the two valid hexes, the player who initiated the pull may choose where the pulled character lands."
                                 },
                                 {
-                                            "type": "figure",
-                                            "asset": "pulling-characters-w3-p5",
-                                            "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
+                                    "type": "figure",
+                                    "asset": "pulling-characters-w3-p5",
+                                    "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
 								}
                             ]
                         },
 						{
-                            "id": "electro-shocker-spear-and-focus-w3-p6",
-                            "title": "Electro Shocker Spear and Focus",
+                            "id": "faq-visor-and-overwatch-w3-p6",
+                            "title": "Visor and Overwatch",
                             "page": "w3 p6",
                             "blocks": [
                                 {
                                     "type": "paragraph",
-                                    "text": "If the player decides to use an Elecro Shocker Spear as a ranged weapon, they must spend the focus token before the attack. This attack won’t have a focus and won’t benefit from the effects that require it."
-                                }
+                                    "text": "If a character, equipped with a visor, is on overwatch, they must interrupt an enemy activation or interruption when all the following conditions are met:"
+                                },
+								{
+		                            "type": "orderedList",
+		                            "items": [
+		                                "The enemy ends their movement or attack action in a hex that is within line of sight of the character on overwatch.",
+		                                "Any part of the enemy’s base is within the front arc of the character on overwatch.",
+		                                "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action – if the character is focused, they could use their focus token to reach the target."
+		                            ]
+		                        }
                             ]
                         }
                     ]
