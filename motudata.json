@@ -758,7 +758,7 @@
                                             "text": "A tree is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with a few notable differences:"
                                         },
                                         {
-		                                    "type": "orderedList",
+		                                    "type": "unorderedList",
 		                                    "items": [
 		                                        "Characters cannot move over trees unless they are jumping or teleporting.",
 		                                        "Characters on a higher elevation cannot ignore trees like other low obstacles."
@@ -781,7 +781,7 @@
                                             "text": "A Magic Forest is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with one notable difference:"
                                         },
                                         {
-		                                    "type": "orderedList",
+		                                    "type": "unorderedList",
 		                                    "items": [
 		                                        "The active character on a hex adjacent to a Magic Forest can teleport to any hex adjacent to any Magic Forest by paying 1 mana for every hex the character will traverse. Massive characters cannot use Magic Forest"
 		                                    ]
@@ -803,7 +803,7 @@
                                             "text": "A Swamp is a 4-hex terrain piece treated as a low obstacle (it provides cover but does not block line of sight) with two notable differencse:"
                                         },
                                         {
-		                                    "type": "orderedList",
+		                                    "type": "unorderedList",
 		                                    "items": [
 		                                        "Characters that move over a swamp must immediately end their movement.",
 												"Swamps do not provide cover"
@@ -826,7 +826,7 @@
                                             "text": "Garbage piles are 2-hex and 3-hex terrain pieces treated as a low obstacle, with one notable difference:"
                                         },
                                         {
-		                                    "type": "orderedList",
+		                                    "type": "unorderedList",
 		                                    "items": [
 		                                        "When a garbage pile stops a pushed character, that character receives one Wound."
 		                                    ]
@@ -848,7 +848,7 @@
                                             "text": "Endless Garbage pile is a 7-hex terrain piece treated as a low obstacle, with one notable difference:"
                                         },
                                         {
-		                                    "type": "orderedList",
+		                                    "type": "unorderedList",
 		                                    "items": [
 		                                        "An Endless garbage pile can be attacked",
 												"When the player reduces the health of the Endless Garbage Pile to 0, they remove it from its current spot and immediately place it elsewhere on the battleground. An endless garbage pile can only be placed on empty hexes."
@@ -887,7 +887,7 @@
                                             "text": "Crystal Walls are a 4-hex terrain pieces treated as low obstacles with tow notable differencies:"
                                         },
 										{
-		                                    "type": "orderedList",
+		                                    "type": "unorderedList",
 		                                    "items": [
 		                                        "Characters cannot move over crystal walls unless they are jumping or teleporting",
 												"Crystal walls can be attacked"
