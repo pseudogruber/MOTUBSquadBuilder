@@ -879,6 +879,14 @@
 												"When the player reduces the health of the Endless Garbage Pile to 0, they remove it from its current spot and immediately place it elsewhere on the battleground. An endless garbage pile can only be placed on empty hexes."
 		                                    ]
 		                                },
+										{
+                                            "type": "paragraph",
+                                            "text": "**ATTACKING AN ENDLESS GARBAGE PILE**"
+                                        },
+										{
+                                            "type": "paragraph",
+                                            "text": "A character can perform an attack action against the endless garbage pile. The endless garbage pile has 2 Health, 2 Toughnes, and 0 Mind. The endless garbage pile does not have arcs, so it cannot be the target of a flank attack. Although characters standing on the hexes adjacent to the endless garbage pile can perform melee attacks against it, they are not considered engaged with it."
+                                        },
                                         {
                                             "type": "figure",
                                             "asset": "Rulebook_Terrain_Endless_Garbage_Pile_w9-p2",
