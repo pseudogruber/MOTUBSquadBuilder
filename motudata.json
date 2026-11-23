@@ -3112,6 +3112,87 @@
                             ]
                         }
                     ]
+                },
+				{
+                    "id": "faq",
+                    "title": "FAQ",
+                    "blocks": [
+                        {
+                            "type": "paragraph",
+                            "text": "The following information is compiled from the official Rulebook FAQ as well as from Q&A from various forums (BGG, Discord) where Archon personnel were answering questions and provided rulings."
+                        },
+						{
+                            "type": "paragraph",
+                            "text": "The source of each entry will be clearly marked, if available."
+                        },
+                        {
+                            "type": "orderedList",
+                            "items": [
+                                "Rulebook FAQ",
+                                "Boardgamegeek Masters of the Universe: Battleground Forums",
+                                "Official Archon Studio discord"
+                            ]
+                        }
+                    ],
+                    "sections": [
+                        {
+                            "id": "faq-multiple-classifications",
+                            "title": "Multiple classifications",
+                            "page": "w1 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If any game element provides modifiers to multiple types of tests (i.e., skill tests, defense tests, etc.) these modifiers can be applied only once per test, even if the test has multiple classifications."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Example: This fate card provides bonuses to both skill tests and attack tests. Even if a test is classified as both a skill and an attack test, it still receives only one extra dice from this card."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "passing-buffs-and-debuffs-w1-p5",
+                            "title": "Passing Buffs and Debuffs",
+                            "page": "w1 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Some game effects allow a character to pass their buffs or debuffs to other characters. Passed buffs and debuffs are not treated as removed."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "{Example}: Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
+                                }
+                            ]
+                        },
+						{
+                            "id": "pulling-characters-w3-p5",
+                            "title": "Pulling characters",
+                            "page": "w3 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a character pulls the target, this pulled movement must be made along a straight line connecting the centres of both characters’ bases. If this line crosses through the border of the two valid hexes, the player who initiated the pull may choose where the pulled character lands."
+                                },
+                                {
+                                            "type": "figure",
+                                            "asset": "pulling-characters-w3-p5",
+                                            "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
+								}
+                            ]
+                        },
+						{
+                            "id": "electro-shocker-spear-and-focus-w3-p6",
+                            "title": "Electro Shocker Spear and Focus",
+                            "page": "w3 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If the player decides to use an Elecro Shocker Spear as a ranged weapon, they must spend the focus token before the attack. This attack won’t have a focus and won’t benefit from the effects that require it."
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
