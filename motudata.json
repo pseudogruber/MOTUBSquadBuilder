@@ -3136,17 +3136,28 @@
                     ],
                     "sections": [
 						{
-                            "id": "faq-discarded-effects",
-                            "title": "Discarded Effects",
+                            "id": "faq-additional-attacks-of-chain-lightning-w5-p6",
+                            "title": "Chain Lightning Additional Effects",
+                            "page": "w5 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "if, as a result of attacking with Chain Lightning, a character receives a free attack, the target of that additional attack must be within 6\" from the initial target and within their LOS. The target of the free attack does not need to be within LOS of the character performing the attack. The cover modifier for that attack is determined by tracing the line between the initial and the secondary targets. If the initial target’s base is in the secondary target’s rear arc, it is a flank attack."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "{Remember!} A free spell attack does not cost any APs and does not increase the cost of other spell attacks. However, a character who performs these attacks must still pay their Mana cost!"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-attacks-of-opportunity-against-webstor-w5-p5",
+                            "title": "Attacks of Opportunity against Webstor",
                             "page": "w4 p5",
                             "blocks": [
                                 {
                                     "type": "paragraph",
-                                    "text": "If any effect is triggered after discarding a card, the player must resolve this effect immediately after the action that discarded the card, not during that action."
-                                },
-                                {
-                                    "type": "paragraph",
-                                    "text": "{EXAMPLE}: Hordak is attacked by He-Man. The leader of the Evil Horde has not rolled too well in his defensive test, so he decides to use Harp and discard a fate card for free rerolls. He chooses a card with an effect that gives one of your characters 2 mana when it is discarded. This effect must be resolved immediately after the attack, not during it, so Hordak cannot give himself that extra mana instantly to use it to reroll the dice again."
+                                    "text": "Suppose Webstor receives 1 wound as a result of an attack of opportunity. In that case, he uses his free movement granted by the 'Master of Escape' skill before the move action that has initiated the attack of opportunity."
                                 }
                             ]
                         },
@@ -3196,6 +3207,21 @@
                             ]
                         },
 						{
+                            "id": "faq-magic-wands-free-attacks-w5-p6",
+                            "title": "Magic Wand's Free Attacks",
+                            "page": "w5 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Free spell attacks performed as the effect of the Magic Wand can only be used if all requirements of the chosen spell weapon are met (range, mana cost etc.). Reduction in mana cost applies only to the base mana cost of the chosen spell. If that spell has additional costs (like Fireball), the player has to pay them as usual."
+                                },
+                                {
+                                    "type": "figure",
+                                    "text": "{Remember!} As a result of the ‘Mind Control’ skill, the targeted enemy interrupts Shadow Weaver. All standard interruption rules still apply. The player who controls the interrupting character can even play fate or glory cards to gain extra AP and perform additional actions. However, the mandatory move action always has to be performed as the first action in this interruption."
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-mind-control",
                             "title": "Mind Control",
                             "page": "w4 p4",
@@ -3222,6 +3248,17 @@
                                 {
                                     "type": "paragraph",
                                     "text": "Example: This fate card provides bonuses to both skill tests and attack tests. Even if a test is classified as both a skill and an attack test, it still receives only one extra dice from this card."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-palace-guards-and-area-attacks-w5-p5",
+                            "title": "Palace Guards and Area Attacks",
+                            "page": "w5 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Palace Guard's 'Heroic Guard' skill can protect allies from becoming an initial target of area attacks, but it cannot protect them from becoming additional targets of those attacks."
                                 }
                             ]
                         },
@@ -3269,6 +3306,17 @@
                                     "asset": "pulling-characters-w3-p5",
                                     "alt": "Two diagrams showing the correct and incorrect directions for pushing or pulling a character."
 								}
+                            ]
+                        },
+						{
+                            "id": "faq-rolled-values-w5-p5",
+                            "title": "Rolled Values",
+                            "page": "w5 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "When effects refer to the values rolled in an attack test, take the state of the dice after any rerolls and exploding, but before the enemy defence test."
+                                }
                             ]
                         },
 						{
