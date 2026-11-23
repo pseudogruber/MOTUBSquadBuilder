@@ -2185,7 +2185,7 @@
 			                                        "text": "{Example}: Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
 			                                    },
                                                 {
-                                                    "type": "media",
+                                                    "type": "image",
                                                     "url": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756417800/wm18_u5hzxe.jpg",
                                                     "alt": "Beast Man uses a ‘Skull Weapon’ to pass a curse to He-Man. Debuff was passed (not removed), so Beast Man does not receive a wound from that curse."
                                                 }
@@ -2725,7 +2725,8 @@
                                     "type": "unorderedList",
                                     "items": [
                                         "Teleporters",
-                                        "Force Fields"
+                                        "Force Fields",
+										"Crater"
                                     ]
                                 }
                             ],
@@ -2757,6 +2758,46 @@
                                         {
                                             "type": "paragraph",
                                             "text": "Force fields do not block line of sight and they do not provide cover."
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "crater",
+                                    "title": "Craters",
+                                    "page": 4,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A crater is a special terrain piece that occupies seven hexes. In contrast to other special terrain pieces, **craters can not be attacked or removed**."
+                                        },
+                                        {
+		                                    "type": "unorderedList",
+		                                    "items": [
+		                                        "Craters **can be** placed on hexes occupied by characters. Those characters are moved to any empty hex adjacent to any hex occupied by the crater – (the player controlling the character chooses the hex). This movement cannot be interrupted. After a character moves, their model can be rotated to face any direction. Characters on removed platforms are treated in the same way.",
+		                                        "Craters **can be** placed on hexes occupied by other terrain pieces – including other special terrain pieces. Any overlapped terrain pieces are removed from the battleground. If any of these removed terrain pieces have a platform attached, this platform is also removed.",
+												"Craters **can be** placed on hexes containing marks. Those marks are removed from the battleground.",
+												"Craters **can not be** placed on hexes containing objective tokens.",
+												"Craters **can not be** placed over other craters."
+		                                    ]
+		                                },
+										{
+                                            "type": "paragraph",
+                                            "text": "Craters do not block line of sight and do not provide cover."
+                                        }
+                                    ]
+                                },
+								{
+                                    "id": "gas-tank-w3-p4",
+                                    "title": "Gas Tank",
+                                    "page": 4,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "A Gas Tank is a special terrain piece that occupies two hexes. All characters within 3 hexes from any hex occupied by a Gas Tank – and within line of sight of that hex – can only be activated normally with fate or glory cards with an initiative of 5 or lower. If those characters are actitvated with a card of initiative 6 or higher, the stats of this card are changed to 1 AP, 0 Mana, and no bonuses."
+                                        },
+										{
+                                            "type": "paragraph",
+                                            "text": "Gas Tanks do not block line of sight and do not provide cover."
                                         }
                                     ]
                                 }
