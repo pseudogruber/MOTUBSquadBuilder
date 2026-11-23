@@ -2222,6 +2222,17 @@
                                 }
                             ]
                         },
+						{
+                            "id": "alternative-deployment-w10-p4",
+                            "title": "Alternative Deployment",
+                            "page": "w10 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If the character’s skill contains the term **Alternative Deployment**, this character isn’t deployed in the standard way (during the game setup). Instead, to deploy this character, follow the instructions in the associated skill."
+                                }
+                            ]
+                        },
                         {
                             "id": "attacks-of-opportunity-p23",
                             "title": "Attacks of Opportunity",
@@ -2990,6 +3001,21 @@
                                             "text": "Gas Tanks do not block line of sight and do not provide cover."
                                         }
                                     ]
+                                },
+								{
+                                    "id": "mud-monster-w6-p4",
+                                    "title": "Mud-Monster",
+                                    "page": 4,
+                                    "blocks": [
+                                        {
+                                            "type": "paragraph",
+                                            "text": "The expansions from Wave 6 introduce a Mud-Monster. A type of special terrain that occupies one hex. Characters Located on hexes adjacent to it can neither perform a move action nor be pushed or pulled. If a character enters a hex that is adjacent to a mud-monster, their move action ends immediately. This ability, however, does not affect characters performing jumps or teleporting."
+                                        },
+										{
+                                            "type": "paragraph",
+                                            "text": "A Mud-monster has no effect on massive models, does not block line of sight, and does not provide cover."
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -3005,6 +3031,45 @@
                                 {
                                     "type": "paragraph",
                                     "text": "{Example}: This fate card provides bonuses to both skill tests and attack tests. Even if a test is classified as both a skill and an attack test, it still receives only one extra dice from this card."
+                                }
+                            ]
+                        },
+						{
+                            "id": "vehicle-w6-p4",
+                            "title": "Vehicle",
+                            "page": 4,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Characters with a skill 'Vehicle' are classified as vehicles. Vehicles follow the rules for massive models."
+                                },
+                                {
+                                    "type": "unorderedList",
+                                    "items": [
+                                        "Any effects that are triggered ‘upon activation’ are resolved between steps 3 and 4 of an activation—after the character gains bonuses but before they perform any actions. If there is more than one such effect, the active player decides the order.",
+                                        "Any effects that are triggered ‘at the end of activation’ are resolved after step 5 of an activation—immediately after a character ends their activation. If there is more than one such effect, the active player decides the order.",
+                                        "Any effects that are triggered ‘upon interruption’ are resolved by the interrupting character before they start their interruption. If there is more than one such effect, the interrupting player decides the order.",
+                                        "Any effects that are triggered ‘at the end of interruption’ are resolved by the interrupting character after they end their interruption. If there is more than one such effect, the interrupting player decides the order."
+                                    ]
+                                }
+                            ]
+                        },
+						{
+                            "id": "heavy-weapons-and-attacks-w6-p4",
+                            "title": "Heavy Weapons and Attacks",
+                            "page": 4,
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "With the following exceptions, heavy attacks follow the rules for ranged attacks:"
+                                },
+                                {
+                                    "type": "unorderedList",
+                                    "items": [
+                                        "The attacking character must use a heavy weapon instead of a ranged weapon.",
+                                        "The attacking character can use a heavy attack even when engaged with an enemy.",
+                                        "During the attacks of opportunity, heavy weapons can be used instead of melee weapons."
+                                    ]
                                 }
                             ]
                         }
