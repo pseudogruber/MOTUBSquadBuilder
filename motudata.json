@@ -3151,6 +3151,17 @@
                             ]
                         },
 						{
+                            "id": "faq-amulet-of-kulataks-w6-p5",
+                            "title": "Amulet of Kulataks",
+                            "page": "w6 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The Amulet of Kulataks is compatible only with common buffs and debuffs, which include Quickness, Enhancement, Protection, Regeneration, Cripple, Blind, Knockdown, and Curse."
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-attacks-of-opportunity-against-webstor-w5-p5",
                             "title": "Attacks of Opportunity against Webstor",
                             "page": "w4 p5",
@@ -3158,6 +3169,21 @@
                                 {
                                     "type": "paragraph",
                                     "text": "Suppose Webstor receives 1 wound as a result of an attack of opportunity. In that case, he uses his free movement granted by the 'Master of Escape' skill before the move action that has initiated the attack of opportunity."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-demolisher-missile-attacks-w6-p5",
+                            "title": "Demolisher Missile Attacks",
+                            "page": "w6 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "No enemy can be attacked if they are not in the targeted hex’s line of sight. To determine cover modifiers, a line should be traced between the attacked character and the targeted hex. This weapon cannot be used to perform flank attacks."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a Demolisher Missile is used during interruptions, it must target a hex that is adjacent to the interrupted character."
                                 }
                             ]
                         },
@@ -3204,6 +3230,60 @@
 		                                "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action – if the character is focused, they could use their focus token to reach the target."
 		                            ]
 		                        }
+                            ]
+                        },
+						{
+                            "id": "faq-indirect-fire-w6-p5",
+                            "title": "Indirect Fire (Dawg-O-Tor in Battle Ram)",
+                            "page": "w6 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "An enemy that ends any form of movement within 2 hexes of the Indirect Fire mark must make a defence test. This effect is also triggered by pushes, pulls, teleports, and jumps. However, it does not affect enemies that are not within the mark’s line of sight."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-leech-and-magic-blast-w6-p6",
+                            "title": "Leech and Magic Blast",
+                            "page": "w6 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "When an enemy uses a Magic Blast to attack Leech, the following steps must be resolved:"
+                                },
+                                {
+		                            "type": "orderedList",
+		                            "items": [
+		                                "The enemy spends mana on the spell, and Leech gains 1 Mana.",
+		                                "The enemy checks if they have more mana than Leech, and then the attack test is made. During this test, if the enemy spends mana on re-rolls, Leech gains 1 Mana.",
+		                                "Leech performs a defence test. If he has his Slug Armour, he rolls a number of dice depending on his current mana, not the amount of mana he had at the start of the test.",
+										"After that test, if Leech has his Slug Armour, he loses one Mana."
+		                            ]
+		                        },
+								{
+                                    "type": "figure",
+                                    "text": "Magic Push Card Image"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-magic-push-interactions-w6-p6",
+                            "title": "Magic Push Interactions",
+                            "page": "w6 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "To use the Magic Push spell as a free attack, all the requirements must be met. The target must be within the attacker’s line of sight and range, and the attacker cannot be engaged in combat. In the case of area-of-effect attacks, Magic Push can only be used against the initial target. Characters cannot use Magic Push to push themselves."
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "text": "Magic Push can be used for additional attacks with Chain Lightning, even if the second target is not within the character's line of sight. In such cases, the push direction is determined according to the positions of the current and previous targets."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Magic Push Card Image"
+                                }
                             ]
                         },
 						{
