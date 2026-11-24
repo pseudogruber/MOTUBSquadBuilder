@@ -3136,6 +3136,21 @@
                     ],
                     "sections": [
 						{
+                            "id": "faq-accuracy-w9-p3",
+                            "title": "Accuracy",
+                            "page": "w9 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Accuracy affects the next ranged attack performed during the current activation or interruption. This attack rolls no dice, and players assume that the attack tests end up with 4 successes. The targeted character still makes a defence test. This attack consumes focus, even if it has not benefit from it."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Accuracy spell card"
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-additional-attacks-of-chain-lightning-w5-p6",
                             "title": "Chain Lightning Additional Effects",
                             "page": "w5 p6",
@@ -3173,6 +3188,40 @@
                             ]
                         },
 						{
+                            "id": "faq-bows-buffs-w7-p5",
+                            "title": "Bow's Buffs",
+                            "page": "w7 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Whenever Bow loses a buff during an activation phase, the active player chooses which buff he loses."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "During the clean-up phase, Bow loses all his buffs. If any effect says that Bow should not lose a buff, the controlling player can choose one of Bow's buffs to keep. This effect can be cumulative."
+                                },
+                                {
+                                    "type": "figure",
+                                    "text": "Bow character card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-clamp-champ-skills-w9-p3",
+                            "title": "Clamp Champ Skills",
+                            "page": "w9 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "All allies benefiting from Clamp Champ's skills must be within his line of sight."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Clamp Champ character card"
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-demolisher-missile-attacks-w6-p5",
                             "title": "Demolisher Missile Attacks",
                             "page": "w6 p5",
@@ -3188,6 +3237,59 @@
                             ]
                         },
 						{
+                            "id": "faq-dinosaur-skill-w10-p5",
+                            "title": "Dinosaur - Skill",
+                            "page": "w10 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Characters with a skill starting with “Dinosaur” are classified as dinosaurs. Dinosaurs follow the rules for massive models with the following exceptions:"
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Bionatops character card"
+                                },
+								{
+		                            "type": "unorderedList",
+		                            "items": [
+		                                "Dinosaurs can move over high obstacles only while jumping or teleporting.",
+		                                "Dinosaurs have unique interactions with some skills and equipment.",
+		                                "Dinosaurs cannot use heavy weapons during attacks of opportunity against non-massive models."
+		                            ]
+		                        }
+                            ]
+                        },
+						{
+                            "id": "faq-doomseeker-w9-p3",
+                            "title": "Doomseeker",
+                            "page": "w9 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Doomseeker provides a free re-roll when the targeted enemy is within 8\" of a character equipped with a Doomseeker."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Doomseeker item card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-eldor-eldritch-spell-w10-p5",
+                            "title": "Eldor - Eldritch Spell",
+                            "page": "w10 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "To check the number of wounds in play, the player counts every wound on every character on the battleground."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Eldor character card"
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-electro-shocker-spear-and-focus-w3-p6",
                             "title": "Electro Shocker Spear and Focus",
                             "page": "w3 p6",
@@ -3195,6 +3297,36 @@
                                 {
                                     "type": "paragraph",
                                     "text": "If the player decides to use an Elecro Shocker Spear as a ranged weapon, they must spend the focus token before the attack. This attack won’t have a focus and won’t benefit from the effects that require it."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-fang-or-deployment-w8-p6",
+                            "title": "Fang-Or Deployment",
+                            "page": "w8 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Fang-Or isn’t deployed during the setup. He is deployed at the beginning of the second or the following rounds within any player deployment zone, at least seven hexes from any enemy."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Fang-Or character card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-flipping-equipment-w11-p3",
+                            "title": "Flipping Eqiupment",
+                            "page": "w11 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "When any piece of equipment is flipped face down, it can no longer be used, brings no benefit to the attacker, and is not treated as equipped."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Blaster Attachment weapon card"
                                 }
                             ]
                         },
@@ -3233,6 +3365,22 @@
                             ]
                         },
 						{
+                            "id": "faq-ice-spell-w7-p4",
+                            "title": "Ice Spell (Frosta)",
+                            "page": "w7 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "When Frosta uses her Ice Spell during an interruption, she won't suffer the penalty for attacking during an interruption. Still, she can suffer penalties from other sources, like the target being behind the cover."
+                                },
+								{
+                                    "type": "figure",
+									"asset": "faq-ice-spell-card",
+                                    "text": "Ice Spell"
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-indirect-fire-w6-p5",
                             "title": "Indirect Fire (Dawg-O-Tor in Battle Ram)",
                             "page": "w6 p5",
@@ -3240,6 +3388,79 @@
                                 {
                                     "type": "paragraph",
                                     "text": "An enemy that ends any form of movement within 2 hexes of the Indirect Fire mark must make a defence test. This effect is also triggered by pushes, pulls, teleports, and jumps. However, it does not affect enemies that are not within the mark’s line of sight."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-initiative-bonuses-w7-p5",
+                            "title": "Initiative Bonuses",
+                            "page": "w7 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "All effects that influence characters activated with specific initiatives won't affect characters that weren't activated this round."
+                                },
+								{
+                                    "type": "figure",
+									"asset": "faq-angellic-sword-card",
+                                    "text": "Angellic Sword with Initiative bonuses"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-king-greyskull-immortal-king-w10-p4",
+                            "title": "King Grayskull - Immortal King",
+                            "page": "w10 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "When King Grayskull takes the 5th wound, this model is not removed immediately from the battleground but is still counted as being knocked out. King Grayskull remains on the battleground until the end of the round and can likewise be activated. At the end of the round, when this skill is triggered, remove King Grayskull from the battleground, even if this character’s wounds have been removed."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "King Grayskull character card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-king-hsss-snake-in-the-grass-w8-p5",
+                            "title": "King Hsss - Snake in the Grass",
+                            "page": "w8 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The character that ends activation within two hexes from King Hsss’s mark must perform a free move action towards King Hsss. The character performing this action must use as many movement points as possible. This action can be interrupted."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "King Hsss character card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-lady-slither-marks-deployment-and-objectives-w8-p6",
+                            "title": "Lady Slither Marks, Deployment, and Objectives",
+                            "page": "w8 p6",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Lady Slither isn’t deployed during the setup. Place her mark and false mark on the battleground after all other characters are deployed, before the first fate or glory cards are played."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "Her shedding skin ability allows her to place two marks at least three hexes away from any other character, which means that between a mark and a character, there must be **at least two empty hexes**."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "If Lady Slither’s mark is about to be removed but a massive model covers it and all adjacent hexes, Lady Slither can teleport on any hex adjacent to this massive model."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "During a clean-up phase, marks are removed after the objective tokens are claimed. If Lady Slither stands next to the objective, she will claim that objective before she teleports to her mark. If, after teleporting, she stands next to a different objective token, she won’t claim it during this clean-up phase."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Lady Slither character card"
                                 }
                             ]
                         },
@@ -3264,6 +3485,21 @@
 								{
                                     "type": "figure",
                                     "text": "Magic Push Card Image"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-luck-weapon-w10-p5",
+                            "title": "Luck - Weapon",
+                            "page": "w10 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "This spell can be used as a free action when an attack with a melee or ranged weapon has “no effect”. An attack has no effect when, after the enemy's defence roll, the player does not have enough success to use any of the weapon's effects."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Luck weapon card"
                                 }
                             ]
                         },
@@ -3303,7 +3539,7 @@
                         },
 						{
                             "id": "faq-mind-control",
-                            "title": "Mind Control",
+                            "title": "Mind Control (Shadow Weaver)",
                             "page": "w4 p4",
                             "blocks": [
                                 {
@@ -3389,6 +3625,55 @@
                             ]
                         },
 						{
+                            "id": "faq-regular-buffs-w10-p5",
+                            "title": "Regular Buffs",
+                            "page": "w10 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "The following buffs are considered regular buffs:"
+                                },
+								{
+		                            "type": "unorderedList",
+		                            "items": [
+		                                "Enhancement",
+		                                "Protection",
+										"Quickness"
+		                            ]
+		                        }
+                            ]
+                        },
+						{
+                            "id": "faq-regular-debuffs-w9-p4",
+                            "title": "Regular Debuffs",
+                            "page": "w9 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "As regular debuffs, we understand the following debuffs:"
+                                },
+								{
+		                            "type": "unorderedList",
+		                            "items": [
+		                                "Blind",
+		                                "Cripple",
+										"Knockdown"
+		                            ]
+		                        }
+                            ]
+                        },
+						{
+                            "id": "faq-remove-terrain-and-platforms-w10-p5",
+                            "title": "Remove Terrain and Platforms",
+                            "page": "w10 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "If a piece of terrain connected with the platform is removed, then the platform is also removed. All characters on the platform are placed on the hexes directly below the platform. If a hex is occupied, place a character on the closest available hex chosen by a player who controls the character."
+                                }
+                            ]
+                        },
+						{
                             "id": "faq-rolled-values-w5-p5",
                             "title": "Rolled Values",
                             "page": "w5 p5",
@@ -3396,6 +3681,94 @@
                                 {
                                     "type": "paragraph",
                                     "text": "When effects refer to the values rolled in an attack test, take the state of the dice after any rerolls and exploding, but before the enemy defence test."
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-spell-of-separation-attacks-w8-p5",
+                            "title": "Spell of Separation Attacks",
+                            "page": "w8 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "This spell targets a mark. Only characters in the targeted mark’s line of sight can be affected by this spell. To determine cover modifiers, a line should be traced between the character and the targeted mark. This spell cannot be used to perform flank attacks."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "If a Spell of Separation is used during interruptions, it can only target a mark adjacent to the interrupted character."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Spell of separation card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-steel-bracers-w9-p3",
+                            "title": "Steel Bracers",
+                            "page": "w9 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "A character wearing Steel Bracers does not provoke attacks of opportunity but still has to end their movement once they enter an enemy zone of control."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Steel Bracers item card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-sub-zero-w7-p4",
+                            "title": "Sub-Zero (Frosta)",
+                            "page": "w7 p4",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Frosta's Sub-Zero skill takes effect after the card used to activate a character is fully resolved. The activated character will receive mana and the card's bonus before Frosta uses her skill."
+                                },
+								{
+                                    "type": "figure",
+									"asset": "faq-frosta-character-card",
+                                    "text": "Frosta character card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-the-call-of-nature-w11-p3",
+                            "title": "The Call of Nature",
+                            "page": "w11 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "This spell targets a high-obstacle hex. The targeted hex must be within both the range of the weapon and the line of sight of the character using the spell. This spell cannot be used to perform flank attacks."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Turbodactyl character card"
+                                }
+                            ]
+                        },
+						{
+                            "id": "faq-turbodactyl-w11-p3",
+                            "title": "Turbodactyl",
+                            "page": "w11 p3",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Before the Turbodactyl performs any movement action, it can also spend 2 mana to move one adjacent character. After the movement, the player controlling the character that was moved alongside the Turbodactyl places it on any hes adjacent to the Turbodactyl and rotates it in any direction."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "The character that was moved by the Turbodactyl cannot be interrupted, nor can it perform an attack of opportunity against the Turbodactyl."
+                                },
+								{
+                                    "type": "paragraph",
+                                    "text": "If the Turbodactyl cannot fit under the platform, its model must be temporarily removed from the 7-hex base. Until the Turbodactyl remains under the platform, the 7-hes base represents this character."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Turbodactyl character card"
                                 }
                             ]
                         },
@@ -3416,6 +3789,25 @@
 		                                "The enemy is either within range of a weapon equipped by the character on overwatch or the character on overwatch could become engaged with the target with a single move action – if the character is focused, they could use their focus token to reach the target."
 		                            ]
 		                        }
+                            ]
+                        },
+						{
+                            "id": "faq-wooden-wand-and-snake-armour-w8-p5",
+                            "title": "Wooden Wand and Snake Armour",
+                            "page": "w8 p5",
+                            "blocks": [
+                                {
+                                    "type": "paragraph",
+                                    "text": "Characters equipped with a wooden wand can’t be affected by marks, but they can still benefit from snake armour as any other character."
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Wooeden Wand card"
+                                },
+								{
+                                    "type": "figure",
+                                    "text": "Snake Armour card"
+                                }
                             ]
                         }
                     ]
