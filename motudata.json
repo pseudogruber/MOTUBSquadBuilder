@@ -3818,7 +3818,37 @@
                 }
             ]
         }
-    },
+    },	
+	"id": "block-1",
+	"title": "Block 1",
+	"blocks": [
+		{
+			"type": "paragraph",
+			"text": "First paragraph inside Block 1."
+		},
+		{
+			"id": "section-1",
+			"type": "section",
+			"title": "Nested Section",
+			"blocks": [
+				{
+					"type": "paragraph",
+					"text": "Paragraph inside the nested section."
+				}
+			]
+		},
+		{
+			"id": "section-2",
+			"type": "section",
+			"title": "",
+			"blocks": [
+				{
+					"type": "paragraph",
+					"text": "Paragraph continuing after the section."
+				}
+			]
+		}
+	],
     "data": {
         "heroicTiers": [
             {
