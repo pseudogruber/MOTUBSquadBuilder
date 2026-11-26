@@ -3810,28 +3810,11 @@
                                 }
                             ]
                         }
-                    ],
-					"blocks": [
-                        {
-                            "type": "paragraph",
-                            "text": "The following information is compiled from Q&A from various forums (BGG, Discord) where Archon personnel are answering questions and providing rule clarifications."
-                        },
-						{
-                            "type": "paragraph",
-                            "text": "Only official rulings and anwers will be included."
-                        },
-						{
-                            "type": "paragraph",
-                            "text": "Sources include."
-                        },
-                        {
-                            "type": "orderedList",
-                            "items": [
-                                "Boardgamegeek Masters of the Universe: Battleground Forums",
-                                "Official Archon Studio discord"
-                            ]
-                        }
                     ]
+				},
+				{
+                        "type": "paragraph",
+                        "text": "Official Q&A Thread"
                 }
             ]
         }
