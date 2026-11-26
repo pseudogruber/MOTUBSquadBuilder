@@ -3817,19 +3817,18 @@
                         "text": "Official Q&A Thread"
                 }
             ]
-        }
-    },	
-	"id": "block-1",
-	"title": "Block 1",
+        },
+		"id": "q&a",
+	"title": "Q^A",
 	"blocks": [
 		{
 			"type": "paragraph",
-			"text": "First paragraph inside Block 1."
+			"text": "First paragraph inside Q&A."
 		},
 		{
 			"id": "section-1",
 			"type": "section",
-			"title": "Nested Section",
+			"title": "Nested Section within Q&A",
 			"blocks": [
 				{
 					"type": "paragraph",
@@ -3848,7 +3847,8 @@
 				}
 			]
 		}
-	],
+	]
+    },
     "data": {
         "heroicTiers": [
             {
