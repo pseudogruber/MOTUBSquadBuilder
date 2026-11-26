@@ -3811,11 +3811,7 @@
                             ]
                         }
                     ]
-				},
-				{
-                        "type": "paragraph",
-                        "text": "Official Q&A Thread"
-                }
+				}
             ]
         },
 		"id": "q&a",
