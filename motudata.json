@@ -3839,33 +3839,46 @@
                             "items": [
                                 "Boardgamegeek Masters of the Universe: Battleground Forums",
                                 "Official Archon Studio discord"
-                            ],
-							"sections": [
-								{
-									"id": "section-1",
-									"title": "Nested Section",
-									"blocks": [
-										{
-											"type": "paragraph",
-											"text": "Only official rulings and anwers will be included."
-										}
-									]
-								}
-							]
-						},
-						{
-							"id": "block-1",
-							"title": "Block 1",
-							"paragraphs": [
-								{
-									"type": "paragraph",
-									"text": "First Paragraph inside Block 1, before nested section."
-								}
-							]
+                            ]
 						}
-					]
+					],
+					"sections": [
+								        {
+								            "id": "select-cards",
+								            "page": 10,
+								            "title": "SELECT CARDS",
+								            "blocks": [
+												{
+			                                        "type": "paragraph",
+			                                        "text": "Each player selects one fate or glory card from their hand and places it facedown on the table. Then, they simultaneously reveal their selected card."
+			                                    }
+											]
+								        },
+								        {
+								            "id": "activation-phase",
+								            "title": "ACTIVATE CHARACTER",
+								            "page": 10,
+								            "blocks": [
+												{
+			                                        "type": "paragraph",
+			                                        "text": "The active player chooses one of their READY characters to activate. A character is ready if their character card does not have any fate or glory cards on it."
+			                                    }
+											]
+								        },
+								        {
+								            "id": "resolve-card",
+								            "title": "RESOLVE CARD",
+								            "page": 11,
+								            "blocks": [
+												{
+			                                        "type": "paragraph",
+			                                        "text": "After a player chooses and activates a character, that character becomes the ACTIVE CHARACTER and gains action points (AP) and mana equal to the values indicated on their selected fate or glory card. Characters use AP to perform actions during their turn, and they use mana to cast spells, resolve abilities, and reroll dice during tests, as described later."
+			                                    }
+											]
+								        }
+								    ]
 				}
-				]
+			]
         }
     },
     "data": {
