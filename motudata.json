@@ -3865,13 +3865,16 @@
 											]
 								        },
 								        {
-								            "id": "activation-phase",
-								            "title": "ACTIVATE CHARACTER",
-								            "page": 10,
+								            "id": "q&a-tri-klops-optic-blast",
+								            "title": "Tri-Klops Optic Blast - Timing",
 								            "blocks": [
 												{
 			                                        "type": "paragraph",
-			                                        "text": "The active player chooses one of their READY characters to activate. A character is ready if their character card does not have any fate or glory cards on it."
+			                                        "text": "{Question}: Tri-Klops' Optic Blast states: if an enemy without 8\" receives a Debuff, Tri-Klops can spend 1-3 Mana... to make his Optic Blast attack. Is this ability an interrupt used out of sequence? Does it have to trigger immediately after the target gains a debuff? If so, how immediately? Does it have to be the very next action after the target gains the debuff (e.g. Tri-Klops hits them with Gammavision for his first action, and then immediately hits them with Optic Blast for his second action)? What if a character gains a debuff token, and then Tri-Klops is the next character to activate, so there have been no other actions between the target gaining the debuff and Tri-Klops activating: Would he be able to use his ability then? Or, is any chracter with a debuff token a valid target, regardless of when they received that token?"
+			                                    },
+												{
+			                                        "type": "paragraph",
+			                                        "text": "{Answer}: This skill is passive, therefore it can be used as soon as target receives a debuff, even if Tri-Klop isn't an active character. Imagine a situation like this: Evil-Lyn is an active character and successfully uses **Dark Presence** against Ram-Man. If Tri-Klops is in range, he can immediately use Optic Blast (remember, this is a passive ability and using it doesn't count as an action), after that Evil-Lyn continues her activation."
 			                                    }
 											]
 								        },
