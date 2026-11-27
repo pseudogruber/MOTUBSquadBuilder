@@ -3810,7 +3810,13 @@
                                 }
                             ]
                         }
-                    ]
+                    ],
+					"blocks": [
+                        {
+                            "type": "paragraph",
+                            "text": "The following information is compiled from Q&A from various forums (BGG, Discord) where Archon personnel are answering questions and providing rule clarifications."
+                        }
+					]
 				},
 				{
 					"id": "q&a-official",
