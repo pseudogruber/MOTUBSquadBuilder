@@ -3810,13 +3810,7 @@
                                 }
                             ]
                         }
-                    ],
-					"blocks": [
-                        {
-                            "type": "paragraph",
-                            "text": "The following information is compiled from Q&A from various forums (BGG, Discord) where Archon personnel are answering questions and providing rule clarifications."
-                        }
-					]
+                    ]
 				},
 				{
 					"id": "q&a-official",
@@ -3843,53 +3837,56 @@
 						}
 					],
 					"sections": [
-								        {
-								            "id": "q&a-tri-klops-gammavision",
-								            "title": "Tri-Klops and Gammavision: Focus gain",
-								            "blocks": [
-												{
-			                                        "type": "paragraph",
-			                                        "text": "{Question}: **Tri-Klops'** **Gammavision** ability reads: 'All attacks against a character with a Tri-Klops Debuff gain a Focus.' What exactly does this mean? Is it the attack itself that gains focus, or the character making the attack?"
-			                                    },
-												{
-													"type": "unorderedList",
-													"items": [
-														"a) Does every character who attacks the target simply treat their attack as having a scope increased by 1 (as if they had a focus token) without actually gaining a focus token?",
-														"b) Does every character who attacks actually gain a focus token, which could therefore trigger special abilities, such as He-Man gaining a mana token when he gains a focus token?"
-													]
-												},
-												{
-			                                        "type": "paragraph",
-			                                        "text": "{Answer}: Answer B is the correct interpretation. This skill triggers all bonuses associated with focuses (like bonus dice from the 'Laser Rifle')."
-			                                    }
-											]
-								        },
-								        {
-								            "id": "q&a-tri-klops-optic-blast",
-								            "title": "Tri-Klops Optic Blast - Timing",
-								            "blocks": [
-												{
-			                                        "type": "paragraph",
-			                                        "text": "{Question}: Tri-Klops' Optic Blast states: if an enemy without 8\" receives a Debuff, Tri-Klops can spend 1-3 Mana... to make his Optic Blast attack. Is this ability an interrupt used out of sequence? Does it have to trigger immediately after the target gains a debuff? If so, how immediately? Does it have to be the very next action after the target gains the debuff (e.g. Tri-Klops hits them with Gammavision for his first action, and then immediately hits them with Optic Blast for his second action)? What if a character gains a debuff token, and then Tri-Klops is the next character to activate, so there have been no other actions between the target gaining the debuff and Tri-Klops activating: Would he be able to use his ability then? Or, is any chracter with a debuff token a valid target, regardless of when they received that token?"
-			                                    },
-												{
-			                                        "type": "paragraph",
-			                                        "text": "{Answer}: This skill is passive, therefore it can be used as soon as target receives a debuff, even if Tri-Klop isn't an active character. Imagine a situation like this: Evil-Lyn is an active character and successfully uses **Dark Presence** against Ram-Man. If Tri-Klops is in range, he can immediately use Optic Blast (remember, this is a passive ability and using it doesn't count as an action), after that Evil-Lyn continues her activation."
-			                                    }
-											]
-								        },
-								        {
-								            "id": "resolve-card",
-								            "title": "RESOLVE CARD",
-								            "page": 11,
-								            "blocks": [
-												{
-			                                        "type": "paragraph",
-			                                        "text": "After a player chooses and activates a character, that character becomes the ACTIVE CHARACTER and gains action points (AP) and mana equal to the values indicated on their selected fate or glory card. Characters use AP to perform actions during their turn, and they use mana to cast spells, resolve abilities, and reroll dice during tests, as described later."
-			                                    }
-											]
-								        }
-								    ]
+						{
+							"id": "q&a-attack-what-is",
+							"title": "Attack - what constitues as",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: What exactly constitutes an attack? Is Mer-Man's Freezing Ray classed as an attack, for example, even though it doesn't do damage and only applies a debuff?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: An attack is any situation in which one character uses a weapon (Melee, Ranged or Spell) against another character. 'Freezing Ray' comes from a skill not a weapon, therefore using it doesn't count as an attack."
+			                    }
+							]
+						},
+						{
+							"id": "q&a-tri-klops-gammavision",
+							"title": "Tri-Klops and Gammavision: Focus gain",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: **Tri-Klops'** **Gammavision** ability reads: 'All attacks against a character with a Tri-Klops Debuff gain a Focus.' What exactly does this mean? Is it the attack itself that gains focus, or the character making the attack?"
+								},
+								{
+									"type": "unorderedList",
+									"items": [
+										"a) Does every character who attacks the target simply treat their attack as having a scope increased by 1 (as if they had a focus token) without actually gaining a focus token?",
+										"b) Does every character who attacks actually gain a focus token, which could therefore trigger special abilities, such as He-Man gaining a mana token when he gains a focus token?"
+									]
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Answer B is the correct interpretation. This skill triggers all bonuses associated with focuses (like bonus dice from the 'Laser Rifle')."
+								}
+							]
+						},
+						{
+							"id": "q&a-tri-klops-optic-blast",
+							"title": "Tri-Klops Optic Blast - Timing",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: Tri-Klops' Optic Blast states: if an enemy without 8\" receives a Debuff, Tri-Klops can spend 1-3 Mana... to make his Optic Blast attack. Is this ability an interrupt used out of sequence? Does it have to trigger immediately after the target gains a debuff? If so, how immediately? Does it have to be the very next action after the target gains the debuff (e.g. Tri-Klops hits them with Gammavision for his first action, and then immediately hits them with Optic Blast for his second action)? What if a character gains a debuff token, and then Tri-Klops is the next character to activate, so there have been no other actions between the target gaining the debuff and Tri-Klops activating: Would he be able to use his ability then? Or, is any chracter with a debuff token a valid target, regardless of when they received that token?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: This skill is passive, therefore it can be used as soon as target receives a debuff, even if Tri-Klop isn't an active character. Imagine a situation like this: Evil-Lyn is an active character and successfully uses **Dark Presence** against Ram-Man. If Tri-Klops is in range, he can immediately use Optic Blast (remember, this is a passive ability and using it doesn't count as an action), after that Evil-Lyn continues her activation."
+								}
+							]
+						}
+					]
 				}
 			]
         }
