@@ -3811,38 +3811,33 @@
                             ]
                         }
                     ]
-				}
-            ],
-			"id": "q&a",
-	"title": "Q^A",
-	"blocks": [
-		{
-			"type": "paragraph",
-			"text": "First paragraph inside Q&A."
-		},
-		{
-			"id": "section-1",
-			"type": "section",
-			"title": "Nested Section within Q&A",
-			"blocks": [
+				},
 				{
-					"type": "paragraph",
-					"text": "Paragraph inside the nested section."
+					"id": "q&a-official",
+                    "title": "Official Q&A Thread",
+					"blocks": [
+                        {
+                            "type": "paragraph",
+                            "text": "The following information is compiled from Q&A from various forums (BGG, Discord) where Archon personnel are answering questions and providing rule clarifications."
+                        },
+						{
+                            "type": "paragraph",
+                            "text": "Only official rulings and anwers will be included."
+                        },
+						{
+                            "type": "paragraph",
+                            "text": "Sources include."
+                        },
+                        {
+                            "type": "orderedList",
+                            "items": [
+                                "Boardgamegeek Masters of the Universe: Battleground Forums",
+                                "Official Archon Studio discord"
+                            ]
+                        }
+                    ]
 				}
-			]
-		},
-		{
-			"id": "section-2",
-			"type": "section",
-			"title": "",
-			"blocks": [
-				{
-					"type": "paragraph",
-					"text": "Paragraph continuing after the section."
-				}
-			]
-		}
-	]
+            ]
         }
     },
     "data": {
