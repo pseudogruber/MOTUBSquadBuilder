@@ -3838,8 +3838,8 @@
 					],
 					"sections": [
 						{
-							"id": "q&a-attack-what-is",
-							"title": "Attack - what constitues as",
+							"id": "q&a-attack",
+							"title": "Attack",
 							"blocks": [
 								{
 									"type": "paragraph",
@@ -3852,8 +3852,36 @@
 							]
 						},
 						{
+							"id": "q&a-fate-and-glory-cards",
+							"title": "Fate and Glory Cards",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: During setup, players draw 5 fate cards. Then, draw 3 glory, discard 1 of them, and add the remaining 2 glory cards to their hands for a total of 7 cards for an opening hand. During the subsequent rounds, when drawing new fate cards, do the players draw back up to 5 fate cards including, or not including, the glory cards (should they still be in hand)?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Glory cards do not count towards the 5 card limit."
+								}
+							]
+						},
+						{
+							"id": "q&a-mana-rerolls",
+							"title": "Mana Rerrolls",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: Can I use Mana to reroll a dice after the dice exploded?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: NO. After rolling exploding dice, you may no longer reroll any dice. (Check TESTS: 11 Steps of a test. These have always to be conducted in strict order.)"
+			                    }
+							]
+						},
+						{
 							"id": "q&a-skeletor-havoc-staff-los",
-							"title": "Skeletor & Havoc Staff: Line of Sight required?",
+							"title": "Skeletor and Havoc Staff",
 							"blocks": [
 								{
 									"type": "paragraph",
@@ -3867,7 +3895,7 @@
 						},
 						{
 							"id": "q&a-tri-klops-gammavision",
-							"title": "Tri-Klops and Gammavision: Focus gain",
+							"title": "Tri-Klops and Gammavision",
 							"blocks": [
 								{
 									"type": "paragraph",
@@ -3888,7 +3916,7 @@
 						},
 						{
 							"id": "q&a-tri-klops-optic-blast",
-							"title": "Tri-Klops Optic Blast - Timing",
+							"title": "Tri-Klops and Optic Blast",
 							"blocks": [
 								{
 									"type": "paragraph",
