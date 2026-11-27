@@ -3880,6 +3880,20 @@
 							]
 						},
 						{
+							"id": "q&a-move-action",
+							"title": "Movement and Move Action",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: Do you have to move when making a move action?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: No, you can move 0 hexes to rotate your character in place."
+			                    }
+							]
+						},
+						{
 							"id": "q&a-skeletor-havoc-staff-los",
 							"title": "Skeletor and Havoc Staff",
 							"blocks": [
