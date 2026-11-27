@@ -3852,6 +3852,20 @@
 							]
 						},
 						{
+							"id": "q&a-skeletor-havoc-staff-los",
+							"title": "Skeletor & Havoc Staff: Line of Sight required?",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: Skeletor's Havoc Staff. Does he only get the mana if the allies suffer wounds within LOS?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Weapons have abilities (not skills), so it does not require LOS."
+								}
+							]
+						},
+						{
 							"id": "q&a-tri-klops-gammavision",
 							"title": "Tri-Klops and Gammavision: Focus gain",
 							"blocks": [
