@@ -3821,7 +3821,7 @@
 				{
 					"id": "q&a-official",
                     "title": "Official Q&A Thread",
-					"blocks": [
+					"paragraphs": [
                         {
                             "type": "paragraph",
                             "text": "The following information is compiled from Q&A from various forums (BGG, Discord) where Archon personnel are answering questions and providing rule clarifications."
@@ -3842,46 +3842,29 @@
                             ]
                         },
 						{
-  "id": "block-1",
-  "title": "Block 1",
-  "paragraphs": [
-    {
-		"type": "paragraph",
-		"text": "First Paragraph inside Block 1, before nested section."
-	}
-  ],
-  "sections": [
-    {
-      "id": "section-1",
-      "title": "Nested Section",
-      "paragraphs": [
-        "Paragraph inside the nested section."
-      ]
-    }
-  ]
-}
-                    ]
-				},
-				{
-  "id": "block-1",
-  "title": "Block 1",
-  "paragraphs": [
-    {
-		"type": "paragraph",
-		"text": "First Paragraph inside Block 1, before nested section."
-	}
-  ],
-  "sections": [
-    {
-      "id": "section-1",
-      "title": "Nested Section",
-      "paragraphs": [
-        "Paragraph inside the nested section."
-      ]
-    }
-  ]
-}
-            ]
+							"sections": [
+								{
+									"id": "section-1",
+									"title": "Nested Section",
+									"paragraphs": [
+										"Paragraph inside the nested section."
+									]
+								}
+							]
+						},
+						{
+							"id": "block-1",
+							"title": "Block 1",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "First Paragraph inside Block 1, before nested section."
+								}
+							]
+						}
+					]
+				}
+				]
         }
     },
     "data": {
