@@ -3844,13 +3844,23 @@
 					],
 					"sections": [
 								        {
-								            "id": "select-cards",
-								            "page": 10,
-								            "title": "SELECT CARDS",
+								            "id": "q&a-tri-klops-gammavision",
+								            "title": "Tri-Klops and Gammavision: Focus gain",
 								            "blocks": [
 												{
 			                                        "type": "paragraph",
-			                                        "text": "Each player selects one fate or glory card from their hand and places it facedown on the table. Then, they simultaneously reveal their selected card."
+			                                        "text": "{Question}: **Tri-Klops'** **Gammavision** ability reads: 'All attacks against a character with a Tri-Klops Debuff gain a Focus.' What exactly does this mean? Is it the attack itself that gains focus, or the character making the attack?"
+			                                    },
+												{
+													"type": "unorderedList",
+													"items": [
+														"a) Does every character who attacks the target simply treat their attack as having a scope increased by 1 (as if they had a focus token) without actually gaining a focus token?",
+														"b) Does every character who attacks actually gain a focus token, which could therefore trigger special abilities, such as He-Man gaining a mana token when he gains a focus token?"
+													]
+												},
+												{
+			                                        "type": "paragraph",
+			                                        "text": "{Answer}: Answer B is the correct interpretation. This skill triggers all bonuses associated with focuses (like bonus dice from the 'Laser Rifle')."
 			                                    }
 											]
 								        },
