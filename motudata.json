@@ -3842,6 +3842,39 @@
                             ]
                         }
                     ]
+				},
+				{
+				  "id": "block-1",
+				  "title": "Block 1",
+				  "blocks": [
+				    {
+				      "type": "paragraph",
+				      "text": "First paragraph inside Block 1."
+				    },
+				    {
+				      "type": "paragraph",
+				      "text": "Second paragraph before the nested section."
+				    },
+				    {
+				      "id": "section-1",
+				      "type": "section",
+				      "title": "Nested Section",
+				      "blocks": [
+				        {
+				          "type": "paragraph",
+				          "text": "Paragraph inside the nested section."
+				        }
+				      ]
+				    },
+				    {
+				      "type": "paragraph",
+				      "text": "Paragraph continuing in Block 1 after the section."
+				    },
+				    {
+				      "type": "paragraph",
+				      "text": "Final paragraph in Block 1."
+				    }
+				  ]
 				}
             ]
         }
