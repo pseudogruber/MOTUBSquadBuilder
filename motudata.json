@@ -3821,7 +3821,7 @@
 				{
 					"id": "q&a-official",
                     "title": "Official Q&A Thread",
-					"paragraphs": [
+					"blocks": [
                         {
                             "type": "paragraph",
                             "text": "The following information is compiled from Q&A from various forums (BGG, Discord) where Archon personnel are answering questions and providing rule clarifications."
@@ -3855,7 +3855,7 @@
 						{
 							"id": "block-1",
 							"title": "Block 1",
-							"blocks": [
+							"paragraphs": [
 								{
 									"type": "paragraph",
 									"text": "First Paragraph inside Block 1, before nested section."
