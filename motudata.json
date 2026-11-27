@@ -3840,14 +3840,36 @@
                                 "Boardgamegeek Masters of the Universe: Battleground Forums",
                                 "Official Archon Studio discord"
                             ]
-                        }
+                        },
+						{
+  "id": "block-1",
+  "title": "Block 1",
+  "paragraphs": [
+    {
+		"type": "paragraph",
+		"text": "First Paragraph inside Block 1, before nested section."
+	}
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Nested Section",
+      "paragraphs": [
+        "Paragraph inside the nested section."
+      ]
+    }
+  ]
+}
                     ]
 				},
 				{
   "id": "block-1",
   "title": "Block 1",
   "paragraphs": [
-    "First paragraph inside Block 1."
+    {
+		"type": "paragraph",
+		"text": "First Paragraph inside Block 1, before nested section."
+	}
   ],
   "sections": [
     {
