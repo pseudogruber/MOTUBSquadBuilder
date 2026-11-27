@@ -3852,10 +3852,6 @@
 				      "text": "First paragraph inside Block 1."
 				    },
 				    {
-				      "type": "paragraph",
-				      "text": "Second paragraph before the nested section."
-				    },
-				    {
 				      "id": "section-1",
 				      "type": "section",
 				      "title": "Nested Section",
@@ -3867,12 +3863,15 @@
 				      ]
 				    },
 				    {
-				      "type": "paragraph",
-				      "text": "Paragraph continuing in Block 1 after the section."
-				    },
-				    {
-				      "type": "paragraph",
-				      "text": "Final paragraph in Block 1."
+				      "id": "section-2",
+				      "type": "section",
+				      "title": "",
+				      "blocks": [
+				        {
+				          "type": "paragraph",
+				          "text": "Paragraph continuing after the section."
+				        }
+				      ]
 				    }
 				  ]
 				}
