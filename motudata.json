@@ -3913,7 +3913,7 @@
 							"blocks": [
 								{
 									"type": "paragraph",
-									"text": "{Question}: Sorceress' Basic equipment **Staff of Power**: *Magic attacks are treated as skill tests and attack tests.* What does it mean?"
+									"text": "{Question}: Sorceress' Basic equipment **Staff of Power**: <em>Magic attacks are treated as skill tests and attack tests.</em> What does it mean?"
 								},
 								{
 									"type": "paragraph",
