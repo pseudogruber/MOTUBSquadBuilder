@@ -4102,22 +4102,8 @@
 								},
 								{
 									"type": "paragraph",
-									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise)."
-								},
-								{
-									"type": "separator"
-								},
-								{
-									"type": "delimiter"
-								},
-								{
-									"type": "horizontal_rule"
-								},
-								{
-									"type": "line"
-								},
-								{
-									"type": "spacer"
+									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise).",
+									"dividerAfter": true
 								},
 								{
 									"type": "paragraph",
@@ -4140,6 +4126,10 @@
 										"This will trigger overwatch. In ruelebook we can read: 'Then, after a character moves, their model can be rotated to face any direction', so even when you rotate on the spot we assume that character made a 0 hex movement.",
 										"This won't trigger overwatch (before rotation character didn't make any movement)."
 									]
+								},
+								{
+									"type": "paragraph",
+									"text": "\u00A0"
 								},
 								{
 									"type": "paragraph",
