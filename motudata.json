@@ -3908,6 +3908,34 @@
 							]
 						},
 						{
+							"id": "q&a-sorceress",
+							"title": "Sorceress and Staff of Power",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: Sorceress' Basic equipment **Staff of Power**: *Magic attacks are treated as skill tests and attack tests.* What does it mean?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: When Sorceress casts a spell attack during an interruption, this spell benefits from bonuses reserved for skill test. For example: **Golden Disk of Knowledge** will provide an extra die for that attack."
+								}
+							]
+						},
+						{
+							"id": "q&a-teela",
+							"title": "Teela and Acrobatic",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: Teela's ability 'Acrobatic' says: 'Once per her interruption' does it mean 'once when she interrupts' or 'once when she is interrupted'?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: When Teela interrupts."
+								}
+							]
+						},
+						{
 							"id": "q&a-tri-klops-gammavision",
 							"title": "Tri-Klops and Gammavision",
 							"blocks": [
