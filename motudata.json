@@ -19,8 +19,9 @@
 		"NoSlot": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731962888/Icon_EQ_NoSlot_dgefyi.png",
 		"AP": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738848/Token_AP_01_dk45tw.png",
 		"Mana": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738849/Token_MP_01_iwipwf.png",
-		"Health": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738148/MOTU_Battleground_Health_usjo5h.png",
-		"Wound": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795877791/Icon_Mana_p4r33n.svg",
+		"Health": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795878572/Icon_Health-Wound_cgksjg.svg",
+		"Wound": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795878572/Icon_Health-Wound_cgksjg.svg",
+		"Strength": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795878571/Icon_Strength_uhrz4z.svg",
 		"Speed": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738152/MOTU_IMG_Ability_Speed_o4qecj.png"
 	},
     "stats": [
@@ -3864,6 +3865,10 @@
 								{
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: An attack is any situation in which one character uses a weapon (Melee, Ranged or Spell) against another character. 'Freezing Ray' comes from a skill not a weapon, therefore using it doesn't count as an attack."
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: Testing icons {Strength}, {Health}, {Wound}, {Mana}, {Shield}, {Trinket}, {Melee}"
 			                    }
 							]
 						},
