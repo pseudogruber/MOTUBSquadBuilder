@@ -3859,6 +3859,36 @@
 					],
 					"sections": [
 						{
+							"id": "q&a-ally-enemy",
+							"title": "Ally and Enemy",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Is a character allied to itself**"
+			                    },
+								{
+									"type": "paragraph",
+									"text": "{Question}: Is a Model allied to itself? So, could Scareglow use Nightmare on himself or does Skeletor get a Mana from being damaged through the Havoc staff?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: No. The model currently taking an action is not allied to themselves. See p. 32 in the rulebook (glossary)."
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Quote}: Ally: Any character that belongs to the same force (excluding the character that currently resolves their activation or interruption)."
+			                    },
+								{
+									"type": "paragraph",
+									"text": "{Question}: Could Skeletor gain Mana, if he is damaged? The Ally rule just says, that the acting or interrupting Model is not allied to himself, but using a passive weapon skill out of your own activation is not defined as an interruption."
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: Skeletor shouldn't gain Mana, if he is damaged. I agree that the rules could be clearer in this regard."
+			                    }
+							]
+						},
+						{
 							"id": "q&a-attack",
 							"title": "Attack",
 							"blocks": [
@@ -3882,6 +3912,42 @@
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: All weapons must target enemies, unless otherwise stated in their description."
 			                    }
+							]
+						},
+						{
+							"id": "q&a-buffs-and-debuffs",
+							"title": "Buffs and Debuffs",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Cover and Skills**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: What happens if a character receives a debuff (or buff) it already has? Is the old debuff still removed (e.g. triggering Tri-Klops' Optic Blast, or Curse debuff dealing a {Wound})? Or does the character just keep the existing debuff without effect?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: The old debuff is removed, and a new one is applied. So - yes. Tri-Klops can use the Optic blast again, and Curses will do damage."
+								}
+							]
+						},
+						{
+							"id": "q&a-cover",
+							"title": "Cover",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Cover and Skills**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Does Cover aaply to Skills that require Line of Sight? (are skills which require LOS also affected by cover?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Cover does not affect Skills."
+								}
 							]
 						},
 						{
@@ -3989,6 +4055,24 @@
 							]
 						},
 						{
+							"id": "q&a-pushing-pulling",
+							"title": "Pushing and Pulling",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Pushing, Pulling, and Elevation**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: When a character is pushed/pulled from elevation, which player decides what hex the character climbs to? Or do you just select the hex in push/pull direction?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Use the standard push/pulls rules."
+								}
+							]
+						},
+						{
 							"id": "q&a-ram-man-and-axe",
 							"title": "Ram Man and Axe",
 							"blocks": [
@@ -4031,6 +4115,24 @@
 								{
 									"type": "paragraph",
 									"text": "{Answer}: Weapons have abilities (not skills), so it does not require LOS."
+								}
+							]
+						},
+						{
+							"id": "q&a-skills",
+							"title": "Skills",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Skills and Cover**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Are skills which require LOS also affected by cover or does cover only affect Ranged Attacks/Spells?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Skills are not affected by cover."
 								}
 							]
 						},
@@ -4081,9 +4183,13 @@
 							]
 						},
 						{
-							"id": "q&a-teela",
-							"title": "Teela and Acrobatic",
+							"id": "q&a-teela-teelas-sword",
+							"title": "Teela and Teela's Sword",
 							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "Acrobatic Skill?"
+								},
 								{
 									"type": "paragraph",
 									"text": "{Question}: Teela's ability 'Acrobatic' says: 'Once per her interruption' does it mean 'once when she interrupts' or 'once when she is interrupted'?"
@@ -4091,6 +4197,22 @@
 								{
 									"type": "paragraph",
 									"text": "{Answer}: When Teela interrupts."
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Do the free move actions provided by **Acrobatic** or **Teela's Sword** stop when entering a hex adjacent to an enemy character? This rule for move actions is strongly emphasized in the rulebook and I don't see anything on Teela's special rules disabling that rule. But the character reveal blog entry has Teela dancing around enemy characters, suggesting it is intended for her being able to ignore that rule."
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: The intention was that Teela could ignore this rule. (But you are right; it's not clear enough as it is.)"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Is Teela's **Acrobatic** skill move considered when checking if she can/must use her Overwatch? The strict rules trigger Overwatch only if she can reach the target with ONE move action, where Acrobatic plus overwatch move would be two move actions. (but it feels to me that her ability is intended to extend her overwatch reach)"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: No. That's a really cool idea, but it's not how it is supposed to work."
 								}
 							]
 						},
@@ -4109,6 +4231,68 @@
 								{
 									"type": "paragraph",
 									"text": "{Answer}: Yes, any faction can use them."
+								},
+								{
+									"type": "paragraph",
+									"text": "**Teleporters**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Questions}:"
+								},
+								{
+									"type": "orderedList",
+									"items": [
+										"Are teleporters difficult terrain? They fit the description in the terrain section",
+										"Can a teleporter be spawned beneath a character (putting them into difficult terrain if 1) is a 'yes')?",
+										"Is the teleporter itself also adjacent to other teleporters and their adjacent hexes? The rulebook has several instances where it distinguishes between the hex itself and adjacent hexes. But it feels weird that a character needs to first take a step off the teleporter in order to teleport to the other teleporter.",
+										"Can a character Melee attack a teleporter it is standing on? Same reason as for 3). You can only melee attack something adjacent to the character, but is a hex adjacent to itself?"
+									]
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answers}:"
+								},
+								{
+									"type": "orderedList",
+									"items": [
+										"No, teleporters are Special terrain.",
+										"No - as they are not difficult terrain.",
+										"No, teleporters (like any special terrain) for a purpose of movement use rules of high obstacles, so you can't end any movement on them.",
+										"No - As above, you can't stand on it."
+									]
+								}
+							]
+						},
+						{
+							"id": "q&a-trap-jaw-hook-attachement",
+							"title": "Trap-Jaw and Hook attachment",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Grappling Hook Skill**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: When Trap-Jaw uses his Grappling Hook skill, can he:"
+								},
+								{
+									"type": "orderedList",
+									"items": [
+										"move out of a melee combat without triggering a attack of opportunity?",
+										"move within LoS of a enemy character in overwatch-stance without triggering a interruption?"
+									]
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answers}:"
+								},
+								{
+									"type": "orderedList",
+									"items": [
+										"No.",
+										"No."
+									]
 								}
 							]
 						},
