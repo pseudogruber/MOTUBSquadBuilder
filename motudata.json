@@ -3869,6 +3869,36 @@
 								{
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: An attack is any situation in which one character uses a weapon (Melee, Ranged or Spell) against another character. 'Freezing Ray' comes from a skill not a weapon, therefore using it doesn't count as an attack."
+			                    },
+								{
+									"type": "paragraph",
+									"text": "**Targetting Allies**"
+			                    },
+								{
+									"type": "paragraph",
+									"text": "{Question}: Can characters target allies with their weapons? Or can they target nothing? Like Orko's Cosmic Storm, for example. It might make sense to target an ally to get +2 {Mana}... Or maybe wounding an ally to give Skeletor more mana?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: All weapons must target enemies, unless otherwise stated in their description."
+			                    }
+							]
+						},
+						{
+							"id": "q&a-Equipment",
+							"title": "Equipment",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Basic equipment and equipment slots**"
+			                    },
+								{
+									"type": "paragraph",
+									"text": "{Question}: Does the basic equipment counts towards the equipment limit? For example: Skeletor has one {Melee weapon} slot. Can he have a second melee-weapon besides his Havoc-Staff or must he drop the staff first to use another melee-weapon?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: Yes, it does."
 			                    }
 							]
 						},
@@ -3905,20 +3935,6 @@
 							]
 						},
 						{
-							"id": "q&a-mana-rerolls",
-							"title": "Mana Rerrolls",
-							"blocks": [
-								{
-									"type": "paragraph",
-									"text": "{Question}: Can I use Mana to reroll a dice after the dice exploded?"
-			                    },
-								{
-			                    	"type": "paragraph",
-			                        "text": "{Answer}: NO. After rolling exploding dice, you may no longer reroll any dice. (Check TESTS: 11 Steps of a test. These have always to be conducted in strict order.)"
-			                    }
-							]
-						},
-						{
 							"id": "q&a-move-action",
 							"title": "Movement and Move Action",
 							"blocks": [
@@ -3930,6 +3946,46 @@
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: No, you can move 0 hexes to rotate your character in place."
 			                    }
+							]
+						},
+						{
+							"id": "q&a-overwatch",
+							"title": "Overwatch",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Moving and rotating models after Overwatch**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: If i choose Overwatch as an action without moving before, can i still rotate the character model to change the view-field?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise)."
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: The trigger for overwatch is a character ending movement in line of sight. This indicates that other actions, such as shooting a ranged weapon, or using a skill while in line of sight will not trigger overwatch. However, what if the action you undertake forces you to rotate? To put it another way:"
+								},
+								{
+									"type": "orderedList",
+									"items": [
+										"Evil-Lyn spends 1 action point for movement to rotate on the spot. Does this trigger overwatch?",
+										"Evil-Lyn spends 1 action point to make a magic attack. As part of this attack, she rotates to face her target. Does this trigger overwatch?"
+									]
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answers}"
+								},
+								{
+									"type": "orderedList",
+									"items": [
+										"This will trigger overwatch. In ruelebook we can read: 'Then, after a character moves, their model can be rotated to face any direction', so even when you rotate on the spot we assume that character made a 0 hex movement.",
+										"This won't trigger overwatch (before rotation character didn't make any movement)."
+									]
+								}
 							]
 						},
 						{
@@ -4035,6 +4091,24 @@
 								{
 									"type": "paragraph",
 									"text": "{Answer}: When Teela interrupts."
+								}
+							]
+						},
+						{
+							"id": "q&a-terrain",
+							"title": "Terrain",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Special terrain usage**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Special terrain cards (e.g. Teleporter and Force field rod of the wave 1 expansions) don´t have any faction icons. Can any faction use these special objects?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Yes, any faction can use them."
 								}
 							]
 						},
