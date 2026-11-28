@@ -3934,6 +3934,22 @@
 							"blocks": [
 								{
 									"type": "paragraph",
+									"text": "**Sorceress Telepatic Guide Skill**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: if the ally cannot perform an attack against the interrupted enemy (no LOS, engagement, etc), nor reach them by moving, can they still interrupt them and perform an action?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Yes."
+								},
+								{
+									"type": "paragraph",
+									"text": "**Sorceress and Staff of Power**"
+								},
+								{
+									"type": "paragraph",
 									"text": "{Question}: Sorceress' Basic equipment **Staff of Power**: 'Magic attacks are treated as skill tests and attack tests.' What does it mean?"
 								},
 								{
