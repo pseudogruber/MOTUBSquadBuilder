@@ -3873,6 +3873,24 @@
 							]
 						},
 						{
+							"id": "q&a-fatal-flaw",
+							"title": "Fatal Flaw",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Gaining Mana from Fatal Flaw Success**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Fatal Flaw says 'this character gains X {Mana}'. Is it the target who gains mana or the spell caster?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: The caster."
+								}
+							]
+						},
+						{
 							"id": "q&a-fate-and-glory-cards",
 							"title": "Fate and Glory Cards",
 							"blocks": [
@@ -3912,6 +3930,24 @@
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: No, you can move 0 hexes to rotate your character in place."
 			                    }
+							]
+						},
+						{
+							"id": "q&a-ram-man-and-axe",
+							"title": "Ram Man and Axe",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Ram Man's Ramming Speed**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Does each enemy (within 2 hexes from Ram Man's final position) who can't prevent him from getting a success takes a Knockdown debuff?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Yes."
+								}
 							]
 						},
 						{
