@@ -11687,7 +11687,7 @@
             {
                 "name": "Fiery Bolt",
                 "ID": "WS44",
-                "imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648468/ws42_prehaw.jpg",
+                "imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756648470/ws44_nuc1ne.jpg",
                 "points": 2,
                 "mana": 0,
                 "range": 12,
@@ -12677,7 +12677,7 @@
                 "imageUrl": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1756650665/i88_skh1bd.jpg",
                 "points": 2,
                 "unique": true,
-                "type": "Trinket",
+                "type": "Armour",
                 "definition": "Enemies attacking this character do not gain any bonuses for a flank attack."
             },
             {
