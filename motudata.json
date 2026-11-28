@@ -10666,6 +10666,7 @@
                 "name": "Venomous Tongue",
                 "ID": "WM66",
                 "imageUrl": "",
+				"showTextWithImage": true,
                 "points": 1,
                 "diceModifier": "-",
                 "unique": true,
@@ -15887,6 +15888,7 @@
                     "",
                     ""
                 ],
+				"showTextWithImage": true,
                 "upgradeTypes": [
                     "Ranged",
                     "Armour",
