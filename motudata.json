@@ -8,21 +8,25 @@
     "preserveLineBreaks": true,
     "singleFaction": true,
 	"iconLibrary": {
-		"Melee": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731330773/Icon_EQ_Melee_2_p1dkxb.png",
-		"Ranged": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731331240/Icon_EQ_Ranged_hbax7j.png",
-		"Spell": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731332245/Icon_EQ_Spell_qk8yf7.png",
+		"Melee Attack": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731330773/Icon_EQ_Melee_2_p1dkxb.png",
+		"Ranged Attack": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731331240/Icon_EQ_Ranged_hbax7j.png",
+		"Spell Attack": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731332245/Icon_EQ_Spell_qk8yf7.png",
 		"Heavy Weapon": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731834204/Icon_EQ_Heavy_Weapon_jh1dqf.png",
 		"Module": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731834219/Icon_EQ_Module_ntadzr.png",
 		"Shield": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731332254/Icon_EQ_Shield_rtveoa.png",
 		"Armour": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731332291/Icon_EQ_Armour_vxxvda.png",
 		"Trinket": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731332304/Icon_EQ_Trinket_djeuwb.png",
 		"NoSlot": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1731962888/Icon_EQ_NoSlot_dgefyi.png",
-		"AP": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738848/Token_AP_01_dk45tw.png",
+		"AP": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795880375/Icon_AP_o7baga.svg",
 		"Mana": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795879943/Icon_Mana_irr1at.svg",
 		"Health": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795878572/Icon_Health-Wound_cgksjg.svg",
 		"Wound": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795878572/Icon_Health-Wound_cgksjg.svg",
+		"Toughness": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795880373/Icon_Toughness_lahpls.svg",
+		"Mind": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795880377/Icon_Mind_xdrxay.svg",
+		"Power": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795880382/Icon_Power_x0nsfg.svg",
+		"Perception": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795880379/Icon_Perception_yd3993.svg",
 		"Strength": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795878571/Icon_Strength_uhrz4z.svg",
-		"Speed": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1732738152/MOTU_IMG_Ability_Speed_o4qecj.png"
+		"Speed": "https://res.cloudinary.com/dd4tahvkt/image/upload/v1795880407/Icon_Speed_ktq4px.svg"
 	},
     "stats": [
         {
@@ -3868,7 +3872,7 @@
 			                    },
 								{
 			                    	"type": "paragraph",
-			                        "text": "{Answer}: Testing icons {Strength}, {Health}, {Wound}, {Mana}, {Shield}, {Trinket}, {Melee}"
+			                        "text": "{Answer}: Testing icons {Strength}, {Health}, {Wound}, {Toughness}, {Mind}, {Power}, {Perception}. {Speed}, {Mana}, {Shield}, {Trinket}, {Melee Attack}, {Ranged Attack}, {Spell Attack}"
 			                    }
 							]
 						},
