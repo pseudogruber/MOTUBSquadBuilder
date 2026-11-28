@@ -4105,7 +4105,19 @@
 									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise)."
 								},
 								{
-									"type": "divider"
+									"type": "separator"
+								},
+								{
+									"type": "delimiter"
+								},
+								{
+									"type": "horizontal_rule"
+								},
+								{
+									"type": "line"
+								},
+								{
+									"type": "spacer"
 								},
 								{
 									"type": "paragraph",
