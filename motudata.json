@@ -3951,6 +3951,20 @@
 							]
 						},
 						{
+							"id": "q&a-shin-guards",
+							"title": "Shin Guards",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: All attacks gain +1 Die but cannot deal more than 1 {Wound}. Does this mean all attacks by the wearer, or all attacks against the wearer?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: By the wearer."
+								}
+							]
+						},
+						{
 							"id": "q&a-skeletor-havoc-staff-los",
 							"title": "Skeletor and Havoc Staff",
 							"blocks": [
@@ -3968,6 +3982,22 @@
 							"id": "q&a-sorceress",
 							"title": "Sorceress and Staff of Power",
 							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Sorceress Vision of the Future Skill**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: 'Look at a top fate card, then place them back on top of a fate deck in any order.'"
+								},
+								{
+									"type": "paragraph",
+									"text": "Does this have to be the same fate deck the cards came from? In other words, can the sorceress steal fate cards? If so, what happens if your opponent has no cards left?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Yes, these cards should be returned to the same deck. If the opponent has no cards, there is none to look at."
+								},
 								{
 									"type": "paragraph",
 									"text": "**Sorceress Telepatic Guide Skill**"
