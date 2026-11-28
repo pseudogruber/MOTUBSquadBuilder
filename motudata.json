@@ -4105,6 +4105,9 @@
 									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise)."
 								},
 								{
+									"type": "divider"
+								},
+								{
 									"type": "paragraph",
 									"text": "{Question}: The trigger for overwatch is a character ending movement in line of sight. This indicates that other actions, such as shooting a ranged weapon, or using a skill while in line of sight will not trigger overwatch. However, what if the action you undertake forces you to rotate? To put it another way:"
 								},
