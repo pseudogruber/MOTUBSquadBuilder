@@ -1341,11 +1341,11 @@
                         {
                                     "type": "unorderedList",
                                     "items": [
-                                        "**Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess.",
-                                        "**Perception:** This stat represents the character’s effectiveness in using ranged weapons and performing any other task requiring outstanding coordination.",
-                                        "**Power:** This stat represents the character’s effectiveness in casting spells and performing any other task requiring magical powers.",
-                                        "**Toughness:** This stat represents the character’s ability to prevent damage from physical attacks and perform any other task requiring remarkable endurance.",
-                                        "**Mind:** This stat represents the character’s ability to prevent damage from spell attacks, resist enemy skills, and perform any other task requiring fast thinking."
+                                        "{Strength} **Strength:** This stat represents the character’s effectiveness in using melee weapons and performing any other task requiring exceptional physical prowess.",
+                                        "{Perception} **Perception:** This stat represents the character’s effectiveness in using ranged weapons and performing any other task requiring outstanding coordination.",
+                                        "{Power} **Power:** This stat represents the character’s effectiveness in casting spells and performing any other task requiring magical powers.",
+                                        "{Toughness} **Toughness:** This stat represents the character’s ability to prevent damage from physical attacks and perform any other task requiring remarkable endurance.",
+                                        "{Mind} **Mind:** This stat represents the character’s ability to prevent damage from spell attacks, resist enemy skills, and perform any other task requiring fast thinking."
                                     ]
                         },
                         {
@@ -3869,10 +3869,6 @@
 								{
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: An attack is any situation in which one character uses a weapon (Melee, Ranged or Spell) against another character. 'Freezing Ray' comes from a skill not a weapon, therefore using it doesn't count as an attack."
-			                    },
-								{
-			                    	"type": "paragraph",
-			                        "text": "{Answer}: Testing icons {Strength}, {Health}, {Wound}, {Toughness}, {Mind}, {Power}, {Perception}. {Speed}, {Mana}, {Shield}, {Trinket}, {Melee Attack}, {Ranged Attack}, {Spell Attack}"
 			                    }
 							]
 						},
