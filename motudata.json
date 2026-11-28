@@ -3947,6 +3947,18 @@
 								{
 									"type": "paragraph",
 									"text": "{Answer}: Cover does not affect Skills."
+								},
+								{
+									"type": "paragraph",
+									"text": "**Cover and Obstacles**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: The sentence 'excluding any characters or high or low obstacles that are adjacent to the attacker's hex'. It means that counts all hexes of the obstacle model? In cover and elevation: 'Excluding any high obstacle that are adjacent to hexes that are directly under the platform'. That means for ignore all hexes of the obstacle model too?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Yes, you ignore the whole model of the obstacle. (if an attacking character is adjacent to eny hex of the obstacle model, it ignores the entire obstacle model for the purposes of Line of Sight and Cover)"
 								}
 							]
 						},
@@ -3992,12 +4004,42 @@
 							"blocks": [
 								{
 									"type": "paragraph",
+									"text": "**Fate Deck Empty**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Once Fate deck is empty and one can´t draw fate cards from fate deck. Discard pile can be reshuffled?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: No, you don't draw any more cards. (Once Fate deck is empty, the player does not reshuffle cards, and is out of activations (unless a special rule allows them to activate)"
+								},
+								{
+									"type": "paragraph",
 									"text": "{Question}: During setup, players draw 5 fate cards. Then, draw 3 glory, discard 1 of them, and add the remaining 2 glory cards to their hands for a total of 7 cards for an opening hand. During the subsequent rounds, when drawing new fate cards, do the players draw back up to 5 fate cards including, or not including, the glory cards (should they still be in hand)?"
 								},
 								{
 									"type": "paragraph",
 									"text": "{Answer}: Glory cards do not count towards the 5 card limit."
 								}
+							]
+						},
+						{
+							"id": "q&a-focus",
+							"title": "Focus",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Focus and Items**"
+			                    },
+								{
+									"type": "paragraph",
+									"text": "{Question}: Mace and Purple Sword of Power: 'When this character has a Focus' - During the first test, the focus must be discarded, right?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: Yes, focus is discarded after the first test and the bonus from those items no longer applies."
+			                    }
 							]
 						},
 						{
@@ -4011,6 +4053,38 @@
 								{
 			                    	"type": "paragraph",
 			                        "text": "{Answer}: No, you can move 0 hexes to rotate your character in place."
+			                    }
+							]
+						},
+						{
+							"id": "q&a-mace",
+							"title": "Mace",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "{Question}: 'When this character has a Focus, add +1 Die to all defence test'. During the first defence test, the focus must be discarded, right?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: Yes, focus is discarded after the first test and the bonus from the mace no longer applies."
+			                    }
+							]
+						},
+						{
+							"id": "q&a-man-at-arms-arm-cannon",
+							"title": "Man-At-Arms and Arm Cannon",
+							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Arm Cannon AP Cost**"
+			                    },
+								{
+									"type": "paragraph",
+									"text": "{Question}: **Arm Cannon**: 1 {AP} less cost is only for interruption attacks?"
+			                    },
+								{
+			                    	"type": "paragraph",
+			                        "text": "{Answer}: All attacks. ('during interruptions' only refers to the penalty to the Scope)"
 			                    }
 							]
 						},
@@ -4051,6 +4125,18 @@
 										"This will trigger overwatch. In ruelebook we can read: 'Then, after a character moves, their model can be rotated to face any direction', so even when you rotate on the spot we assume that character made a 0 hex movement.",
 										"This won't trigger overwatch (before rotation character didn't make any movement)."
 									]
+								},
+								{
+									"type": "paragraph",
+									"text": "**Rulebook errata (p.21)**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: All movements must be made towards the interrupted character (p.23). In the second example of overwatch (p.21), He-man should move two hexes instead of three. Is this correct?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: Yes, you are correct."
 								}
 							]
 						},
@@ -4222,6 +4308,18 @@
 							"blocks": [
 								{
 									"type": "paragraph",
+									"text": "**Platforms and Ladders: Pushing/Pulling**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Ladders and platforms / Pushing (pag.16) When a character is climbing down from a platform to a hex that contains another character, the rules for moving pushed character state: 'when a character is pushed, they are moved to a hex that shares a border with the hex they occupy' (not adjacent). Pushed character can be pushed to the platform?"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Answer}: It wasn't intended, but from what is written in the rules right now, **yes you can**. I will fix it in the next errata."
+								},
+								{
+									"type": "paragraph",
 									"text": "**Special terrain usage**"
 								},
 								{
@@ -4297,9 +4395,13 @@
 							]
 						},
 						{
-							"id": "q&a-tri-klops-gammavision",
-							"title": "Tri-Klops and Gammavision",
+							"id": "q&a-tri-klops-longsword",
+							"title": "Tri-Klops and Longsword",
 							"blocks": [
+								{
+									"type": "paragraph",
+									"text": "**Tri-Klops Gammavision Skill**"
+								},
 								{
 									"type": "paragraph",
 									"text": "{Question}: **Tri-Klops'** **Gammavision** ability reads: 'All attacks against a character with a Tri-Klops Debuff gain a Focus.' What exactly does this mean? Is it the attack itself that gains focus, or the character making the attack?"
@@ -4314,16 +4416,14 @@
 								{
 									"type": "paragraph",
 									"text": "{Answer}: Answer B is the correct interpretation. This skill triggers all bonuses associated with focuses (like bonus dice from the 'Laser Rifle')."
-								}
-							]
-						},
-						{
-							"id": "q&a-tri-klops-optic-blast",
-							"title": "Tri-Klops and Optic Blast",
-							"blocks": [
+								},
 								{
 									"type": "paragraph",
-									"text": "{Question}: Tri-Klops' Optic Blast states: if an enemy without 8\" receives a Debuff, Tri-Klops can spend 1-3 Mana... to make his Optic Blast attack. Is this ability an interrupt used out of sequence? Does it have to trigger immediately after the target gains a debuff? If so, how immediately? Does it have to be the very next action after the target gains the debuff (e.g. Tri-Klops hits them with Gammavision for his first action, and then immediately hits them with Optic Blast for his second action)? What if a character gains a debuff token, and then Tri-Klops is the next character to activate, so there have been no other actions between the target gaining the debuff and Tri-Klops activating: Would he be able to use his ability then? Or, is any chracter with a debuff token a valid target, regardless of when they received that token?"
+									"text": "**Tri-Klops Optic Blast! Skill**"
+								},
+								{
+									"type": "paragraph",
+									"text": "{Question}: Tri-Klops' **Optic Blast!** states: if an enemy within 8\" receives a Debuff, Tri-Klops can spend 1-3 Mana... to make his Optic Blast attack. Is this ability an interrupt used out of sequence? Does it have to trigger immediately after the target gains a debuff? If so, how immediately? Does it have to be the very next action after the target gains the debuff (e.g. Tri-Klops hits them with Gammavision for his first action, and then immediately hits them with Optic Blast for his second action)? What if a character gains a debuff token, and then Tri-Klops is the next character to activate, so there have been no other actions between the target gaining the debuff and Tri-Klops activating: Would he be able to use his ability then? Or, is any chracter with a debuff token a valid target, regardless of when they received that token?"
 								},
 								{
 									"type": "paragraph",
