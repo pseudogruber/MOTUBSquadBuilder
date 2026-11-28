@@ -4102,8 +4102,11 @@
 								},
 								{
 									"type": "paragraph",
-									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise).",
-									"dividerAfter": true
+									"text": "{Answer}: No, if you want to rotate the character on the spot, you still have to use a move action (unless stated otherwise)."
+								},
+								{
+									"type": "paragraph",
+									"text": ""
 								},
 								{
 									"type": "paragraph",
